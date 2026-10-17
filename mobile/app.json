@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Pito by If",
+    "slug": "if-prevention",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "fi.demo.ifprevention",
+      "infoPlist": {
+        "NSAppTransportSecurity": { "NSAllowsLocalNetworking": true }
+      }
+    },
+    "web": { "bundler": "metro" }
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+.env
+.env.local
+dashboard/.data/
+.DS_Store
+
+dist-web/
+dist-ios/
+
+# Local project documentation
+/docs/

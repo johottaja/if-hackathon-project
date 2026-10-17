@@ -1,0 +1,70 @@
+import { useState, useEffect } from 'react';
+import * as Dialog from '@radix-ui/react-dialog';
+import { ArrowRight, TriangleAlert, CheckCheck, X, Plus, Minus, Navigation } from 'lucide-react';
+import { places, createInitialState, summary, nextStatus, STORAGE_KEY } from './model.mjs';
+
+type State=ReturnType<typeof createInitialState>;
+type Place=typeof places[number];
+const labels:Record<string,string>={new:'New',reviewed:'Reviewed',assigned:'Assigned',completed:'Completed',verified:'Verified'};
+const actionLabels:Record<string,string>={new:'Review hotspot',reviewed:'Assign maintenance',assigned:'Record completion',completed:'Verify maintenance'};
+function Badge({status}:{status:string}){return <span className={`badge status-${status}`}>{status==='verified'?<CheckCheck size={12}/>:<span className="status-dot"/>}{labels[status]||status}</span>}
+function readState():State{try{const v=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');if(v&&Array.isArray(v.reports)&&places.every(p=>v.actions?.[p.id]?.history&&labels[v.actions[p.id].status]))return v;}catch{}return createInitialState()}
+function NeighborhoodMap({items,state,selected,onSelect,onSend,busy,error}:{items:Place[],state:State,selected:string,onSelect:(id:string)=>void,onSend:()=>Promise<void>,busy:boolean,error:string}){
+ const [zoom,setZoom]=useState(1),[actionOpen,setActionOpen]=useState(false);
+ const centralStatus=state.actions.P01.status,needsAction=['new','reviewed'].includes(centralStatus);
+ return <div className="map-surface"><div className="map-art" style={{transform:`scale(${zoom})`}}>
+ <svg className="base-map" viewBox="0 0 1000 570" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+ <defs><pattern id="blocks" width="150" height="116" patternUnits="userSpaceOnUse" patternTransform="rotate(-19)"><rect width="150" height="116" fill="#f5f3ed"/><rect x="15" y="14" width="118" height="86" rx="5" fill="#e7e5df" stroke="#dddbd3"/><rect x="33" y="31" width="82" height="51" rx="3" fill="#f4f2ec"/><path d="M0 0H150M0 0V116" stroke="#fff" strokeWidth="14"/></pattern></defs>
+ <rect width="1000" height="570" fill="url(#blocks)"/>
+ <path d="M-30 410C110 354 183 396 245 470S367 558 433 610H-30Z" fill="#bcd9e4"/>
+ <path d="M-30 389C107 330 206 369 266 452S380 543 448 590" stroke="#d6e4cc" strokeWidth="35" fill="none"/>
+ <path d="M432 187L542 154 626 243 566 307 461 286 423 233Z" fill="#d7e3cb" stroke="#c5d5b9"/>
+ <path d="M450 199L557 276M489 177L463 283M427 233L601 223" stroke="#f8f6e9" strokeWidth="6"/>
+ <path d="M795 383L930 365 1000 428 995 548 817 529 762 461Z" fill="#d6e4cc"/>
+ <path d="M45 -30L263 620M640 -30L429 620M-20 380L1020 50M-20 558L1020 225" stroke="#dfdbd0" strokeWidth="28" fill="none"/>
+ <path d="M45 -30L263 620M640 -30L429 620M-20 380L1020 50M-20 558L1020 225" stroke="#fffdf7" strokeWidth="21" fill="none"/>
+ <path d="M660 570L1000 461 1000 570Z" fill="#bedce5"/>
+ <g fill="#777d78" fontSize="13" fontFamily="Arial,sans-serif" letterSpacing="1"><text x="325" y="140" transform="rotate(-19 325 140)">LINNANKATU</text><text x="646" y="298" transform="rotate(-19 646 298)">AURAKATU</text><text x="279" y="365" transform="rotate(-19 279 365)">LINNANKATU</text><text x="500" y="340" transform="rotate(-72 500 340)">RIVERSIDE</text><text x="162" y="238" transform="rotate(71 162 238)">CENTRE</text></g>
+ <g fill="#6d8063" fontFamily="Arial,sans-serif" fontSize="14"><text x="471" y="239">Linnankatu</text><text x="185" y="442">Riverside</text></g>
+ <g fill="#6e7476" fontFamily="Arial,sans-serif" fontSize="20" letterSpacing="4"><text x="682" y="152">CENTRE</text><text x="692" y="475">RIVERSIDE</text></g><text x="70" y="515" fill="#6b93a2" fontFamily="Arial,sans-serif" fontSize="16" transform="rotate(18 70 515)">Aurajoki</text>
+ </svg>
+ {items.map(p=>{const s=summary(state,p.id);return <button key={p.id} className={`map-marker ${selected===p.id?'selected':''} ${['completed','verified'].includes(state.actions[p.id].status)?'done':''}`} style={{left:`${p.x}%`,top:`${p.y}%`}} onClick={()=>{onSelect(p.id);setActionOpen(p.id==='P01')}} aria-label={`${p.name}: ${s.falls} confirmed-fall reports, ${s.hazards} hazard-only reports${p.id==='P01'&&needsAction?', action needed':''}`} aria-expanded={p.id==='P01'?actionOpen:undefined} aria-controls={p.id==='P01'?'map-action':undefined} aria-pressed={selected===p.id}>{s.falls||<TriangleAlert size={17}/>} {p.id==='P01'&&needsAction&&<span className="action-alert" aria-hidden="true">!</span>}</button>})}
+ </div>{actionOpen&&<section id="map-action" className="map-action" aria-label="Linnankatu maintenance action"><button className="map-action-close" aria-label="Close action box" onClick={()=>setActionOpen(false)}><X size={18}/></button><span className="eyebrow">LINNANKATU PAVEMENT</span><h2>{needsAction?'Action needed':centralStatus==='assigned'?'Request recorded':'Maintenance completed'}</h2><p>{needsAction?'Send a maintenance partner to grit the icy pavement.':centralStatus==='assigned'?'Gritting assigned to Nordic Care, a fictional maintenance partner.':'Maintenance is recorded. Conditions can change.'}</p>{needsAction&&<button className="button primary full" disabled={busy} onClick={onSend}>{busy?'Sending…':'Send'}<ArrowRight size={18} aria-hidden="true"/></button>}<small>Simulated assignment · no external dispatch</small>{error&&<p role="alert" className="error">{error}</p>}</section>}<div className="map-label"><span className="live-dot"/>Turku · Linnankatu & riverside</div><div className="zoom-controls"><button onClick={()=>setZoom(Math.min(1.7,zoom+.2))} aria-label="Zoom in" disabled={zoom>=1.7}><Plus size={17}/></button><button onClick={()=>setZoom(Math.max(1,zoom-.2))} aria-label="Zoom out" disabled={zoom<=1}><Minus size={17}/></button><button onClick={()=>setZoom(1)} aria-label="Reset map view"><Navigation size={16}/></button></div><div className="map-legend"><span><i className="legend-blue"/>Confirmed falls · count</span><span><TriangleAlert size={13}/>Hazard only</span><span><i className="legend-green"/>Maintenance completed</span></div><span className="map-caption">Schematic map</span></div>
+}
+export default function App(){
+ const [state,setState]=useState<State>(readState),[selected,setSelected]=useState('P01'),[modal,setModal]=useState(false),[note,setNote]=useState(''),[partner,setPartner]=useState('Nordic Care · fictional partner'),[error,setError]=useState(''),[busy,setBusy]=useState(false),[connection,setConnection]=useState('Connecting…');
+ async function request(path='/state',body?:object){
+  const response=await fetch('/api'+path,body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}:undefined);
+  const value=await response.json();if(!response.ok)throw Error(value.error||'Service unavailable');return value.dashboard as State;
+ }
+ useEffect(()=>{let active=true;const poll=async()=>{try{const next=await request();if(active){setState(next);setConnection('Connected');}}catch{if(active)setConnection('Disconnected · displayed data may be stale');}};poll();const timer=setInterval(poll,2000);return()=>{active=false;clearInterval(timer)}},[]);
+ useEffect(()=>{try{localStorage.setItem(STORAGE_KEY,JSON.stringify(state))}catch{}},[state]);
+ const place=places.find(p=>p.id===selected)!,detail=summary(state,selected),action=state.actions[selected];
+ const next=nextStatus[action.status as keyof typeof nextStatus];
+ async function mutate(path:string,body:object){setBusy(true);setError('');try{setState(await request(path,body));setConnection('Connected');return true;}catch(e){setError(e instanceof Error?e.message:'Could not save. Please retry.');return false;}finally{setBusy(false)}}
+ async function sendGritting(){
+  if(busy)return;setBusy(true);setError('');
+  try{let current=await request();setState(current);
+   if(current.actions.P01.status==='new'){current=await request('/actions',{placeId:'P01',status:'reviewed',note:'Hotspot reviewed for pavement gritting.'});setState(current);}
+   if(current.actions.P01.status==='reviewed'){current=await request('/actions',{placeId:'P01',status:'assigned',note:'Request to grit the icy pavement recorded from the map.',partner:'Nordic Care · fictional partner'});setState(current);}
+   setConnection('Connected');
+  }catch(e){setError(e instanceof Error?e.message:'Could not send. Please retry.');}finally{setBusy(false)}
+ }
+ async function saveAction(e:React.FormEvent){e.preventDefault();if(await mutate('/actions',{placeId:selected,status:next,note,partner})){setModal(false);setNote('');}}
+ return <div className="simple-app"><a className="skip-link" href="#main">Skip to workspace</a>
+ <header className="simple-header"><div className="brand"><span className="brand-word">If</span><span className="brand-divider"/>Pito</div><div className="header-meta"><span>Synthetic data</span><span className={connection==='Connected'?'connected':'connection-warning'} role="status">{connection}</span></div></header>
+ <main id="main">
+ <div className="focus-layout"><section className="map-panel" aria-label="Reported places map"><NeighborhoodMap items={places} state={state} selected={selected} onSelect={setSelected} onSend={sendGritting} busy={busy} error={error}/></section>
+ <aside className="focus-panel" aria-label="Selected hotspot"><div className="detail-header"><span className="eyebrow">SELECTED PLACE</span><Badge status={action.status}/></div><h2>{place.name}</h2><p className="muted">{place.category} · Approximate place</p>
+ <div className="report-totals" aria-live="polite"><div><strong>{detail.falls}</strong><span>Confirmed-fall reports</span></div><div><strong>{detail.hazards}</strong><span>Hazard-only reports</span></div></div>
+ {selected==='P01'&&<div className="anomaly"><span className="eyebrow">WEATHER ANOMALY · SIMULATED</span><p><strong>{detail.falls} confirmed-fall reports</strong> vs an illustrative baseline of 2.</p><small>Fixed seven-day fixture. No live weather or prediction.</small></div>}
+ <div className="next-step"><span className="eyebrow">{next?'NEXT STEP':'MAINTENANCE RECORD'}</span><h3>{action.status==='new'||action.status==='reviewed'?place.task:action.status==='assigned'?'Await partner completion':action.status==='completed'?'Check the completed work':'Maintenance verified'}</h3>{action.partner&&<p className="muted">{action.partner}</p>}{next?<button className="button primary full" onClick={()=>{setNote('');setError('');setModal(true)}}>{actionLabels[action.status]}<ArrowRight size={18} aria-hidden="true"/></button>:<p className="verified-message"><CheckCheck size={18} aria-hidden="true"/>Verification recorded</p>}</div>
+ <p className="responsibility-note">If coordinates with the responsible partner. Completed maintenance does not guarantee safety.</p>
+ <details className="history" key={selected}><summary>Reports & maintenance history</summary>{detail.reports.map((r: State['reports'][number])=><p key={r.id}><strong>{r.fall?'Confirmed fall':'Hazard only'}</strong> · {r.id}<br/>{r.description}</p>)}{action.history.map((h,i)=><p key={i}><strong>{labels[h.status]} · {h.time}</strong><br/>{h.note}</p>)}</details>
+ </aside></div>
+ <details className="presenter-controls"><summary>Scenario controls</summary><p>Synthetic shared data. Reset restores the opening scenario on both devices.</p><div><button className="button secondary" disabled={busy||state.scenarioAdded} onClick={async()=>{if(await mutate('/scenario',{}))setSelected('P01')}}>{state.scenarioAdded?'Staged report added':'Add staged report'}</button><button className="button secondary" disabled={busy} onClick={async()=>{if(await mutate('/reset',{}))setSelected('P01')}}>Reset</button></div></details>
+ {error&&!modal&&<p role="alert" className="error">{error}</p>}
+ </main>
+ <Dialog.Root open={modal} onOpenChange={open=>{if(!busy)setModal(open)}}><Dialog.Portal><Dialog.Overlay className="modal-overlay"/><Dialog.Content className="modal-content"><Dialog.Title>{actionLabels[action.status]}</Dialog.Title><Dialog.Description>{place.name} · Synthetic record. No external notification or work dispatch.</Dialog.Description><form onSubmit={saveAction}>{action.status==='reviewed'&&<label>Responsible partner<select value={partner} onChange={e=>setPartner(e.target.value)} required><option>Nordic Care · fictional partner</option><option>City Works · fictional partner</option></select></label>}<label>{action.status==='completed'?'Verification note':action.status==='assigned'?'Completion note':'Operator note'}<textarea required maxLength={1000} rows={4} value={note} onChange={e=>setNote(e.target.value)} placeholder="Record the evidence and next step…"/></label><p className="responsibility-note">Reports and previous maintenance records are retained.</p>{error&&<p role="alert" className="error">{error}</p>}<button className="button primary full" disabled={busy} type="submit">{busy?'Saving…':actionLabels[action.status]}</button></form><Dialog.Close className="modal-close" disabled={busy} aria-label="Close dialog"><X size={20}/></Dialog.Close></Dialog.Content></Dialog.Portal></Dialog.Root>
+ </div>
+}

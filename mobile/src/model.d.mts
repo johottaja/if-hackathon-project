@@ -1,0 +1,12 @@
+import type { Report, Place } from "./api";
+export type Action = Place["action"] & { placeId: string };
+export type State = { reports: Report[]; actions: Action[] };
+export const WINDOW: string;
+export const CATEGORIES: string[];
+export const STATUS: Record<string, string>;
+export const NEXT: Record<string, string>;
+export const PLACES: Omit<Place, "reports" | "falls" | "hazards" | "action">[];
+export function initialState(): State;
+export function placesFor(state: State): Place[];
+export function addReport(state: State, report: Omit<Report, "at">): State;
+export function maintenance(state: State, placeId: string, note: string): State;

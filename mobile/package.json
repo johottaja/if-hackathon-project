@@ -1,0 +1,38 @@
+{
+  "name": "if-prevention-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "build:web": "expo export --platform web --output-dir dist-web",
+    "build:ios": "expo export --platform ios --output-dir dist-ios"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@types/react": "~19.2.4",
+    "babel-preset-expo": "~57.0.0",
+    "expo": "~57.0.22",
+    "expo-blur": "~57.0.3",
+    "expo-crypto": "~57.0.4",
+    "nativewind": "^4.2.7",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-reanimated": "4.5.1",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-svg": "15.15.4",
+    "react-native-web": "^0.21.2",
+    "react-native-worklets": "0.10.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "tailwindcss": "~3.4.17",
+    "typescript": "~5.9.2"
+  }
+}
