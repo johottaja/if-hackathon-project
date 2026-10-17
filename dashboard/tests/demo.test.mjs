@@ -43,3 +43,30 @@ test('gritting never overlaps in a zone and uses the same number of actions', ()
   }
   assert.equal(sum(data.falls.captured) <= data.falls.t.length, true);
 });
+
+test('customer feed: warnings on mornings, prompts only while the persona commutes on her route', async () => {
+  const I = await import('../src/demo/insights.mjs');
+  const feed = I.customerFeed(data);
+  assert.ok(feed.every((f, i) => i === 0 || feed[i - 1].t <= f.t));
+  const route = new Set(I.routeCells(data, I.PERSONA.route));
+  const cell = I.cellOf(data);
+  for (const f of feed.filter(x => x.kind === 'warning')) assert.equal(f.t % 24, 7);
+  for (const f of feed.filter(x => x.kind === 'prompt')) {
+    const i = data.detections.t.indexOf(f.t), hod = Math.floor(f.t) % 24;
+    assert.ok(i >= 0 && route.has(cell(data.detections.x[i], data.detections.y[i])));
+    assert.ok(I.PERSONA.commutes.some(([a, b]) => hod >= a && hod < b));
+  }
+  for (const f of feed.filter(x => x.kind === 'helped')) {
+    assert.ok(data.grit.targeted.t.some((t, k) => t === f.at && data.grit.targeted.zone[k] === f.zone));
+  }
+});
+
+test('risk maps use the start-of-hour posterior and gritting; tasks match gritting actions', async () => {
+  const I = await import('../src/demo/insights.mjs');
+  const n = data.cells.id.length, h = 300, r = I.riskMaps(data, h + 0.5);
+  const pi = data.meta.params.liukastuminen_p * data.weather.factor[h], e = data.meta.params.huollon_teho;
+  for (let i = 0; i < n; i += 7) assert.ok(Math.abs(r.est[i] - 1000 * pi * (1 - e * r.gritted[i]) * data.posterior[h * n + i]) < 1e-9);
+  assert.equal(I.operatorTasks(data).length, data.grit.targeted.t.length);
+  assert.equal(I.correlation([1, 1, 1], [1, 2, 3]), null);
+  assert.ok(Math.abs(I.correlation([1, 2, 3], [2, 4, 6]) - 1) < 1e-12);
+});
