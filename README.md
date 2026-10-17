@@ -14,4 +14,5 @@ Pito is a proposed If-app safety map for pedestrians and cyclists, paired with a
 
 Project documentation lives in `docs/`, which is excluded from Git. README and AGENTS.md files remain in their owning directories.
 
+
 All reports and partners are synthetic. Motion detection and the weather anomaly are simulated; no live weather or claims data is used. Completed maintenance is not a guarantee of safety. Follow the runbook to connect both screens; mobile without the API environment variable remains standalone.
