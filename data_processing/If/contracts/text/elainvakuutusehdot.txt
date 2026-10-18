@@ -1,0 +1,295 @@
+                              Eläinvakuutusehdot
+                              Ehto EVA 240.10, voimassa 1.1.2026 alkaen
+
+
+
+
+Eläinvakuutuksen sisältö muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä sopimusehdoista.
+
+Vakuutusehdoissa käytettyjä käsitteitä ................................................... 1                     6.2 Eläinlääkärikulut- ja Kuntoutusturvan enimmäiskorvausmäärä ........ 3
+1 Vakuutuksen voimassaolo .................................................................... 1                 6.3 Henkiturvan enimmäiskorvausmäärä ................................................ 3
+2 Vakuutuksen kohde .............................................................................. 1             6.4 Omavastuu ........................................................................................ 3
+3 Vakuutusturvat ...................................................................................... 1        7 Vastuuvahingon korvaaminen .............................................................. 3
+3.1 Eläinlääkärikulut ................................................................................ 1         7.1 Korvaamisen perusteet ...................................................................... 3
+3.2 Kuntoutusturva .................................................................................. 1          7.2 Vastuuturvan enimmäiskorvausmäärät ............................................. 3
+3.3 Henkiturva.......................................................................................... 1       7.3 Omavastuu ........................................................................................ 3
+3.4 Vastuuturva ....................................................................................... 2        7.4 Toimenpiteet vahingon tapahduttua .................................................. 3
+4 Vakuutusturvien yleiset rajoitukset ....................................................... 2                  8 Korvauksesta tehtävät muut vähennykset ........................................... 3
+5 Suojeluohjeet ........................................................................................ 2       8.1 Henkilön menettelyn vaikutus ............................................................ 3
+6 Vakuutetun eläimen vahinkojen korvaaminen ..................................... 2                              8.2 Verolainsäädännön vaikutus ............................................................. 3
+6.1 Eläimen hinnan arvioiminen ja enimmäiskorvausmäärä ................... 2                                     8.3 Vähennysten laskemisjärjestys ......................................................... 3
+                                                                                                                 9 Vakuutusmaksu .................................................................................... 3
+
+
+Vakuutusehdoissa käytettyjä käsitteitä
+Markkinahinta
+Markkinahinnalla tarkoitetaan sitä hintaa, joka eläimestä vahinkohetkellä olisi ollut saatavissa, jos se olisi myyty tarkoituksenmukaisella tavalla.
+
+Omavastuu
+Omavastuu on vakuutuskirjaan tai -ehtoihin merkitty määrä, joka vähennetään vakuutustapahtuman yhteydessä korvattavan vahingon määrästä.
+
+Tapaturma
+Tapaturma on äkillinen, vamman aiheuttava odottamaton tapahtuma, joka sattuu ulkoisen tekijän vaikutuksesta. Tapaturmaksi ei katsota sellaista tilaa,
+jonka syy on sairaudessa, vaikka se todettaisiinkin tapaturman jälkeen.
+
+Välttämätön lopettaminen
+Lopettamista pidetään välttämättömänä, kun eläinlääkäri määrää eläimen lopetettavaksi, koska eläin on sairauden tai vahingoittumisen vuoksi sellaisessa
+tilassa, että sen lopettaminen on eläinsuojelullisista syistä välttämätöntä.
+
+Hoitaja
+Hoitajalla tarkoitetaan henkilöä, joka ei omista eläintä yksin tai yhteisomistuksessa, mutta jonka valvonnassa tai hallussa eläin on tilapäisesti.
+
+Synnynnäiset sairaudet ja viat
+Synnynnäisellä sairaudella tarkoitetaan syntymävikoja, kuten esimerkiksi sydämen rakenteelliset poikkeamat, polvilumpion sijoiltaanmeno
+(patellaluksaatio), välimuotoinen lanne-ristinikama (LTV ja VA), maksasuntti, häntämutka ja napatyrä.
+
+1 Vakuutuksen voimassaolo
+Vakuutus on voimassa Suomessa sekä tilapäisesti Pohjoismaissa, kaikkialla EU:ssa, Isossa-Britanniassa ja Sveitsissä. Tilapäisyys voi kestää enintään
+yhden (1) vuoden ajan.
+
+Jos vakuutuksenottajalla on tiedossa, että eläin on poissa Suomesta yli vuoden ajan, eläin on vakuutettuna vain kolme (3) kuukautta siirtopäivästä lukien.
+
+Henkiturva päättyy viimeistään sen vakuutuskauden lopussa, jonka aikana eläin on täyttänyt kymmenen (10) vuotta.
+
+Seuraavat turvat ovat voimassa eläimen eliniän: Eläinlääkärikulut, Kuntoutusturva ja Vastuuturva.
+
+2 Vakuutuksen kohde
+Vakuutuksen kohteena on vakuutuskirjaan merkitty eläin.
+
+3 Vakuutusturvat
+Vakuutettu eläin ja valittu vakuutusturva on merkitty vakuutuskirjaan.
+
+3.1 Eläinlääkärikulut
+Tästä turvasta korvataan eläinlääketieteellisesti perustellut ja välttämättömät sairauden tai tapaturman aiheuttaman hoidon kustannukset seuraavasti:
+  -    eläinlääkärin antamasta tai määräämästä sairauden tai vamman tutkimuksesta ja hoidosta syntyneet kustannukset
+  -    eläinlääkärin toteaman sairauden tai vamman hoitoon käytettyjen tai määrättyjen lääkkeiden, sidetarpeiden tai niihin verrattavien kustannukset
+  -    laboratorio- ja röntgenkustannukset ja magneettikuvauksen, tietokonetomografian sekä ultraäänitutkimuksen kustannukset.
+
+Vakuutuksen korvauspiirin ulkopuolelle kuuluvien sairauksien ja tapaturmien osalta eläinlääkärikulut korvataan sitä edeltävään käyntiin asti, jolloin eläimellä
+todetaan vakuutuksen ulkopuolelle rajattu diagnoosi tai muutoin on selvää, ettei eläimellä ole vakuutuksen korvauspiiriin kuuluvaa sairautta tai tapaturmaa.
+Vakuutus ei korvaa enää sen käyntikerran kustannuksia, jolloin eläimellä todetaan ei-korvattava sairaus tai tapaturma.
+
+Ulkomailla tehdyistä tutkimuksista ja hoidoista aiheutuneet kustannukset korvataan korkeintaan Suomen hintatason mukaan. Kaikki eläinlääkärin lausunnot
+ja laskut ulkomailta tulee toimittaa koneella kirjoitettuna suomeksi, ruotsiksi tai englanniksi. Niistä tulee ilmetä eläimen nimi, rotu, ikä ja diagnoosi sekä
+suoritetut hoidot ja niiden kustannukset selkeästi eriteltyinä.
+
+3.2 Kuntoutusturva
+Tästä turvasta korvataan fysioterapian, kiropraktiikan ja akupunktion kustannukset seuraavasti:
+  -   terapia on eläinlääkärin erikseen määräämää ja liittyy vakuutusehtojen mukaisen korvattavan sairauden tai tapaturman hoitoon ja
+  -   hoidon suorittaa eläinlääkäri, laillistettu eläinkiropraktikko tai eläinfysioterapeutti.
+
+Hoidon kustannuksia korvataan enintään 300 euroa vakuutuskauden aikana.
+
+Tämän turvan osalta ei sovelleta ehtokohdan 4 rajoitusehtoja 3 ja 19.
+
+3.3 Henkiturva
+Tästä turvasta korvataan äkillisen ja ennalta arvaamattoman tapaturman tai sairauden aiheuttama eläimen odottamaton kuolema ja eläinlääkärin
+määräämä eläinsuojelullisiin syihin perustuva välttämätön ja välitön lopettaminen, joka on tapahtunut vakuutuksen voimassaoloaikana.
+
+Lisäksi turvasta korvataan vakuutuksen voimassaoloaikana todettu äkillinen ja ennalta arvaamaton välitön vahinko, jonka syynä on varkaus tai katoaminen.
+Korvaaminen edellyttää, että eläin on varastettu tai kadonnut vakuutuksen voimassaoloaikana, eikä sitä ole löydetty yhden (1) kuukauden kuluessa
+varkauden tai katoamisen havaitsemisesta.
+
+
+                                                                                                             1
+                     Eläinvakuutusehdot
+                     Ehto EVA 240.10, voimassa 1.1.2026 alkaen
+
+3.4 Vastuuturva
+Vakuutusturvan vakuutettuina ovat vakuutuskirjassa mainitun eläimen omistaja, hoitaja ja hallussapitäjä, kukin tässä ominaisuudessaan.
+
+Tästä turvasta korvataan vakuutuksen kohteena olevan eläimen toiselle aiheuttama, vakuutuksen voimassaoloaikana aiheutettu ja todettu äkillinen henkilö-
+ja esinevahinko riippumatta siitä, onko vakuutuksenottaja tai vakuutettu voimassa olevan oikeuden mukaan korvausvastuussa vahingosta. Toiselle
+eläimelle aiheutuneita vahinkoja korvataan ehtokohdan 3.1 mukaisesti.
+
+4 Vakuutusturvien yleiset rajoitukset
+Vakuutuksesta ei korvata vahinkoa, joka on aiheutunut
+  1) ennen vakuutuksen voimaantuloa alkaneesta, (esim. synnynnäisestä) tai vakuutuskirjassa erikseen rajatusta sairaudesta tai vammasta
+  2) eläintautilain, eläinlääkärin määräysten tai eläimen hoidon laiminlyönnistä tai eläinrääkkäyksestä
+  3) muun henkilön kuin eläinlääkärin suorittamasta toimenpiteestä tai antamasta hoidosta
+  4) kastroinnista tai sterilisaatiosta, ellei kysymyksessä ole akuutin sairauden hoitaminen
+  5) piilokiveksisyydestä
+  6) käyttäytymishäiriöstä tai luonteesta (esim. ahdistus, arkuus tai aggressiivisuus)
+  7) nivelten tai luuston kasvuhäiriöstä.
+  8) keisarileikkauksesta, synnytyksestä, tiineydestä, valeraskaudesta tai näistä johtuvista komplikaatioista
+  9) sierainten, nielun tai henkitorven ahtaumasta tai pehmeästä kitalaesta
+  10) sellaisen sairauden, tapaturman, toimenpiteen tai lääkkeen komplikaatiosta, jota ei korvata vakuutuksesta
+  11) sellaisesta syystä, että se voidaan korvata jonkin erityislain, takuun, muun sitoumuksen tai vakuutuksen perusteella taikka julkisista varoista.
+
+Vakuutuksesta ei korvata seuraavia kustannuksia
+ 12) palkkioita ja kustannuksia sairauden ennalta ehkäisemisestä, kuten rokotuksia tai terveystarkastuksia
+ 13) röntgen- tai ultraäänitutkimuksia tiineyden toteamiseksi
+ 14) tiineyden hoidon, tiineyden keskeytyksen, keinohedelmöityksen tai muita lisääntymiseen liittyviä kustannuksia
+ 15) kiimahäiriön tai muun sukupuolihormonihäiriön tutkimus tai hoito
+ 16) ravintovalmisteita, ravintolisiä, rohdosvalmisteita, erikoisruokavaliota, vitamiineja tai muita vastaavia tuotteita, vaikka niitä käytetään
+     lääkkeenomaisesti ja vaikka FIMEA on hyväksynyt ne lääkkeeksi
+ 17) lääkinnälliset laitteet ja välineet
+ 18) muusta kuin tapaturmasta johtuvia hammas- tai ienhoidon kustannuksia silloinkaan, kun kyseessä on jonkin muun sairauden hoitoon liittyvä
+     toimenpide. Hammaskiven ja plakin poistoa ei korvata edes suun kirurgisena valmisteluna.
+ 19) purentavirheiden ja niistä aiheutuvien komplikaatioiden kustannuksia
+ 20) käytös- tai ravitsemusneuvonnasta, fysikaalisesta hoidosta, kiropraktiikasta, akupunktiosta tai muusta niihin rinnastettavista hoidoista aiheutuneita
+     kustannuksia
+ 21) parantumisen jälkeisiä oireettoman eläimen kontrollikäyntejä
+ 22) tuhkaus- ja hautauskustannuksia
+ 23) vahingonselvittelyyn tai vahinkoon välillisesti liittyviä kustannuksia, kuten puhelin- ja matkakuluja, ansionmenetystä tai muita vastaavia kustannuksia.
+ 24) laskutuskuluja tai lausuntopalkkioita
+ 25) virallisten terveystutkimusten kustannuksia.
+
+Vastuuturvasta ei yllä mainittujen rajoitusehtojen lisäksi korvata
+ 26) henkilö- ja esinevahinkoa, joka on aiheutunut vakuutuksenottajalle, vakuutetulle tai heidän kanssaan samassa taloudessa vakinaisesti asuvalle
+      henkilölle.
+      Poikkeuksena korvataan eläimen hoitajalle, hallussapitäjälle ja heidän kanssaan samassa taloudessa vakinaisesti asuville henkilöille aiheutuneet
+      henkilövahingot.
+ 27) vahinkoa, joka aiheutuu, kun eläintä käytetään ansiotoiminnassa (esimerkiksi opas-, huume- tai homekoirana)
+ 28) esinevahinkoa vakuutuksenottajan, vakuutetun tai heidän kanssaan samassa taloudessa vakinaisesti asuvan henkilön hallussa tai huolehdittavana
+      olevalle tai ansiotoiminnassa käyttämälle omaisuudelle
+ 29) henkilö- ja esinevahinkoa eläimen hoitolaitokselle tai sen työntekijälle taikka vastiketta vastaan hoitavalle henkilölle tai hänen kanssaan samassa
+      kotitaloudessa asuvalle henkilölle tai hänen omaisuudelleen
+ 30) vahinkoa, jonka eläin on aiheuttanut huoneiston, rakennuksen tai kiinteistön osalle tai laitteelle, rakenteille, pinnoitteille tai kiinteille
+      kalusteille
+ 31) vahinkoa, jonka eläin on aiheuttanut, kun se on jätetty ilman valvontaa huonetiloihin tai moottoriajoneuvoon, veneeseen tai muuhun vastaavaan
+      kuljetusvälineeseen
+ 32) vahinkoa, joka on aiheutunut osallistumisesta sellaiseen toimintaan, joka yleisen kokemuksen mukaan saattaa aiheuttaa muille eläimille tai
+      osallistujille henkilöön tai omaisuuteen kohdistuvaa vahinkoa
+ 33) vahinkoa, jonka eläin on aiheuttanut levittämällä loisia, punkkeja tai vastaavia
+ 34) sakkoa, sopimussakkoa tai muuta vastaavaa seuraamusta.
+
+5 Suojeluohjeet
+Suojeluohjeissa on tavallisimpia varotoimenpiteitä, joilla vahinko pyritään estämään tai sen laajuutta pienentämään.
+
+Vakuutuksenottajan, vakuutetun ja häneen samastettavan henkilön tulee noudattaa suojeluohjeita. Suojeluohjeen laiminlyönti voi aiheuttaa, ettei korvausta
+makseta tai se maksetaan alennettuna yleisten sopimusehtojen ehtokohdan 5.1.1 mukaisesti.
+
+ 1)   Jos eläimessä havaitaan merkkejä sairaudesta tai vammasta, tulee eläinlääkäriin viipymättä ottaa yhteyttä. Eläinlääkärin antamia ohjeita on
+      noudatettava.
+ 2)   Eläintä ei saa jättää lämpimällä säällä suljettuun ajoneuvoon ilman riittävää valvontaa ja huolenpitoa.
+ 3)   Eläin tulee rokottaa asianmukaisesti Ruokaviraston rokotussuositusten mukaisesti.
+
+6 Vakuutetun eläimen vahinkojen korvaaminen
+Vakuutuksesta korvataan vakuutetulle eläimelle äkillisesti ja ennalta arvaamatta sattuneesta tapahtumasta aiheutunut välitön vahinko.
+
+Korvaaminen edellyttää, että vakuutusturva on voimassa kustannusten syntyhetkellä ja tapaturma on sattunut tai sairaus on alkanut vakuutusturvan
+voimassaoloaikana.
+
+Eläinlääkärikulut-, Kuntoutus- ja Henkiturvasta korvattavat vahingot määräytyvät seuraavasti:
+
+6.1 Eläimen hinnan arvioiminen ja enimmäiskorvausmäärä
+Eläimen markkinahinta arvioidaan ja vahingon määrä lasketaan vakuutustapahtuman yhteydessä.
+
+Rotukoiran tai -kissan täytettyä seitsemän (7) vuotta alennetaan vakuutuskirjassa olevia enimmäiskorvausmääriä 15 prosenttia vuosittain seuraavan
+vakuutuskauden alusta lukien. Enimmäiskorvausmäärät eivät kuitenkaan laske alle 300 euron.
+
+Sekarotuisen koiran tai maatiaiskissan täytettyä seitsemän (7) vuotta alennetaan vakuutuskirjassa olevia enimmäiskorvausmääriä 15 prosenttia vuosittain
+seuraavan vakuutuskauden alusta lukien. Enimmäiskorvausmäärät eivät kuitenkaan laske alle 100 euron.
+
+
+
+
+                                                                               2
+                    Eläinvakuutusehdot
+                    Ehto EVA 240.10, voimassa 1.1.2026 alkaen
+
+
+
+
+6.2 Eläinlääkärikulut- ja Kuntoutusturvan enimmäiskorvausmäärä
+Kustannuksia korvataan vakuutuskauden aikana enintään vakuutuskirjaan merkitty enimmäiskorvausmäärä. Vakuutusyhtiöllä on oikeus määrätä vakuutettu
+eläin valitsemansa eläinlääkärin, eläinklinikan tai muun palveluntarjoajan tutkittavaksi tai hoidettavaksi.
+
+6.3 Henkiturvan enimmäiskorvausmäärä
+Kustannuksina korvataan eläimen välittömästi ennen vahinkoa ollut markkinahinta, kuitenkin enintään vakuutuskirjaan merkitty enimmäiskorvausmäärä.
+
+6.4 Omavastuu
+Korvattavan vahingon määrästä vähennetään omavastuu. Omavastuun suuruus määräytyy vakuutuskirjan ja näiden vakuutusehtojen mukaan.
+
+7 Vastuuvahingon korvaaminen
+7.1 Korvaamisen perusteet
+Korvauksen määrittämisessä noudatetaan vahingonkorvauslakia.
+
+Henkilövahingoissa sairaanhoitokustannukset korvataan julkisen terveydenhuollon yleisen maksuluokan mukaisen taksan mukaan.
+
+Jos vahinkoa kärsinyt on itse myötävaikuttanut vahinkoon, vakuutuksesta korvataan vain vakuutetun vastuulla oleva osa vahingosta.
+
+Jos useampi henkilö on yhdessä velvollinen korvaamaan saman vahingon, korvataan vakuutuksesta vain se osa vahingosta, joka vastaa vakuutetun
+osuutta vahingon aiheuttajana tai vakuutetun vahinkotapahtumasta saamaa hyötyä. Vakuutuksesta korvataan enintään vahingon aiheuttaneiden
+henkilöiden lukumäärän mukaan määräytyvä osuus kokonaisvahingosta, ellei vakuutettu näytä muuta toteen.
+
+7.2 Vastuuturvan enimmäiskorvausmäärät
+Vakuutuskirjaan merkitty enimmäiskorvausmäärä on vakuutusyhtiön korvausvelvollisuuden ylimpänä rajana jokaisessa vakuutustapahtumassa. Samasta
+teosta tai laiminlyönnistä aiheutuneet vahingot katsotaan yhdeksi vakuutustapahtumaksi.
+
+Lemmikkieläimille aiheutuneiden vahinkojen osalta korvataan eläinlääkärin määräämien ja antamien hoitojen kuluja enintään 2 000 euroa.
+Lemmikkieläimen kuolemantapauksissa korvataan eläimen markkinahinta.
+
+Muiden eläinten osalta korvataan eläinlääkärin määräämien ja antamien hoitojen kuluja enintään eläimen arvoon asti, ja kuolemantapauksissa vain eläimen
+markkinahinta.
+
+7.3 Omavastuu
+Korvattavan vahingon määrästä vähennetään jokaisessa vakuutustapahtumassa vakuutuskirjaan merkitty omavastuu.
+
+7.4 Toimenpiteet vahingon tapahduttua
+Vakuutusyhtiölle tulee varata tilaisuus vahingon määrän arvioimiseen, sekä mahdollisuus myötävaikuttaa sovinnollisen ratkaisun aikaansaamiseen. Jos
+vakuutuksenottaja tai vakuutettu korvaa vahingon, sopii siitä tai hyväksyy vaatimuksen, ei tämä sido vakuutusyhtiötä, elleivät korvauksen määrä ja peruste
+ole ilmeisen oikeat.
+
+Vakuutusyhtiölle on viipymättä ilmoitettava, jos vakuutustapahtuma johtaa oikeudenkäyntiin. Vakuutusyhtiö maksaa oikeudenkäyntikulut enintään
+vakuutusmäärään asti.
+
+Jos vakuutusyhtiö ilmoittaa vakuutuksenottajalle tai vakuutetulle olevansa valmis sopimaan vakuutusmäärän rajoissa vahingonkärsineen kanssa vahinkojen
+korvaamisesta eikä vakuutuksenottaja tai vakuutettu tähän suostu, vakuutusyhtiö ei ole velvollinen korvaamaan sen jälkeen aiheutuvia kustannuksia eikä
+selvitä asiaa enempää.
+
+8 Korvauksesta tehtävät muut vähennykset
+8.1 Henkilön menettelyn vaikutus
+Vakuutusyhtiö voi alentaa korvausta tai evätä sen kokonaan siltä vakuutuksenottajalta, vakuutetulta tai häneen samastettavalta, joka on
+  1) aiheuttanut vakuutustapahtuman tahallisesti tai törkeällä huolimattomuudella. Sama koskee vakuutustapahtumaa, johon on vaikuttanut
+      vakuutuksenottajan alkoholin tai huumaavien aineiden käyttö (yleiset sopimusehdot, ehtokohta 6.1).
+  2) laiminlyönyt vakuutuksen suojeluohjeiden noudattamisen (ehtokohta 5 ja yleiset sopimusehdot, ehtokohta 5.1.1 ja 5.1.2)
+  3) laiminlyönyt vahingon torjumis- ja rajoittamistoimet (yleiset sopimusehdot, ehtokohta 5.2.1 ja 5.2.2).
+
+Vakuutuksenottajaan ja vakuutettuun samastettavat henkilöt on määritelty yleisten sopimusehtojen ehtokohdassa 7.
+
+8.2 Verolainsäädännön vaikutus
+Korvauksen määrää laskettaessa otetaan huomioon verotusta säätelevät lait.
+
+8.3 Vähennysten laskemisjärjestys
+Omavastuut ja muut vähennykset vähennetään korvattavan vahingon määrästä peräkkäisinä laskutoimituksina seuraavassa järjestyksessä:
+  1) mahdollisen veron määrä
+  2) omavastuu
+  3) henkilön menettelyyn perustuva korvauksen alentaminen.
+
+9 Vakuutusmaksu
+Eläinvakuutuksen maksuun vaikuttavat muun muassa vakuutetun eläimen rotu, sukupuoli, ikä, käyttötarkoitus, eläimen muut ominaisuudet sekä valittu
+vakuutusturva, enimmäiskorvausmäärä ja omavastuun määrä. Maksuun vaikuttavat myös muun muassa vakuutuksenottajan ja vakuutettujen
+ominaisuudet, kuten asuinpaikka, asuinympäristö sekä vakuutus- ja vahinkohistoria. Maksuun vaikuttavat tekijät vaihtelevat vakuutettavan kohteen
+mukaan.
+
+Vakuutusyhtiöllä on oikeus muuttaa vakuutusehtoja ja -maksua yllä mainittujen tekijöiden lisäksi vakuutuskauden vaihtuessa, vakuutuksen kohteen,
+vakuutuksenottajan tai vakuutettujen iän muuttumisen seurauksena. Kun iän vaikutus vahinkoriskiin muuttuu, vakuutusmaksua voidaan muuttaa paremmin
+riskiä vastaavaksi.
+
+Muut tilanteet, joissa vakuutusyhtiöllä on oikeus muuttaa vakuutusehtoja ja -maksua, on kerrottu yleisissä sopimusehdoissa.
+
+Tuotteeseen mahdollisesti sisältyvät palvelut eivät ole osa vakuutussopimusta.
+
+
+
+
+                                                                             3
+                   Eläinvakuutusehdot
+                   Ehto EVA 240.10, voimassa 1.1.2026 alkaen
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+
+                                                               4
+

@@ -1,0 +1,490 @@
+                              Matkatavaran vakuutusehdot
+                              Ehto MAE 130.8 voimassa 1.1.2026 alkaen
+
+
+
+
+Matkatavaravakuutuksen kokonaisuus muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä sopimusehdoista.
+
+Vakuutusehdoissa käytettyjä käsitteitä ..................................................... 1                      6.1.3 Muut vahingot ................................................................................... 4
+1 Vakuutetut ja vakuutuksen voimassaolo ................................................ 2                          6.1.3.1 Matkatavaran käytön estyminen .................................................... 4
+2 Matkatavarat ........................................................................................... 2        6.1.3.2 Matkatavaran kuljetuskustannukset .............................................. 4
+3 Vakuutusturvat ........................................................................................ 2         6.2 Omaisuuden hinnan arvioiminen ja vahingon määrän laskeminen ..... 4
+3.1 Äkillisen ja ennalta arvaamattoman tapahtuman turva ....................... 2                                   6.2.1 Irtaimisto............................................................................................ 4
+3.2 Paloturva.............................................................................................. 2       6.2.1.1 Irtaimen esineen hinnan arvioiminen ............................................. 4
+3.3 Luonnonilmiöturva ............................................................................... 2             6.2.1.2 Irtaimen esineen vahingon määrän laskeminen ............................ 4
+3.4 Varkaus- ja ilkivaltaturva ..................................................................... 2              6.2.1.3 Määrättyjen esineryhmien vahingon määrän laskeminen ............. 4
+3.5 Vuototurva ........................................................................................... 2        6.2.2 Muu omaisuus ................................................................................... 5
+3.6 Sähkölaiteturva .................................................................................... 2          6.2.2.1 Vuokrattu tai lainattu omaisuus ..................................................... 5
+4 Vakuutusturvien yleiset rajoitukset ......................................................... 3                   6.3 Korvaamistavat .................................................................................... 5
+5 Suojeluohjeet .......................................................................................... 3        6.4 Omavastuu ja muut vähennykset ........................................................ 5
+5.1 Omaisuuden turvallinen käyttö ja säilytys ........................................... 3                         6.4.1 Omavastuu ........................................................................................ 5
+5.2 Paloturvallisuus ................................................................................... 3          6.4.2 Henkilön menettelyn vaikutus ........................................................... 5
+5.3 Kuljetusvahinkojen torjunta ................................................................. 4                 6.4.3 Verolainsäädännön vaikutus............................................................. 5
+6 Vahinkojen korvaaminen ........................................................................ 4                 6.4.4 Vähennysten laskemisjärjestys ........................................................ 5
+6.1. Korvaamisen perusteet ...................................................................... 4                 6.5 Vakuutusmaksu ja indeksitarkistukset ................................................. 5
+6.1.1 Välitön esinevahinko ........................................................................ 4               6.5.1 Vakuutusmaksuun vaikuttavat seikat ............................................... 5
+6.1.2 Korvaamisen rajoitukset ................................................................... 4                 6.5.2 Indeksitarkistukset ............................................................................ 6
+
+
+Vakuutusehdoissa käytettyjä käsitteitä
+Matka
+Matkalla tarkoitetaan tavanomaisen päivittäisen elinympäristön ulkopuolelle suuntautuvaa matkustamista, joka sisältää menon matkakohteeseen, oleskelun
+siellä sekä paluun (esim. lomamatkat). Matkalla ei tarkoiteta tavanomaista liikkumista esim. asioiden hoitoa, harrastuksia, kyläilyä, matkoja omalle vapaa-
+ajan asunnolle tai työ-/opiskelupaikkakunnalle.
+
+Enimmäiskorvausmäärästä vakuuttaminen
+Matkatavarat vakuutetaan enimmäiskorvausmäärästä. Vahingon määrä lasketaan silloinkin näiden vakuutusehtojen mukaan, mutta korvauksena
+maksetaan enintään kohteelle valittu ja vakuutuskirjaan merkitty enimmäiskorvausmäärä. Sovittuun enimmäismäärään asti vahingot korvataan tutkimatta,
+riittääkö valittu enimmäiskorvausmäärä kattamaan koko vakuutetun kohteen hinnan (enimmäismäärä- eli
+ensivastuusääntö).
+
+Irtaimen esineen nykyhinta
+Irtaimen esineen nykyhinnalla tarkoitetaan sitä rahamäärää, joka saadaan, kun uudishinnasta vähennetään esineen iän, käytön, huollon tai hoidon
+laiminlyönnin tai käyttökelpoisuuden alenemisen aiheuttama hinnan alentuminen. Irtaimiston nykyhinta on käytetyn esineen hinta.
+
+Irtaimen esineen uudishinta
+Irtaimen esineen uudishinnalla tarkoitetaan uuden samanlaisen tai lähinnä vastaavanlaisen omaisuuden hankkimiseen tarvittavaa rahamäärää.
+
+Jäännöshinta
+Jäännöshinnalla tarkoitetaan hintaa, joka omaisuudella on välittömästi vahingon jälkeen arvioituna samojen perusteiden mukaan kuin välittömästi ennen
+vahinkoa.
+
+Kokoelma
+Kokoelmalla tarkoitetaan jonkin järjestelmän mukaan koottua esineryhmää, jonka hinta kokoelmana on suurempi kuin yksittäisten esineiden yhteenlaskettu
+hinta. Tyypillisiä kokoelmia ovat esimerkiksi postimerkki- tai rahakokoelma. Kokoelman ei tarvitse olla täydellinen. Kokoelmaksi ei katsota esim.
+antiikkihuonekaluryhmää, cd-levyjä eikä sekalaisia tavanomaisia tauluja tai kirjoja.
+
+Kulutuslaite
+Kulutuslaitteella tarkoitetaan vesijohtoverkkoon kiinteästi kytkettyä laitetta kuten astian- tai pyykinpesukonetta.
+
+Käypä hinta
+Käypä hinta on käteishinta, joka vahinkohetkellä esineestä olisi ollut saatavissa Suomessa, jos se olisi myyty tarkoituksenmukaisella tavalla.
+
+Omavastuu
+Omavastuu on vakuutuskirjaan tai vakuutusehtoihin merkitty rahamäärä, joka vähennetään vakuutustapahtuman yhteydessä korvattavan vahingon
+määrästä.
+
+Urheiluväline ja -varuste
+Urheiluvälineillä ja -varusteilla tarkoitetaan urheilu- ja liikuntasuoritukseen käytettäviä esineitä kuten hiihto- ja lasketteluvälineitä, golfvarusteita,
+mailapelivälineitä, polkupyörää, ratsastus- ja raviurheiluvälineitä, vesiurheiluvälineitä sekä moottoriurheiluvarusteita.
+
+Polkupyörä
+Polkupyörällä tarkoitetaan myös sähköavusteisia polkupyöriä, jotka tehonsa, nopeutensa tai painonsa puolesta eivät ole liikennevakuutettavia.
+Liikennevakuutettavat polkupyörät eivät sisälly Matkatavaravakuutukseen
+
+Sähköiset kulkuvälineet
+Sähköisellä kulkuvälineellä tarkoitetaan jalankulkua avustavia tai korvaavia sähköllä toimivia kulkuvälineitä, jotka tehonsa, nopeutensa tai painonsa
+puolesta eivät ole liikennevakuutettavia. Liikennevakuutettavat laitteet eivät sisälly Matkatavaravakuutukseen.
+
+Sähkölaitteet
+Irtaimistoon luettavilla sähkölaitteilla tarkoitetaan sähköverkkoon kytkettyjä ja sähkövirtaa käyttäviä siirreltäviä laitteita.
+
+Vakuutustapahtuma
+Vakuutustapahtuma on sellainen vakuutuksen voimassaoloaikana sattunut tapahtuma, joka on vakuutussopimuksen mukaan tarkoitettu vakuutuksesta
+korvattavaksi.
+
+Äkillinen ja ennalta arvaamaton vahinko
+Nopeasti ja samalla ilman ennakko-oireita sattuvan tapahtuman seurauksena syntynyt vahinko, jota normaalilla huolellisuudella ja ennakoinnilla ei ole voitu
+välttää. Ennalta arvaamattomuutta arvioidaan objektiivisesti, yleisen elämänkokemuksen, tapahtumankulun poikkeuksellisuuden ja korvauksenhakijan
+toiminnan perusteella. Korvattavuus määräytyy vahingon syyn, ei seurauksen perusteella.
+
+                                                                                                                1
+                     Matkatavaran vakuutusehdot
+                     Ehto MAE 130.8 voimassa 1.1.2026 alkaen
+
+
+1 Vakuutetut ja vakuutuksen voimassaolo
+Vakuutettuina ovat vakuutuksenottaja ja hänen taloudessaan vakinaisesti asuvat henkilöt. Henkilön katsotaan asuvan vakinaisesti osoitteessa, jossa hän
+todellisuudessa pääasiassa asuu ja oleskelee mm. toimeentulonsa, opiskelunsa ja muiden elinolosuhteidensa takia. Vakuutetun asuinpaikkana pidetään
+pääsääntöisesti väestörekisteriviranomaisen rekisteriin merkittyä osoitetta.
+
+Vanhempansa mukana matkustavat alle 20-vuotiaat lapset ovat vakuutettuina vanhempansa vakuutuksessa, vaikka he eivät asuisi vanhemman kanssa
+samassa osoitteessa. Isovanhempansa mukana matkustavat alle 20-vuotiaat lapsenlapset ovat vakuutettuina isovanhempansa vakuutuksessa. Mukana
+matkustavalla lapsella ja lapsenlapsella tulee olla sama meno- ja paluumatka sekä sama matkakohde kuin vanhemmillaan ja isovanhemmillaan.
+
+Jatkuva vakuutus on voimassa enintään 45 vuorokautta yhtäjaksoisesti kestävällä matkalla kaikkialla maailmassa. Vakuutus on voimassa vain Suomessa,
+jos vakuutetun vakituinen asuinpaikka ei ole Suomessa.
+
+Määräaikainen vakuutus on voimassa vakuutuskirjaan merkityssä kohteessa valitun määräajan.
+
+2 Matkatavarat
+Vakuutuksen kohteena ovat vakuutetun omistamat matkatavarat vakuutuskirjaan merkittyyn enimmäiskorvausmäärään asti vakuutustapahtumaa kohti.
+
+Matkatavaroilla tarkoitetaan vakuutetun kotitalouden päivittäiseen ja vapaa-ajan
+käyttöön tarkoitettuja tavanomaisia esineitä, jotka ovat matkalla mukana. Vakuutukseen sisältyy lisäksi sellainen yksityishenkilöltä vuokrattu tai lainattu
+omaisuus, joka vakuutetun omistamana kuuluisi hänen vakuutettuun matkatavaraansa.
+
+Alla olevassa luettelossa on kerrottu vakuutuksen kohteena olevien yksittäisten esineitten tai tiettyjen esine- tai omaisuusryhmien enimmäiskorvausmäärät.
+Jos matkatavaroille valittu enimmäiskorvausmäärä on mainittua enimmäiskorvausmäärää alempi, korvauksena maksetaan enintään kohteelle valittu ja
+vakuutuskirjaan merkitty enimmäiskorvausmäärä.
+
+ -    Yksittäinen esine tai kokoelma: 5 000 eur
+
+ -    Enintään 5 000 euron hintaisia yksittäisiä taideteoksia, koruja ja muita arvoesineitä yhteensä: 20 000 eur
+
+ -    Enintään 5 000 euron hintaisia yksittäisiä esineitä, jotka kuuluvat samaan esineryhmään tai joilla on sama tai samantyyppinen käyttötarkoitus (esim.
+      aseet, kalastusvälineet, pöytähopeat, soittimet) yhteensä: 20 000 eur
+
+ -    Polkupyörä varusteineen: 5 000 eur
+
+ -    Sähköinen kulkuväline varusteineen: 2 500 eur
+
+ -    Moottoriajoneuvossa, perävaunussa, asuntoperävaunussa, veneessä tai teltassa pysyvästi tai tilapäisesti säilytettävä matkatavara: 3 500 eur
+
+ -    Ansiotoiminnassa käytettävät työkalut, työvälineet ja laitteet yhteensä: 2 000 eur
+
+ -    Rahaa ja arvopapereita: 100 eur
+
+Rajaukset
+Vakuutuksen kohteena eivät ole
+1)   eläimet
+2)   moottoriajoneuvot, perävaunut, asuntoperävaunut, muut moottorikäyttöiset kulkuvälineet, eivätkä niihin liittyvät osat, varusteet ja kypärät.
+3)   polttomoottorilla toimivat laitteet
+4)   yrityksen tai julkiyhteisön omistuksessa oleva omaisuus.
+5)   tietovälineisiin tai verkkotallennustilaan sisältyvät tiedot, tiedostot, ohjelmat ja muu materiaali, kuten virtuaalivaluutat
+6)   käsikirjoitukset, tutkielmat, opinnäytteet ja muut vastaavanlaiset
+     asiakirjat.
+
+3 Vakuutusturvat
+3.1 Äkillisen ja ennalta arvaamattoman tapahtuman turva
+Vakuutuksesta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on äkillinen ja ennalta arvaamaton tapahtuma.
+
+Tästä turvasta ei korvata vakuutustapahtumaa, joka näiden vakuutusehtojen mukaan voitaisiin korvata jostakin muusta turvasta.
+
+3.2 Paloturva
+Vakuutuksesta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on
+  -   irti päässyt tuli, noki, savu tai savukaasu
+  -   räjähdys
+  -   salamanisku, joka on kohdistunut suoraan vakuutettuun omaisuuteen ja mekaanisesti pirstonut sitä.
+
+3.3 Luonnonilmiöturva
+Vakuutuksesta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on myrskytuuli tai rakeet.
+
+3.4 Varkaus- ja ilkivaltaturva
+Vakuutuksesta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on
+  -   varkaus tai sen yritys
+  -   ilkivalta, jolla tarkoitetaan ulkopuolisen tahallisesti aiheuttamaa vahinkoa
+  -   murto, jolla tarkoitetaan murtautumista rakenteellisesti ja lujuudeltaan riittävän suojan antavaan lukittuun rakennukseen, rakennuksen tilaan tai
+      muuhun säilytyspaikkaan
+  -   ryöstö, jolla tarkoitetaan anastusta tai sen yritystä, jossa henkilö on joutunut väkivallan tai sen uhkauksen kohteeksi.
+
+3.5 Vuototurva
+Vakuutuksesta korvataan rakennuksen kiinteän LVI-laitteen, -putkiston tai niihin kytketyn kulutuslaitteen äkillisen ja ennalta arvaamattoman rikkoutumisen
+seurauksena syntyneen vuodon aiheuttama välitön esinevahinko.
+
+3.6 Sähkölaiteturva
+Vakuutuksesta korvataan äkillisen ja ennalta arvaamattoman sähköilmiön (oikosulku, maasulku ja ylijännite) aiheuttama sähkölaitteen välitön
+rikkoutuminen.
+
+
+
+
+                                                                               2
+                      Matkatavaran vakuutusehdot
+                      Ehto MAE 130.8 voimassa 1.1.2026 alkaen
+
+
+
+
+4 Vakuutusturvien yleiset rajoitukset
+Vakuutuksesta ei korvata vahinkoa, joka on aiheutunut
+  1) omaisuudelle tai esineelle
+    -    käsittely- käyttö- tai työvirheestä
+    -    rakenne-, valmistus- tai aineviasta
+    -    korjaamiseen käytetyistä sopimattomista tai laadultaan ilmeisen heikoista osista tai materiaaleista
+  2) hitaasti kehittyvistä tapahtumista, kuten
+    -    syöpymisestä tai pilaantumisesta
+    -    sienettymisestä, homehtumisesta, lahoamisesta
+    -    kulumisesta, aineen väsymisestä, kondensiosta tai muusta vastaavasta vähitellen tapahtuvasta ilmiöstä
+  3) lämpötilan vaihtelusta aiheutuneesta aineen laajenemisesta tai supistumisesta
+  4) hajusta. Vakuutus ei korvaa myöskään hajun poistokustannuksia.
+  5) pakkasesta, jäästä, jäätymisestä, kuivuudesta, kuumuudesta, kosteudesta, eikä lumesta tai sateesta
+  6) luonnonilmiön aiheuttamasta tulvasta, aallokosta tai jäiden liikkumisesta
+  7) hyönteisistä, tuhoeläimistä, puutiaisista tai loisista pois lukien luteista aiheutunut matkalla mukana olleiden matkatavaroiden puhdistus
+  8) omaisuuden katoamisesta tai unohtamisesta
+  9) urheiluvälineen ja -varusteen rikkoutumisesta tai menettämisestä urheilu- tai liikuntasuorituksen aikana
+  10) kauko-ohjattavan lennokin, kopterin tai vastaavan sekä niiden varusteiden tai niihin kytkettävien laitteiden rikkoutumisesta tai menettämisestä
+      lennättämisen aikana
+  11) tavanomaisesta naarmuuntumisesta tai kolhiintumisesta
+  12) tietokoneviruksesta tai haittaohjelmasta
+  13) petoksesta, kavalluksesta, vastaavanlaisesta vilpillisestä menettelystä, sopimuksen rikkomisesta eikä vuokralaisen tahallisuudesta tai törkeästä
+      huolimattomuudesta
+  14) vakuutetun tai vuokralaisen luvalla vakuutuspaikkaan tai majoitustiloihin sisälle päässeen henkilön tahallisuudesta tai törkeästä huolimattomuudesta
+  15) huumekasvin viljelystä tai siihen tarkoitetuille laitteille ja välineille
+  16) vakuutetun tai häneen samastettavan laittomasta toiminnasta (esim. huumeiden tai aseiden laiton hallussapito)
+  17) sellaisesta syystä, että se voidaan korvata jonkin erityislain, takuun, muun sitoumuksen tai vakuutuksen perusteella taikka julkisista varoista.
+      Korvausta on haettava viipymättä ensisijaisesti esim. matkan- tai kuljetuksenjärjestäjältä tai muulta palveluntuottajalta. Vaikka näin ei tehtäisi,
+      vakuutuskorvauksesta vähennetään maksuhyvitys tai muu korvaus, johon vakuutettu on tai olisi ollut oikeutettu.
+
+Vakuutuksesta ei korvata
+ 18) vahinkoa, jonka lemmikkieläin on aiheuttanut hampaillaan, kynsillään, virtsaamalla, ulostamalla, oksentamalla, syömällä tai tahraamalla
+ 19) piirustusten ja asiakirjojen vahinkoja ellei niiden tilalle hankita uusia
+ 20) puhtaita varallisuusvahinkoja
+ 21) vahinkoa, jos vakuutustapahtumaa ei voida määritellä; kuten esimerkiksi varkausvahinkoa, jonka tapahtuma-aikaa, -paikkaa ja -olosuhteita ei voida
+     tarkoin määritellä
+
+5 Suojeluohjeet
+Suojeluohjeissa on tavallisimpia varotoimenpiteitä, joilla vahingon synty
+pyritään estämään tai vahingon laajuutta pienentämään.
+
+Vakuutuksenottajan, vakuutetun ja häneen samastettavan henkilön tulee noudattaa suojeluohjeita. Suojeluohjeen laiminlyönti voi aiheuttaa sen, ettei
+korvausta makseta tai se maksetaan alennettuna yleisten sopimusehtojen kohdan 5 mukaisesti.
+
+Vakuutuksenottajan, vakuutetun ja häneen samastettavan henkilön tulee huolehtia, ettei esinettä tai omaisuutta käytetä valmistajan, maahantuojan tai
+myyjän antamien käyttö-, huolto- tai asennusohjeiden vastaisesti tai aseteta liian kovalle rasitukselle.
+
+Suojeluohjeissa irtaimen esineen valvonnalla tarkoitetaan jatkuvaa silmälläpitoa.
+
+5.1 Omaisuuden turvallinen käyttö ja säilytys
+  1) Vakuutuksen kohteen säilytystilojen ikkunoiden, ovien ja muiden sisäänpääsyteiden on oltava lukitut. Omaisuuden on oltava erikseen lukittuna, kun
+     sitä säilytetään ns. yhteistiloissa, joihin on pääsy esimerkiksi taloyhtiön asukkailla.
+  2) Hotellihuoneeseen, hyttiin tai muihin vastaavanlaisiin tiloihin ei saa jättää koruja tai muita arvokkaita tai varkausalttiita esineitä, elleivät ne ole siellä
+     erikseen lukitussa tilassa.
+  3) Avaimia ei sää jättää eikä piilottaa asunnon tai säilytystilojen läheisyyteen. Avaimiin ei saa merkitä nimeä ja osoitetta, joka voi paljastaa avaimen
+     löytäjälle omaisuuden sijainnin. Lukko on välittömästi vaihdettava tai sarjoitettava uudelleen, jos avain on joutunut ulkopuolisten haltuun.
+     Varkausvahingon estämiseksi avaimia ei saa säilyttää näkyvillä tai sellaisessa lukitsemattomassa paikassa, jossa sivullinen ennalta tietää tai voi
+     olettaa avainten olevan.
+  4) Ulkona tai mukana olevaa omaisuutta on varkausvahingon välttämiseksi valvottava. Jos mukana oleva omaisuus jää ilman vakuutetun valvontaa, se
+     on lukittava tai jätettävä lukittuun tilaan. Arvokasta tai varkausaltista omaisuutta, kuten esimerkiksi kameroita, puhelimia, tabletteja, tietokoneita ja
+     arvoesineitä ei saa jättää lukittuunkaan moottoriajoneuvoon, perävaunuun, veneeseen, matkailuperävaunuun tai telttaan ilman valvontaa.
+  5) Polkupyörän ja sähköisen kulkuvälineen on oltava valvonnan alaisena tai lukittuna.
+  6) Pankki- ja luottokorttia ja siihen kuuluvaa tunnuslukua ei saa säilyttää lähekkäin.
+  7) Juomat on pidettävä niin etäällä tietokoneesta, etteivät ne kaatuessaan voi vahingoittaa tietokonetta.
+  8) Kun ampuma-asetta ei käytetä, sitä tulee säilyttää turvakaapissa, muussa lukitussa paikassa, muuten lukittuna tai siten, että aseen osa säilytetään
+     erillään noudattaen, mitä ampuma-aselaissa (9.1.1998/1) säädetään.
+  9) Kosteus- ja kastumisvahingoille altis varastoitu tavara on sijoitettava vähintään 10 cm:n korkeudelle lattian pinnasta.
+
+5.2 Paloturvallisuus
+  1) Viranomaisten antamia palo- ja sähköturvallisuusohjeita ja -määräyksiä on noudatettava.
+  2) Palavien nesteiden ja nestekaasun käytössä ja säilytyksessä ei saa ylittää palavista nesteistä annetun asetuksen säännöksiin tai lupiin perustuvia
+      määriä (Asetus vaarallisten kemikaalien käsittelystä ja varastoinnista 20.12.2012/856). Nestekaasua ei saa säilyttää kellaritiloissa.
+  3) Vialliset sähkölaitteet ja asennukset on korjattava viipymättä. Niiden käyttö on kielletty ennen korjaamista.
+  4) Tupakanpoltto ja avotulen teko on kielletty tiloissa, joissa on herkästi syttyviä aineita tai materiaaleja. Tupakanpoltto vuoteessa on kielletty. Tupakat
+      on sammutettava palamattomaan astiaan.
+  5) Tulisijaa, avotulta ja kynttilää tulee polttaa valvottuna. Niitä saa polttaa vain palamattomalla alustalla ja riittävän etäällä syttyvästä materiaalista.
+  6) Omaisuuden kuivattaminen ja säilyttäminen saunassa on kiellettyä.
+  7) Liettä, uunia, grilliä, savustinta tai muuta vastaavaa tulee käyttää valvotusti. Niiden päällä tai sen välittömässä läheisyydessä ei saa olla syttyviä
+      esineitä. Asunnosta poistuttaessa on varmistettava, että ne on sammutettu tai niistä on katkaistu virta.
+  8) Siirrettävää halogeenivalaisinta tulee käyttää valvotusti. Valaisimen välittömässä läheisyydessä ei saa olla syttyvää materiaalia. Valaisin on
+      sammutettava aina kun huonetilasta poistutaan.
+  9) Sähköpolkupyörien, muiden sähköisten kulkuvälineiden, sähkölaitteiden ja niiden akkujen lataus on kielletty palavan materiaalin lähellä, kuten
+      sängyllä, sohvalla tai verhojen ja muiden tekstiilien lähellä. Niitä saa ladata vain kyseiseen laitteeseen tarkoitetulla latauslaitteella ja niitä tulee valvoa,
+      latauksen aikana.
+
+
+                                                                                  3
+                     Matkatavaran vakuutusehdot
+                     Ehto MAE 130.8 voimassa 1.1.2026 alkaen
+
+5.3 Kuljetusvahinkojen torjunta
+  1) Kuljetettavana oleva omaisuus on pakattava kyseiselle tavaralle sopivalla tavalla niin, että se kestää tavanomaiset sään ja kuljetuksen rasitukset.
+      Helposti rikkoutuvat esineet sekä korut, arvotavarat ja muut varkausalttiit esineet tulee kuljettaa yleisissä kulkuneuvoissa käsimatkatavarana.
+  2) Nesteet sekä tahraavat ja syövyttävät aineet tulee kuljettaa erikseen ja pakata niin suojaavasti, etteivät ne voi vahingoittaa muita tavaroita.
+
+6 Vahinkojen korvaaminen
+6.1. Korvaamisen perusteet
+Vakuutettu omaisuus ja valittu vakuutusturva on merkitty vakuutuskirjaan.
+
+6.1.1 Välitön esinevahinko
+Vakuutuksesta korvataan vakuutuksen kohteelle vakuutuksen voimassaoloaikana äkillisesti ja ennalta arvaamatta sattuneesta tapahtumasta aiheutunut
+välitön esinevahinko vakuutuskirjaan merkityn vakuutusturvan mukaisesti. Korvaamisperusteena esinevahingossa on välittömästi vahingosta aiheutunut
+menetys, joten käytettyä esinettä ei aina korvata uuden esineen hinnasta.
+
+Vakuutuksesta korvataan myös välittömän esinevahingon yhteydessä syntyneet valitun vakuutusturvan mukaan korvattavan vahingon torjumisesta tai
+rajoittamisesta aiheutuneet kohtuulliset kustannukset.
+
+Lukon vaihtamis- tai sarjoituskustannukset korvataan vahingontorjunta-kuluina vain, jos avain on joutunut ulkopuolisen haltuun varkauden, ryöstön tai
+murron yhteydessä ja on aihetta olettaa vahingon vaaran tämän johdosta olennaisesti lisääntyneen.
+
+6.1.2 Korvaamisen rajoitukset
+Vakuutuksesta ei korvata
+  1) omaisuuden arvon alentumista, eikä takuun taikka muun kaupan yhteydessä saadun lisäedun menettämistä tai heikentymistä vakuutustapahtuman
+       tai sen takia tehdyn korjaustyön johdosta
+  2) omaisuuden tunnearvon vähentymistä tai menettämistä
+  3) vahingonselvittelykuluja tai -kustannuksia, eikä vahinkoon välillisesti liittyviä kustannuksia, kuten puhelin- ja matkakuluja, ansionmenetystä tai muita
+       vastaavia kustannuksia.
+  4) huolto- ja kunnossapitokustannuksia, kuten tukkeutuneen viemärin avaamiskustannuksia
+  5) kustannuksia, jotka johtuvat siitä, että esine, tarvikkeet tai varaosat kuljetetaan tai korjataan tavanomaisesta olennaisesti poikkeavin keinoin kuten
+       työskentelemällä ajan säästämiseksi yli- tai pyhätöissä
+  6) korjauskustannuksia siltä osin kuin ne ylittävät esineellä ennen vahinkohetkeä olleen hinnan
+  7) esineen tavanomaisesta käytöstä johtuvaa kulumista vakuutustapahtuman yhteydessä.
+
+6.1.3 Muut vahingot
+6.1.3.1 Matkatavaran käytön estyminen
+Välttämättömyystarvikkeiden hankintakulut korvataan, kun asianmukaisesti kuljetettavaksi jätetty matkatavara myöhästyy vähintään 6 tuntia vakuutetun
+matkakohteeseen saapumisesta. Näitä kuluja korvataan matkustajaa kohti enintään 80 euroa jokaista alkanutta vuorokautta kohti, kuitenkin yhteensä
+enintään 320 euroa matkustajaa kohti. Kustannukset korvataan yksilöityjä tositteita vastaan.
+
+Välttämättömyystarvikkeiden hankintakuluja ei kuitenkaan korvata, jos kyseessä on paluumatka.
+
+Varkaus-, murto- tai ryöstötapauksissa ulkomailla korvataan paluumatkan vuoksi välttämättömän passin tai viisumin hankkimisesta aiheutuneet kohtuulliset
+ylimääräiset matka-, puhelin- ja yöpymiskustannukset. Vakuutuksesta ei korvata ruokailukustannuksia.
+
+Matkalla mukana olleiden matkatavaroiden puhdistuskuluja korvataan enintään 100 euroa matkustajaa kohti, kun syynä ovat olleet luteet.
+
+6.1.3.2 Matkatavaran kuljetuskustannukset
+Matkatavaran kohtuulliset kuljetuskustannukset matkakohteeseen tai takaisin kotiin korvataan, kun niiden kuljetukseen käytettyyn moottoriajoneuvoon on
+kohdistunut vakuutuksesta korvattava vahinko.
+
+6.2 Omaisuuden hinnan arvioiminen ja vahingon määrän laskeminen
+6.2.1 Irtaimisto
+6.2.1.1 Irtaimen esineen hinnan arvioiminen
+Irtaimen esineen hinta arvioidaan ominaisuuksiltaan ja käyttökelpoisuudeltaan vastaavan uuden esineen uudishinnan mukaan. Uudishintana käytetään
+hintaa, jolla lähinnä vastaava esine voidaan hankkia tilalle, jos hankinta on mahdollista.
+
+6.2.1.2 Irtaimen esineen vahingon määrän laskeminen
+Enintään viisi (5) vuotta vanhan irtaimen esineen vahingon määrä lasketaan vastaavanlaisen esineen uudishinnan mukaan. Seuraavassa taulukossa
+lueteltujen esineiden tai esineryhmien vahingon määrä lasketaan kuitenkin aina taulukon mukaan. Muun yli viisi (5) vuotta vanhan esineen vahingon määrä
+lasketaan sen nykyhinnan mukaan, jolla tarkoitetaan käytetyn esineen hintaa. Esineen hintaa alentaa omaisuuden ikä, käyttö, huollon tai hoidon laiminlyönti
+sekä muiden vastaavanlaisten syiden selvä vaikutus.
+
+Itse poimitut marjat korvataan hankintakauden eli sesongin keskihinnan mukaan. Riistaliha korvataan hankintahetken arvon mukaan.
+
+Taideteosten, korujen ja muiden arvoesineiden vahingon määrä lasketaan aina niiden käyvän hinnan mukaan.
+
+Vakuutetun itse tekemien taideteosten, taulujen, korujen ja käsitöiden vahingon määrä lasketaan niihin käytettyjen materiaalien uudishinnan mukaan.
+
+Korjauskustannuksia korvataan enintään edellä mainitulla tavalla laskettuun vahingon määrään asti.
+
+6.2.1.3 Määrättyjen esineryhmien vahingon määrän laskeminen
+Korvattaessa alla lueteltua omaisuutta tehdään uudishinnasta esineen ikään perustuvat vuotuiset vähennykset.
+
+-   Viihde- ja muut elektroniset laitteet sekä optiset laitteet ja niiden varusteet
+    (ei kuitenkaan kiikarit eikä kaukoputket)                                          9%
+-   Älykellot ja vastaavat                                                             9%
+-   Polkupyörät sekä sähköiset kulkuvälineet ja niiden varusteet                       9%
+-   Kodinkoneet                                                                        9%
+-   Muut koneet ja laitteet                                                            5%
+-   Kannettavat tietokoneet, tabletit ja vastaavat                                     20 %
+-   Muut tietokoneet ja tietokoneiden oheislaitteet                                    15 %
+-   Silmälasit ja aurinkolasit vahvuuksilla                                            15 %
+-   Urheiluvälineet ja varusteet                                                       15 %
+-   Vaatteet, kodin tekstiilit, jalkineet, laukut, reput sekä lastenvaunut ja -rattaat 15 %
+-   Matkapuhelimet ja vastaavat                                                        25 %
+-   Ansio- ja yrittäjätoiminnan omaisuus                                               15 %
+    (jos korvattavan esineen yllä mainittu ikävähennysprosentti ei ole tätä suurempi)
+
+
+                                                                              4
+                     Matkatavaran vakuutusehdot
+                     Ehto MAE 130.8 voimassa 1.1.2026 alkaen
+
+
+
+
+Vähennys lasketaan uuden vastaavanlaisen esineen uudishinnasta. Esineen tai laitteen yksittäisen osan uudishinnasta tehdään ikävähennys koko
+laitekokonaisuuden iän mukaan, vaikka yksittäinen osa olisikin nuorempi. Vähennystä ei tehdä käyttöönottovuodelta. Ikävähennysten laskennassa
+ensimmäisenä käyttöönottovuotena pidetään sitä vuotta, jolloin esine on otettu käyttöön. Ensimmäinen käyttöönottovuosi päättyy kalenterivuoden
+vaihtuessa riippumatta siitä, mihin aikaan vuodesta esine on otettu käyttöön. Ikävähennys tehdään myös vahinkovuodelta. Vähennys lasketaan vuodet x
+ikävähennysprosentti.
+
+Seuraavien esineiden hinnaksi jää aina vähintään 10 prosenttia uuden vastaavanlaisen esineen uudishinnasta: viihde- ja muut elektroniset laitteet sekä
+optiset laitteet ja niiden varusteet, älykellot ja vastaavat, kodinkoneet, muut koneet ja laitteet sekä urheiluvälineet ja varusteet. Polkupyörän hinnaksi jää
+aina vähintään 28 prosenttia uuden
+vastaavanlaisen uudishinnasta.
+Käytettynä ostetusta esineestä korvataan enintään vastaavan käytetyn esineen hinta vahinkohetkellä.
+
+Vähennystä ei tehdä laskuun perustuvista korjauskustannuksista. Korjauskustannuksia korvataan enintään laskettuun vahingon määrään asti omavastuulla
+vähennettynä.
+
+6.2.2 Muu omaisuus
+6.2.2.1 Vuokrattu tai lainattu omaisuus
+Vuokratun tai lainatun omaisuuden hinta arvioidaan ja vahingon määrä lasketaan samojen perusteiden mukaan kuin oman irtaimiston osalta, jos se
+vakuutetun omistamana kuuluisi hänen vakuutettuun irtaimistoonsa.
+
+6.3 Korvaamistavat
+Vakuutusyhtiö korvaa esinevahingon jollakin alla olevalla valitsemallaan tavalla.
+
+Esinevahinko korvataan ensisijaisesti maksamalla korjauskustannukset. Korjaamisella tarkoitetaan omaisuuden palauttamista vastaavanlaiseen kuntoon,
+joka sillä oli ennen vahinkoa. Vakuutusyhtiöllä on oikeus määrätä vahingoittuneen esineen korjaaja tai korjaustapa.
+Korjauskustannukset maksetaan sen hinnan mukaan, jolla vakuutusyhtiö olisi omaisuuden voinut korjauttaa. Korjauskustannuksina maksetaan enintään
+omaisuudella ennen vahinkoa ollut arvo. Jos omaisuutta ei korjata, vaikka se olisi mahdollista, korvauksena maksetaan arvioituja korjauskustannuksia
+vastaava rahamäärä, enintään kuitenkin omaisuudella ennen vahinkoa ollut arvo.
+
+Jos omaisuutta ei voida korjata tai se on menetetty eikä sitä ole saatu takaisin, korvauksena maksetaan enintään esineellä välittömästi ennen
+vahinkohetkeä ollut uudishinta vähennettynä vahingoittuneen esineen jäännöshinnalla, ikävähennyksillä ja omavastuulla.
+
+Vaihtoehtoisesti vakuutusyhtiö voi korvata esinevahingon hankkimalla tilalle vastaavanlaisen ja samaan käyttöön tarkoitetun esineen tai korvata
+rahakorvauksena hinnan, jolla tilalle olisi voitu hankkia vastaavanlainen esine (esimerkiksi mobiililaitteen vaihtolaite). Hankintahinnasta vähennetään
+ikävähennykset ja omavastuu.
+
+Vakuutuksesta korvattu omaisuus siirtyy vakuutusyhtiön omistukseen.
+
+Jos menetettyä omaisuutta saadaan takaisin korvauksen maksamisen jälkeen, korvauksen saajan tulee viipymättä luovuttaa se yhtiölle tai palauttaa
+korvaus sen osalta.
+
+Korvaus koruista ja kelloista on 60 prosenttia niiden käyvästä hinnasta, ellei vakuutettu hanki uusia vastaavia kuuden kuukauden kuluessa
+vakuutustapahtuman sattumisesta.
+
+6.4 Omavastuu ja muut vähennykset
+6.4.1 Omavastuu
+Korvattavan vahingon määrästä vähennetään omavastuu. Omavastuun suuruus määräytyy vakuutuskirjan ja näiden vakuutusehtojen mukaan.
+
+Jos useaa vakuutuskohdetta korvataan saman vakuutustapahtuman perusteella ja vakuutusturvissa on erilaiset omavastuut, vähennetään vain suurin
+omavastuu.
+
+Omavastuuta ei vähennetä
+ -    vahingon torjumis- ja rajoittamiskustannuksista
+ jos kohde on suojattu hälytyslaitteella ja tämän laitteen toiminta on estänyt vahingon syntymistä tai rajoittanut sen määrää
+ -    ehtokohdissa 6.1.3.1 ja 6.1.3.2 mainittuja kustannuksia korvattaessa.
+
+6.4.2 Henkilön menettelyn vaikutus
+Vakuutusyhtiö voi alentaa korvausta tai evätä korvauksen kokonaan siltä vakuutetulta tai häneen samastettavalta, joka on
+  1) aiheuttanut vakuutustapahtuman tahallisesti tai törkeällä huolimattomuudella. Sama koskee vakuutustapahtumaa, johon on vaikuttanut vakuutetun
+      alkoholin tai huumaavien aineiden käyttö (yleiset sopimusehdot, ehtokohta 6.1).
+  2) laiminlyönyt vakuutuksen suojeluohjeiden noudattamisen (ehtokohta 5 ja yleiset sopimusehdot, ehtokohta 5.1.1)
+  3) laiminlyönyt vahingon torjumis- ja rajoittamistoimet (yleiset sopimusehdot, ehtokohta 5.2.1).
+
+Vakuutettuun samastettavista henkilöistä kerrotaan yleisten sopimusehtojen kohdassa 7.
+
+6.4.3 Verolainsäädännön vaikutus
+Korvauksen määrää laskettaessa otetaan huomioon verotusta säätelevät lait.
+
+6.4.4 Vähennysten laskemisjärjestys
+Omavastuut ja muut vähennykset vähennetään korvattavan vahingon määrästä peräkkäisinä laskutoimituksina seuraavassa järjestyksessä:
+  1) mahdollisen veron määrä
+  2) käyttöikään perustuva vähennys (ikävähennys)
+  3) omavastuu
+  4) henkilön menettelyyn perustuva korvauksen alentaminen.
+
+6.5 Vakuutusmaksu ja indeksitarkistukset
+6.5.1 Vakuutusmaksuun vaikuttavat seikat
+Kotivakuutuksen maksuun vaikuttavia tekijöitä ovat vakuutuksenottajan, hänen perheenjäsentensä, vakuutettujen tai omaisuuden haltijan ominaisuudet,
+kuten ikä, asuinpaikka ja asuinympäristö sekä vakuutus- ja vahinkohistoria, vakuutetun kohteen vakuutuskirjalla mainitut ominaisuudet ja käyttötarkoitus
+sekä vakuutusturvan laajuus ja omavastuun suuruus. Maksuun vaikuttavat tekijät vaihtelevat vakuutettavan kohteen mukaan.
+
+Vakuutusyhtiöllä on oikeus muuttaa vakuutusmaksua vakuutuskauden vaihtuessa vakuutuksen kohteen, vakuutuksenottajan, hänen perheenjäsentensä,
+vakuutettujen tai omaisuuden haltijan iän muuttumisen seurauksena. Tällöin vakuutusmaksu muuttuu iän muutosta vastaavan tilastollisen vahinkoriskin
+muutoksen mukaisesti.
+
+
+                                                                                5
+                    Matkatavaran vakuutusehdot
+                    Ehto MAE 130.8 voimassa 1.1.2026 alkaen
+
+Kun iän vaikutus vahinkoriskiin muuttuu, vakuutusmaksua voidaan muuttaa paremmin riskiä vastaaviksi.
+
+Muut tilanteet, joissa vakuutusyhtiöllä on oikeus muuttaa vakuutusmaksua, on kerrottu yleisissä sopimusehdoissa
+
+6.5.2 Indeksitarkistukset
+Enimmäiskorvausmäärät, omavastuut ja vakuutusmaksut tarkistetaan vuosittain vakuutuskauden vaihtuessa indeksillä. Indeksin tarkastuslukuna käytetään
+edellisen kalenterivuoden heinäkuun pistelukua. Jos indeksi laskee tai uusi pisteluku on alempi kuin tarkistuksessa aiemmin käytetty pisteluku, niin
+indeksitarkistusta ei tehdä.
+
+Rakennuskohteissa käytetään rakennuskustannusindeksiä ja muissa kohteissa elinkustannusindeksiä.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+
+                                                                           6
+

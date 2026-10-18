@@ -20,7 +20,7 @@ The Linnankatu count marker also shows an exclamation badge while review or assi
 
 ## Live simulation demo
 
-**Live:** https://johottaja.github.io/if-hackathon-project/ opens the demo. Press **Play January** or **Jump to the thaw**.
+**Live:** https://johottaja.github.io/if-hackathon-project/demo.html#heatmap, or **Heatmap visualisation** in the site’s top navigation. Press **Play January** or **Jump to the thaw**.
 
 **Run it locally** (Node.js 22):
 
@@ -31,7 +31,7 @@ npm run build:demo
 npm run preview
 ```
 
-Open the address `npm run preview` prints; the root page is the demo. To update the published demo, merge to `main`: the Pages workflow rebuilds and republishes it in a few minutes.
+Open the address `npm run preview` prints and choose **Heatmap visualisation** (`/demo.html#heatmap`). To update the published demo, merge to `main`: the Pages workflow rebuilds and republishes it in a few minutes.
 
 `demo.html` is a public page for hackathon voters: a simulated January 2026 around Eskelinkatu, Turku, seen from three angles on one shared timeline. It needs no API and works on phones and laptops.
 
@@ -43,9 +43,9 @@ Add `?t=<hours>` to open at a given moment, for example `demo.html?t=376#if` for
 
 ### Build and publish
 
-`npm run build:demo` builds the dashboard and demo into `dist/` and exports the Pito app’s web build into `dist/app/`. In this build the demo is also `index.html`, and the operator dashboard moves to `dashboard.html`, because it needs the API that a static host does not have. `EXPO_BASE_URL` sets the app’s subpath (default `/app`).
+`npm run build:demo` builds the dashboard and demo into `dist/` and exports the Pito app’s web build into `dist/app/`. `EXPO_BASE_URL` sets the app’s subpath (default `/app`).
 
-`.github/workflows/pages.yml` runs the tests and `build:demo` on every push to `main` and publishes `dist/` to GitHub Pages. Enable it once in the repository: **Settings → Pages → Source: GitHub Actions**. The voter link is then `https://<owner>.github.io/<repository>/`.
+`.github/workflows/pages.yml` runs the tests and `build:demo` on every push to `main` and publishes `dist/` to GitHub Pages. Enable it once in the repository: **Settings → Pages → Source: GitHub Actions**. The voter link is then `https://<owner>.github.io/<repository>/demo.html#heatmap`. The dashboard at the site root runs without its API there.
 
 During `npm run dev`, the iframe has no app build. Run `npm run web` in `mobile/` and start the dashboard with `VITE_PITO_APP_URL=http://localhost:8081 npm run dev`.
 
@@ -63,3 +63,9 @@ Rscript aja_demo.R <path-to>/if-hackathon-project/dashboard/public/demo [seed]
 
 The model and its proofs are in `public/demo/paper_en.pdf` (Finnish: `paperi_fi.pdf`); their sources are in that repository’s `If/labra/v0/paperi/`. The demo links to both. `src/demo/timeline.mjs` holds the counters and `src/demo/insights.mjs` the risk maps and tasks; `npm test` checks them against the simulator data.
 Two additional clickable hazard symbols sit between the Linnankatu and Aurakatu labels: a slippery-surface warning sign opens a simulated above-weather-expectation message, and a bicycle opens a pothole report. These are synthetic, approximate map annotations; they do not add fall counts or change the connected maintenance workflow.
+
+## Dashboard and heatmap tabs
+
+The GitHub Pages site has top navigation for **If dashboard** (`./`) and **Heatmap visualisation** (`demo.html#heatmap`). The heatmap opens with a timeline, estimated slip risk per 1,000 passes, an optional hidden simulation truth layer, street averages and active gritting outlines. Existing simulation, customer and If operations views remain available within the visualisation page. The root dashboard’s connected maintenance actions still require the local API; Pages hosts static files only.
+
+Simulator source is vendored in [data_processing](../data_processing/README.md) from `Elkkuboi/junction_turku`, revision `2bd7a66a6aa8e541abfa7b9cbb8c0497bb2d3118`. Only If materials are retained. The browser uses the existing checked-in export; importing source does not regenerate results. See the data-processing README for the R regeneration command.

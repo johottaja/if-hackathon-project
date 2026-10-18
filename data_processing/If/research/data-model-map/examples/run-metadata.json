@@ -1,0 +1,19 @@
+{
+  "run_id": "run-692b90b880e9",
+  "as_of": "2026-01-10T08:00:00Z",
+  "model_version": "1.0",
+  "parameters": {
+    "threshold": 0.7,
+    "windowMinutes": 120,
+    "priorMean": 0.05,
+    "priorStrength": 20
+  },
+  "input_sha256": {
+    "passages": "5c03a3a3b5693db2128950bc3dead090f45a3e7fec4dfeed84676423744efaa7",
+    "events": "d0ebe7acecefc54dbd77c2d87840361d0ea25b3fe3e95c293ae48e2b359d5a33",
+    "responses": "360a3698945279fd1f9077b0751ce92956b060b44e0c3836fddfadb0d60ccf04",
+    "maintenance": "0c2b73b3d03aeb07ee0e2ca973a0d754c02e582c325e7a84714e237586302dd4",
+    "coverage": "2f30c1652eb3c9b3d88ba3a2ab0c9828b00632ed9b46b4282b2d3348d25baa75",
+    "weather": "a6eddc6cc8d0c1bab195dbf324fe81f66b48287db65bc87e0ac628859736c1c6"
+  }
+}

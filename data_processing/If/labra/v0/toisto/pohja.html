@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fi">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Turku – tammikuun simulaatio</title>
+<style>
+@@CSS@@
+</style>
+<main>
+  <h1>Turku · VPK-talon ympäristö · tammikuu 2026</h1>
+  <p>Artukaisen sää on mitattu. Ohikulut, liukastumiset, kaatumiset ja huoltotoimet on simuloitu.</p>
+  <div class="ohjaus">
+    <button id="play" type="button">Toista</button>
+    <label>Nopeus <select id="speed"><option value="1000">1 tunti / s</option><option value="250" selected>4 tuntia / s</option><option value="80">12,5 tuntia / s</option></select></label>
+    <strong id="time"></strong><span id="weather"></span>
+  </div>
+  <label class="aikajana">Ajankohta <input id="slider" type="range" min="0" value="0" aria-label="Tammikuun ajankohta"></label>
+  <p id="policy"></p>
+  <div class="kartat">
+    <section><h2>Aikataulutettu huolto</h2><p id="stats0"></p><canvas id="map0" width="1000" height="1000" aria-label="Aikataulutetun huollon havaintokartta"></canvas></section>
+    <section><h2>Tärinähavainnoilla kohdistettu huolto</h2><p id="stats1"></p><canvas id="map1" width="1000" height="1000" aria-label="Tärinähavaintojen perusteella kohdistetun huollon havaintokartta"></canvas></section>
+  </div>
+  <p id="cell" aria-live="polite">Valitse ruutu kartalta nähdäksesi sen havaintomäärän.</p>
+  <p id="difference" aria-live="polite"></p>
+  <p id="all" aria-live="polite"></p>
+  <p id="legend"></p>
+  <p class="lahde">Taustakartta: Maanmittauslaitos, taustakarttasarja / <a href="https://kartat.kapsi.fi/">Kapsi</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. <span id="mapdate"></span></p>
+  <details><summary>Simulaation oletukset</summary><p id="assumptions"></p>
+    <p>Reitit on hahmoteltu käsin kartalta. Kulkemisen määrät ja ruutujen piilevä liukkaus ovat oletuksia. Huoltokohteet ovat samankokoisia neliöitä; todellisia työaikoja ei mallinneta. Tulokset kuvaavat tätä simulaatiota. Sääaseman havainto ei mittaa yksittäisen ruudun tienpintaa.</p>
+    <p>Vasen vaihtoehto kiertää kohteita järjestyksessä. Oikea laskee jokaiselle ruudulle beta-binomiaalisen posteriorin päivän liukkaudesta tärinähavainnoista ja ohikuluista ja hiekoittaa alueet, joilla odotettu liukastumisaltistus on suurin. Kumpikaan ohjaus ei näe simulaation piilevää liukkautta.</p>
+    <p>Vertailuina lasketaan myös huolto ilman havaintoja vilkkaimmille alueille sekä oraakkeli, joka tuntee piilevän liukkauden. Etu perustuu oletettuun ruutujen väliseen liukkauden vaihteluun, tunnistuksen erottelukykyyn ja hiekoituksen vaikutukseen. Ehdot ja todistus: paperi/paperi_fi.pdf.</p>
+  </details>
+</main>
+<script>
+@@DATA@@
+@@JS@@
+</script>
+</html>

@@ -1,0 +1,443 @@
+Liikennevakuutusehdot
+Ehto LII 601.20, voimassa 1.1.2023 alkaen
+
+1 Vakuutusehtojen soveltamisala .............................................................. 1                      8.4 Bonussäännöt - 20.5.2017 ja sen jälkeen alkaneet vakuutukset ........3
+2 Vakuutuksen voimassaoloalue ............................................................... 1                       8.4.1 Bonuksen nouseminen .....................................................................3
+3 Vakuutuksen sisältö................................................................................ 1               8.4.2 Vahinkojen vaikutus bonukseen .......................................................4
+4 Vakuutussopimus ................................................................................... 1               8.5 Vakuutus- ja vahinkohistoriatietojen säilyttäminen ..............................4
+4.1 Vakuutuksenottajan tiedonantovelvollisuus ennen vakuutussopimuksen                                                8.6 Vakuutusmaksun suorittaminen ...........................................................4
+tekemistä ................................................................................................... 1       8.7 Vakuutusmaksun viivästyminen ...........................................................4
+4.2 Muuttuneet olosuhteet vakuutuskauden aikana .................................. 1                                  8.8 Vakuutusmaksun palauttaminen ..........................................................4
+5 Vakuutusyhtiön vastuun alkaminen ........................................................ 1                         8.8.1 Ajoneuvon liikennekäytöstä poistaminen toistaiseksi .......................4
+6 Vakuutuskausi ........................................................................................ 2            8.8.2 Vakuutuksen päättyminen.................................................................4
+7 Vakuutussopimuksen voimassaoloaika ................................................. 2                              8.8.3 Viivästyskorko palautettavalle määrälle ............................................4
+8 Vakuutusmaksu ...................................................................................... 2              8.9 Ajoneuvon käyttö liikennekäytöstä poiston aikana ..............................4
+8.1 Vakuutusmaksun perusteet ................................................................. 2                      9 Vakuutusehtojen, vakuutusmaksujen ja muiden sopimusehtojen
+8.2 Vahinkojen vaikutus vakuutusmaksuun .............................................. 2                              muuttaminen...............................................................................................4
+8.2.1 Bonusjärjestelmän soveltaminen ..................................................... 2                          9.1 Vakuutusehtojen, vakuutusmaksun ja muiden sopimusehtojen
+8.3 Bonussäännöt - ennen 20.5.2017 alkaneet vakuutukset .................... 2                                        muuttaminen vakuutuskauden vaihtuessa ................................................4
+8.3.1 Bonusluokan määräytyminen ........................................................... 2                         10 Vakuutussopimuksen päättyminen .......................................................5
+8.3.2 Bonuksen nouseminen ..................................................................... 2                     10.1 Vakuutuksenottajan oikeus irtisanoa vakuutus .................................5
+8.3.2.1 Nuoren Loistokuskietu ................................................................... 2                   10.2 Vakuutuksen lakkaaminen ilman kirjallista irtisanomisilmoitusta ......5
+8.3.3. Vahinkojen vaikutus bonukseen ...................................................... 3                         11 Vakuutusyhtiön takautumisoikeus ........................................................5
+8.3.4 Vahinkohistorian siirtäminen ............................................................ 3                     12 Toimenpiteet vahingon satuttua ............................................................5
+
+
+1 Vakuutusehtojen soveltamisala
+Ehtoja sovelletaan yksityisille henkilöille sekä yrityksille ja yhteisöille liikenteessä käytettävää moottoriajoneuvoa varten myönnettäviin ajoneuvokohtaisiin
+liikennevakuutuksiin.
+
+Jos liikennevakuutus on liitetty If Sopimukseen, sovelletaan liikennevakuutukseen yleisiä sopimusehtoja siltä osin kuin ne koskevat
+If Sopimusmääräyksiä.
+
+2 Vakuutuksen voimassaoloalue
+Moottoriajoneuvoa varten myönnetty liikennevakuutus on voimassa kaikissa Euroopan talousalueeseen (ETA) kuuluvissa valtioissa.
+
+Liikennevakuutus on voimassa vastuuvakuutuksena vihreän kortin yleissopimukseen liittyneissä ETA-valtioiden ulkopuolisissa valtioissa vihreän kortin
+perusteella, tai ilman vihreää korttia, kun sellainen ei ole välttämätön. Näissä valtioissa sattuneen liikennevahingon korvaus määräytyy vahingon
+sattumismaan lainsäädännön mukaan.
+
+Liikennevakuutus ei kuitenkaan ole voimassa Azerbaidzanissa, Iranissa, Kosovossa, Kyproksen pohjoisosassa, Marokossa, Tunisiassa, Turkissa, Valko-
+Venäjällä, Venäjällä ja Vuoristo-Karabahissa.
+
+3 Vakuutuksen sisältö
+Liikennevakuutuksesta korvataan liikennevakuutuslain mukaisesti moottoriajoneuvon liikenteeseen käyttämisestä Suomessa aiheutunut henkilö- ja
+omaisuusvahinko.
+
+Vakuutuksessa korvataan myös ETA-valtion kansalaiselle myös sellainen liikennevahinko, joka on sattunut läpikuljettavalla alueella muussa kuin vihreä
+kortti -järjestelmään kuuluvassa valtiossa, kun kysymys on välittömästä matkasta ETA-valtiosta toiseen ETA-valtioon.
+
+Vakuutus kattaa sen ETA-valtion lainsäädännön mukaisen vakuutusturvan, jossa vahinko sattui, tai tämän lain mukaisen vakuutusturvan, jos se on
+ensiksi mainittua parempi.
+
+Suomessa asuva vahinkoa kärsinyt voi valita, että Suomen liikennevakuutuslain mukaan vakuutetun ajoneuvon liikenteessä käyttämisestä aiheutunut
+muualla ETA-alueella kuin Suomessa sattunut henkilövahinko korvataan Suomen lain mukaan silloin, kuin vahinko lainvalintaa koskevien säännösten
+mukaan tulisi korvattavaksi muun kuin Suomen lain mukaan.
+
+4 Vakuutussopimus
+4.1 Vakuutuksenottajan tiedonantovelvollisuus ennen vakuutussopimuksen tekemistä
+Vakuutuksenottajan tulee ennen vakuutuksen myöntämistä antaa oikeat ja täydelliset vastaukset vakuutusyhtiön tai sen edustajan esittämiin kysymyksiin,
+joilla voi olla merkitystä vakuutusyhtiön vastuun arvioimisessa.
+
+Vakuutuksenottajan tulee lisäksi vakuutuskauden aikana ilman aiheetonta viivytystä oikaista vakuutusyhtiölle antamansa, vääriksi tai puutteellisiksi
+havaitsemansa tiedot.
+
+Tiedonantovelvollisuuden laiminlyönnin seurauksista säädetään Liikennevakuutuslain 14 pykälässä.
+
+4.2 Muuttuneet olosuhteet vakuutuskauden aikana
+Vakuutuksenottajan tulee ilmoittaa viipymättä vakuutusyhtiölle, jos vakuutussopimusta tehdessä ilmoitetut tai vakuutuskirjaan merkityt asiantilat muuttuvat
+vakuutuskauden aikana. Niistä ilmoittamisen laiminlyönnin seurauksista säädetään Liikennevakuutuslain 15 pykälässä.
+
+5 Vakuutusyhtiön vastuun alkaminen
+Vakuutusyhtiön vastuu alkaa, kun vakuutusyhtiö tai vakuutuksenottaja antaa tai lähettää hyväksyvän vastauksen toisen sopijapuolen tarjoukseen, jollei
+vakuutuksenottajan kanssa muuta ole yksilöllisesti sovittu Vakuutusyhtiön vastuun alkamisajankohtaa ei voi sopimuksin siirtää tätä aikaisemmaksi.
+
+Jos vakuutuksenottaja on antanut tai lähettänyt kirjallisen vakuutushakemuksen vakuutusyhtiölle, ja jos on ilmeistä, että vakuutusyhtiö olisi hakemuksen
+hyväksynyt, vakuutusyhtiö vastaa myös hakemuksen antamisen tai lähettämisen jälkeen sattuneesta vakuutustapahtumasta.
+
+Vakuutushakemus tai hyväksyvä vastaus katsotaan jätetyksi tai lähetetyksi vakuutusyhtiölle myös silloin, kun vakuutuksenottaja on antanut tai lähettänyt
+sen vakuutusyhtiön edustajalle.
+
+Jollei ole selvitystä kellonajasta, jolloin vastaus tai hakemus on annettu tai lähetetty, katsotaan tämän tapahtuneen kello 24.00.
+
+Erityisistä syistä vakuutuksenantajan vastuu alkaa vasta, kun ensimmäisen vakuutuskauden maksu on suoritettu. Tällainen syy voi olla esimerkiksi
+vakuutusmaksun aikaisempi laiminlyönti.
+
+
+
+                                                                                                                  1
+Liikennevakuutusehdot
+Ehto LII 601.20, voimassa 1.1.2023 alkaen
+
+6 Vakuutuskausi
+Ensimmäinen vakuutuskausi on enintään 13 kuukautta. Seuraavat kaudet ovat vuoden pituisia.
+7 Vakuutussopimuksen voimassaoloaika
+Jos jäljempänä ei ole toisin määrätty, vakuutussopimus on voimassa siihen saakka, kunnes omistajan tai haltijan velvollisuus vakuuttaa kyseinen ajoneuvo
+päättyy tai vakuutuksenottaja irtisanoo sen päättymään. Vakuutus on voimassa, vaikka vakuutusmaksua ei olisi maksettu.
+
+8 Vakuutusmaksu
+8.1 Vakuutusmaksun perusteet
+Vakuutusmaksu lasketaan vakuutusyhtiön maksuperusteiden mukaan. Vakuutusmaksut voidaan määrätä erilaisiksi ottaen huomioon eri
+vakuutuksenottajaryhmien erilaiset vahinkoriskit.
+
+Vakuutusmaksu vakuutusmaksuveroineen vakuutuskaudelta on vähintään 25 euroa, rekisteröimättömien moottoripyörien vakuutuksissa vähintään 100
+euroa.
+
+8.2 Vahinkojen vaikutus vakuutusmaksuun
+8.2.1 Bonusjärjestelmän soveltaminen
+Vakuutuksenottaja saa vakuutusmaksun bonusalennusta vahingottoman vakuutuskauden perusteella seuraavalta vakuutuskaudelta. Vakuutusyhtiön
+maksama korvaus vaikuttaa bonusalennuksen suuruuteen bonustaulukon mukaisesti.
+
+Bonusjärjestelmää sovelletaan vain vakuutuksenottajan omistuksessa tai hallinnassa olevan ajoneuvon vakuutukseen.
+
+Bonusjärjestelmää ei sovelleta, kun vakuutettava ajoneuvo on museoajoneuvo, mopo, moottorikelkka tai muu maastoajoneuvo, perävaunu, traktori,
+liikennetraktori, hinattava laite, kolmipyörä, nelipyörä, kevyt nelipyörä tai rekisteröimisvelvollisuudesta vapautettu ajoneuvo.
+
+Bonusjärjestelmää ei myöskään sovelleta tienpitoon tarkoitettuihin moottorityökoneisiin, joiden suurin rakenteellinen nopeus on yli 15 km/h.
+
+8.3 Bonussäännöt - ennen 20.5.2017 alkaneet vakuutukset
+8.3.1 Bonusluokan määräytyminen
+Liikennevakuutuksen bonusluokka määräytyy vakuutuksenottajan vakuutus- ja vahinkohistorian perusteella seuraavasti:
+
+Bonustaulukko
+
+Liikennevakuutuksen bonusluokka määräytyy vakuutuksenottajan vakuutus- ja vahinkohistorian perusteella seuraavasti:
+
+ Bonusluokka                                   E    D     C    B    A   S    12   11   10   9    8    7    6    5    4    3    2    1    0   U   K   M
+
+ Alennus-%                                    75    75   70   70   70   70   65   60   55   50   45   40   35   30   25   20   15   10   5   0   0   0
+
+ Bonuksen nousu ilman vahinkoa                 E   D/E    E    C    B   A    S    12   11   10   9    8    7    6    5    4    3    2    1   1   0   K
+
+ Bonuksen lasku - 1 vahinko                    D    10    9    9    9    9   8    7    6    5    4    3    2    2    1    0    K    K    M   M   M   M
+
+ Bonuksen lasku - 2 vahinkoa                  10    5     4    4    4    4   3    2    1    1    0    K    M    M    M    M    M    M    M   M   M   M
+
+ Bonuksen lasku - 3 vahinkoa                   5    1     0    0    0    0   K    M    M    M    M    M    M    M    M    M    M    M    M   M   M   M
+
+Uusi vakuutus sijoitetaan luokkaan U eli 0 prosentin bonusluokkaan.
+
+Uudeksi vakuutukseksi katsotaan vakuutus, jolla ei ole tai jolle ei ole käytettävissä vahinkohistoriaa. Jos vakuutuksenottaja ei halua käyttää
+vahinkohistoriaansa, sijoitetaan vakuutus luokkaan M.
+
+Moottoripyörien uusi vakuutus sijoitetaan bonusluokkaan 3 (bonus 20 %).
+
+Linja-autojen, matkailuautojen ja muiden erikoisautojen uusi vakuutus sijoitetaan luokkaan 1 (bonus 10 %).
+
+Kun vakuutusta sijoitetaan bonusluokkaan, vakuutuksenottajalla eri vakuutusyhtiöissä olevat vakuutus- ja vahinkohistoriat otetaan huomioon edellä
+kerrotun bonustaulukon mukaisesti. Toisiaan ajallisesti seuraavat vahinkohistoriat, joita ei ole samanaikaisesti huomioitu muun vakuutuksen hinnoittelussa,
+huomioidaan tällöin yhtenä vahinkohistoriana.
+
+8.3.2 Bonuksen nouseminen
+Jos vakuutusyhtiö ei ole maksanut vakuutuskaudella bonusluokkasijoitukseen vaikuttavaa korvausta, vakuutus siirtyy taulukon mukaisesti korkeampaan
+bonusluokkaan.
+
+Ensimmäisen vahingottoman vakuutuskauden jälkeen bonus on
+10 prosenttia. Tämän jälkeen bonus kasvaa vuosittain 5 prosenttiyksikköä, paitsi luokista S, A, B ja D, joissa bonusluokan nousu ei nosta bonusprosenttia.
+Luokasta D bonusluokka nousee neljän perättäisen vahingottoman vakuutuskauden jälkeen takaisin luokkaan E.
+
+Vakuutuksen siirtyminen vahingottoman vakuutuskauden jälkeen korkeampaan bonusluokkaan edellyttää, että ajoneuvo on vakuutuskauden aikana ollut
+liikennekäytössä:
+-     moottoripyörä: vähintään 90 vuorokauden ajan, vuodenaikahinnoitellussa tuotteessa vähintään 300 vuorokautta
+-     muut ajoneuvot: vähintään 140 vuorokauden ajan.
+Vuoden mittaisen ajanjakson aikana vakuutus voi siirtyä korkeampaan bonusluokkaan enintään yhden kerran.
+
+8.3.2.1 Nuoren Loistokuskietu
+Neljän perättäisen vahingottoman vakuutuskauden jälkeen yksityiseen käyttöön rekisteröidyn henkilöauton bonus kasvaa yhden kerran 5 prosenttiyksikön
+sijasta
+-    luokista 0-8 25 prosenttiyksikköä
+-    luokista 9-11 viisi bonusluokkaa eli luokkiin A-C (70 prosenttiin)
+-    luokista 12-D luokkaan E (75 prosenttiin).
+
+Jos näin laskettu bonuksen määrä ylittäisi 75 %, on bonusalennus 75 %.
+
+Tämän edun saaminen edellyttää, että vakuutuksenottaja:
+-  on neljää vahingotonta vakuutuskautta seuraavan vakuutuskauden alussa enintään 30-vuotias,
+-  on vakuutuksen alkaessa ollut iältään 18-26 vuotta,
+-  ei ole täyttänyt 27 vuotta ennen 2.2.2009 ja
+
+                                                                              2
+Liikennevakuutusehdot
+Ehto LII 601.20, voimassa 1.1.2023 alkaen
+
+-   ei ole jo aiemmin saanut hyväkseen tätä etua.
+
+8.3.3. Vahinkojen vaikutus bonukseen
+Vakuutus siirtyy kunkin vakuutuskauden jälkeen vakuutuskaudella korvattujen vahinkojen lukumäärän perusteella bonusluokasta toiseen bonustaulukon
+mukaisesti.
+
+Bonus laskee yhden samalla vakuutuskaudella sattuneen vahingon seurauksena 20 prosenttiyksiköllä, paitsi
+-  luokista 3-5, joista bonus laskee 15 prosenttiyksikköä
+-  luokasta E luokkaan D, jolloin bonusprosentti ei laske.
+
+Jos vahinkoja on saman vakuutuskauden aikana 4 tai enemmän, bonus laskee kaikista bonusluokista luokkaan M.
+
+Vakuutusmaksuun vaikuttavaksi vahingoksi katsotaan sellainen ajoneuvon omistajan, haltijan tai kuljettajan tuottamuksesta tai ajoneuvon
+puutteellisuudesta aiheutunut vahinko, josta vakuutusyhtiö on maksanut vahingonkorvausta.
+
+Vakuutusmaksuun vaikuttavaksi vahingoksi ei katsota vahinkoa, josta on maksettu vahingonkorvaus, jos
+-   korvaus on suoritettu lukittuna taikka lukitussa tai vartioidussa säilytyssuojassa ollutta ajoneuvoa luvatta käytettäessä sattuneesta vahingosta
+-   korvaus on suoritettu vakuutetun ajoneuvon omistusoikeuden vaihtumista seuranneen seitsemän päivän aikana sattuneesta vahingosta eikä vahinkoa
+    ole aiheuttanut vakuutuksenottaja tai hänen kanssaan samassa taloudessa asuva perheenjäsen tai
+-   vakuutuksenottaja on viimeistään vahingonkorvausta seuranneen vakuutuskauden kuluessa suorittanut vakuutusyhtiölle korvausta vastaavan
+    rahamäärän.
+
+Jos vakuutuksesta, jonka vahinkohistoria siirretään toiseen vakuutukseen, korvataan vahinkoja siirron jälkeen, vahingot otetaan huomioon sen vakuutuksen
+bonusluokassa, johon vahinkohistoria on siirretty.
+
+8.3.4 Vahinkohistorian siirtäminen
+Vakuutuksesta, johon sovelletaan bonusjärjestelmää, kertyy vakuutuksenottajalle vakuutus- ja vahinkohistoria.
+
+Vakuutuksenottaja voi halutessaan vaihtaa ajoneuvon vakuutukseen liittyvän vahinkohistoriansa huomioitavaksi toisen ajoneuvonsa vakuutuksessa alla
+mainittujen luokkien A-C sisällä, mutta ei niiden välillä. Lisäksi sen voi tehdä käyttöluokkien 1-5 sisällä, mutta ei niiden välillä.
+
+Ajoneuvoluokat
+A. Autot (M- ja N-luokat eli henkilö-, paketti-, linja- ja kuorma-autot)
+B. Moottoripyörät (L3- ja L4-luokat)
+C. Moottorityökoneet
+
+Käyttöluokat
+1. Yksityinen
+2. Luvanvarainen
+3. Kouluajoneuvo
+4. Vuokraus ilman kuljettajaa
+5. Myyntivarasto
+
+Kuolleen henkilön vahinkohistoria otetaan huomioon hänen kuolinpesänsä vakuutuksessa.
+
+Jos vakuutus, jonka vahinkohistoria on vaihdettu huomioitavaksi toisessa vakuutuksessa, jää voimaan, se hinnoitellaan kuin vakuutus, jolla ei ole
+vahinkohistoriaa.
+
+8.4 Bonussäännöt - 20.5.2017 ja sen jälkeen alkaneet vakuutukset
+Jos vakuutuksenottajalla ei ole aiempaa liikennevakuutuksen vakuutus- ja vahinkohistoriaa, sijoitetaan vakuutus sen alkaessa bonusluokkaan 30 %.
+
+Jos vakuutuksenottaja ei halua käyttää vahinkohistoriaansa, sijoitetaan vakuutus sen alkaessa bonusluokkaan 0 %.
+
+Alin bonusluokka on 0 % ja sitä seuraavat 5 prosenttiyksikön välein korkeimpaan bonusluokkaan 80 %:in asti.
+
+Jos vakuutuksenottajalla on vakuutus- tai vahinkohistoria, se otetaan huomioon bonuksen määräytymisessä vakuutuksen alkaessa. Tällöin jokainen
+vahingoton yksittäisen ajoneuvon vakuutuskausi nostaa bonusta 10 prosenttiyksikköä bonusluokasta 30 % laskien. Vakuutuskausi otetaan huomioon
+edellyttäen, että ajoneuvo on vakuutuskauden aikana ollut liikennekäytössä 90 vuorokautta, poikkeuksena vuodenaikahinnoitelluissa vakuutuksissa
+vähintään 300 vuorokautta.
+
+Jos vakuutuksenottajan vahinkohistoriassa on vahinkoja, otetaan ne huomioon uuden vakuutuksen bonusta määritettäessä seuraavalla tavalla:
+
+Jos vakuutuksenottajalla on edeltävän viiden vuoden aikana ollut vakuutettuna 1 ajoneuvo
+-   alennetaan vakuutushistorian perusteella saatua bonusta 15 prosenttiyksikköä kustakin vahingosta, joka on tapahtunut edeltävän kahden vuoden
+    aikana.
+-   alennetaan vakuutushistorian perusteella saatua bonusta 10 prosenttiyksikköä kustakin vahingosta, joka on tapahtunut 3-5 vuotta sitten.
+
+Jos vakuutuksenottajalla on edeltävän viiden vuoden aikana ollut vakuutettuna 2 tai useampi ajoneuvo
+-   alennetaan vakuutushistorian perusteella saatua bonusta 10 prosenttiyksikköä kustakin vahingosta, joka on tapahtunut edeltävän kahden vuoden
+    aikana.
+-   alennetaan vakuutushistorian perusteella saatua bonusta 5 prosenttiyksikköä kustakin vahingosta, joka on tapahtunut 3-5 vuotta sitten.
+
+Vakuutuksenottajan kanssa samassa taloudessa asuvan aviopuolison, avopuolison tai hänen kanssaan rekisteröidyssä parisuhteessa olevan henkilön
+vakuutus- ja vahinkohistoria voidaan asianomaisen suostumuksella ottaa huomioon bonusta määritettäessä kuten vakuutuksenottajan vakuutus- ja
+vahinkohistoria. Vainajan vakuutus- ja vahinkohistoria voidaan kuolinpesän suostumuksella ottaa huomioon lesken bonusta määritettäessä.
+
+8.4.1 Bonuksen nouseminen
+Jos vakuutusyhtiö ei ole maksanut vakuutuskaudella bonusluokkasijoitukseen vaikuttavaa korvausta, vakuutus siirtyy korkeampaan bonusluokkaan.
+
+Vahingottoman vakuutuskauden jälkeen bonus nousee 10 prosenttiyksikköä, paitsi luokasta 75 %, josta se nousee 5 prosenttiyksikköä luokkaan 80 %.
+Korvattua vahinkoa seuraavan vakuutuskauden jälkeen bonus nousee kuitenkin 5 prosenttiyksikköä.
+Suurin mahdollinen bonus on 80 % (bonusluokka 80 %). Pienin mahdollinen bonus on 0 % (bonusluokka 0 %).
+
+Vakuutuksen siirtyminen vahingottoman vakuutuskauden jälkeen korkeampaan bonusluokkaan edellyttää, että ajoneuvo on vakuutuskauden aikana ollut
+liikennekäytössä 90 vuorokautta, poikkeuksena vuodenaikahinnoitelluissa vakuutuksissa vähintään 300 vuorokautta.
+
+
+
+                                                                             3
+Liikennevakuutusehdot
+Ehto LII 601.20, voimassa 1.1.2023 alkaen
+
+Vuoden mittaisen ajanjakson aikana vakuutus voi siirtyä korkeampaan bonusluokkaan enintään yhden kerran.
+
+8.4.2 Vahinkojen vaikutus bonukseen
+Vakuutus siirtyy kunkin vakuutuskauden jälkeen vakuutuskaudella korvattujen vahinkojen lukumäärän perusteella bonusluokasta.
+
+Bonus laskee yhden samalla vakuutuskaudella sattuneen vahingon seurauksena
+-  luokista 75 % - 80 % 10 prosenttiyksikköä
+-  luokista 65 % - 70 % 15 prosenttiyksikköä
+-  luokista 60 % ja sitä alemmista luokista 20 prosenttiyksikköä.
+
+Alin mahdollinen bonusluokka, johon bonus voi laskea, on 0 %.
+Luokasta 80 % bonus ei laske yhdestä vahingosta neljässä vuodessa.
+
+Vahingon seurauksena bonus alenee vain siinä vakuutuksessa, josta vahinko korvataan. Näin ollen bonus ei alene muissa voimassa olevissa
+vakuutuksissa kuin siinä, josta vahinko korvataan.
+
+Vakuutusmaksuun vaikuttavaksi vahingoksi katsotaan sellainen ajoneuvon omistajan, haltijan tai kuljettajan tuottamuksesta tai ajoneuvon
+puutteellisuudesta aiheutunut vahinko, josta vakuutusyhtiö on maksanut vahingonkorvausta.
+
+Vakuutusmaksuun vaikuttavaksi vahingoksi ei katsota vahinkoa, josta on maksettu vahingonkorvaus, jos
+-   korvaus on suoritettu lukittuna taikka lukitussa tai vartioidussa säilytyssuojassa ollutta ajoneuvoa luvatta käytettäessä sattuneesta vahingosta
+-   korvaus on suoritettu vakuutetun ajoneuvon omistusoikeuden vaihtumista seuranneen seitsemän päivän aikana sattuneesta vahingosta eikä vahinkoa
+    ole aiheuttanut vakuutuksenottaja tai hänen kanssaan samassa taloudessa asuva perheenjäsen tai
+-   vakuutuksenottaja on viimeistään vahingonkorvausta seuranneen
+-   vakuutuskauden kuluessa suorittanut vakuutusyhtiölle korvausta vastaavan rahamäärän.
+
+8.5 Vakuutus- ja vahinkohistoriatietojen säilyttäminen
+Ellei muuta sovita, vakuutusyhtiö säilyttää vakuutuksen voimassaoloaikaa ja vahinkoja koskevat tiedot viisi (5) vuotta vakuutuksen päättymisvuoden jälkeen
+siten, että vahinkohistoriatiedot voidaan tarvittaessa antaa vakuutuksenottajalle ja hänen suostumuksellaan välittää toiselle vakuutusyhtiölle.
+
+8.6 Vakuutusmaksun suorittaminen
+Vakuutusmaksu on suoritettava kuukauden kuluessa siitä, kun vakuutusyhtiö on lähettänyt laskun vakuutuksenottajalle. Ensimmäistä erää ei kuitenkaan
+tarvitse maksaa ennen vakuutusyhtiön vastuun alkamista eikä myöhempiä eriä ennen sovitun vakuutus- tai vakuutusmaksukauden alkamista.
+
+Poikkeuksena ovat ehtokohdan 5 viidennessä kappaleessa mainitut tilanteet, joissa vakuutuksenantajan vastuun alkaminen edellyttää vakuutuskautta
+koskevan maksun suorittamista. Tämä merkitään vakuutusmaksulaskuun.
+
+8.7 Vakuutusmaksun viivästyminen
+Jos vakuutusmaksua ei ole suoritettu määräaikana, peritään vuotuista viivästyskorkoa korkolain mukaan. Vakuutusmaksu peritään viivästyskorkoineen
+ulosottotoimin ilman tuomiota tai päätöstä noudattaen, mitä laissa verojen ja maksujen täytäntöönpanosta on säädetty.
+
+Ennen ulosottoon ryhtymistä vakuutuksenottajalle ilmoitetaan perittävä maksu ja sen peruste sekä se, että ulosottotoimet aloitetaan, jos vakuutuksenottaja
+ei kirjallisesti 14 päivän kuluessa ilmoituksen lähettämisestä kiistä maksuvelvollisuuttaan. Jos maksuvelvollisuus kiistetään, täytäntöönpano edellyttää
+tuomioistuimen ratkaisua.
+
+8.8 Vakuutusmaksun palauttaminen
+8.8.1 Ajoneuvon liikennekäytöstä poistaminen toistaiseksi
+Ajoneuvorekisteriin merkityn auton, moottoripyörän, mopon, mopoauton, mönkijän, mopomönkijän ja maastoajoneuvon vakuutusten vakuutusmaksua
+palautetaan siltä ajalta, jona ajoneuvo on ollut liikennekäytöstä poistettuna. Moottoripyörillä ja pakettiautoilla yhtäjaksoisen liikennekäytöstä poiston tulee
+kestää vähintään 30 päivää, jotta niiden vakuutusmaksua palautetaan.
+
+Vakuutusmaksun palauttaminen edellyttää, että liikennekäytöstä poistamisesta on etukäteen tehty rekisteri-ilmoitus Traficomille säännösten ja määräysten
+mukaisesti.
+
+Maksunpalautus kultakin päivältä on 1/360 vakuutuksen vuosimaksusta.
+
+Ajoneuvon liikennekäytöstä poistoissa maksunpalautusta ei kuitenkaan anneta
+-   vakuutuksista, joiden hinnoittelu perustuu vuodenaikahinnoitteluun
+-   museoajoneuvovakuutuksista
+-   vientikilvellisistä ajoneuvoista
+-    vakuutuksista, joiden vakuutuksenottajana on rahoitussopimuksen velkoja tai leasing- tai muun vuokrasopimuksen vuokranantaja.
+
+Vakuutusmaksua ei erikseen palauteta, jos palautettava maksu on vähemmän kuin 8 euroa.
+
+8.8.2 Vakuutuksen päättyminen
+Vakuutuksen päättyessä vakuutusyhtiö palauttaa sen osan vakuutusmaksua, joka kohdistuu päättymisen jälkeiseen aikaan. Jos vakuutus on
+vuodenaikahinnoiteltu, kultakin päivältä palautettava määrä riippuu siitä, mihin päiviin vuodesta palautusaika kohdistuu. Jos vuodenaikahinnoitellussa
+vakuutuksessa vakuutuksen voimassaoloaikaan kohdistuvaa maksua on laskuttamatta, vakuutusyhtiö perii sen vakuutuksen päättymisen jälkeen.
+Vakuutusmaksua ei erikseen palauteta, jos palautettava maksu on vähemmän kuin 8 euroa.
+
+8.8.3 Viivästyskorko palautettavalle määrälle
+Vakuutusyhtiö maksaa vakuutusmaksun palautuksen viivästyneelle määrälle vuotuista viivästyskorkoa korkolain mukaan. Viivästyskorkoa maksetaan siitä
+lukien, kun kuukausi on kulunut maksun palautukseen oikeuttavan selvityksen saapumisesta yhtiölle.
+
+8.9 Ajoneuvon käyttö liikennekäytöstä poiston aikana
+Jos ajoneuvoa käytetään ilmoitetun liikennekäytöstä poiston aikana liikenteeseen, perii vakuutusyhtiö vakuutusmaksun kolminkertaisena. Kolminkertainen
+vakuutusmaksu peritään poiston alkamispäivän ja liikenteeseen käytön väliseltä ajalta.
+
+9 Vakuutusehtojen, vakuutusmaksujen ja muiden sopimusehtojen muuttaminen
+9.1 Vakuutusehtojen, vakuutusmaksun ja muiden sopimusehtojen muuttaminen vakuutuskauden vaihtuessa
+Vakuutusyhtiöllä on oikeus vakuutuskauden vaihtuessa muuttaa vakuutusmaksua vakuutuksia ja vahinkoja koskevan tilastoaineiston perusteella
+liikennevakuutuslain 20 pykälän 2 momentissa mainitun tarkoituksen turvaamiseksi siten, että maksut ovat kohtuullisessa suhteessa vakuutuksista
+aiheutuviin kustannuksiin. Maksua voidaan lisäksi muuttaa korvaus- tai kustannustason muutoksen seurauksena.
+
+Vakuutusmaksu voidaan määrittää eri vakuutuksenottajaryhmille erilaiseksi käyttäen vahinkoriskiä vastaavia erilaisia maksun määräytymisperusteita.
+Määräytymisperusteita ja vakuutusmaksua voidaan vakuutuskauden vaihtuessa muuttaa vakuutuksia ja vahinkoja koskevan tilastoaineiston perusteella
+paremmin vahinkoriskiä vastaavaksi.
+                                                                           4
+Liikennevakuutusehdot
+Ehto LII 601.20, voimassa 1.1.2023 alkaen
+
+
+Vakuutusyhtiöllä on myös oikeus muuttaa vakuutusehtoja, -maksua ja muita sopimusehtoja vakuutuskauden vaihtuessa, kun perusteena on
+-   vakuutuksenottajan, ajoneuvon haltijan, ajoneuvon kuljettajien tai ajoneuvon iän muuttuminen. Kun iän muuttuminen kasvattaa tai laskee tilastollista
+    vahinkoriskiä, vakuutusmaksua voidaan muuttaa paremmin riskiä vastaavaksi.
+-   uusi tai muuttunut lainsäädäntö tai viranomaisen määräys
+-   ennalta arvaamaton olosuhteiden muutos (esimerkiksi kansainvälinen kriisi, poikkeuksellinen luonnontapahtuma, suuronnettomuus).
+
+Vakuutusyhtiöllä on lisäksi oikeus tehdä vakuutusehtoihin vähäisiä muutoksia, joilla ei ole vaikutusta vakuutussopimuksen keskeiseen sisältöön.
+
+Jos vakuutusyhtiö tekee vakuutussopimukseen edellä kuvattuja muutoksia, vakuutusyhtiö lähettää vakuutuksenottajalle ilmoituksen siitä, miten
+vakuutusehdot, vakuutusmaksu tai muut sopimusehdot muuttuvat. Muutos tulee voimaan sen vakuutuskauden alusta lukien, joka ensiksi seuraa
+kuukauden kuluttua siitä, kun vakuutusyhtiö on lähettänyt vakuutuksenottajalle ilmoituksen vakuutusehtojen, vakuutusmaksun tai muiden sopimusehtojen
+muuttumisesta.
+
+9.2 Vakuutusehtojen, vakuutusmaksun ja muiden sopimusehtojen muuttaminen vakuutuskauden aikana
+Vakuutuksissa, joissa vakuutuksen hintaan vaikuttaa ajoneuvon ajosuorite, kuljettajan ikä (ajoneuvolla alle 24-vuotias kuljettaja) tai käyttötapa,
+vakuutusyhtiö voi niiden muututtua muuttaa vakuutusmaksua saatuaan tiedon muutoksesta. Tällöin vakuutusmaksua voidaan muuttaa muutosta
+vastaavan tilastollisen vahinkoriskin muutoksen mukaisesti.
+
+Vakuutuksenottajan tai ajoneuvon haltijan väestörekisteriin merkityn kotiosoitteen muuttuessa vakuutuksen hinta muuttuu sen mukaiseksi, mikä on
+vakuutuksen hinta ottaen huomioon uusi kotiosoite. Ajoneuvon siirtyessä kuolinpesälle se vaikuttaa vakuutuksen hintaan korottavasti.
+
+Saatuaan tiedon tällaisesta muutoksesta vakuutusyhtiö lähettää vakuutuksenottajalle ilmoituksen siitä, miten ja mistä ajankohdasta lukien vakuutusehdot,
+vakuutusmaksu tai muut sopimusehdot muuttuvat.
+
+10 Vakuutussopimuksen päättyminen
+10.1 Vakuutuksenottajan oikeus irtisanoa vakuutus
+Vakuutuksenottaja voi kirjallisesti irtisanoa liikennevakuutuksen
+1) ottamalla liikennevakuutuksen toisesta vakuutusyhtiöstä
+2) kun ajoneuvo, jota ei ole merkittävä rekisteriin, tuhoutuu tai se on otettu pois liikennevakuutuslain mukaisesta liikenteestä
+3) kun ajoneuvorekisteriin merkitty ajoneuvo on poistettu liikennekäytöstä.
+4) kun ajoneuvo on anastettu ja siitä on ilmoitettu poliisille ja vakuutusyhtiöille.
+
+10.2 Vakuutuksen lakkaaminen ilman kirjallista irtisanomisilmoitusta
+Vakuutuksenottajan irtisanomisilmoitukseksi katsotaan myös Liikenteen
+turvallisuusviraston, Liikennevakuutuskeskuksen tai toisen vakuutusyhtiön toimittama ilmoitus siitä, että
+1) rekisteriin merkitty ajoneuvo on siirtynyt oikeustoimen johdosta muulle uudelle omistajalle kuin vakuutuksenottajalle itselleen tai tämän kuolinpesälle tai
+     konkurssipesälle.
+2) rekisteriin merkityn ajoneuvon hallinta on palautunut omistajalle tai siirtynyt uudelle haltijalle, jos ajoneuvon haltija on yksin ollut vakuutuksenottaja
+3) ajoneuvolle on otettu vakuutus toisesta vakuutusyhtiöstä
+4) rekisteriin merkitty ajoneuvo on poistettu lopullisesti liikennekäytöstä,
+5) ajoneuvo poistetaan ulkomaille tai se siirtyy lain perusteella kunnan omistukseen.
+
+Näissä tilanteissa vakuutus lakkaa ilmoituksessa mainittuna päivänä.
+
+Jos ajoneuvon uusi omistaja tai haltija ei ole ottanut vakuutusta seitsemän (7) päivän kuluessa, päättyneestä vakuutuksesta korvataan myös ne vahingot,
+jotka ovat sattuneet seitsemän (7) päivän kuluessa omistusoikeuden siirtymisestä tai ajoneuvon hallinnan vaihtumisesta tai palautumisesta omistajalle, kun
+-     liikennevakuutus päättyy vakuutetun ajoneuvon omistuksen siirtyessä muulle uudelle omistajalle kuin vakuutuksenottajalle itselleen tai
+-     rekisteriin merkitty haltija on yksin vakuutuksenottajana ja ajoneuvon haltija vaihtuu tai sen hallinta palautuu omistajalle.
+
+Vakuutusyhtiön vastuuseen liikennevahingosta päättyneen vakuutuksen
+perusteella sovelletaan määräaikalakia.
+
+11 Vakuutusyhtiön takautumisoikeus
+Vahinkoa kärsineen oikeus vaatia kolmannelta henkilöltä korvausmäärä, jonka vakuutusyhtiö on hänelle suorittanut, siirtyy vakuutusyhtiölle.
+
+Jos kolmas henkilö on yksityishenkilö taikka työntekijä, virkamies tai näihin vahingonkorvauslain 3 luvun 1 pykälän mukaan rinnastettava muu henkilö taikka
+ajoneuvon omistaja, haltija, kuljettaja tai matkustaja, oikeus siirtyy kuitenkin vain, jos hän on aiheuttanut vakuutustapahtuman tahallisesti tai törkeästä
+huolimattomuudesta tai jos kuljettaja on aiheuttanut vahingon kuljettaessaan ajoneuvoa liikennevakuutuslain 48 pykälän 1 momentissa tarkoitetuissa
+olosuhteissa.
+
+12 Toimenpiteet vahingon satuttua
+Vakuutuksenottajan tulee tapahtumasta tiedon saatuaan viipymättä ilmoittaa kirjallisesti vakuutusyhtiölle tai sen edustajalle liikennevahingosta, joka voi
+johtaa korvausvaatimukseen. Jos mahdollista, ilmoitus on tehtävä asianmukaisella vahinkoilmoituslomakkeella. Vakuutuksenottaja on velvollinen
+toimittamaan vakuutusyhtiölle kaikki korvauskysymyksen käsittelemistä varten tarvittavat tiedot ja asiakirjat.
+
+Jos korvausta vaaditaan vakuutuksenottajalta tai muulta vahinkoon osalliselta, tulee tämän ohjata korvausvaatimus vakuutusyhtiölle.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+                                                                              5
+

@@ -1,0 +1,693 @@
+                               Yleiset sopimusehdot
+                               Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+
+
+
+Yleiset sopimusehdot perustuvat vakuutussopimuslakiin (543/94). Vakuutussopimukseen sovelletaan myös sellaisia vakuutussopimuslain säännöksiä, joita
+ei jäljempänä ole esitetty.
+
+Vakuutussopimuksen yleiset asiat, mm. voimassaolo, maksuehdot ja vakuutuksen päättyminen, määritellään yleisissä sopimusehdoissa. Vakuutuskohtaiset
+tiedot, mm. vakuutusturva, korvausmäärä, omavastuu ja rajoitukset, kerrotaan tuotteen ehdoissa.
+
+Näitä yleisiä sopimusehtoja noudatetaan kaikissa niissä vakuutussopimuksissa, joiden vakuutuskirjassa niin mainitaan.
+
+Keskeiset käsitteet ..................................................................................... 1           6 Vakuutustapahtuman aiheuttaminen ...................................................... 5
+1 Tietojen antaminen ennen vakuutussopimuksen tekemistä .................. 2                                          6.1 Vahinkovakuutus .................................................................................. 5
+1.1 Vakuutusyhtiön tiedonantovelvollisuus ............................................... 2                           6.2 Henkilövakuutus ................................................................................... 5
+1.2 Vakuutuksenottajan ja vakuutetun tiedonantovelvollisuus.................. 2                                       6.2.1 Vakuutetun aiheuttama vakuutustapahtuma .................................... 5
+1.2.1 Henkilö- ja vahinkovakuutus............................................................. 2                      6.2.2 Vakuutuskorvaukseen oikeutetun aiheuttama vakuutustapahtuma . 5
+1.2.2 Vahinkovakuutus .............................................................................. 2                7 Samastaminen ........................................................................................ 5
+1.2.3 Henkilövakuutus ............................................................................... 2               8 Kaikkia vakuutusturvia koskevat yhteiset rajoitukset .............................. 5
+2 If Sopimus ja muut asiakasedut ............................................................. 2                      8.1. Kansainvälisiä pakotteita ja vientivalvontaa koskevat rajoitukset ...... 5
+2.1 If Sopimus ............................................................................................ 2         8.2. Muut yhteiset rajoitukset ..................................................................... 5
+2.2 Muut asiakasedut ................................................................................ 2               9.1 Korvauksenhakijan velvollisuudet ........................................................ 6
+2.3 Alennusten ja korotusten muuttaminen sekä laskeminen................... 2                                         9.2 Korvausoikeuden vanhentuminen ....................................................... 6
+2.4 Vakuutussopimuksen voimaantulo ...................................................... 2                           9.3 Vakuutusyhtiön velvollisuudet .............................................................. 6
+2.4.1 Yleistä ............................................................................................... 2       9.4 Saatavien vähentäminen ..................................................................... 6
+2.4.2 Perusteet henkilövakuutusten myöntämiselle .................................. 2                                 10 Vakuutuskorvaus vahinkovakuutuksessa ............................................. 6
+2.5 Vakuutussopimuksen voimassaolo ..................................................... 3                            10.1 Ylivakuutus ja rikastumiskielto ........................................................... 6
+2.6 Edunsaajamääräys .............................................................................. 3                 10.2 Alivakuutus ......................................................................................... 6
+3 Vakuutusmaksu ...................................................................................... 3              11 Muutoksenhaku vakuutusyhtiön päätökseen........................................ 6
+3.1 Vakuutusmaksu ja sen suorittaminen, yleiset määräykset ................. 3                                        12 Vakuutusyhtiön oikeus korvauksen takaisinhakuun ............................. 6
+3.2 Vakuutusmaksun viivästyminen jatkuvissa ulosottokelpoisissa                                                       12.1 Vakuutusyhtiön takautumisoikeus kolmatta henkilöä kohtaan .......... 6
+vahinkovakuutuksissa ................................................................................ 3               12.2 Vakuutusyhtiön takautumisoikeus kolmatta henkilöä kohtaan
+3.3 Vakuutusmaksun viivästyminen henkilövakuutuksissa ja                                                              moottoriajoneuvovakuutuksessa ............................................................... 7
+ulosottokelvottomissa vahinkovakuutuksissa ............................................ 3                             12.3 Vakuutusyhtiön takautumisoikeus vakuutuksenottajaa, vakuutettua
+3.3.1 Vakuutusmaksun viivästyminen henkilövakuutuksissa .................... 3                                        tai vakuutettuun samastettua kohtaan vahinkovakuutuksessa ................. 7
+3.3.2 Vakuutusmaksun viivästyminen ulosottokelvottomissa                                                              13 Vakuutussopimuksen muuttaminen ...................................................... 7
+vahinkovakuutuksissa ................................................................................ 3               13.1 Sopimusehtojen muuttaminen vahinkovakuutuksessa
+3.3.3 Vakuutuksen uudelleen voimaantulon ajankohta ............................ 3                                     vakuutuskauden aikana ............................................................................. 7
+3.4 Maksujärjestelmä ................................................................................. 3              13.2 Sopimusehtojen muuttaminen henkilövakuutuksessa
+3.5 Vakuutusmaksun palauttaminen vakuutuksen päättyessä ................. 4                                           vakuutuskauden aikana ............................................................................. 7
+4 Tietojen antaminen sopimuksen voimassaoloaikana ............................ 4                                      13.3 Sopimusehtojen muuttaminen vakuutuskauden vaihtuessa ............. 7
+4.1 Vakuutusyhtiön tiedonantovelvollisuus ............................................... 4                           13.3.1 Ilmoitusmenettely ............................................................................ 7
+4.2 Vakuutuksenottajan yleinen tiedonantovelvollisuus ............................ 4                                  13.3.2 Irtisanomismenettely ....................................................................... 8
+4.2.1 Vakuutuksenottajan tiedonantovelvollisuus vahingonvaaran                                                        14 Vakuutussopimuksen päättyminen ....................................................... 8
+lisääntyessä ............................................................................................... 4        14.1 Sovittuna ja vakuutuskirjaan merkittynä aikana ................................ 8
+4.2.2 Laiminlyönnin seuraukset vahinkovakuutuksessa ........................... 4                                     14.2 Vakuutuksenottajan kirjallisesta ilmoituksesta .................................. 8
+4.2.3 Laiminlyönnin seuraukset henkilövakuutuksessa ............................ 4                                    14.3 Vakuutusyhtiön ilmoituksesta vahinkovakuutuksessa ....................... 8
+5 Velvollisuus estää ja rajoittaa vahingon syntymistä ............................... 4                               14.4. Vakuutusyhtiön ilmoituksesta henkilövakuutuksessa ....................... 8
+5.1 Velvollisuus noudattaa suojeluohjeita ................................................. 4                         14.5 Vakuutusyhtiön oikeus irtisanoa vakuutus vakuutuskauden
+5.1.1 Vahinkovakuutus .............................................................................. 4                lopussa ....................................................................................................... 8
+5.1.2 Vastuuvakuutus ................................................................................ 4               14.6 Vakuutussopimus tai sen osa päättyy ilman irtisanomista myös ...... 8
+5.2 Vahingon torjumis- ja rajoittamisvelvollisuus ...................................... 4                            15 Inflaatiosuoja ......................................................................................... 8
+5.2.1 Vahinkovakuutus .............................................................................. 4                16 Valuuttasäännöt .................................................................................... 9
+                                                                                                                      17 Vakuutussopimukseen sovellettava laki ............................................... 9
+
+
+
+
+Keskeiset käsitteet
+Vakuutus
+Vakuutuksella tarkoitetaan kohteelle otettua turvaa, joka on mainittu vakuutusehdoissa. Henkilövakuutuksella tarkoitetaan vakuutusta, jonka kohteena on
+luonnollinen henkilö. Vahinkovakuutuksella tarkoitetaan vakuutusta, joka otetaan esinevahingon, vahingonkorvausvelvollisuuden tai muun varallisuusvahingon
+aiheuttaman menetyksen korvaamiseksi.
+
+Vakuutussopimus
+Vakuutussopimuksen keskeisen sisällön määrittävät vakuutuskirja, kohde- ja turvakohtaiset vakuutusehdot sekä yleiset sopimusehdot. Lisäksi
+vakuutussopimukseen voidaan liittää suojeluohjeita ja yksilöllisiä rajoitusehtoja.
+
+Vakuutuksenottaja
+Vakuutuksenottaja on se, joka on tehnyt vakuutusyhtiön kanssa vakuutussopimuksen.
+
+Vakuutettu
+Vakuutettu on se, joka on henkilövakuutuksen kohteena tai jonka hyväksi vahinkovakuutus on voimassa.
+
+Vakuutussopimuksen osapuolet
+Vakuutussopimuksen osapuolia ovat vakuutuksenottaja ja vakuutusyhtiö (vakuutuksenantaja). Vakuutusturvan myöntänyt vakuutusyhtiö (vakuutuksenantaja)
+ilmenee vakuutuskirjasta.
+
+Vakuutustapahtuma
+Vakuutustapahtuma on sellainen tapahtuma, joka on vakuutussopimuksen mukaan tarkoitettu vakuutuksesta korvattavaksi.
+
+                                                                                                                  1
+                     Yleiset sopimusehdot
+                     Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+Vakuutuskausi ja vuosieräpäivä
+Vakuutuskausi on sovittu ajanjakso, joka on merkitty vakuutuskirjaan vakuutuksen voimassaoloajaksi. Vakuutussopimus jatkuu sovitun vakuutuskauden
+kerrallaan, ja määräaikainen vakuutussopimus on voimassa sovitun ajan, ellei jompikumpi sopimusosapuoli irtisano sopimusta. Vuosieräpäivä aloittaa
+vakuutuskauden, joka on enintään vuoden pituinen. Ensimmäinen vakuutuskausi voidaan kuitenkin sopia tästä poikkeavasti.
+
+Vakuutusmaksukausi
+Vakuutusmaksukausi on ajanjakso, jolta vakuutusmaksu on sovittu maksettavaksi.
+
+Suojeluohje
+Suojeluohje on vakuutussopimukseen otettu määräys laitteesta, menettelytavasta tai muusta järjestelystä, jolla on tarkoitus estää tai rajoittaa vahingon syntymistä.
+Suojeluohje annetaan vakuutuskirjassa, vakuutusehdoissa tai erillisenä turvallisuusohjeena.
+
+1 Tietojen antaminen ennen vakuutussopimuksen tekemistä
+1.1 Vakuutusyhtiön tiedonantovelvollisuus
+Ennen vakuutussopimuksen solmimista vakuutusyhtiö antaa vakuutuksenhakijalle tarpeelliset tiedot vakuutustarpeen arvioimista ja vakuutuksen valitsemista
+varten. Tällaisia tietoja ovat esimerkiksi tiedot vakuutusyhtiön tarjoamista vakuutusmuodoista, niiden maksuista ja ehdoista sekä vakuutusturvan olennaisista
+rajoituksista.
+
+1.2 Vakuutuksenottajan ja vakuutetun tiedonantovelvollisuus
+1.2.1 Henkilö- ja vahinkovakuutus
+Ennen vakuutuksen myöntämistä vakuutuksenottajan ja vakuutetun tulee antaa todenmukaiset ja täydelliset vastaukset kysymyksiin, joita vakuutusyhtiö esittää
+vastuunsa arvioimiseksi. Vakuutuskauden aikana vakuutuksen-ottajan ja vakuutetun tulee lisäksi viipymättä oikaista vakuutusyhtiölle antamansa tiedot, mikäli he
+havaitsevat ne vääriksi tai puutteellisiksi.
+
+Jos vakuutuksenottaja tai vakuutettu on menetellyt vilpillisesti täyttäessään edellä mainittua tiedonantovelvollisuuttaan, vakuutussopimus ei sido vakuutusyhtiötä.
+Vakuutusyhtiöllä on tällöin oikeus pitää saamansa vakuutusmaksut, vaikka vakuutus raukeaisi.
+
+1.2.2 Vahinkovakuutus
+Korvausta voidaan alentaa tai se voidaan evätä kokonaan, jos vakuutuksenottaja tai vakuutettu on laiminlyönyt tiedonantovelvollisuutensa joko tahallisesti tai
+huolimattomuudesta, jota ei voida pitää vähäisenä.
+
+Korvausta alennetaan, jos vakuutusmaksu on vakuutuksenottajan tai
+vakuutetun antaman väärän tai puutteellisen tiedon takia sovittu pienemmäksi kuin se olisi ollut, jos oikea ja täydellinen tieto olisi annettu. Korvausta alennetaan
+sovitun vakuutusmaksun suhteessa vakuutusmaksuun, joka olisi peritty oikean ja täydellisen tiedon perusteella. Vähäinen poikkeama vakuutusmaksuissa ei
+kuitenkaan oikeuta vakuutuskorvauksen alentamiseen.
+
+1.2.3 Henkilövakuutus
+Jos vakuutuksenottaja tai vakuutettu on tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä, laiminlyönyt tiedonantovelvollisuutensa, ja vakuutusyhtiö
+ei olisi lainkaan myöntänyt vakuutusta, jos todenmukaiset ja täydelliset vastaukset olisi annettu, on vakuutusyhtiö vapaa vastuusta. Jos vakuutus olisi myönnetty
+ainoastaan korkeampaa maksua vastaan tai muutoin toisilla ehdoilla, kuin on sovittu, vakuutusyhtiön vastuu rajoittuu siihen, mikä vastaa sovittua vakuutusmaksua
+tai niitä ehtoja, joilla vakuutus olisi myönnetty.
+
+2 If Sopimus ja muut asiakasedut
+2.1 If Sopimus
+If Sopimus on etu Ifin asiakkaille. If Sopimuksen sopimuskirjalle kootaan kaikki sopimuksen piiriin kuuluvat vakuutukset. If Sopimusasiakkaalla on oikeus maksaa
+vakuutusmaksut sovituissa erissä.
+
+If Sopimusasiakas käyttää päätösvaltaa If Sopimukseen liittyvissä asioissa. Jos If Sopimukseen on liitetty muiden henkilöiden vakuutuksia, voivat he halutessaan
+siirtää vakuutuksensa pois If Sopimuksesta.
+
+2.2 Muut asiakasedut
+Ifillä voi olla asiakkailleen myös muita etuja. Edut ja niiden edellytykset määräytyvät omien sääntöjensä mukaisesti. Etujen muuttuminen tai päättyminen ei vaikuta
+yksittäisiin vakuutuksiin.
+
+2.3 Alennusten ja korotusten muuttaminen sekä laskeminen
+Jos vakuutusmaksuun on sovittu yksilöllisiä alennuksia tai korotuksia, niiden edellytykset ja mahdolliset muutokset voidaan tarkistaa vuosieräpäivänä.
+
+Alennukset lasketaan peräkkäisinä laskutoimituksina edellisestä alennetusta hinnasta.
+
+2.4 Vakuutussopimuksen voimaantulo
+2.4.1 Yleistä
+Vakuutus tulee voimaan, kun toinen osapuoli on antanut tai lähettänyt hyväksyvän vastauksen toisen osapuolen tarjoukseen, jollei erityisestä alkamisajankohdasta
+ole sovittu.
+
+Vakuutusyhtiö vastaa kirjallisen vakuutushakemuksen jättämisen tai lähettämisen jälkeen sattuneesta vakuutustapahtumasta, vaikka hakemusta ei vielä olisi
+käsitelty, jos on ilmeistä, että yhtiö olisi sen hyväksynyt.
+
+Matka- ja lisenssivakuutuksissa vakuutusyhtiön vastuun alkamisen edellytyksenä on vakuutusmaksun suorittaminen, ellei tästä ole erikseen vakuutusyhtiön
+kanssa muuta sovittu.
+
+Jos ei ole selvyyttä siitä, mihin vuorokauden aikaan vastaus tai hakemus on annettu tai lähetetty, katsotaan tämän tapahtuneen kello 24.00.
+
+2.4.2 Perusteet henkilövakuutusten myöntämiselle
+Vakuutusmaksu ja muut sopimusehdot määräytyvät sillä perusteella, mikä vakuutetun terveydentila oli vakuutushakemuksen jättämis- tai lähettämishetkellä.
+Vakuutusyhtiö voi hylätä vakuutushakemuksen tai rajoittaa vastuunsa ulkopuolelle ne sairaudet ja vammat, jotka ovat olleet olemassa tai joista on ilmennyt oireita
+ennen vakuutuksen hakemista. Vakuutusyhtiö ei hylkää henkilövakuutusta koskevaa hakemusta sillä perusteella, että vakuutustapahtuma on sattunut tai sen
+henkilön, jolle vakuutusta haetaan, terveydentila on huonontunut sen jälkeen, kun hakemusasiakirjat on annettu tai lähetetty vakuutusyhtiölle.
+
+
+                                                                                  2
+                    Yleiset sopimusehdot
+                    Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+
+
+
+2.5 Vakuutussopimuksen voimassaolo
+Vakuutussopimus on jatkuva, ellei sitä ole sovittu määräaikaiseksi. Vakuutus-sopimus on ensimmäisen vakuutuskauden päätyttyä voimassa sovitun
+vakuutuskauden kerrallaan, jollei vakuutuksenottaja tai vakuutusyhtiö irtisano sopimusta. Tätä irtisanomisoikeutta ei ole vakuutusyhtiöllä henkivakuutuksen
+(Kuolemantapausturva) osalta. Vakuutussopimus voi päättyä myös muista, jäljempänä ehtokohdissa 3.3 ja 14 mainituista syistä. Määräaikainen vakuutussopimus
+on voimassa sovitun ajan.
+
+2.6 Edunsaajamääräys
+Vakuutuksenottajalla on oikeus määrätä henkilö (edunsaaja), jolla on henkilövakuutuksessa oikeus suoritettavaan korvaukseen. Vakuutuksenottaja voi muuttaa tai
+peruuttaa edunsaajamääräyksen, jos vakuutustapahtumaa, jossa määräys on tarkoitettu sovellettavaksi, ei ole sattunut. Edunsaajamääräyksestä, sen
+muuttamisesta tai peruuttamisesta on ilmoitettava vakuutusyhtiölle kirjallisesti.
+
+3 Vakuutusmaksu
+3.1 Vakuutusmaksu ja sen suorittaminen, yleiset määräykset
+Vakuutuskirjaan on merkitty, noudatetaanko vahinkovakuutuksen vakuutusmaksun viivästymistapauksissa ehtokohdan 3.2 vai 3.3 määräyksiä.
+
+Vakuutusmaksu on suoritettava viimeistään eräpäivänä.
+
+Vakuutusmaksun viivästymisestä aiheutuneesta maksukehotuksen lähettämisestä peritään erilliset käsittelykulut. Määräaikana maksamatta jääneestä
+vakuutusmaksusta peritään myöhästymisajalta vuotuista viivästyskorkoa korkolain mukaan.
+
+Matkavakuutuksen ensimmäinen vakuutusmaksu on maksettava viimeistään vakuutuksen alkamisajankohtana, ellei tästä ole erikseen vakuutusyhtiön kanssa
+muuta sovittu.
+
+Vakuutusmaksut maksetaan sovituissa erissä. Useammassa erässä maksettavan vakuutusmaksun kunkin maksuerän vähimmäismäärä on 30 euroa (e-laskun
+osalta 8 euroa). 12 erässä maksettava vakuutusmaksu on käytettävissä vain, mikäli asiakkaalla on käytössään e-lasku. Mikäli mainitut edellytykset eivät täyty,
+erien lukumäärää voidaan muuttaa. Laskutuserien lukumäärää voidaan muuttaa myös maksun laiminlyöntitapauksissa. Mikäli paperilaskutus tapahtuu
+useammassa kuin yhdessä erässä, lisätään jokaiseen laskuun kulloinkin voimassa oleva paperilaskulisä.
+
+Vakuutuksenottajan maksusuoritus kohdistetaan ensisijaisesti laskun viitetietojen mukaan. Jos vakuutuksenottajan suoritus ei riitä kaikkien vakuutusyhtiön
+vakuutus-maksusaatavien maksamiseen, vakuutuksenottajalla on oikeus määrätä, mitä vakuutusmaksusaatavia suorituksella lyhennetään. Vakuutuksenottajan on
+määrättävä lyhennysjärjestyksestä viimeistään maksun suorittamishetkellä.
+
+3.2 Vakuutusmaksun viivästyminen jatkuvissa ulosottokelpoisissa vahinkovakuutuksissa
+Vaikka jatkuvan vahinkovakuutuksen vakuutusmaksua ei olisikaan maksettu määräaikana, vakuutusturva on voimassa seuraavaan vuosieräpäivään saakka. Ellei
+vakuutusmaksua kokonaisuudessaan ole maksettu seuraavaan vuosieräpäivään mennessä, vakuutussopimus ja vakuutusyhtiön vastuu päättyy. Viivästynyt
+vahinkovakuutuksen maksu peritään viivästyskorkoineen ja perintäkuluineen ulosottotoimin ilman eri tuomiota tai päätöstä.
+
+Ennen ulosottoperinnän käynnistämistä vakuutusyhtiö ilmoittaa vakuutuksenottajalle perittävän vakuutusmaksun määrän ja perusteen. Samalla ilmoitetaan, että
+vakuutusyhtiö ryhtyy ulosottotoimiin, ellei vakuutuksenottaja kirjallisesti kiistä maksuvelvollisuuttaan 14 päivän kuluessa ilmoituksen lähettämisestä. Jos
+maksuvelvollisuus kiistetään, täytäntöönpanon edellytyksenä on tuomioistuimen ratkaisu.
+
+3.3 Vakuutusmaksun viivästyminen henkilövakuutuksissa ja ulosottokelvottomissa vahinkovakuutuksissa
+Jos vakuutuksenottaja ei ole maksanut vakuutusmaksua eräpäivänä, vakuutusyhtiöllä on oikeus irtisanoa vakuutus päättyväksi 14 päivän kuluttua irtisanomista
+koskevan ilmoituksen lähettämisestä.
+
+3.3.1 Vakuutusmaksun viivästyminen henkilövakuutuksissa
+Jos henkilövakuutus on päättynyt muun kuin ensimmäisen vakuutusmaksun suorittamatta jättämisen vuoksi, vakuutus tulee uudelleen voimaan, jos
+vakuutuksenottaja maksaa suorittamatta jätetyn vakuutusmaksun kokonaisuudessaan kuuden (6) kuukauden kuluessa vakuutuksen päättymisestä.
+Jos henkilövakuutuksen päättymisestä on kulunut yli kuusi (6) kuukautta tai vakuutus on päättynyt ensimmäisen vakuutusmaksun laiminlyömisen johdosta,
+vakuutusyhtiö päättää, voidaanko ja millaisin ehdoin vakuutus saattaa uudelleen voimaan.
+
+3.3.2 Vakuutusmaksun viivästyminen ulosottokelvottomissa vahinkovakuutuksissa
+Jos vahinkovakuutus on päättynyt muun kuin ensimmäisen vakuutusmaksun suorittamatta jättämisen vuoksi, vakuutus tulee uudelleen voimaan, jos
+vakuutuksenottaja maksaa koko suorittamatta jätetyn vakuutusmaksun ennen kuin alun perin sovittu vakuutuskausi on päättynyt. Sama koskee tilanteita, joissa
+vakuutusyhtiön vastuun alkamisen edellytyksenä on ensimmäisen vakuutusmaksun suorittaminen mutta se maksetaan viivästyneenä.
+
+Vahinkovakuutus ei kuitenkaan tule uudelleen voimaan, jos vakuutusyhtiö ilmoittaa vakuutuksenottajalle 14 vuorokauden kuluessa maksusta kieltäytyvänsä
+maksun vastaanottamisesta.
+
+3.3.3 Vakuutuksen uudelleen voimaantulon ajankohta
+Jos vakuutus tulee uudelleen voimaan, vakuutusyhtiön vastuu alkaa maksun suorittamista seuraavasta päivästä. Tässä tapauksessa päättymisen jälkeen
+maksetulla vakuutusmaksulla katetaan ensin jo voimassa olleen vakuutusturvan maksua ja vasta sen jälkeen maksua käytetään voimaansaaton jälkeiseen aikaan.
+
+3.4 Maksujärjestelmä
+If Sopimuksen jokaisen vakuutuksen maksua peritään maksuerään sisältyvältä ajalta. Jos maksu tulee perittäväksi myöhässä, peritään jo kuluneen ajan maksu
+kokonaisuudessaan ensimmäisessä mahdollisessa maksuerässä.
+
+Kesken vakuutuskauden uutta vakuutusturvaa lisättäessä sovelletaan uuteen turvaan muutoshetkellä voimassa olevia ehtoja ja maksuja.
+
+Maksusuoritus siirretään kaikkien laskussa olleiden vakuutusten hyväksi siinä näkyvien veloitusten suhteessa kuitenkin siten, että maksusuorituksesta
+vähennetään ensin mahdolliset viivästyskorot. Muistutus- ja perintäkulut vähennetään viivästyskorkojen ja varsinaisten vakuutusmaksujen jälkeen.
+
+Sopimuksessa tapahtuneiden muutosten aiheuttamia vakuutusmaksujen palautuksia ei makseta vakuutuksenottajalle erikseen, vaan ne pienentävät seuraavia
+maksueriä.
+
+
+                                                                                3
+                     Yleiset sopimusehdot
+                     Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+3.5 Vakuutusmaksun palauttaminen vakuutuksen päättyessä
+Jos vakuutus päättyy sovittua ajankohtaa aikaisemmin, vakuutusyhtiöllä on oikeus vakuutusmaksuun vain siltä ajalta, jonka vastuu on ollut voimassa.
+Palautettavaa määrää laskettaessa käytetään 360 päivää/vuosi ja 30 päivää/kuukausi.
+Vakuutuksen päättymisen jälkeiseltä ajalta maksettu maksu lasketaan ajan mukaan ja palautetaan vakuutuksenottajalle tai hyvitetään tämän If Sopimukseen.
+Vakuutusmaksua ei palauteta erikseen, jos palautettava maksu on vähemmän kuin 8 euroa. Vakuutusmaksun palautuksesta voidaan vähentää maksamattomat
+erääntyneet vakuutusmaksut ja muut vakuutusyhtiön erääntyneet saatavat yleisten kuittausedellytysten mukaisesti.
+
+Vakuutusmaksua ei palauteta, jos vakuutuksenottaja tai vakuutettu on menetellyt vilpillisesti ehtokohdassa 1.2 tarkoitetuissa tilanteissa.
+
+Vakuutusyhtiöllä on oikeus periä kesken vakuutuskauden päätetystä vakuutuksesta kohtuullinen hoitokulu. Hoitokuluna peritään koko vakuutuskauden maksusta
+10 %, kuitenkin vähintään 8 euroa.
+
+4 Tietojen antaminen sopimuksen voimassaoloaikana
+4.1 Vakuutusyhtiön tiedonantovelvollisuus
+Vakuutussopimuksen solmimisen jälkeen vakuutusyhtiö antaa vakuutuksenottajalle vakuutuskirjan ja vakuutusehdot. Vakuutuksen voimassaoloaikana
+vakuutusyhtiö lähettää vakuutuksenottajalle vuosittain vakuutuskirjan.
+
+4.2 Vakuutuksenottajan yleinen tiedonantovelvollisuus
+Vakuutuksenottajan tulee ilmoittaa, jos vakuutusta tehtäessä ilmoitetuissa tai vakuutuskirjaan merkityissä tiedoissa on tapahtunut muutoksia. Ilmoitus tulee tehdä
+mahdollisimman nopeasti, kuitenkin viimeistään kuukauden kuluttua muutosta seuraavasta vuosieräpäivästä.
+
+4.2.1 Vakuutuksenottajan tiedonantovelvollisuus vahingonvaaran lisääntyessä
+Jos vakuutussopimusta varten ilmoitetuissa vakuutuksen kohteen olosuhteissa tai vakuutuskirjaan merkityssä asiantilassa on vakuutuskauden aikana tapahtunut
+muutos, jota vakuutuksenantajan ei voida katsoa ottaneen lukuun sopimusta päätettäessä ja joka olennaisesti lisää vahingonvaaraa, on vakuutuksenottajan
+ilmoitettava siitä vakuutusyhtiölle viimeistään kuukauden kuluttua muutosta seuraavasta vuosieräpäivästä.
+
+Tällaisia muutoksia voivat vahinkovakuutuksessa olla esimerkiksi vakuutuskohteen muuttunut käyttö ja korjaus-, muutos- tai laajennustoimenpiteet sekä
+vakuutuksenottajan asuinpaikan muutos.
+
+Henkilövakuutuksessa tällaisia muutoksia ovat esimerkiksi vakuutetun ammatin, asuinpaikan, urheilu- tai muiden harrastusten muutos, jäsenyyden päättyminen
+ilmoitetussa järjestössä tai yhteisössä, lakisääteisen tapaturmavakuutuksen tai muun vakuutusturvan päättyminen, eläkkeelle jääminen ja yli kuuden (6) kuu-
+kauden oleskelu ulkomailla. Henkilön terveydentilassa tapahtuneet muutokset eivät edellytä ilmoittamista.
+
+4.2.2 Laiminlyönnin seuraukset vahinkovakuutuksessa
+Jos vakuutuksenottaja on tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä, laiminlyönyt tiedonantovelvollisuutensa vahingonvaaran lisääntyessä,
+korvausta voidaan vahinkovakuutuksessa alentaa tai se voidaan evätä.
+
+Korvausta alennetaan, jos vakuutusmaksu on vakuutuksenottajan tai vakuutetun antaman väärän tai puutteellisen tiedon takia sovittu pienemmäksi kuin se olisi
+ollut, jos oikea ja täydellinen tieto olisi annettu. Korvausta alennetaan sovitun vakuutusmaksun suhteessa vakuutusmaksuun, joka olisi peritty oikean ja täydellisen
+tiedon perusteella. Vähäinen poikkeama vakuutusmaksuissa ei kuitenkaan oikeuta vakuutuskorvauksen alentamiseen.
+
+4.2.3 Laiminlyönnin seuraukset henkilövakuutuksessa
+Jos vakuutuksenottaja on tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä, laiminlyönyt tiedonantovelvollisuutensa vahingonvaaran lisääntyessä
+ja vakuutusyhtiö ei asiantilan muuttumisen vuoksi olisi enää pitänyt vakuutusta voimassa, on vakuutusyhtiö vapaa vastuusta. Jos vakuutusta olisi jatkettu
+korkeampaa maksua vastaan tai muutoin toisilla ehdoilla, vakuutusyhtiön vastuu rajoittuu siihen, mikä vastaa sovittua vakuutusmaksua tai niitä ehtoja, joilla
+vakuutusta olisi jatkettu.
+
+5 Velvollisuus estää ja rajoittaa vahingon syntymistä
+5.1 Velvollisuus noudattaa suojeluohjeita
+5.1.1 Vahinkovakuutus
+Vakuutetun tulee noudattaa suojeluohjeita. Vahingon satuttua vakuutetulle tulevaa korvausta voidaan alentaa tai korvausta ei makseta, jos vakuutettu on
+laiminlyönyt velvollisuutensa noudattaa suojeluohjeita joko tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä.
+
+5.1.2 Vastuuvakuutus
+Vastuuvakuutuksessa ei korvausta alenneta eikä evätä vakuutetun huolimattomuuden takia. Jos vakuutettu on laiminlyönyt suojeluohjeen noudattamisen
+tahallaan tai törkeästä huolimattomuudesta tai jos vakuutetun alkoholin tai huumaavien aineiden käyttö on vaikuttanut laiminlyöntiin, korvausta voidaan alentaa tai
+korvausta ei makseta.
+
+Vaikka vakuutettu on laiminlyönyt suojeluohjeen noudattamisen törkeästä huolimattomuudesta, tai jos vakuutetun alkoholin tai huumaavien aineiden käyttö on
+vaikuttanut laiminlyöntiin, vakuutusyhtiö kuitenkin suorittaa vastuuvakuutuksesta vahinkoa kärsineelle luonnolliselle henkilölle sen osan korvauksesta, jota tämä ei
+ole ulosotossa tai konkurssissa todetun vakuutetun maksukyvyttömyyden vuoksi saanut perityksi.
+
+5.2 Vahingon torjumis- ja rajoittamisvelvollisuus
+5.2.1 Vahinkovakuutus
+Vakuutustapahtuman sattuessa tai välittömästi uhatessa vakuutetun tulee kykyjensä mukaan huolehtia vahingon torjumisesta tai rajoittamisesta, osallistua
+vahingon selvittelyyn vahinkopaikalla ja myötävaikuttaa vahingon syyn selvittämiseen.
+
+Vakuutettu on velvollinen ryhtymään toimiin vakuutusyhtiön oikeuksien säilyttämiseksi, esimerkiksi auttamalla selvittämään vahingon mahdollisen aiheuttajan ja
+todistajien nimet.
+
+Vakuutetun on ilmoitettava vahinkotapahtumasta mahdollisimman pian vakuutusyhtiölle ja myös poliisille, jos on kysymys rikoksesta. Ajoneuvoon kohdistuneesta
+palo- ja hirvieläinvahingosta on aina välittömästi ilmoitettava poliisille. Poliisitutkinta on pidettävä vakuutusyhtiön pyynnöstä, ja rikoksen tekijöille on vaadittava
+rangaistusta. Vakuutusyhtiölle on varattava tilaisuus vahingon tarkastamiseen ennen korjaamista tai vahingoittuneen omaisuuden hävittämistä.
+
+Korvausta voidaan alentaa tai korvausta ei makseta sille vakuutetulle, joka on laiminlyönyt velvollisuutensa torjua tai rajoittaa vahinkoa joko tahallisesti tai
+huolimattomuudesta, jota ei voida pitää vähäisenä.
+
+
+
+                                                                                    4
+                     Yleiset sopimusehdot
+                     Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+
+
+
+5.2.2 Vastuuvakuutus
+Vastuuvakuutuksessa ei korvausta alenneta eikä evätä vakuutetun huolimattomuuden takia. Jos vakuutettu on kuitenkin laiminlyönyt pelastamisvelvollisuutensa
+tahallisesti tai törkeästä huolimattomuudesta, tai jos vakuutetun alkoholin tai huumaavien aineiden käyttö on vaikuttanut laiminlyöntiin, korvausta voidaan alentaa
+tai korvausta ei makseta.
+
+Jos vakuutettu on laiminlyönyt pelastamisvelvollisuutensa törkeästä huolimattomuudesta, tai jos vakuutetun alkoholin tai huumaavien aineiden käyttö on
+vaikuttanut laiminlyöntiin, vakuutusyhtiö maksaa kuitenkin vastuuvakuutuksesta vahinkoa kärsineelle luonnolliselle henkilölle sen osan korvauksesta, jota tämä ei
+ole ulosotossa tai konkurssissa todetun vakuutetun maksukyvyttömyyden vuoksi saanut perityksi.
+
+6 Vakuutustapahtuman aiheuttaminen
+6.1 Vahinkovakuutus
+Vakuutusyhtiö on vastuusta vapaa sellaista vakuutettua kohtaan, joka on aiheuttanut vakuutustapahtuman tahallisesti.
+
+Jos vakuutettu on aiheuttanut vakuutustapahtuman törkeästä huolimattomuudesta, tai jos vakuutetun alkoholin tai huumaavien aineiden käyttö on vaikuttanut
+vakuutustapahtumaan, voidaan hänelle tulevaa korvausta alentaa tai korvausta ei makseta.
+
+Jos vakuutettu on vahinkotapahtuman sattuessa kuljettanut ajoneuvoa sellaisessa tilassa, että hänen verensä alkoholipitoisuus on ajon aikana tai sen jälkeen
+vähintään 1,2 promillea tai että hänellä on vähintään 0,53 milligrammaa alkoholia litrassa uloshengitysilmaa, tai hänen kykynsä tehtävän vaatimiin suorituksiin on
+tuntuvasti huonontunut muun huumaavan aineen kuin alkoholin vaikutuksesta taikka alkoholin ja muun huumaavan aineen yhteisvaikutuksesta, suoritetaan
+moottoriajoneuvovakuutuksesta korvausta vain siltä osin kuin muut olosuhteet ovat vaikuttaneet vahinkoon.
+
+Jos vakuutettu on vahinkotapahtuman sattuessa kuljettanut ajoneuvoa sellaisessa tilassa, että hänen verensä alkoholipitoisuus on ajon aikana tai sen jälkeen
+vähintään 0,5 promillea tai että hänellä on vähintään 0,22 milligrammaa alkoholia litrassa uloshengitysilmaa, tai hänen kykynsä tehtävän vaatimiin suorituksiin on
+huonontunut muun huumaavan aineen kuin alkoholin vaikutuksesta taikka alkoholin ja muun huumaavan aineen yhteisvaikutuksesta, voidaan
+moottoriajoneuvovakuutuksesta suoritettavaa korvausta alentaa sen mukaan, mikä oli hänen osuutensa vahinkoon.
+
+Jos vakuutettu on aiheuttanut vakuutustapahtuman törkeästä huolimattomuudesta, tai jos vakuutetun alkoholin tai huumaavien aineiden käyttö on vaikuttanut
+vakuutustapahtumaan, vakuutusyhtiö suorittaa kuitenkin vastuu-vakuutuksesta vahinkoa kärsineelle luonnolliselle henkilölle sen osan korvauksesta, jota tämä ei
+ole ulosotossa tai konkurssissa todetun vakuutetun maksukyvyttömyyden vuoksi saanut perityksi.
+
+6.2 Henkilövakuutus
+6.2.1 Vakuutetun aiheuttama vakuutustapahtuma
+Vakuutusyhtiö on vastuusta vapaa, jos vakuutettu on tahallisesti aiheuttanut vakuutustapahtuman. Jos vakuutettu on aiheuttanut vakuutustapahtuman törkeästä
+huolimattomuudesta, vakuutusyhtiön vastuuta voidaan alentaa sen mukaan kuin olosuhteet huomioon ottaen on kohtuullista.
+
+6.2.2 Vakuutuskorvaukseen oikeutetun aiheuttama vakuutustapahtuma
+Jos muu vakuutuskorvaukseen oikeutettu henkilö kuin vakuutettu on tahallisesti aiheuttanut vakuutustapahtuman, vakuutusyhtiö on häneen nähden vastuusta
+vapaa. Jos henkilö on aiheuttanut vakuutustapahtuman törkeästä huolimattomuudesta, tai jos hän on ollut sellaisessa iässä tai mielentilassa, ettei häntä olisi voitu
+tuomita rangaistukseen rikoksesta, hän voi saada vakuutuskorvauksen tai osan siitä ainoastaan, jos se katsotaan kohtuulliseksi ottaen huomioon ne olosuhteet,
+joissa vakuutustapahtuma on aiheutettu.
+
+Jos vakuutettu on kuollut, maksetaan muille korvaukseen oikeutetuille se osa vakuutuskorvauksesta, jota ei makseta vakuutustapahtuman aiheuttajalle tai
+aiheuttajille.
+
+7 Samastaminen
+Samastamisella tarkoitetaan vakuutettua koskevien määräysten soveltamista muuhun henkilöön, joka on rinnastettavissa vakuutettuun.
+
+Mitä edellä on sanottu vakuutetusta, kun kysymys on vakuutustapahtuman aiheuttamisesta, suojeluohjeiden noudattamisesta tai pelastamisvelvollisuudesta,
+sovelletaan vastaavasti henkilöön
+  -    joka vakuutetun suostumuksella on vastuussa vakuutuksen kohteena olevasta moottorikäyttöisestä tai hinattavasta ajoneuvosta, aluksesta taikka ilma-
+       aluksesta
+  -    joka omistaa vakuutetun omaisuuden yhdessä vakuutetun kanssa ja käyttää sitä yhdessä tämän kanssa
+  -    joka asuu vakuutetun kanssa yhteisessä taloudessa ja käyttää vakuutettua omaisuutta yhdessä tämän kanssa.
+
+Mitä edellä on sanottu vakuutetusta, kun kysymys on suojeluohjeiden noudattamisesta, sovelletaan vastaavasti henkilöön, jonka tehtävänä vakuutuksenottajaan
+olevan työ- tai virkasuhteen perusteella on huolehtia suojeluohjeen noudattamisesta.
+
+8 Kaikkia vakuutusturvia koskevat yhteiset rajoitukset
+8.1. Kansainvälisiä pakotteita ja vientivalvontaa koskevat rajoitukset
+Vakuutus tai jälleenvakuutus ei ole voimassa, eikä siitä suoriteta mitään korvauksia tai tarjota mitään etuja tai hyötyjä, jos vakuutusturvan myöntäminen,
+korvauksen maksaminen tai edun tarjoaminen altistaisi vakuuttajan tai jälleenvakuuttajan Yhdistyneiden Kansakuntien päätöslauselmien tai Euroopan unionin,
+Yhdistyneen kuningaskunnan tai Yhdysvaltojen kauppa- tai taloudellisten pakotteiden, kieltojen tai rajoitusten, vientivalvonnan, lakien tai määräysten rikkomiselle,
+täytäntöönpanotoimille tai haitallisille toimenpiteille.
+
+8.2. Muut yhteiset rajoitukset
+Vakuutusehdoissa esitettyjen vakuutusturvien yleisten rajoitusten lisäksi sovelletaan seuraavia yhteisiä rajoituksia.
+
+Vakuutuksesta ei korvata vahinkoa, jonka syntymiseen on suoraan tai epäsuorasti vaikuttanut
+ 1) sota tai poliittisiin syihin perustuva sotatoimen tapainen tapahtuma
+ 2) ydinase, ydinvahinko tai muu niihin rinnastettava tapahtuma tai sen uhka, riippumatta asianomaisen, vahinkoa aiheuttaneen tapahtuman tai uhan syistä tai
+     sen syntymiseen vaikuttaneista seikoista
+
+
+
+
+                                                                                  5
+                     Yleiset sopimusehdot
+                     Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+ 3)  tietojärjestelmää tai -verkkoa häiritsevä tai vahingoittava toimi (mukaan lukien kyberkiristysuhat) tai tällaisella toimella uhkaaminen:
+    -        kun aikomuksena on vahingoittaa, pelotella tai painostaa vakuutettua, tai
+    -        kun voidaan kohtuudella päätellä, että tekijöiden tavoitteena ovat sosiaaliset, ideologiset, uskonnolliset, poliittiset, taloudelliset tai vastaavat tavoitteet,
+              tai pelotella tai painostaa ketä tahansa henkilöä tai mitä tahansa tahoa edistämään tällaisia tavoitteita
+ 4) lakko, työnsulku tai muu työtaistelutoimenpide.
+
+9 Korvausmenettely
+9.1 Korvauksenhakijan velvollisuudet
+Korvauksen maksamisen perusteena on kirjallinen, korvauksenhakijan allekirjoittama hakemus. Korvauksenhakijan on annettava vakuutusyhtiölle sellaiset
+asiakirjat ja tiedot, jotka ovat tarpeellisia vakuutusyhtiön vastuun selvittämiseksi. Tällaisia tarpeellisia tietoja ovat esimerkiksi tiedot
+  -    vakuutuksesta ja korvauksen hakijoista osoitteineen. Hakijan on tarvittaessa esitettävä selvitys oikeudestaan korvaukseen.
+  -    vahinkotapahtumasta: mitä, miten, missä ja milloin sattunut
+  -    vahingon määrästä.
+
+Lisäselvityksenä on hakemukseen tarvittaessa liitettävä esimerkiksi lääkärinlausunto, kuolintodistus ja poliisitutkintapöytäkirja. Hoitokuluista on toimitettava
+tarvittaessa alkuperäiset tositteet.
+
+Korvauksenhakija on velvollinen hankkimaan ne selvitykset, jotka ovat hänen saatavissaan, ottaen kuitenkin huomioon myös vakuutusyhtiön mahdollisuudet
+hankkia selvityksiä.
+
+Vakuutusyhtiö ei vastaa ennen korvauspäätöksen tekemistä aiheutuneista kustannuksista ja selvityskuluista. Vakuutusyhtiö ei ole velvollinen suorittamaan
+korvausta, ennen kuin se on saanut kaikki tarvittavat selvitykset. Tarvittaessa vakuutusyhtiölle on varattava tilaisuus selvityttää henkilövahinko valitsemallaan
+lääkärillä.
+Kun korvaus on määrältään sellainen, että vakuutusyhtiön tiedossa olevalla kiinnityksenhaltijalla on voimassa olevan oikeuden mukaan oikeus korvaukseen, niin
+korvaus maksetaan vakuutuksenottajalle, kun tämä on selvittänyt, että omaisuus on vapaa velan vakuudeksi vahvistetuista kiinnityksistä, tai että vakuutusyhtiön
+tiedossa olevat kiinnityksenhaltijat ovat antaneet suostumuksensa korvauksen maksamiseen vakuutuksenottajalle.
+
+Jos korvauksenhakija on vakuutustapahtuman jälkeen vilpillisesti antanut vakuutusyhtiölle vääriä tai puutteellisia tietoja, joilla on merkitystä vakuutusyhtiön
+vastuun arvioimisen kannalta, voidaan korvausta alentaa tai korvausta ei makseta sen mukaan kuin olosuhteet huomioon ottaen on kohtuullista.
+
+9.2 Korvausoikeuden vanhentuminen
+Vakuutuskorvausta on haettava vakuutusyhtiöltä vuoden kuluessa siitä, kun korvauksenhakija sai tietää vakuutuksen voimassaolosta, vakuutustapahtumasta ja
+vakuutustapahtumasta aiheutuneesta vahinkoseuraamuksesta. Korvausta on kuitenkin haettava aina viimeistään 10 vuoden kuluessa vakuutustapahtumasta tai
+jos vakuutus on otettu henkilövahingon tai vahingonkorvausvelvollisuuden varalta, vahinkoseuraamuksen aiheutumisesta. Korvausvaatimuksen tekemiseen
+rinnastetaan ilmoituksen tekeminen vakuutustapahtumasta. Jos korvausvaatimusta ei esitetä määräajassa, korvauksenhakija menettää oikeutensa korvaukseen.
+
+9.3 Vakuutusyhtiön velvollisuudet
+Vakuutustapahtuman sattumisen jälkeen vakuutusyhtiö antaa korvauksenhakijalle tai muulle korvaukseen oikeutetulle tietoja vakuutuksen sisällöstä ja neuvoo kor-
+vausten hakumenettelyssä. Korvauksenhakijalle mahdollisesti annetut ennakkotiedot tulevasta korvauksesta, korvausmäärästä tai korvauksen suorittamistavasta
+eivät vaikuta vakuutussopimuksen mukaiseen korvausvelvollisuuteen.
+
+Vakuutusyhtiö suorittaa vakuutustapahtumasta johtuvan, vakuutussopimuksen mukaisen korvauksen tai ilmoittaa, ettei korvausta suoriteta, viimeistään kuukauden
+kuluttua siitä, kun se on saanut vastuunsa selvittämisen kannalta tarpeelliset asiakirjat ja tiedot. Jos korvauksen määrä on riidanalainen, vakuutusyhtiö on kui-
+tenkin velvollinen maksamaan edellä mainitussa ajassa korvauksen riidattoman osan.
+
+Viivästysajalta vakuutusyhtiön on maksettava vuotuista viivästyskorkoa korkolain mukaan. Viivästyksen perusteella ei makseta muita suorituksia.
+
+9.4 Saatavien vähentäminen
+Korvauksesta voidaan vähentää maksamattomat erääntyneet vakuutusmaksut ja muut vakuutusyhtiön erääntyneet saatavat yleisten kuittausedellytysten
+mukaisesti.
+
+10 Vakuutuskorvaus vahinkovakuutuksessa
+10.1 Ylivakuutus ja rikastumiskielto
+Omaisuus tai etuus on ylivakuutettu, jos vakuutussopimukseen merkitty vakuutusmäärä on merkittävästi suurempi kuin vakuutetun omaisuuden tai etuuden arvo.
+Vakuutusyhtiö ei korvaa ylivakuutetusta omaisuudesta tai etuudesta enempää kuin vahingon peittämiseksi tarvitaan.
+
+10.2 Alivakuutus
+Omaisuus tai etuus on alivakuutettu, jos vakuutussopimukseen merkitty vakuutusmäärä on merkittävästi pienempi kuin vakuutetun omaisuuden tai etuuden arvo.
+Vakuutusyhtiö korvaa alivakuutetusta omaisuudesta tai etuudesta vain niin suuren osan vahingosta kuin vakuutusmäärän ja omaisuuden tai etuuden arvon
+välinen suhde osoittaa.
+
+11 Muutoksenhaku vakuutusyhtiön päätökseen
+Jos vakuutuksenottaja tai korvauksenhakija on tyytymätön vakuutusyhtiön päätökseen
+  -   hän voi viedä päätöksen ratkaisusuosituksia antavien Vakuutus- ja rahoitusneuvonnan, www.fine.fi tai Kuluttajariitalautakunnan, www.kuluttajariita.fi
+      käsiteltäväksi
+  -   hän voi panna vireille kanteen vakuutusyhtiötä vastaan.
+
+Kanne voidaan panna vireille vakuutusyhtiön kotipaikan, Suomessa olevan asianosaisen kotipaikan taikka Helsingin, Länsi-Uudenmaan tai Varsinais-Suomen
+käräjäoikeudessa, ellei kansainvälistä oikeuspaikkaa koskevista normeista muuta johdu.
+
+Vakuutusyhtiön tekemään päätökseen on haettava muutosta kolmen (3) vuoden kuluessa siitä, kun asianosainen sai kirjallisen tiedon vakuutusyhtiön päätöksestä
+ja tästä määräajasta.
+
+12 Vakuutusyhtiön oikeus korvauksen takaisinhakuun
+12.1 Vakuutusyhtiön takautumisoikeus kolmatta henkilöä kohtaan
+Vakuutetun tai muun korvaukseen oikeutetun oikeus vaatia korvausta vahingosta korvausvastuussa olevalta kolmannelta henkilöltä siirtyy vakuutusyhtiölle sen
+suorittamaan korvausmäärään saakka.
+
+
+                                                                                     6
+                    Yleiset sopimusehdot
+                    Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+
+
+
+Jos vahingon on aiheuttanut luonnollinen henkilö yksityishenkilönä tai vahingonkorvauslain 3 luvun 1 pykälässä tarkoitettuna työntekijänä, virkamiehenä tai muuna
+tässä lainkohdassa tarkoitettuna henkilönä, syntyy vakuutusyhtiölle takautumisoikeus kyseistä henkilöä kohtaan vain, jos tämä on aiheuttanut vahingon tahallisesti
+tai törkeästä huolimattomuudesta tai jos hän on korvausvastuussa vahingosta huolimattomuudestaan riippumatta. Henkilövakuutuksessa tämä takautumisoikeus
+koskee sairauden tai tapaturman aiheuttamia kustannuksia ja varallisuuden menetystä.
+
+12.2 Vakuutusyhtiön takautumisoikeus kolmatta henkilöä kohtaan moottoriajoneuvovakuutuksessa
+Moottoriajoneuvovakuutuksessa vakuutetun oikeus vahingonkorvaukseen vahingosta korvausvastuussa olevalta kolmannelta henkilöltä siirtyy vakuutusyhtiölle
+sen suorittamaan korvausmäärään saakka.
+
+Jos kolmas henkilö on yksityishenkilö taikka työntekijä, virkamies tai näihin vahingonkorvauslain 3 luvun 1 pykälän mukaan rinnastettava muu henkilö taikka
+ajoneuvon omistaja, haltija, kuljettaja tai matkustaja, oikeus siirtyy kuitenkin vain, jos hän on aiheuttanut vakuutustapahtuman tahallisesti tai törkeästä
+huolimattomuudesta tai jos kuljettaja on aiheuttanut vahingon kuljettaessaan ajoneuvoa liikennevakuutuslain 48 pykälän 1 momentissa tarkoitetuissa olosuhteissa.
+
+12.3 Vakuutusyhtiön takautumisoikeus vakuutuksenottajaa, vakuutettua tai vakuutettuun samastettua kohtaan vahinkovakuutuksessa
+Vakuutusyhtiö saa vaatia muulle vakuutetulle suorittamansa korvauksen tai sen osan takaisin siltä vakuutuksenottajalta, vakuutetulta tai vakuutettuun samastetul-
+ta henkilöltä, joka on
+  -   aiheuttanut vakuutustapahtuman (ehtokohta 6)
+  -   laiminlyönyt tiedonantovelvollisuutensa sopimusta solmittaessa (ehtokohta 1.2)
+  -   laiminlyönyt velvollisuutensa ilmoittaa vaaran lisääntymisestä (ehtokohta 4.2)
+  -   laiminlyönyt velvollisuutensa noudattaa suojeluohjeita (ehtokohta 5.1)
+  -   laiminlyönyt velvollisuutensa torjua ja rajoittaa vahinkoa (ehtokohta 5.2).
+
+13 Vakuutussopimuksen muuttaminen
+13.1 Sopimusehtojen muuttaminen vahinkovakuutuksessa vakuutuskauden aikana
+Vakuutusyhtiöllä on oikeus vakuutuskauden aikana muuttaa vakuutusmaksua tai muita sopimusehtoja vastaamaan uusia olosuhteita, jos
+ -    vakuutuksenottaja tai vakuutettu on laiminlyönyt velvollisuutensa antaa oikeat ja täydelliset tiedot vakuutusyhtiön vastuun arvioimista varten
+ -    sopimusta tehtäessä vakuutusyhtiölle ilmoitettu olosuhde tai vakuutuskirjaan merkitty asiantila on vakuutuskauden aikana siten muuttunut, että vahingon-
+      vaara on olennaisesti lisääntynyt.
+
+Saatuaan tiedon edellä mainitusta seikasta vakuutusyhtiö lähettää ilman aiheetonta viivytystä ilmoituksen siitä, miten ja mistä ajankohdasta vakuutusmaksu tai
+muut sopimusehdot muuttuvat. Ilmoituksessa mainitaan, että vakuutuksenottajalla on oikeus irtisanoa vakuutus.
+
+13.2 Sopimusehtojen muuttaminen henkilövakuutuksessa vakuutuskauden aikana
+Vakuutusyhtiöllä on oikeus vakuutuskauden aikana muuttaa vakuutusmaksua tai muita sopimusehtoja vastaamaan oikeita tai muuttuneita olosuhteita, jos
+ -    vakuutuksenottaja tai vakuutettu on tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä, laiminlyönyt kohdassa 1.2.1 tarkoitetun tiedonanto-
+      velvollisuutensa ja vakuutusyhtiö, jos oikeat ja täydelliset tiedot olisi annettu, olisi myöntänyt vakuutuksen ainoastaan korkeampaa maksua vastaan tai muu-
+      toin toisilla ehdoilla.
+ -    vakuutuksenottajan tai vakuutetun vakuutusyhtiölle sopimusta päätettäessä ilmoittamissa seikoissa on vakuutuskauden aikana tapahtunut kohdassa 4.2
+      tarkoitettu muutos ja vakuutusyhtiö ei muuttuneessa tilanteessa enää myöntäisi vakuutusta kuin korkeampaa vakuutusmaksua vastaan tai muuttunein
+      ehdoin.
+
+13.3 Sopimusehtojen muuttaminen vakuutuskauden vaihtuessa
+13.3.1 Ilmoitusmenettely
+Vakuutusyhtiöllä on oikeus vakuutuskauden vaihtuessa muuttaa vakuutusehtoja ja -maksuja, omavastuuta sekä muita sopimusehtoja, kun perusteena on
+ -    uusi tai muuttunut lainsäädäntö tai viranomaismääräys
+ -    oikeuskäytännön muuttuminen
+ -    ennalta-arvaamaton olosuhteiden muutos kuten esimerkiksi poikkeuksellinen luonnontapahtuma, kansainvälinen kriisi tai suuronnettomuus
+ -    vakuutussopimuksessa mainitun indeksin muutos
+ -    korvausmenon muutos tai maksettujen vakuutuskorvausten ja vakuutusmaksujen välisen suhteen muutos
+ -    muutos sellaisissa muuttuvissa seikoissa tai olosuhteissa, joilla vakuutusyhtiön maksuperusteiden mukaan on vaikutusta vakuutusmaksun suuruuteen.
+      Tällaisia voivat olla esimerkiksi muutokset vakuutetun, vakuutuksenottajan tai vakuutuksen kohteen omistajan taikka haltijan iässä tai asuinpaikassa samoin
+      kuin muutokset esimerkiksi vakuutuksen kohteen ominaisuuksissa, vakuutuspaikassa tai vahinkokehityksessä. Edellä mainittujen muutosten perusteella
+      vakuutusmaksua tai vakuutusehtoja voidaan muuttaa paremmin riskiä vastaavaksi. Vakuutuksen vakuutusehdossa tai vakuutuskirjassa on kerrottu kunkin
+      vakuutuksen maksuun vaikuttavia tekijöitä.
+ -    muutos vakuutusyhtiön jälleenvakuutussuojan sopimusehdoissa
+ -    vakuutuksen hallinnointi- tai hoitokustannusten muutos.
+
+Henkilövakuutuksen vakuutusehtoja tai -maksuja ei voida muuttaa sen vuoksi, että vakuutetun henkilön terveydentila on vakuutuksen ottamisen jälkeen
+huonontunut, tai että kyseessä olevaan vakuutukseen liittyvä vakuutustapahtuma on sattunut.
+
+Vakuutusyhtiöllä on edellä esitetyn lisäksi oikeus tehdä vakuutussopimukseen sisältyvistä bonussäännöksistä tai kokonaisasiakkuuteen liittyvistä etuuksista
+johtuvia vakuutusmaksun muutoksia. Vakuutusmaksuun vaikuttavat myös mahdollisesti annettavat asiakasedut ja alennukset, joiden suuruudet, antamisen
+perusteet sekä kesto- ja voimassaoloajat voivat muuttua.
+
+Henkivakuutuksessa (Kuolemantapausturva) vakuutusyhtiöllä on oikeus vakuutusmaksukauden vaihtuessa muuttaa vakuutusehtoja ja -maksua sekä muita
+sopimusehtoja, jos muutokseen on seuraavista syistä erityistä syytä
+  -   yleisen vahinkokehityksen tai
+  -   korkotason muutoksen vuoksi
+eikä vakuutussopimuksen sisältö olennaisesti muutu alkuperäiseen sopimukseen verrattuna.
+
+Vakuutusyhtiöllä on lisäksi oikeus tehdä vakuutusehtoihin ja muihin sopimusehtoihin vähäisiä muutoksia, joilla ei ole vaikutusta vakuutussopimuksen keskeiseen
+sisältöön.
+
+Muiden kuin kuluttajiin rinnastettavien oikeushenkilöiden kanssa solmituissa vakuutussopimuksissa voidaan vakuutusehtoja ja maksuperusteita muuttaa aina
+ilmoitusmenettelyllä.
+
+                                                                                7
+                     Yleiset sopimusehdot
+                     Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+
+Muutoksia noudatetaan seuraavasta vuosieräpäivästä alkaen. Vakuutusyhtiön on ilmoitettava muutoksista viimeistään kuukautta ennen vuosieräpäivää. Vakuutus
+jatkuu muutettuna, ellei vakuutuksenottaja irtisano vakuutusta kirjallisesti.
+
+13.3.2 Irtisanomismenettely
+Jos vakuutusyhtiö haluaa muuttaa vakuutusehtoja, -maksuja tai muita sopimusehtoja muilla kuin edellä luetelluissa tapauksissa tai poistaa vakuutuksesta
+voimakkaasti markkinoidun edun, tulee vakuutusyhtiön irtisanoa vakuutusturva päättymään vakuutuskauden lopussa.
+
+Irtisanomisesta ja vakuutusturvan päättymisestä on ilmoitettava vakuutuksenottajalle viimeistään kuukautta ennen vakuutuskauden päättymistä.
+
+Tätä ehtokohtaa ei sovelleta muiden kuin kuluttajaan rinnastettavien oikeushenkilöiden kanssa solmituissa vakuutussopimuksissa.
+
+14 Vakuutussopimuksen päättyminen
+Vakuutussopimus tai sen osa päättyy
+
+14.1 Sovittuna ja vakuutuskirjaan merkittynä aikana
+ -    sekä henkilövakuutuksessa sinä päivänä, jona vakuutettu kuolee.
+
+14.2 Vakuutuksenottajan kirjallisesta ilmoituksesta
+ -    milloin tahansa vakuutuskauden aikana. Jos vakuutuksenottaja ei ole määrännyt vakuutuksen päättymisaikaa, vakuutus päättyy, kun irtisanomista koskeva
+      ilmoitus on jätetty tai lähetetty vakuutusyhtiölle.
+
+Irtisanomisoikeutta ei kuitenkaan ole, jos vakuutussopimuksen sovittu voimassaoloaika on lyhyempi kuin 30 päivää.
+
+14.3 Vakuutusyhtiön ilmoituksesta vahinkovakuutuksessa
+ -    kun vakuutuksenottaja tai vakuutettu on ennen vakuutuksen myöntämistä antanut vääriä tai puutteellisia tietoja, eikä vakuutusyhtiö oikean asianlaidan
+      tuntien olisi myöntänyt vakuutusta
+ -    vakuutus- tai kohdekohtaisesti, kun vakuutuksenottajan tai vakuutetun vakuutusyhtiölle ilmoittamassa tai vakuutuskirjaan merkityssä olosuhteessa on
+      vakuutuskauden aikana tapahtunut sellainen vahingonvaaraa olennaisesti lisäävä muutos, jota vakuutusyhtiön ei voida katsoa ottaneen huomioon
+      sopimusta tehtäessä
+ -    kun vakuutettu on tahallisesti tai törkeästä huolimattomuudesta laiminlyönyt suojeluohjeen noudattamisen
+ -    kun vakuutettu on tahallisesti tai törkeästä huolimattomuudesta aiheuttanut vakuutustapahtuman
+ -    kun vakuutuksenottaja on muu kuin kuluttajaan rinnastettava oikeushenkilö, joka on haettu konkurssiin tai viranomaisen toimesta todettu mak-
+      sukyvyttömäksi
+ -    kun vakuutettu on vakuutustapahtuman jälkeen vilpillisesti antanut vakuutusyhtiölle vääriä tai puutteellisia tietoja, joilla on merkitystä vakuutusyhtiön vastuun
+      arvioinnin kannalta.
+
+Vakuutusyhtiö irtisanoo vakuutussopimuksen kirjallisesti ilman aiheetonta viivytystä saatuaan tiedon irtisanomiseen oikeuttavasta perusteesta. Vakuutus päättyy
+kuukauden kuluttua irtisanomisilmoituksen lähettämisestä. Muun kuin kuluttajaan rinnastettavan oikeushenkilön konkurssin tai maksukyvyttömyyden johdosta
+vakuutussopimus päättyy 14 päivän kuluttua irtisanomisesta.
+Vakuutusyhtiön oikeus irtisanoa ehtokohdan 3.3 mukaiset vahinkovakuutukset vakuutusmaksun suorittamisen laiminlyönnin vuoksi määräytyy mainitun
+ehtokohdan mukaan.
+
+14.4. Vakuutusyhtiön ilmoituksesta henkilövakuutuksessa
+ -     kun vakuutuksenottaja tai vakuutettu on ennen vakuutuksen myöntämistä tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä, antanut vääriä
+       tai puutteellisia tietoja, eikä vakuutusyhtiö oikean asianlaidan tuntien olisi myöntänyt vakuutusta
+ -     kun vakuutuksenottaja tai vakuutettu on ennen vakuutuksen myöntämistä antanut vilpillisesti vääriä tai puutteellisia tietoja ja kun vakuutussopimus tästä
+       huolimatta sitoo vakuutusyhtiötä
+ -     kun vakuutuksenottajan tai vakuutetun vakuutusyhtiölle sopimusta päätettäessä ilmoittamissa seikoissa on vakuutuskauden aikana tapahtunut sellainen
+       vahingon vaaraa lisäävä muutos, ettei vakuutusyhtiö enää muuttuneissa olosuhteissa myöntäisi vakuutusta.
+ -     vakuutettu on aiheuttanut vakuutustapahtuman tahallisesti
+ -     vakuutettu on vakuutustapahtuman jälkeen antanut vakuutusyhtiölle vilpillisesti vääriä tai puutteellisia tietoja, joilla on merkitystä vakuutusyhtiön vastuun
+       arvioimisen kannalta.
+
+Vakuutusyhtiö irtisanoo vakuutuksen kirjallisesti ilman aiheetonta viivytystä saatuaan tiedon irtisanomiseen oikeuttavasta perusteesta. Vakuutus päättyy
+kuukauden kuluttua irtisanomisilmoituksen lähettämisestä.
+
+Vakuutusyhtiön oikeus irtisanoa vakuutus vakuutusmaksun suorittamisen laiminlyönnin vuoksi määräytyy ehtokohdan 3.3 mukaisesti.
+
+14.5 Vakuutusyhtiön oikeus irtisanoa vakuutus vakuutuskauden lopussa
+Vakuutusyhtiöllä on oikeus irtisanoa vakuutus päättyväksi vakuutuskauden lopussa. Kirjallinen irtisanomisilmoitus lähetetään viimeistään kuukautta ennen
+vakuutuskauden päättymistä.
+
+14.6 Vakuutussopimus tai sen osa päättyy ilman irtisanomista myös
+ -    vakuutetun omaisuuden omistajan vaihtuessa. Vakuutussopimus ei kuitenkaan pääty osamaksulla myydyn omaisuuden haltijan vaihtuessa omistajaksi,
+      moottoriajoneuvon siirtyessä oikeustoimen johdosta vakuutuksenottajalle itselleen eikä omaisuuden siirtyessä kuolinpesälle. Omistajan vaihtuessa
+      suoranaisen esinevahingon kattava vakuutusturva on kuitenkin uuden omistajan hyväksi voimassa 14 päivää, jollei hän ole itse ottanut omaisuudelle
+      vakuutusta. Omaisuusvakuutukseen liittyvät varallisuusvakuutukset ja muut lisäturvat, kuten esimerkiksi lunastusturva, autopalveluturvat, jatkuvuusturva ja
+      muut keskeytysvakuutukset, oikeusturvavakuutukset ja vastuuvakuutukset, eivät ole
+      voimassa uuden omistajan hyväksi.
+ -    sen vakuutuskauden lopussa, jonka vakuutusmaksua ei ole siihen mennessä kokonaisuudessaan maksettu (ehtokohdan 3.2 mukaiset vahinkovakuutukset)
+ -    kun ajoneuvo ilmoitetaan ajoneuvorekisteriin poistetuksi toistaiseksi liikennekäytöstä ja sen rekisterikilvet palautetaan, tai kun ajoneuvo ilmoitetaan
+      ajoneuvorekisteriin lopullisesti poistetuksi liikennekäytöstä.
+
+15 Inflaatiosuoja
+Vakuutusmäärät, enimmäiskorvausmäärät, vakuutusmaksut ja omavastuut ovat sidotut indeksiin, jos vakuutussopimuksessa on niin sovittu. Myös kustannuserien
+ylärajoja ja toimenpidemaksuja voidaan korottaa indeksin muutosta vastaavasti.
+
+
+                                                                                  8
+                   Yleiset sopimusehdot
+                   Ehto YLE 900.14, voimassa 1.7.2025 alkaen
+
+
+
+
+Korvaus maksetaan vakuutustapahtuman sattumishetkellä voimassa olevien vakuutusmäärien, enimmäiskorvausmäärien ja omavastuiden mukaisena.
+
+16 Valuuttasäännöt
+Kun vakuutusmaksu, vakuutuskorvaus tai muu maksu suoritetaan ulkomaanvaluutassa, käytetään muuntokurssina maksuunpanopäivän osto- tai
+myyntinoteerausta.
+
+17 Vakuutussopimukseen sovellettava laki
+Vakuutussopimukseen sovelletaan Suomen lainsäädäntöä.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+
+                                                                          9
+

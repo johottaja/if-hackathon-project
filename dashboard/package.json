@@ -9,7 +9,7 @@
     "preview": "vite preview --host 127.0.0.1",
     "test": "node --test tests/*.test.mjs",
     "api": "node server/index.mjs",
-    "build:demo": "npm run build && mv dist/index.html dist/dashboard.html && cp dist/demo.html dist/index.html && cd ../mobile && EXPO_BASE_URL=${EXPO_BASE_URL:-/app} npx expo export --platform web --output-dir ../dashboard/dist/app"
+    "build:demo": "npm run build && cd ../mobile && EXPO_BASE_URL=${EXPO_BASE_URL:-/app} npx expo export --platform web --output-dir ../dashboard/dist/app"
   },
   "dependencies": {
     "react": "^19.0.0",

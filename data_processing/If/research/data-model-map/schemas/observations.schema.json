@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Oikea FMI-lähdenäyte",
+  "type": "object",
+  "properties": {
+    "station_id": {
+      "type": "string",
+      "description": "FMI:n fmisid merkkijonona."
+    },
+    "station_name": {
+      "type": "string",
+      "description": "Havaintoaseman nimi."
+    },
+    "lon": {
+      "type": "number",
+      "description": "Pituusaste.",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "lat": {
+      "type": "number",
+      "description": "Leveysaste.",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "observed_at": {
+      "type": "string",
+      "description": "Mittauksen ajankohta.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "parameter": {
+      "type": "string",
+      "description": "FMI-parametri.",
+      "enum": [
+        "t2m",
+        "rh",
+        "r_1h"
+      ]
+    },
+    "value": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Mittausarvo. XML:n NaN muunnetaan nulliksi. Parametrikohtaiset muut erikoisarvot vaativat erillisen tarkistuksen."
+    },
+    "unit": {
+      "type": "string",
+      "description": "Projektin yksikkömerkintä: t2m → degC, rh → %, r_1h → mm.",
+      "enum": [
+        "degC",
+        "%",
+        "mm"
+      ]
+    },
+    "available_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Todellinen ensimmäinen saatavuusaika; historiallisesta latauksesta tuntematon.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "downloaded_at": {
+      "type": "string",
+      "description": "Tämän näytteen latausaika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "station_id",
+    "station_name",
+    "lon",
+    "lat",
+    "observed_at",
+    "parameter",
+    "value",
+    "unit",
+    "available_at",
+    "downloaded_at",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

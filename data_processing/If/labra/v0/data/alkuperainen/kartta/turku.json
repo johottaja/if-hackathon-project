@@ -1,0 +1,18 @@
+{
+  "source_url": "https://tiles.kartat.kapsi.fi/taustakartta?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=taustakartta&STYLES=&SRS=EPSG:3067&BBOX=239280,6710600,239580,6710900&WIDTH=1000&HEIGHT=1000&FORMAT=image/png",
+  "retrieved_at": "2026-10-17 17:17:35 UTC",
+  "provider": "Maanmittauslaitos / Kapsi",
+  "dataset": "Taustakarttasarja",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "crs": "EPSG:3067",
+  "bbox": {
+    "xmin": 239280,
+    "xmax": 239580,
+    "ymin": 6710600,
+    "ymax": 6710900
+  },
+  "width": 1000,
+  "height": 1000,
+  "md5": "ba4973fd5ffda424d8a20af8deb46af9"
+}

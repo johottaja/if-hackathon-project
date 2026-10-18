@@ -1,0 +1,408 @@
+                             Yksityishenkilön Oikeusturvavakuutusehdot
+                             Ehto YOI 714.17, voimassa 1.1.2026 alkaen
+
+
+
+
+Yksityishenkilön oikeusturvavakuutuksen sisältö muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä sopimusehdoista.
+
+1 Vakuutetut ja vakuutuksen voimassaolo ................................................ 1
+2 Vakuutuksen tarkoitus ja tuomioistuimet ................................................ 1
+3 Vakuutusturva ........................................................................................ 1       5.4.1 Omavastuu       ...................................................................................4
+3.1 Oikeusturva       .................................................................................. 1       5.4.2 Henkilön menettelyn vaikutus ...........................................................4
+3.2 Laaja oikeusturva ................................................................................ 1         5.4.3 Verolainsäädännön vaikutus .............................................................4
+4 Vakuutusturvan yleiset rajoitukset ......................................................... 1                 5.4.4 Vähennysten laskemisjärjestys .........................................................4
+5 Vahinkojen korvaaminen ........................................................................ 2              6. Identiteettivarkausturva (sisältyy Laajaan oikeusturvaan) ....................4
+5.1 Korvaamisen perusteet ....................................................................... 2              6.1 Määritelmä        ...................................................................................4
+5.1.1 Vakuutustapahtuma ......................................................................... 2              6.2 Turvan tarkoitus ...................................................................................4
+5.1.2 Vakuutustapahtuman syntymisajankohta ja vakuutuksen                                                        6.3. Identiteettivarkausturvan rajoitukset ...................................................4
+voimassaoloaika ........................................................................................ 2       6.4. Kustannukset, joita turvasta ei korvata ...............................................4
+5.1.3 Yhteinen etu .................................................................................. 2          6.5. Vakuutusmäärä ...................................................................................4
+5.1.4 Korvattavat kustannukset ................................................................. 2               6.6 Vakuutustapahtuma .............................................................................4
+5.1.4.1 Riita- ja hakemusasia .................................................................... 3             6.7. Korvaamisen edellytykset ...................................................................5
+5.1.4.2 Rikosasia .................................................................................. 3           7 Vakuutusmaksuun vaikuttavat seikat ......................................................5
+5.1.4.3. Muutoksenhaku korkeimpaan oikeuteen ..................................... 3
+5.2. Korvauksen määrä ja sen laskeminen ............................................... 3
+5.2.1 Kustannukset, joita vakuutuksesta ei korvata .................................. 3
+5.3 Korvaamistapa .................................................................................. 3
+5.4 Omavastuu ja muut vähennykset ........................................................ 4
+
+
+1 Vakuutetut ja vakuutuksen voimassaolo
+Vakuutettuina ovat vakuutuksenottaja ja hänen taloudessaan vakinaisesti asuvat henkilöt sekä vakuutetun omistaman tai hänen hallinnassaan olevan
+moottoriajoneuvon kuljettaja tässä ominaisuudessaan.
+
+Vakuutetun asuinpaikkana pidetään väestörekisteriviranomaisen rekisteriin merkittyä osoitetta.
+
+Jos vakuutuksenottaja on kuollut tai jos vakuutuksenottajana on kuolinpesä, vakuutettuina ovat ne perheenjäsenet
+  -   jotka vakuutuksenottajan kuollessa asuivat vakinaisesti hänen kanssaan samassa taloudessa, ja
+  -   joilla ei ole omaa vakuutusta ja
+  -   jotka edelleen asuvat tässä samassa osoitteessa.
+
+Vakuutettuja ovat myös jakamattoman kuolinpesän osakkaat tässä kotivakuutuksessa vakuutettuna olevan huoneiston tai kiinteistön omistamiseen,
+hallintaan tai käyttämiseen liittyvissä vahingoissa, ellei heillä ole omaa oikeusturvavakuutusta.
+
+Vakuutus on voimassa Pohjoismaissa. Matkaan ja matkustamiseen liittyvissä asioissa vakuutus on voimassa kaikkialla maailmassa enintään vuoden
+yhtäjaksoisesti kestävällä matkalla. Matkaan ja matkustamiseen ei katsota kuuluvan riita-, rikos- tai hakemusasioita kiinteistön, huoneiston, veneen tai
+moottoriajoneuvon kauppaan liittyen.
+
+Vakuutus on voimassa vain Suomessa, jos vakuutetun vakituinen asuinpaikka ei ole Suomessa.
+
+2 Vakuutuksen tarkoitus ja tuomioistuimet
+Vakuutuksen tarkoitus on korvata lakimiehen käytöstä aiheutuvia kustannuksia vakuutetun yksityiselämään liittyvissä asioissa.
+
+Vakuutetun on käytettävä asiamiehenään asianajajaa tai lakimiestä, joka siinä vakuutuksen voimassaoloalueeseen kuuluvassa maassa, jossa
+oikeudenkäynti on tarkoitus käydä, saa voimassa olevan oikeuden mukaan toimia oikeudenkäyntiasiamiehenä tai -avustajana. Jos vakuutettu ei käytä
+lainkaan asiamiestä tai käyttää asiamiehenään muuta kuin edellä mainittua tuomarin virkaan oikeuttavan tutkinnon suorittanutta henkilöä, vakuutuksesta ei
+makseta korvausta.
+
+Vakuutettu voi käyttää vakuutusta asioissa, jotka voidaan välittömästi saattaa käräjäoikeuden tutkittavaksi taikka vastaavien ulkomaisten tuomioistuinten
+tutkittavaksi kohdassa 1 mainituissa maissa.
+
+Vakuutuksesta ei korvata kuluja asioissa, jotka käsitellään hallinnollisissa viranomaisissa tai erikoistuomioistuimissa, esimerkiksi hallinto-oikeudessa,
+vakuutusoikeudessa tai korkeimmassa hallinto-oikeudessa. Vakuutuksesta ei myöskään korvata kuluja asioissa, jotka käsitellään Euroopan
+ihmisoikeustuomioistuimessa, Euroopan yhteisöjen tuomioistuimessa tai yhteisöjen ensimmäisen asteen tuomioistuimessa.
+
+3 Vakuutusturva
+Vakuutus sisältää ne turvat, jotka on merkitty vakuutuskirjaan.
+
+3.1 Oikeusturva
+Vakuutuksesta korvataan vakuutetun välttämättömät ja kohtuulliset asianajo- ja oikeudenkäyntikulut, jotka ovat aiheutuneet lakimiesavun käyttämisestä
+riita-, rikos- ja hakemusasioissa.
+
+3.2 Laaja oikeusturva
+Vakuutuksesta korvataan vakuutetun välttämättömät ja kohtuulliset asianajo- ja oikeudenkäyntikulut, jotka ovat aiheutuneet lakimiesavun käyttämisestä
+riita-, rikos- ja hakemusasioissa.
+
+Tästä turvasta korvataan myös vastapuolelle maksettavaksi tuomitut oikeudenkäyntikulut ehtokohdan 5.2.1 mukaisesti. Laaja oikeusturva sisältää lisäksi
+identiteettivarkausturvan ehtokohdan 6 mukaisesti.
+
+4 Vakuutusturvan yleiset rajoitukset
+Vakuutuksesta ei korvata vakuutetulle aiheutuvia kustannuksia asiassa,
+  1) jolla on vakuutetulle vähäinen merkitys
+  2) jossa vaatimuksen riitauttamista ei voida osoittaa
+  3) joka liittyy vakuutetun tai hänen kanssaan samassa taloudessa asuvan muun vakuutetun nykyiseen, aiempaan, tulevaan tai suunniteltuun työhön,
+      ammatinharjoittamiseen, virkaan, toimeen, elinkeino- tai ansiotoimintaan, kaupallisen yrityksen osakkuuteen tai jäsenyyteen tällaisen yrityksen
+      hallinnollisissa elimissä tai muuhun pää- tai sivutoimiseen toimintaan tulon hankkimiseksi, ellei ole kysymys moottoriajoneuvon
+      liikenteeseen käyttämisestä johtuneesta syytteestä tai liikennevahingosta
+  4) joka liittyy sijoitustoimintaan tai yksittäiseen sijoitukseen, jonka arvo riidan syntyessä tai sijoitusta tehtäessä on ylittänyt 85 000 euroa
+  5) joka liittyy toisen elinkeino- tai ansiotoimintaa varten annettuun lainaan tai takaukseen, panttaukseen tai muuhun sitoumukseen toisen elinkeino- tai
+      ansiotoimintaansa varten tekemästä velasta tai sitoumuksesta
+
+                                                                                                             1
+                    Yksityishenkilön Oikeusturvavakuutusehdot
+                    Ehto YOI 714.17, voimassa 1.1.2026 alkaen
+
+ 6)  joka liittyy yhteisomistussuhteeseen tai sen purkamiseen
+ 7)  joka liittyy muuhun kiinteistöön, kiinteistön osaan, rakennukseen, osake- tai vuokrahuoneistoon kuin vakuutetun vakinaiseen asuntoon tai vakuutetun
+     omassa käytössä olevaan vapaa-ajan asuntoon
+ 8) joka koskee avioeroa tai rekisteröidyn parisuhteen purkamista taikka avioeroon, avioliiton päättymiseen, yhteiselämän lopettamiseen,
+     avioliitonomaisen yhteiselämän lopettamiseen, rekisteröidyn tai rekisteröimättömän parisuhteen purkamiseen tai päättämiseen liittyviä
+     varallisuusriitoja tai muita vaatimuksia
+ 9) joka liittyy lasten huoltoon, elatukseen, tapaamisoikeuteen tai asumiseen. Vakuutuksesta korvataan kuitenkin yksi lasten huoltoon, elatukseen,
+     tapaamisoikeuteen tai asumiseen liittyvä vakuutustapahtuma kolmea vuotta kohden, jos kaikki seuraavat edellytykset täyttyvät samanaikaisesti:
+   -     asiaa ei käsitellä ensi kertaa, eikä se liity yhteiselämän lopettamiseen
+   -     kysymys on voimassaolevan viranomaisen vahvistaman sopimuksen tai voimassaolevan oikeuden tuomion muuttamisesta muuttuneiden
+         olosuhteiden perusteella
+   -     muut vakuutusehdoissa määritellyt edellytykset.
+   Vakuutus ei korvaa näihin asioihin liittyvää täytäntöönpanoa.
+ 10) jossa on kysymys edunvalvojan, uskotun miehen, testamentin toimeenpanijan, pesänjakajan tai -selvittäjän määräämisestä tai tehtävistä
+     vapauttamisesta
+ 11) joka koskee lähestymiskieltoa tai sen rikkomista
+ 12) jossa tämän vakuutuksen vakuutetut ovat vastapuolina. Moottoriajoneuvon liikenteeseen käyttämisestä johtuneessa syytejutussa vakuutuksesta
+     korvataan kuitenkin vakuutuksenottajan kustannukset sekä ajoneuvon kuljettajan puolustuskulut.
+ 13) joka koskee saatavaa tai vaadetta, joka on siirretty vakuutetulle, ellei siirrosta ole riidan syntyessä kulunut kahta (2) vuotta
+ 14) jossa on kysymys rangaistusvaatimuksen vastustamisesta tuomioistuimessa
+ 15) jossa virallisen syyttäjän vakuutettua vastaan ajama syyte koskee ylinopeuteen tai päihtymystilaan perustuvaa liikenneturvallisuuden vaarantamista
+     tai liikennerikkomusta
+ 16) joka koskee vakuutettua vastaan esitettyä, sellaiseen tekoon perustuvaa vahingonkorvaus- tai muuta vaatimusta, jonka puolustuskustannuksia ei
+     ehtokohdan 5.1.4.2 mukaan korvata
+ 17) joka koskee konkurssimenettelyä, ulosottoa, ulosottokaaressa tarkoitettua täytäntöönpanoriitaa tai ulosottoon liittyvää täytäntöönpanoa
+ 18) jossa on kysymys yrityksen saneerauksesta tai yksityishenkilön velkajärjestelystä annettujen lakien mukaisesta menettelystä tai
+     maaseutuelinkeinolain mukaisesta maatalouden harjoittajan vapaaehtoisesta velkajärjestelystä
+ 19) joka koskee vakuutettuun kohdistuvaa vahingonkorvausvaatimusta, jos vastuuvakuutus peittää vahingonkorvausriskin
+ 20) josta vakuutetulle aiheutuvat kustannukset korvataan autovakuutukseen liittyvästä oikeusturvavakuutuksesta
+ 21) jota käsitellään ryhmäkanteena
+ 22) jossa on kysymys siitä, ovatko vakuutetun ilmoittamasta vakuutustapahtumasta aiheutuneet kustannukset joko kokonaan tai osittain korvattavia tästä
+     oikeusturvavakuutuksesta.
+
+5 Vahinkojen korvaaminen
+5.1 Korvaamisen perusteet
+5.1.1 Vakuutustapahtuma
+Korvausta voidaan hakea asiasta, jossa on kysymys syytteestä tai riitautetusta vaatimuksesta. Vaatimus katsotaan riitautetuksi, kun asiassa esitetty
+yksilöity vaatimus on nimenomaisesti kiistetty joko perusteeltaan tai määrältään.
+
+Kysymyksessä on yksi (1) vakuutustapahtuma silloin, kun kaksi (2) tai useampia tämän vakuutuksen vakuutettuja on riita-, rikos- tai hakemusasiassa sa-
+malla puolella, tai vakuutetuilla/vakuutetulla on useita riita-, rikos- tai hakemusasioita, jotka perustuvat samaan tapahtumaan, olosuhteeseen, oikeustoi-
+meen tai oikeudenloukkaukseen tai jos kyseessä on sama tai samanlainen vaikkakin eriperusteinen vaatimus.
+
+Kyseessä on yksi vakuutustapahtuma myös silloin, kun vakuutetulla on useita asunto- tai kiinteistökauppaan liittyviä riitoja, jotka koskevat samaa kohdetta.
+Tällaisia ovat esimerkiksi tilanteet, joissa vakuutetulla on riita-asia:
+ -     sekä kohteen häneltä ostaneen tahon että hänelle myyneen tahon kanssa
+ -     sekä kohteen häneltä ostaneen tahon että kohteessa rakennus- tai korjausurakan suorittaneen tahon kanssa
+ -     sekä kohteen häneltä ostaneen tai hänelle myyneen tahon kanssa sekä asunto- tai kiinteistökaupassa välittäjänä toimineen tahon kanssa
+
+5.1.2 Vakuutustapahtuman syntymisajankohta ja vakuutuksen voimassaoloaika
+Vakuutuksesta korvataan vakuutuksen voimassaoloaikana sattuneet vakuutustapahtumat.
+
+Riita- ja hakemusasiassa vakuutustapahtuma on sattunut, kun esitetty yksilöity vaatimus on nimenomaisesti kiistetty joko perusteeltaan tai määrältään.
+
+Rikosasiassa vakuutustapahtuma on sattunut, kun juttu on tullut vireille joko siten, että syyttäjän tai asianomistajan haastehakemus on saapunut
+käräjäoikeuden kansliaan tai syyttäjä on antanut haasteen tiedoksi.
+
+Jos vakuutus on kuitenkin vakuutustapahtuman syntymisajankohtana ollut voimassa vähemmän kuin kaksi (2) vuotta, tulee myös niiden seikkojen, joihin
+riita, vaatimus tai syyte perustuu, olla syntynyt vakuutuksen voimassaoloaikana.
+
+Vakuutuksen voimassaoloaikaan luetaan se aika, jonka tämä vakuutus vakuutetun osalta on yksin tai peräkkäin yhdessä muiden päättyneiden
+vastaavansisältöisten oikeusturvavakuutusten kanssa ollut yhtäjaksoisesti voimassa. Jos vakuutustapahtuman sattuessa on voimassa useampia
+oikeusturvavakuutuksia, vakuutuksen voimassaoloaikaan luetaan kuitenkin vain tämä vakuutus.
+
+Vakuutuksen vastaavansisältöisyys tarkoittaa, että vakuutuksen voimaantulon jälkeen kahden ensimmäisen vuoden aikana sattuneissa
+vakuutustapahtumissa korvaus maksetaan niistä vakuutustapahtumista ja sen mukaisena kuin se olisi maksettu myös aikaisemmin voimassa olleista
+vakuutuksista.
+
+Jos vakuutusturvan muutos on vakuutustapahtuman hetkellä ollut voimassa vähemmän kuin kaksi (2) vuotta, tulee myös niiden seikkojen, joihin riita,
+vaatimus tai syyte perustuu, olla syntynyt muutoksen voimaantulon jälkeen.
+
+Muussa tapauksessa vakuutusturvan muutoksen jälkeen kahden ensimmäisen vuoden aikana sattuneissa vakuutustapahtumissa korvaus maksetaan sen
+mukaisena kuin se olisi maksettu ennen muutosta.
+
+Ehtokohdan 4.9 perusteella korvattavan lasten huoltoon, elatukseen, tapaamisoikeuteen tai asumiseen liittyvän asian osalta riidan perusteen katsotaan
+syntyneen, kun muutosvaatimuksen kohteena oleva sopimus on tehty tai tuomio on annettu.
+
+5.1.3 Yhteinen etu
+Jos kysymys on olennaisesti muusta kuin vakuutetun omasta intressistä taikka vakuutetulla on asiassa valvottavana yhteinen etu muiden kuin tällä
+vakuutuksella vakuutettujen henkilöiden kanssa, vakuutuksesta korvataan vain vakuutetun osuudeksi katsottava osa kustannuksista.
+
+5.1.4 Korvattavat kustannukset
+Vakuutuksesta korvataan vakuutustapahtumasta aiheutuneet välttämättömät ja kohtuulliset asianajo- ja oikeudenkäyntikulut seuraavasti:
+
+
+
+
+                                                                             2
+                     Yksityishenkilön Oikeusturvavakuutusehdot
+                     Ehto YOI 714.17, voimassa 1.1.2026 alkaen
+
+
+
+
+5.1.4.1 Riita- ja hakemusasia
+Vakuutetulle asiamiehen käyttämisestä ja todistelusta aiheutuneet kulut.
+
+Jos riidan saattaminen tuomioistuimen tutkittavaksi edellyttää jotakin oikeustoimea taikka jossakin elimessä tai toimituksessa tehtyä päätöstä, kustannukset
+korvataan siitä lukien, kun asia voidaan saattaa käräjäoikeuden käsiteltäväksi.
+
+Jos asiaa on käsitelty tuomioistuinsovittelussa, korvataan vakuutuksesta myös sovittelijan mahdollisen avustajan palkkiosta ja kuluista riidan osapuolten
+pääluvun mukaisesti laskettu vakuutetun osuus.
+
+5.1.4.2 Rikosasia
+Asianomistajana
+Vakuutetulle asiamiehen käyttämisestä ja todistelusta aiheutuneet oikeudenkäyntikulut siltä osin kuin oikeudenkäynnissä on kysymys rikoksesta johtuvasta
+muusta vakuutetun yksityisoikeudellisesta vaatimuksesta kuin oikeudenkäyntikuluista.
+
+Vastaajana
+Kustannukset vakuutetun puolustuksesta, paitsi jos syyttäjän syyte koskee tahallista tekoa, törkeää huolimattomuutta tai törkeää varomattomuutta.
+
+Jos syyttäjän syyte on tuomioistuimen päätöksellä hylätty siltä osin kuin se on koskenut edellä mainittua tahallista tekoa, törkeää huolimattomuutta tai
+törkeää varomattomuutta, korvataan kulut jälkikäteen.
+
+Jos syyttäjän syyte on tuomioistuimen päätöksellä hylätty kokonaan, ei korvausta makseta, sillä tällöin kustannukset tulee vaatia korvattavaksi valtion
+varoista oikeudenkäynnistä rikosasioissa annetun lain 9 luvun perusteella.
+
+Jos vakuutettu tuomitaan syyttäjän valituksen johdosta muutoksenhakutuomioistuimessa tässä kohdassa mainitusta tahallisesta teosta, törkeästä
+huolimattomuudesta tai törkeästä varomattomuudesta, ei puolustus- ja oikeudenkäyntikuluja korvata.
+
+5.1.4.3. Muutoksenhaku korkeimpaan oikeuteen
+Jos muutoksenhaku korkeimpaan oikeuteen edellyttää valituslupaa, muutoksenhausta aiheutuneet kustannukset korvataan vakuutuksesta vain siinä
+tapauksessa, että lupa on myönnetty. Tämä koskee myös niitä asioita, joissa korkein oikeus on ensimmäinen muutoksenhakuaste.
+
+Ylimääräisten muutoksenhakukeinojen käyttämisestä aiheutuneet kustannukset korvataan vain, jos korkein oikeus on hyväksynyt kantelun tai tuomion
+purkamisen tai palauttanut menetetyn määräajan.
+
+5.2. Korvauksen määrä ja sen laskeminen
+Vakuutustapahtumasta korvataan enintään vakuutuskirjaan merkitty vakuutusmäärä.
+
+Vakuutuksesta korvattavat asianajo- ja oikeudenkäyntikulut määrätään oikeudenkäymiskaaren ja oikeudenkäynnistä rikosasioissa annetun lain
+oikeudenkäyntikuluja koskevien oikeusohjeiden mukaisesti.
+
+Jos tuomioistuin ei ole ottanut kantaa asianajo- ja oikeudenkäyntikuluihin tai jos kuluista on sovittu tai asia on ratkaistu myöntämisen mukaisesti,
+korvattavat kustannukset määritetään ottaen huomioon myös vastaavanlaisissa asioissa yleensä tuomitut tai maksetut kulut. Kustannuksista korvataan
+kuitenkin enintään tuomioistuimen vakuutetun vastapuolen maksettavaksi velvoittama kulumäärä, ellei tuomioistuin ole ratkaisussaan ilmenevin perustein
+nimenomaisesti katsonut, että vakuutetun on itse kärsittävä kulunsa osittain tai kokonaan vahinkonaan.
+
+Asiamiehen työstä ja välttämättömistä kuluista korvataan kohtuullinen palkkio. Palkkion ja kulujen kohtuullisuuden arvioinnissa otetaan huomioon
+riidanalaisen etuuden arvo, asian vaikeus ja laajuus sekä asiamiehen työn määrä ja laatu. Korvattavien kustannusten määrä on kuitenkin enintään
+vakuutetun vastapuolelleen esittämän kuluvaatimuksen suuruinen.
+
+Jos riidanalaisen etuuden arvon voi arvioida rahassa, vakuutuksesta korvataan vakuutuskirjaan merkityn vakuutusmäärän rajoissa enintään riidanalainen
+etuus kaksinkertaisena. Jos riidan kohteena on toistuvaisluonteinen maksu, määrän arvioinnissa otetaan huomioon riidanalainen kertamaksu enintään
+kymmenkertaisena. Etuuden määrän arvioinnissa ei oteta huomioon korko- tai asianajo- ja oikeudenkäyntikuluja.
+
+5.2.1 Kustannukset, joita vakuutuksesta ei korvata
+Vakuutuksesta ei korvata
+  1) vakuutetun maksettavaksi tuomittuja tai sovittuja vastapuolen oikeudenkäyntikuluja.
+  Vakuutuksesta korvataan kuitenkin oikeuden lainvoimaisella päätöksellä vakuutetun maksettavaksi tuomitut vastapuolen oikeudenkäyntikulut samoin
+  ehdoin kuin vakuutetun omatkin oikeudenkäyntikulut
+     - jos vakuutus sisältää Laajan oikeusturvan
+     - jos vakuutettua on avustanut oikeudenkäynnissä kuluttaja-asiamies tai hänen alaisensa, ja vakuutetun asian hoitaminen on ollut lain soveltamisen ja
+       kuluttajien yleisen edun kannalta tärkeää
+     - jos vakuutetun vastapuoli on pääosin jättänyt noudattamatta asiassa annettua kuluttajariitalautakunnan, Vakuutuslautakunnan tai muun vastaavan
+       lautakunnan päätöstä, joka riidan keskeisiltä osilta on vakuutetulle myönteinen.
+  Sovittuja kuluja ei kuitenkaan näissäkään tapauksissa korvata.
+
+ 2)   oikeudenkäynnistä rikosasioissa annetun lain 9 luvun perusteella valtion varoista suoritettavia oikeudenkäyntikuluja
+ 3)   kustannuksia, jotka ovat aiheutuneet vakuutustapahtumaa edeltäneistä toimenpiteistä, asian alustavasta selvittelystä tai sellaisesta asian
+      selvittelystä tai hoitamisesta, jonka seurauksena vakuutettu perustellustikin luopuu vaatimuksistaan vastapuolta kohtaan. Vaatimuksista luopumiseksi
+      katsotaan myös se, että sovinnolla saatava korvaus on alle vakuutuksen vähimmäisomavastuun.
+ 4)   tuomion tai päätöksen täytäntöönpanosta taikka turvaamistoimenpiteen hakemisesta aiheutuvia kustannuksia. Turvaamistoimenpiteen hakemisesta
+      aiheutuvat kustannukset korvataan kuitenkin silloin, kun turvaamistoimi liittyy sitä haettaessa vireillä olevaan oikeudenkäyntiin ja käsitellään samassa
+      tuomioistuimessa pääasian kanssa ja tästä pääasian oikeudenkäynnistä maksetaan korvausta oikeusturvavakuutuksesta. Turvaamistoimenpiteen
+      täytäntöönpanosta aiheutuvia kustannuksia ei tällöinkään korvata.
+ 5)   vakuutetun ajanhukkaa, omaa työtä tai siitä aiheutuvia kustannuksia, tulon- tai ansionmenetystä tai matkoja tai oleskelukustannuksia. Myöskään
+      asiamiehen vaihtamisesta tai vakuutetun omasta menettelystä aiheutuvia lisäkustannuksia ei korvata.
+ 6)   oikeustieteellisen asiantuntijalausunnon hankkimisesta aiheutuvia kustannuksia
+ 7)   rikosilmoituksen tai tutkintapyynnön tekemisestä taikka rikosasian esitutkinnasta aiheutuvia kustannuksia
+ 8)   välimiehen, välitystuomarin ja sovittelijan palkkiota ja kuluja
+ 9)   julkisen oikeusavun hakemisesta aiheutuneita kustannuksia.
+
+5.3 Korvaamistapa
+Vakuutusyhtiö maksaa korvauksen vakuutetun asianajo- ja oikeudenkäyntikuluista tuomioistuimen lainvoimaisen päätöksen tai sovinnon syntymisen
+jälkeen.
+Korvattavan vahingon määrästä vähennetään kulukorvaus, jonka vakuutetun vastapuoli on tuomittu tai sitoutunut maksamaan vakuutetulle, jos se on saatu
+perityksi maksuvelvolliselta.
+
+
+                                                                              3
+                     Yksityishenkilön Oikeusturvavakuutusehdot
+                     Ehto YOI 714.17, voimassa 1.1.2026 alkaen
+
+Jos vakuutettu on perinyt oikeudenkäyntikulut tai vastapuoli on ne vakuutetulle maksanut tai vakuutettu on muutoin saanut lukea ne hyväkseen, on
+vakuutetun palautettava ne vakuutusyhtiölle korkoineen siltä osin kuin ne vakuutusehtojen mukaan on luettava vakuutusyhtiön hyväksi.
+
+Jos vastapuoli on tuomittu tai sitoutunut maksamaan vakuutetulle kulukorvausta, joka vakuutuksesta korvausta maksettaessa on maksamatta, vakuutettu
+on velvollinen siirtämään oikeutensa kulukorvaukseen vakuutusyhtiölle tämän maksamaan korvauksen määrään asti.
+
+Jos vakuutettu on joutunut maksamaan osan kustannuksistaan itse sen vuoksi, että kustannukset ylittävät vakuutuksen enimmäiskorvauksen,
+vakuutettu on velvollinen siirtämään vastapuolen kulukorvauksesta vakuutusyhtiölle sen osan, joka ylittää vakuutetun itse maksaman osuuden.
+
+5.4 Omavastuu ja muut vähennykset
+5.4.1 Omavastuu
+Korvattavan vahingon määrästä vähennetään vakuutuskirjaan merkitty omavastuu.
+
+5.4.2 Henkilön menettelyn vaikutus
+Vakuutetun on oikeudenkäynnissä ja sovintoneuvotteluissa vaadittava vastapuolelta korvausta asianajo- ja oikeudenkäyntikuluistaan. Jos vakuutettu jättää
+ilman perusteltua syytä vaatimatta vastapuolelta kulujaan, vakuutuksesta maksettavaa korvausta voidaan vakuutussopimuslain mukaan alentaa tai se
+voidaan evätä.
+
+Vakuutuksesta ei korvata
+ 1) kustannuksia sellaisista seikoista tai todisteista, joita tuomioistuin ei ota huomioon liian myöhään esitettyinä
+ 2) kustannuksia, jotka vakuutettu tai hänen asiamiehensä ovat aiheuttaneet jäämällä pois tuomioistuimesta, jättämällä noudattamatta tuomioistuimen
+     antamia määräyksiä tai esittämällä väitteen, jonka he ovat tienneet tai heidän olisi pitänyt tietää aiheettomaksi, taikka muutoin ovat oikeudenkäyntiä
+     pitkittämällä tahallaan tai huolimattomuudesta
+     aiheuttaneet
+ 3) kustannuksia oikeudenkäynnistä, jonka vakuutettu tai hänen asiamiehensä on aloittanut ilman vastapuolen antamaa aihetta tai muutoin ovat tahalli-
+     sesti tai huolimattomuudesta aiheuttaneet tarpeettoman oikeudenkäynnin
+ 4) kustannuksia oikeudenkäynnistä, jossa vakuutetun vaatimus on jätetty tutkimatta
+ 5) kustannuksia asiassa, jossa vakuutetun vaatimus on hylätty vanhentuneena, ennenaikaisena tai lakiin perustumattomana.
+
+Vakuutetulla ei ole oikeutta myöntää asiansa hoitamisesta aiheutuneiden kustannusten määrää yhtiötä sitovasti. Vakuutetun asiamiehelleen mahdollisesti
+maksama korvaus asiamiehen palkkioista ja kuluista ei sido vakuutusyhtiötä arvioitaessa oikeudenkäyntikulujen kohtuullisuutta, vaan asiamiehen lasku
+tulee lähettää vakuutusyhtiölle korvauksen määrittelyä varten.
+
+5.4.3 Verolainsäädännön vaikutus
+Korvauksen määrää laskettaessa otetaan huomioon verotusta säätelevät lait.
+
+Arvonlisävero
+Jos vakuutettu voi vähentää asiamiehen laskuun tai oikeudenkäyntikuluihin sisältyvän arvonlisäveron omassa verotuksessaan, vakuutuskorvauksesta
+vähennetään veron osuus. Asiamiehen lasku tulee osoittaa vakuutetulle.
+
+5.4.4 Vähennysten laskemisjärjestys
+Omavastuu ja muut vähennykset vähennetään korvattavan vahingon määrästä peräkkäisinä laskutoimituksina seuraavassa järjestyksessä:
+  1) mahdollisen veron määrä
+  2) omavastuu
+  3) henkilön menettelyyn perustuva korvauksen mahdollinen vähentäminen.
+
+6. Identiteettivarkausturva (sisältyy Laajaan oikeusturvaan)
+Identiteettivarkausturva on toissijainen tämän vakuutuksen muihin turviin nähden. Identiteettivarkausturvassa noudatetaan yksityishenkilön
+oikeusturvavakuutuksen ehtoja, ellei identiteettivarkausturvan ehdossa toisin mainita.
+
+6.1 Määritelmä
+Identiteettivarkaus tarkoittaa toisen henkilötietojen kuten nimen tai henkilötunnuksen eli identiteetin oikeudetonta käyttöä. Kyseessä voi olla esimerkiksi
+pankkitilin avaaminen, luottokortin tai lainan hakeminen, puhelinliittymän avaaminen tai jonkin hyödykkeen tai palvelun tilaaminen vakuutetun nimissä.
+
+6.2 Turvan tarkoitus
+Turvan tarkoituksena on rajoittaa sekä estää vakuutetun yksityiselämään liittyviä identiteettivarkaudesta aiheutuvia tapahtumia, jotka ovat sattuneet
+vakuutuksen voimassaoloaikana.
+
+Turvasta korvataan identiteettivarkauden tapahduttua suomalaisen lakimiesavun käyttämisestä aiheutuvia välttämättömiä ja kohtuullisia kustannuksia:
+ -    tutkintailmoituksen laatimisessa ja esitutkinnassa avustamisessa
+ -    virheellisten vaateiden hylkäämisessä
+ -    virheellisten luottohäiriömerkintöjen oikaisemisessa
+ -    sekä muiden virheiden korjaamisessa.
+
+6.3. Identiteettivarkausturvan rajoitukset
+Turvasta ei korvata vakuutetulle aiheutuvia kustannuksia asiassa,
+  -    kun identiteettivarkaus liittyy vakuutetun nykyiseen, aiempaan, tulevaan tai suunniteltuun työhön, ammatinharjoittamiseen, virkaan, toimeen,
+       elinkeino- tai ansiotoimintaan, kaupallisen yrityksen osakkuuteen tai jäsenyyteen tällaisen yrityksen hallinnollisissa elimissä tai muuhun pää- tai
+       sivutoimiseen tulon hankkimiseen
+  -    joka on seurausta vakuutetun rangaistavasta teosta
+  -    jossa identiteettivarkauden on aiheuttanut tällä vakuutuksella vakuutettu henkilö
+
+6.4. Kustannukset, joita turvasta ei korvata
+Turvasta ei korvata vakuutetun mahdollisia taloudellisia tappioita, kuluja tai kustannuksia, paitsi asianajokustannuksia
+
+6.5. Vakuutusmäärä
+Turvasta korvataan enintään vakuutuskirjalla mainittu enimmäiskorvausmäärä vakuutustapahtumaa kohden.
+
+6.6 Vakuutustapahtuma
+Turvasta korvataan vakuutustapahtuma, joissa kolmas osapuoli käyttää vakuutetun henkilöllisyyttä petokseen tai muuhun rikolliseen toimintaan. Näitä ovat
+esimerkiksi vakuutetun passin, pankki-, ajo- tai henkilökortin, henkilö- tai käyttäjätunnuksen, tilinumeron, digitaalisen allekirjoituksen tai pin-koodin
+varastaminen tai käyttäminen.
+
+Identiteettivarkauden aiheuttama tapahtuma tai toistuvat yhteenkuuluvat tapahtumat katsotaan yhdeksi ja samaksi vahingoksi, jos ne ovat seurausta
+samasta identiteettivarkaudesta. Vahinkojen, jotka perustuvat samaan tapahtumaan tai olosuhteeseen, katsotaan olevan yksi vakuutustapahtuma,
+riippumatta siitä, onko vahingot todettu yhden tai useamman vakuutuskauden aikana.
+
+
+
+                                                                               4
+                     Yksityishenkilön Oikeusturvavakuutusehdot
+                     Ehto YOI 714.17, voimassa 1.1.2026 alkaen
+
+
+
+
+6.7. Korvaamisen edellytykset
+Vakuutetun tulee mahdollisimman nopeasti
+  -   tehdä rikosilmoitus tapahtuneesta identiteettivarkaudesta
+  -   ilmoittaa identiteettivarkaudesta pankkiin, luottokorttiyhtiöön tai muulle vastaavalle taholle
+
+
+7 Vakuutusmaksuun vaikuttavat seikat
+Oikeusturvavakuutuksen maksuun vaikuttavia tekijöitä ovat muun muassa vakuutuksenottajan, vakuutettujen tai omaisuuden haltijan ominaisuudet, kuten
+ikä, vakuutettujen lukumäärä, asuinpaikka ja asuinympäristö sekä vakuutus- ja vahinkohistoria, vakuutetut kohteet ja niiden käyttötarkoitus sekä
+vakuutusturvan laajuus ja omavastuun suuruus.
+
+Vakuutusyhtiöllä on oikeus muuttaa vakuutusmaksua vakuutuskauden vaihtuessa vakuutuksen kohteen, vakuutuksenottajan, hänen perheenjäsentensä,
+vakuutettujen tai omaisuuden haltijan iän muuttumisen seurauksena. Tällöin vakuutusmaksu muuttuu iän muutosta vastaavan tilastollisen vahinkoriskin
+muutoksen mukaisesti.
+
+Kun iän vaikutus vahinkoriskiin muuttuu, vakuutusmaksua voidaan muuttaa paremmin riskiä vastaaviksi.
+
+Muut tilanteet, joissa vakuutusyhtiöllä on oikeus muuttaa vakuutusmaksua, on kerrottu yleisissä sopimusehdoissa.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+
+                                                                                5
+

@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Käyttäjän vastaukset",
+  "type": "object",
+  "properties": {
+    "response_id": {
+      "type": "string",
+      "description": "Vastauksen tunniste."
+    },
+    "event_id": {
+      "type": "string",
+      "description": "Viite olemassa olevaan tapahtumaan."
+    },
+    "answer": {
+      "type": "string",
+      "description": "Itse ilmoitettu tapahtumatyyppi.",
+      "enum": [
+        "slip",
+        "trip",
+        "other",
+        "no_event",
+        "unsure"
+      ]
+    },
+    "fall_occurred": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Kaaduttiinko? Eri asia kuin liukastuminen. null = ei tietoa."
+    },
+    "answered_at": {
+      "type": "string",
+      "description": "Vastauksen antamishetki.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "ingested_at": {
+      "type": "string",
+      "description": "Hetki, jolloin tämä rivi saapui palveluun. Ei sama kuin tapahtuma-aika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "response_id",
+    "event_id",
+    "answer",
+    "fall_occurred",
+    "answered_at",
+    "ingested_at",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

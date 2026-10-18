@@ -17,3 +17,9 @@ Project documentation lives in `docs/`, which is excluded from Git. README and A
 
 
 All reports and partners are synthetic. Motion detection and the weather anomaly are simulated; no live weather or claims data is used. Completed maintenance is not a guarantee of safety. Follow the runbook to connect both screens; mobile without the API environment variable remains standalone.
+
+## Dashboard and heatmap tabs
+
+The GitHub Pages site has top navigation for **If dashboard** (`./`) and **Heatmap visualisation** (`demo.html#heatmap`). The heatmap opens with a timeline, estimated slip risk per 1,000 passes, an optional hidden simulation truth layer, street averages and active gritting outlines. Existing simulation, customer and If operations views remain available within the visualisation page. The root dashboard’s connected maintenance actions still require the local API; Pages hosts static files only.
+
+Simulator source is vendored in [data_processing](data_processing/README.md) from `Elkkuboi/junction_turku`, revision `2bd7a66a6aa8e541abfa7b9cbb8c0497bb2d3118`. Only If materials are retained. The browser uses the existing checked-in export; importing source does not regenerate results. See the data-processing README for the R regeneration command.
