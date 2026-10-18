@@ -17,3 +17,5 @@ The fixed window is 11–17 October 2026. Counts represent synthetic reports, no
 Weather ingestion, motion processing, actual If-app integration, production authentication and maintenance agreements remain future work. Blue tokens and the plain text If placeholder are provisional brand treatments.
 
 The Linnankatu count marker also shows an exclamation badge while review or assignment is needed. Clicking it opens **Action needed** on the map. **Send** records review (if needed) and a gritting assignment to the fictional partner through the shared API; it never sends an external dispatch. Errors retain a retry action, and successful assignment changes the popup to **Request recorded**.
+
+Two additional clickable hazard symbols sit between the Linnankatu and Aurakatu labels: a slippery-surface warning sign opens a simulated above-weather-expectation message, and a bicycle opens a pothole report. These are synthetic, approximate map annotations; they do not add fall counts or change the connected maintenance workflow.
