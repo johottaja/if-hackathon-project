@@ -14,6 +14,8 @@ This hackathon prototype demonstrates the full **report → hotspot → maintena
 
 [Open the browser demo](https://johottaja.github.io/if-hackathon-project/demo.html#heatmap). It runs without an account, a phone or a local API.
 
+**Model papers (PDF):** [English](paper_en.pdf) · [Finnish](paperi_fi.pdf). They define the simulator mathematically and prove the conditions under which phone slip detections lower expected falls compared with the best gritting policy that ignores them.
+
 1. **Heatmap:** move through the timeline to see estimated slip risk around Eskelinkatu, Turku. Compare the estimate with the optional hidden simulation truth layer and inspect gritting activity.
 2. **Simulation:** watch the simulated January 2026 unfold. Compare Pito-targeted gritting with the same crew following a fixed rotation. The difference can be negative: targeted intervention does not win at every moment.
 3. **Pito app:** explore the embedded customer app and its view of current estimated risk.
