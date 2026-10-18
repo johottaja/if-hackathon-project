@@ -33,7 +33,7 @@ export default function OperatorView({d, t, playing, onPause}: {d: SimData; t: n
   const alerts = useMemo(() => alertReach(d) as {t: number; passes: number}[], [d]);
   const [auto, setAuto] = useState(true), [autoUntil, setAutoUntil] = useState(Infinity), [sent, setSent] = useState<Set<string>>(new Set());
   const [exposure, setExposure] = useState(false), [selectedId, setSelectedId] = useState<string | null>(null);
-  const [claimShare, setClaimShare] = useState(20), [claimCost, setClaimCost] = useState(600);
+  const [claimShare, setClaimShare] = useState(20), [claimCost, setClaimCost] = useState(6000);
 
   // With auto-dispatch off, a recommendation is executed only once the operator sends it; tasks
   // recommended before switching auto-dispatch off count as sent.
@@ -113,7 +113,7 @@ export default function OperatorView({d, t, playing, onPause}: {d: SimData; t: n
             <strong>{euro.format(avoided * claimShare / 100 * claimCost)}</strong>
             <p>{avoided.toFixed(1)} falls avoided × {claimShare} % become claims × {euro.format(claimCost)} average claim, in this 300 × 300 m area.</p>
             <label>Share of falls that become claims <output>{claimShare} %</output><input type="range" min={5} max={60} step={5} value={claimShare} onChange={e => setClaimShare(Number(e.target.value))}/></label>
-            <label>Average claim cost <output>{euro.format(claimCost)}</output><input type="range" min={100} max={5000} step={100} value={claimCost} onChange={e => setClaimCost(Number(e.target.value))}/></label>
+            <label>Average claim cost <output>{euro.format(claimCost)}</output><input type="range" min={500} max={20000} step={500} value={claimCost} onChange={e => setClaimCost(Number(e.target.value))}/></label>
           </div>
         </details>
         <details className="dash-history">
