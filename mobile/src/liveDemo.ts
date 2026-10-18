@@ -22,6 +22,7 @@ export type LiveFrame = {
   gritted: number[]; // zone ids gritted now
   streets: { name: string; level: string }[];
   gritting: { street: string; until: string }[];
+  heat?: string; // heatmap image (data URL); sent when it changes, otherwise the last one is kept
 };
 export type Live = { setup: LiveSetup; frame: LiveFrame };
 
@@ -44,7 +45,8 @@ export function useLiveDemo(): Live | null {
       const m = e.data;
       if (!m || m.source !== "pito-demo") return;
       if (m.type === "setup") setSetup(m.setup);
-      if (m.type === "frame") setFrame(m.frame);
+      if (m.type === "frame")
+        setFrame((prev) => ({ ...m.frame, heat: m.frame.heat ?? prev?.heat }));
     };
     window.addEventListener("message", onMessage);
     window.parent.postMessage({ source: "pito-app", type: "ready" }, "*");

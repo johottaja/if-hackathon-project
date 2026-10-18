@@ -1,7 +1,7 @@
 import {useEffect, useMemo, useState} from 'react';
 import {ArrowRight, CheckCheck} from 'lucide-react';
 import {alertReach, operatorTasks, riskMaps} from './insights.mjs';
-import {MapCanvas, drawCells, drawPings, drawZone, formatTime, formatWhen, riskColor, weatherLabel, type DrawFn} from './map';
+import {MapCanvas, drawCells, drawHeat, drawPings, drawZone, formatTime, formatWhen, heatCanvas, weatherLabel, type DrawFn} from './map';
 import type {SimData} from './types';
 
 // If operations, styled after the Pito operator dashboard (src/App.tsx): one map, one selected block.
@@ -15,8 +15,8 @@ function drawOps(d: SimData, o: {exposure: boolean; awaiting: Task[]; approved: 
       const h = Math.min(d.meta.hours - 1, Math.floor(t)), max = Math.max(...d.cells.perHour) * 0.9;
       drawCells(ctx, d, i => { const v = d.cells.perHour[i] * d.rhythm[h] / max; return v < 0.02 ? null : `rgba(30, 90, 180, ${(0.15 + 0.6 * Math.min(1, v)).toFixed(2)})`; });
     } else {
-      const {est} = riskMaps(d, t);
-      drawCells(ctx, d, i => riskColor(est[i]));
+      const h = Math.min(d.meta.hours - 1, Math.floor(t));
+      drawHeat(ctx, heatCanvas(d, `${d.meta.seed}-est-${h}`, () => riskMaps(d, t).est));
     }
     const g = d.grit.targeted;
     g.t.forEach((start, i) => {

@@ -18,6 +18,14 @@ export function LiveRiskMap({ live }: { live: Live }) {
           resizeMode="cover"
           accessible={false}
         />
+        {frame.heat ? (
+          <Image
+            source={{ uri: frame.heat }}
+            style={StyleSheet.absoluteFill}
+            resizeMode="stretch"
+            accessible={false}
+          />
+        ) : null}
         <Svg
           width="100%"
           height="100%"
@@ -25,7 +33,8 @@ export function LiveRiskMap({ live }: { live: Live }) {
           style={StyleSheet.absoluteFill}
           accessible={false}
         >
-          {setup.cells.x.map((x, i) => {
+          {/* Without a heatmap image, fall back to one coloured square per cell. */}
+          {(frame.heat ? [] : setup.cells.x).map((x, i) => {
             const fill = riskColor(frame.risk[i]);
             if (!fill) return null;
             const half = setup.cellSize / 2;

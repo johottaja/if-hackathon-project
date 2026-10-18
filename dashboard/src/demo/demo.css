@@ -98,6 +98,15 @@ h1, h2, p { margin: 0; }
 .live-loading, .live-error { padding: 40px; text-align: center; color: var(--muted); }
 .live-error { color: #9d3e20; }
 
+.heat-legend { display: grid; grid-template-columns: 1fr; gap: 4px; font-size: 12px; color: var(--muted); }
+.heat-legend i { height: 10px; border-radius: 5px; background: linear-gradient(90deg, rgba(255, 224, 120, .45), rgba(253, 160, 70, .7), rgba(230, 60, 40, .82), rgba(150, 10, 40, .9)); }
+.heat-legend small { display: flex; justify-content: space-between; font-size: 11px; }
+.map-tabs { display: inline-flex; border: 1px solid #c8d1d8; border-radius: 6px; overflow: hidden; background: white; }
+.map-tabs button { min-height: 36px; padding: 0 14px; font-size: 13px; color: var(--muted); }
+.map-tabs button + button { border-left: 1px solid #e3e8ed; }
+.map-tabs button.active { background: #e8f0ff; color: var(--blue); font-weight: 650; }
+.live-map-card .map-tabs { display: flex; width: fit-content; margin: 0 auto 10px; }
+
 /* Pito app view: the Expo web app in a phone frame, next to the hidden truth */
 .cv-grid { grid-template-columns: auto minmax(0, 1fr); }
 .app-phone { position: relative; height: min(800px, calc(100vh - 250px)); min-height: 540px; aspect-ratio: 9 / 17; margin: 0 auto; border: 9px solid #1d2733; border-radius: 38px; background: #f5f3ef; overflow: hidden; box-shadow: 0 16px 36px rgba(23, 45, 62, .16); }

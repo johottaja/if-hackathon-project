@@ -1,24 +1,26 @@
 import {useEffect, useRef, useState} from 'react';
 import {Info} from 'lucide-react';
-import {activeZones, dayIndex} from './timeline.mjs';
-import {C, MapCanvas, MapClock, drawLabel, drawPings, drawZone, ease, geo, type DrawFn} from './map';
+import {activeZones} from './timeline.mjs';
+import {riskMaps} from './insights.mjs';
+import {C, HeatLegend, MapCanvas, MapClock, drawHeat, drawLabel, drawPings, drawZone, ease, geo, heatCanvas, type DrawFn} from './map';
 import type {SimData} from './types';
 
 type Counters = {falls: number; captured: number; extra: number; prevented: number; netPrevented: number; baselineFalls: number; expectedPrevented: number; detections: number};
 const ANIM = {fall: 1600, grit: 1200};
 const fmt1 = (x: number) => x.toFixed(1);
 
-// God view: every fall, which ones phones captured, and the falls targeted gritting prevented.
-function drawTruth(d: SimData, opts: {xray: boolean; baseline: boolean}): DrawFn {
+type Layer = 'pito' | 'truth' | 'none';
+const LAYERS: {id: Layer; label: string}[] = [{id: 'pito', label: 'Pito heatmap'}, {id: 'truth', label: 'Hidden truth'}, {id: 'none', label: 'Falls only'}];
+
+// Live heatmap of slip risk (Pito's estimate or the hidden truth), with every fall, which ones
+// phones captured, and the falls targeted gritting prevented on top.
+function drawTruth(d: SimData, opts: {layer: Layer; baseline: boolean}): DrawFn {
   return (ctx, t, now, fired, k) => {
-    const {s, X, Y} = geo(d);
+    const {X, Y} = geo(d);
     const age = (key: string) => { const f = fired.get(key); return f === undefined ? Infinity : now - f; };
-    if (opts.xray) {
-      const days = Object.keys(d.slipperiness), L = d.slipperiness[days[Math.min(days.length - 1, dayIndex(t))]], half = d.meta.cellSize / 2;
-      d.cells.id.forEach((_, i) => {
-        ctx.fillStyle = `rgba(110, 64, 201, ${Math.min(0.8, 0.08 + L[i] * 0.85)})`;
-        ctx.fillRect(X(d.cells.x[i] - half), Y(d.cells.y[i] + half), d.meta.cellSize * s, d.meta.cellSize * s);
-      });
+    if (opts.layer !== 'none') {
+      const which = opts.layer === 'pito' ? 'est' : 'truth', h = Math.min(d.meta.hours - 1, Math.floor(t));
+      drawHeat(ctx, heatCanvas(d, `${d.meta.seed}-${which}-${h}`, () => riskMaps(d, t)[which]));
     }
     if (opts.baseline) for (const [id] of activeZones(d.grit.baseline, t, d.meta.gritHours)) drawZone(ctx, d, id, {stroke: 'rgba(23, 45, 62, .55)', width: 3, dash: [10, 8], inset: 5});
     for (const [id, start] of activeZones(d.grit.targeted, t, d.meta.gritHours)) {
@@ -56,7 +58,7 @@ function drawTruth(d: SimData, opts: {xray: boolean; baseline: boolean}): DrawFn
 }
 
 export default function SimulationView({d, t, c, playing}: {d: SimData; t: number; c: Counters; playing: boolean}) {
-  const [xray, setXray] = useState(false), [baseline, setBaseline] = useState(true);
+  const [layer, setLayer] = useState<Layer>('pito'), [baseline, setBaseline] = useState(true);
   const [pop, setPop] = useState({key: 0, delta: 0});
   const netRef = useRef(c.netPrevented);
   useEffect(() => {
@@ -68,7 +70,10 @@ export default function SimulationView({d, t, c, playing}: {d: SimData; t: numbe
 
   return <div className="live-grid">
     <section className="live-card live-map-card">
-      <MapCanvas d={d} draw={drawTruth(d, {xray, baseline})} label="Simulated map of falls and gritting around Eskelinkatu, Turku">
+      <div className="map-tabs" role="group" aria-label="Map layer">
+        {LAYERS.map(l => <button key={l.id} className={layer === l.id ? 'active' : ''} aria-pressed={layer === l.id} onClick={() => setLayer(l.id)}>{l.label}</button>)}
+      </div>
+      <MapCanvas d={d} draw={drawTruth(d, {layer, baseline})} label="Live heatmap of slip risk with falls and gritting around Eskelinkatu, Turku">
         <MapClock d={d} t={t}/>
         <div className="live-map-counter" aria-hidden="true"><strong className={c.netPrevented < 0 ? 'negative' : ''}>{c.netPrevented}</strong><span>falls prevented</span></div>
       </MapCanvas>
@@ -87,6 +92,7 @@ export default function SimulationView({d, t, c, playing}: {d: SimData; t: numbe
         <div><strong>{c.detections}</strong><span>Slips detected by phones</span></div>
       </div>
       <p className="live-expected">Model expectation so far: {fmt1(c.expectedPrevented)} falls prevented. The count above is this one random month.</p>
+      {layer !== 'none' && <HeatLegend label={layer === 'pito' ? 'Pito’s estimated slip risk (phones + weather)' : 'Hidden true slip risk (Pito never sees this)'}/>}
       <ul className="live-legend">
         <li><i className="lg-fall"/>Fall</li>
         <li><i className="lg-captured"/>Fall captured by a Pito user’s phone</li>
@@ -98,7 +104,6 @@ export default function SimulationView({d, t, c, playing}: {d: SimData; t: numbe
       </ul>
       <div className="live-toggles">
         <label><input type="checkbox" checked={baseline} onChange={e => setBaseline(e.target.checked)}/>Show fixed-rotation crew</label>
-        <label><input type="checkbox" checked={xray} onChange={e => setXray(e.target.checked)}/>X-ray: hidden slipperiness (Pito never sees this)</label>
       </div>
       <details className="live-about"><summary><Info size={15} aria-hidden="true"/>How the simulation works</summary>
         <p>Every 10 m pavement square has a hidden slipperiness that changes daily. Pedestrians walk the four marked routes; their phones detect slips by vibration ({d.meta.params.tunnistus_p * 100} %) with occasional false alarms. Each slip becomes a fall with probability {d.meta.params.kaatuminen_liukastumisesta_p * 100} %.</p>

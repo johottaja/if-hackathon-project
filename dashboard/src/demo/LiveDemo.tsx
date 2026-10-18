@@ -11,7 +11,7 @@ const DATA_URL = 'demo/simulation.json';
 const SPEEDS = [{label: 'Slow', hoursPerSecond: 3}, {label: 'Normal', hoursPerSecond: 8}, {label: 'Fast', hoursPerSecond: 24}];
 const THAW_START = 14 * 24; // 15 January 00:00
 const VIEWS = [
-  {id: 'simulation', label: 'Simulation', short: 'Simulation', icon: MapIcon, intro: 'Everything that happens in the simulated month: every fall, what phones captured, and what targeted gritting prevented.'},
+  {id: 'simulation', label: 'Live heatmap', short: 'Heatmap', icon: MapIcon, intro: 'Slip risk through January 2026 as Pito estimates it from phone vibration detections and measured weather. Falls appear as they happen: a blue ring means a phone captured it, a green check means targeted gritting prevented it.'},
   {id: 'customer', label: 'Pito app', short: 'App', icon: Smartphone, intro: 'The Pito app running on the simulated month. Its risk map comes only from phone slip detections and measured weather. Next to it is the hidden truth it is trying to estimate.'},
   {id: 'if', label: 'If operations', short: 'If', icon: LayoutDashboard, intro: 'What If sees: Pito’s gritting recommendations and their reasons. Select a block on the map. Under Dispatch controls you can turn off auto-dispatch and send blocks yourself.'},
 ] as const;
