@@ -6,6 +6,7 @@ Pito is a proposed If-app safety map for pedestrians and cyclists, paired with a
 - [Connected demo runbook](docs/demo-runbook.md): commands, phone connection and the exact slide 5 sequence.
 - [Mobile app](mobile/README.md): Expo + React Native + NativeWind customer experience.
 - [Dashboard](dashboard/README.md): React operator experience and demo API.
+- [Live simulation demo](dashboard/README.md#live-simulation-demo): `dashboard/demo.html`, a simulated January 2026 for voters with the embedded Pito app. Published to GitHub Pages by `.github/workflows/pages.yml`.
 - [Product plan](docs/product-plan.md): terminology, principles and the supplied four 25% judging criteria (including duplicated wording).
 - [Design direction](docs/design-direction.md): shared If-inspired blue and accessible status language.
 - [Evidence and validation](docs/prevention-validation.md): unvalidated sensing and impact hypotheses.

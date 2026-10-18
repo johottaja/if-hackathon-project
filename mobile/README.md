@@ -8,6 +8,12 @@ The mobile Home screen uses warm neutral surfaces, white cards, calm dark typogr
 
 The **Simulate possible fall** button is tucked below the maintenance controls at the bottom of **About**, away from the initial view: it returns to Home and shows **Did you fall?** in a focused overlay with the entire app blurred and background controls blocked. **Yes, report what happened** opens the existing report flow with a confirmed fall; No/dismiss shares nothing. Detection remains explicitly simulated. Brand colours remain approximate and the text If mark remains a placeholder, pending approved assets.
 
+## Live simulation mode (web)
+
+The dashboard’s live demo (`dashboard/demo.html`) embeds this app’s web build in an iframe. It posts the simulated area’s map geometry once and then the current slip-risk estimate; the app replies only with a ready signal. In this mode the Home map shows the real Turku map with the estimated risk and gritted blocks, and the hazard list is replaced by a “Right now” list. Messages are accepted only from the embedding page on the same origin or from `localhost`. Native builds and the stand-alone app never enter this mode. See `src/liveDemo.ts` and `src/LiveRiskMap.tsx`.
+
+`app.config.js` reads an optional `EXPO_BASE_URL`, so the web export can be served from a subpath (`/app` by default in `dashboard`’s `npm run build:demo`).
+
 ## Earlier implementation reference
 
 The following reference predates the connected Pito update; use the runbook for current location, counts and connection instructions.
