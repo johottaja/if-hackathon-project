@@ -1,5 +1,9 @@
 # Pito — If keeps you on your feet
 
+
+[![Pito heatmap showing estimated slip risk and gritting around Eskelinkatu, Turku](assets/heatmap.png)](https://johottaja.github.io/if-hackathon-project/demo.html?t=376#heatmap)
+
+*Heatmap at 16 January, 16:00 in the synthetic replay. Colours show estimated slip risk; green outlines mark simulated gritting.*
 Pito is a proposed If-app safety map for pedestrians and cyclists, paired with an If prevention dashboard. The implemented synthetic demo connects a Linnankatu report to hotspot review, a fictional maintenance assignment, completion and verification.
 
 - [Pitch script](docs/pitch.md): the supplied seven slides, preserved with rehearsal/evidence notes.
