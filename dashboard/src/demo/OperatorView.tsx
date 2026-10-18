@@ -1,7 +1,7 @@
 import {useEffect, useMemo, useState} from 'react';
 import {ArrowRight, CheckCheck} from 'lucide-react';
 import {alertReach, operatorTasks, riskMaps} from './insights.mjs';
-import {MapCanvas, drawCells, drawPings, drawZone, formatTime, formatWhen, riskColor, weatherLabel, type DrawFn} from './map';
+import {MapCanvas, drawCells, drawHeat, drawPings, drawZone, formatTime, formatWhen, heatCanvas, weatherLabel, type DrawFn} from './map';
 import type {SimData} from './types';
 
 // If operations, styled after the Pito operator dashboard (src/App.tsx): one map, one selected block.
@@ -15,8 +15,8 @@ function drawOps(d: SimData, o: {exposure: boolean; awaiting: Task[]; approved: 
       const h = Math.min(d.meta.hours - 1, Math.floor(t)), max = Math.max(...d.cells.perHour) * 0.9;
       drawCells(ctx, d, i => { const v = d.cells.perHour[i] * d.rhythm[h] / max; return v < 0.02 ? null : `rgba(30, 90, 180, ${(0.15 + 0.6 * Math.min(1, v)).toFixed(2)})`; });
     } else {
-      const {est} = riskMaps(d, t);
-      drawCells(ctx, d, i => riskColor(est[i]));
+      const h = Math.min(d.meta.hours - 1, Math.floor(t));
+      drawHeat(ctx, heatCanvas(d, `${d.meta.seed}-est-${h}`, () => riskMaps(d, t).est));
     }
     const g = d.grit.targeted;
     g.t.forEach((start, i) => {
@@ -33,7 +33,7 @@ export default function OperatorView({d, t, playing, onPause}: {d: SimData; t: n
   const alerts = useMemo(() => alertReach(d) as {t: number; passes: number}[], [d]);
   const [auto, setAuto] = useState(true), [autoUntil, setAutoUntil] = useState(Infinity), [sent, setSent] = useState<Set<string>>(new Set());
   const [exposure, setExposure] = useState(false), [selectedId, setSelectedId] = useState<string | null>(null);
-  const [claimShare, setClaimShare] = useState(20), [claimCost, setClaimCost] = useState(2000);
+  const [claimShare, setClaimShare] = useState(20), [claimCost, setClaimCost] = useState(6000);
 
   // With auto-dispatch off, a recommendation is executed only once the operator sends it; tasks
   // recommended before switching auto-dispatch off count as sent.
@@ -113,7 +113,7 @@ export default function OperatorView({d, t, playing, onPause}: {d: SimData; t: n
             <strong>{euro.format(avoided * claimShare / 100 * claimCost)}</strong>
             <p>{avoided.toFixed(1)} falls avoided × {claimShare} % become claims × {euro.format(claimCost)} average claim, in this 300 × 300 m area.</p>
             <label>Share of falls that become claims <output>{claimShare} %</output><input type="range" min={5} max={60} step={5} value={claimShare} onChange={e => setClaimShare(Number(e.target.value))}/></label>
-            <label>Average claim cost <output>{euro.format(claimCost)}</output><input type="range" min={500} max={10000} step={500} value={claimCost} onChange={e => setClaimCost(Number(e.target.value))}/></label>
+            <label>Average claim cost <output>{euro.format(claimCost)}</output><input type="range" min={500} max={20000} step={500} value={claimCost} onChange={e => setClaimCost(Number(e.target.value))}/></label>
           </div>
         </details>
         <details className="dash-history">

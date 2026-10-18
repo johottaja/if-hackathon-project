@@ -20,9 +20,23 @@ The Linnankatu count marker also shows an exclamation badge while review or assi
 
 ## Live simulation demo
 
-`demo.html` is a public page for hackathon voters: a simulated January 2026 around Eskelinkatu, Turku, seen from three angles on one shared timeline. It needs no API and works on phones and laptops.
+**Live:** https://johottaja.github.io/if-hackathon-project/demo.html#heatmap, or **Heatmap visualisation** in the site’s top navigation. Press **Play January** or **Jump to the thaw**.
 
-- **Simulation** (`#simulation`): every fall as a red dot, falls captured by a phone’s vibration sensor with a blue ripple, and green markers for falls that Pito-targeted gritting prevented. The counter compares Pito-targeted gritting with the same crew on a fixed rotation in the same simulated month (common random numbers). It can be negative, because the rotation sometimes grits a place Pito skipped; those falls get an amber ring. An x-ray toggle shows the hidden slipperiness.
+**Run it locally** (Node.js 22):
+
+```sh
+cd dashboard
+npm ci && npm ci --prefix ../mobile
+npm run build:demo
+npm run preview
+```
+
+Open the address `npm run preview` prints and open the default **Heatmap** view (`/demo.html#heatmap`). To update the published demo, merge to `main`: the Pages workflow rebuilds and republishes it in a few minutes.
+
+`demo.html` is a public page for hackathon voters: a simulated January 2026 around Eskelinkatu, Turku, seen from four angles on one shared timeline. It needs no API and works on phones and laptops.
+
+- **Heatmap** (`#heatmap`, the default): estimated slip risk with an optional hidden simulation truth layer, street averages and active gritting outlines.
+- **Simulation** (`#simulation`): a smooth heatmap of slip risk as Pito estimates it from phone slip detections and measured weather, changing hour by hour. A layer switch shows the hidden true risk instead, or the falls only. On top, every fall as a red dot, falls captured by a phone’s vibration sensor with a blue ripple, and green markers for falls that Pito-targeted gritting prevented. The counter compares Pito-targeted gritting with the same crew on a fixed rotation in the same simulated month (common random numbers). It can be negative, because the rotation sometimes grits a place Pito skipped; those falls get an amber ring.
 - **Pito app** (`#customer`): the real mobile app (`mobile/`, Expo web build) in an iframe. In live mode its Home map shows the simulated area with Pito’s estimated slip risk from phone slip detections and measured weather, plus a “Right now” list. Next to it, the hidden truth on the same colour scale and the current correlation between the two.
 - **If operations** (`#if`): styled like this dashboard. Recommended blocks appear as map markers; the selected block shows phone signals, estimated risk, measured weather and a **Send gritting** next step. The month-so-far panel has KPIs and an illustrative euro estimate built on two adjustable assumptions. Under **Dispatch controls**, turning off auto-dispatch pauses the replay until each block is sent.
 
@@ -30,9 +44,9 @@ Add `?t=<hours>` to open at a given moment, for example `demo.html?t=376#if` for
 
 ### Build and publish
 
-`npm run build:demo` builds the dashboard and demo into `dist/` and exports the Pito app’s web build into `dist/app/`. Preview it with `npm run preview` and open `/demo.html`. `EXPO_BASE_URL` sets the app’s subpath (default `/app`).
+`npm run build:demo` builds the dashboard and demo into `dist/` and exports the Pito app’s web build into `dist/app/`. `EXPO_BASE_URL` sets the app’s subpath (default `/app`).
 
-`.github/workflows/pages.yml` runs the tests and `build:demo` on every push to `main` and publishes `dist/` to GitHub Pages. Enable it once in the repository: **Settings → Pages → Source: GitHub Actions**. The voter link is then `https://<owner>.github.io/<repository>/demo.html`. The dashboard at the site root runs without its API there and shows itself as disconnected.
+`.github/workflows/pages.yml` runs the tests and `build:demo` on every push to `main` and publishes `dist/` to GitHub Pages. Enable it once in the repository: **Settings → Pages → Source: GitHub Actions**. The voter link is then `https://<owner>.github.io/<repository>/demo.html#heatmap`. The connected dashboard at `?view=dashboard` runs without its API there; its mutations require the local service.
 
 During `npm run dev`, the iframe has no app build. Run `npm run web` in `mobile/` and start the dashboard with `VITE_PITO_APP_URL=http://localhost:8081 npm run dev`.
 
@@ -40,13 +54,15 @@ During `npm run dev`, the iframe has no app build. Run `npm run web` in `mobile/
 
 All pedestrians, slips, falls, detections and gritting are simulated. Weather is measured (FMI, Turku Artukainen, CC BY 4.0); the background map is Maanmittauslaitos’ background map via Kapsi (CC BY 4.0). No customer identities or movement histories are shown in the If view.
 
-`public/demo/simulation.json` and `public/demo/turku-vpk.png` are generated by Elias’s R simulator ([Elkkuboi/junction_turku](https://github.com/Elkkuboi/junction_turku), `If/labra/v0`). To regenerate, run there:
+`public/demo/simulation.json`, `public/demo/turku-vpk.png` and the papers `paper_en.pdf` and `paperi_fi.pdf` come from Elias’s R simulator ([Elkkuboi/junction_turku](https://github.com/Elkkuboi/junction_turku), `If/labra/v0`). To regenerate, run there:
 
 ```sh
-Rscript aja_demo.R <path-to>/if-hackathon-project/dashboard/public/demo
+Rscript aja_demo.R <path-to>/if-hackathon-project/dashboard/public/demo [seed]
 ```
 
-The model and its proofs are in that repository’s `If/labra/v0/paperi/simulaattori.pdf`. `src/demo/timeline.mjs` holds the counters and `src/demo/insights.mjs` the risk maps and tasks; `npm test` checks them against the simulator data.
+`Rscript etsi_siemen.R` there compares seeds; pick a representative one and the demo shows which seed it uses.
+
+The model and its proofs are in `public/demo/paper_en.pdf` (Finnish: `paperi_fi.pdf`); their sources are in that repository’s `If/labra/v0/paperi/`. The demo links to both. `src/demo/timeline.mjs` holds the counters and `src/demo/insights.mjs` the risk maps and tasks; `npm test` checks them against the simulator data.
 Two additional clickable hazard symbols sit between the Linnankatu and Aurakatu labels: a slippery-surface warning sign opens a simulated above-weather-expectation message, and a bicycle opens a pothole report. These are synthetic, approximate map annotations; they do not add fall counts or change the connected maintenance workflow.
 
 ## Dashboard and heatmap tabs

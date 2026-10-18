@@ -22,6 +22,56 @@ export function riskColor(v: number) {
   return `rgba(${mix(246, 214)}, ${mix(205, 38)}, ${mix(70, 61)}, ${(0.22 + 0.6 * q).toFixed(2)})`;
 }
 
+// Smooth heatmap: every square adds a soft blob weighted by its value (slips per 1,000 passes),
+// and the summed intensity is coloured with one palette. Values change at most once per
+// simulated hour, so each map is rendered once per key and reused between frames.
+const HEAT_SIZE = 400, HEAT_MAX = 10, HEAT_RADIUS_M = 24;
+const heatCache = new Map<string, HTMLCanvasElement>();
+let palette: Uint8ClampedArray | null = null;
+function heatPalette() {
+  if (palette) return palette;
+  const c = document.createElement('canvas'); c.width = 256; c.height = 1;
+  const g = c.getContext('2d')!, grad = g.createLinearGradient(0, 0, 256, 0);
+  [[0, 'rgba(255, 237, 160, 0)'], [0.15, 'rgba(255, 224, 120, .45)'], [0.4, 'rgba(253, 160, 70, .7)'],
+   [0.7, 'rgba(230, 60, 40, .82)'], [1, 'rgba(150, 10, 40, .9)']].forEach(([o, col]) => grad.addColorStop(o as number, col as string));
+  g.fillStyle = grad; g.fillRect(0, 0, 256, 1);
+  return (palette = g.getImageData(0, 0, 256, 1).data);
+}
+
+export function heatCanvas(d: SimData, key: string, values: () => number[]) {
+  const cached = heatCache.get(key);
+  if (cached) return cached;
+  const canvas = document.createElement('canvas');
+  canvas.width = canvas.height = HEAT_SIZE;
+  const ctx = canvas.getContext('2d')!, k = HEAT_SIZE / d.meta.areaSize, r = HEAT_RADIUS_M * k, v = values();
+  d.cells.id.forEach((_, i) => {
+    const a = Math.min(1, v[i] / HEAT_MAX);
+    if (a < 0.03) return;
+    const x = d.cells.x[i] * k, y = (d.meta.areaSize - d.cells.y[i]) * k;
+    const grad = ctx.createRadialGradient(x, y, 0, x, y, r);
+    grad.addColorStop(0, `rgba(0, 0, 0, ${a})`); grad.addColorStop(1, 'rgba(0, 0, 0, 0)');
+    ctx.fillStyle = grad; ctx.fillRect(x - r, y - r, 2 * r, 2 * r);
+  });
+  const img = ctx.getImageData(0, 0, HEAT_SIZE, HEAT_SIZE), px = img.data, pal = heatPalette();
+  for (let i = 3; i < px.length; i += 4) {
+    const j = px[i] * 4;
+    px[i - 3] = pal[j]; px[i - 2] = pal[j + 1]; px[i - 1] = pal[j + 2]; px[i] = pal[j + 3];
+  }
+  ctx.putImageData(img, 0, 0);
+  if (heatCache.size > 24) heatCache.delete(heatCache.keys().next().value!);
+  heatCache.set(key, canvas);
+  return canvas;
+}
+
+export function drawHeat(ctx: CanvasRenderingContext2D, heat: HTMLCanvasElement) {
+  ctx.save(); ctx.imageSmoothingEnabled = true; ctx.imageSmoothingQuality = 'high';
+  ctx.drawImage(heat, 0, 0, 1000, 1000); ctx.restore();
+}
+
+export function HeatLegend({label}: {label: string}) {
+  return <div className="heat-legend"><span>{label}</span><i aria-hidden="true"/><small><span>low</span><span>very high</span></small></div>;
+}
+
 export function drawCells(ctx: CanvasRenderingContext2D, d: SimData, color: (i: number) => string | null) {
   const {s, X, Y} = geo(d), half = d.meta.cellSize / 2;
   d.cells.id.forEach((_, i) => {

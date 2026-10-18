@@ -1,6 +1,6 @@
 import {useContext, useEffect, useRef, useState} from 'react';
 import {STREETS, correlation, riskLevel, riskMaps, routeCells, zoneStreet} from './insights.mjs';
-import {C, ClockContext, MapCanvas, MapClock, drawCells, drawZone, formatTime, formatWhen, riskColor, weatherLabel, type DrawFn} from './map';
+import {C, ClockContext, HeatLegend, MapCanvas, MapClock, drawHeat, drawZone, formatTime, formatWhen, heatCanvas, weatherLabel, type DrawFn} from './map';
 import {activeZones} from './timeline.mjs';
 import type {SimData} from './types';
 
@@ -43,17 +43,20 @@ function PitoApp({d}: {d: SimData}) {
   useEffect(() => {
     const target = new URL(APP_URL, window.location.href).origin;
     const post = (type: string, payload: object) => frame.current?.contentWindow?.postMessage({source: 'pito-demo', type, ...payload}, target);
-    let last = '';
+    let last = '', lastHour = -1;
     const send = () => {
-      const t = clock.tRef.current, key = `${Math.floor(t * 4)}`;
+      const t = clock.tRef.current, key = `${Math.floor(t * 4)}`, h = Math.min(d.meta.hours - 1, Math.floor(t));
       if (key === last) return;
       last = key;
-      post('frame', {frame: frameFor(d, t)});
+      // The heatmap image changes at most hourly; the app keeps the last one it received.
+      const heat = h === lastHour ? undefined : heatCanvas(d, `${d.meta.seed}-est-${h}`, () => riskMaps(d, t).est).toDataURL('image/png');
+      lastHour = h;
+      post('frame', {frame: {...frameFor(d, t), heat}});
     };
     const onMessage = (e: MessageEvent) => {
       if (e.source !== frame.current?.contentWindow || e.data?.source !== 'pito-app' || e.data.type !== 'ready') return;
       post('setup', {setup: setupFor(d)});
-      last = '';
+      last = ''; lastHour = -1;
       send();
       setReady(true);
     };
@@ -70,8 +73,8 @@ function PitoApp({d}: {d: SimData}) {
 
 function drawTruth(d: SimData): DrawFn {
   return (ctx, t) => {
-    const {truth} = riskMaps(d, t);
-    drawCells(ctx, d, i => riskColor(truth[i]));
+    const h = Math.min(d.meta.hours - 1, Math.floor(t));
+    drawHeat(ctx, heatCanvas(d, `${d.meta.seed}-truth-${h}`, () => riskMaps(d, t).truth));
     for (const [id] of activeZones(d.grit.targeted, t, d.meta.gritHours)) drawZone(ctx, d, id, {stroke: C.green, width: 3, fill: 'rgba(22, 135, 90, .08)'});
   };
 }
@@ -90,6 +93,7 @@ export default function CustomerView({d, t}: {d: SimData; t: number}) {
       <MapCanvas d={d} draw={drawTruth(d)} label="Hidden true slip risk in the simulation">
         <MapClock d={d} t={t}/>
       </MapCanvas>
+      <HeatLegend label="Hidden true slip risk, same scale as the app"/>
       <div className="agreement">
         <span>Map agreement with the truth now</span>
         <div className="agreement-bar"><i style={{width: `${Math.max(0, r ?? 0) * 100}%`}}/></div>
