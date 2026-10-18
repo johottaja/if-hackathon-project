@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Lähderekisteri",
+  "type": "object",
+  "properties": {
+    "source_id": {
+      "type": "string",
+      "description": "Lähteen pääavain; muiden rivien source_id viittaa tähän."
+    },
+    "kind": {
+      "type": "string",
+      "description": "Lähteen luonne.",
+      "enum": [
+        "observed",
+        "simulated",
+        "proposed"
+      ]
+    },
+    "description": {
+      "type": "string",
+      "description": "Mitä lähde sisältää."
+    },
+    "native_format": {
+      "type": "string",
+      "description": "Alkuperäinen tai tässä esimerkissä generoitu muoto."
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Alkuperäinen osoite, jos tiedossa."
+    },
+    "license": {
+      "type": "string",
+      "description": "Käyttöehdon kuvaus; ei luvan korvike."
+    },
+    "retrieved_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Latausaika, jos oikea lähde on ladattu.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Lähteen arvot ovat simuloituja."
+    }
+  },
+  "required": [
+    "source_id",
+    "kind",
+    "description",
+    "native_format",
+    "source_url",
+    "license",
+    "retrieved_at",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

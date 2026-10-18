@@ -3,6 +3,8 @@ import {Pause, Play, RotateCcw, Map as MapIcon, Smartphone, LayoutDashboard} fro
 import {counters, firedBetween} from './timeline.mjs';
 import {ClockContext, formatWhen} from './map';
 import SimulationView from './SimulationView';
+import HeatmapView from './HeatmapView';
+import SiteNav from '../components/SiteNav';
 import CustomerView from './CustomerView';
 import OperatorView from './OperatorView';
 import type {SimData} from './types';
@@ -11,12 +13,13 @@ const DATA_URL = 'demo/simulation.json';
 const SPEEDS = [{label: 'Slow', hoursPerSecond: 3}, {label: 'Normal', hoursPerSecond: 8}, {label: 'Fast', hoursPerSecond: 24}];
 const THAW_START = 14 * 24; // 15 January 00:00
 const VIEWS = [
+  {id: 'heatmap', label: 'Heatmap', short: 'Heatmap', icon: MapIcon, intro: 'Estimated slip risk from the R simulator. Compare it with hidden simulated slipperiness and explore January with the timeline.'},
   {id: 'simulation', label: 'Simulation', short: 'Simulation', icon: MapIcon, intro: 'Everything that happens in the simulated month: every fall, what phones captured, and what targeted gritting prevented.'},
   {id: 'customer', label: 'Pito app', short: 'App', icon: Smartphone, intro: 'The Pito app running on the simulated month. Its risk map comes only from phone slip detections and measured weather. Next to it is the hidden truth it is trying to estimate.'},
   {id: 'if', label: 'If operations', short: 'If', icon: LayoutDashboard, intro: 'What If sees: Pito’s gritting recommendations and their reasons. Select a block on the map. Under Dispatch controls you can turn off auto-dispatch and send blocks yourself.'},
 ] as const;
 type ViewId = typeof VIEWS[number]['id'];
-const viewFromHash = (): ViewId => (VIEWS.find(v => `#${v.id}` === window.location.hash)?.id ?? 'simulation');
+const viewFromHash = (): ViewId => (VIEWS.find(v => `#${v.id}` === window.location.hash)?.id ?? 'heatmap');
 // ?t=<hours> opens the replay at a given moment, e.g. ?t=376#if for the thaw on 16 January.
 const startHour = () => Math.max(0, Number(new URLSearchParams(window.location.search).get('t')) || 0);
 
@@ -79,11 +82,11 @@ export default function LiveDemo() {
   }
   function choose(id: ViewId) { setView(id); window.history.replaceState(null, '', `#${id}`); }
 
-  if (error) return <main className="live-app"><p role="alert" className="live-error">{error}</p></main>;
-  if (!d || !c) return <main className="live-app"><p className="live-loading">Loading the simulated January…</p></main>;
+  if (error) return <><SiteNav active="heatmap"/><main className="live-app"><p role="alert" className="live-error">{error}</p></main></>;
+  if (!d || !c) return <><SiteNav active="heatmap"/><main className="live-app"><p className="live-loading">Loading the simulated January…</p></main></>;
   const current = VIEWS.find(v => v.id === view)!;
 
-  return <div className="live-app">
+  return <><SiteNav active="heatmap"/><div className="live-app">
     <header className="live-header">
       <div className="live-brand"><span className="live-brand-word">If</span><span className="live-brand-divider"/>Pito<span className="live-title">Live simulation · January 2026</span></div>
       <nav className="live-tabs" role="tablist" aria-label="Demo view">
@@ -96,6 +99,7 @@ export default function LiveDemo() {
 
     <ClockContext.Provider value={clock}>
       <main role="tabpanel" aria-label={current.label}>
+        {view === 'heatmap' && <HeatmapView d={d} t={t}/>}
         {view === 'simulation' && <SimulationView d={d} t={t} c={c} playing={playing}/>}
         {view === 'customer' && <CustomerView d={d} t={t}/>}
         {view === 'if' && <OperatorView d={d} t={t} playing={playing} onPause={pause}/>}
@@ -113,5 +117,5 @@ export default function LiveDemo() {
       <Timeline d={d} t={t} onScrub={next => { setPlaying(false); scrub(next); }}/>
     </footer>
     <p className="live-attribution">Timeline: shaded hours are a thaw around 0 °C, when pavements get most slippery; the line is air temperature ({d.meta.weatherSource}). Map: {d.meta.map.attribution}, retrieved {d.meta.map.retrieved}. All pedestrians, slips, falls, detections, alerts and gritting are simulated.</p>
-  </div>;
+  </div></>;
 }

@@ -1,0 +1,1068 @@
+                               Henkilövakuutusehdot
+                               Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+Henkilövakuutustuotteet
+Ifin henkilövakuutus voi sisältää Turvat hoitokulujen (3.1) ja lyhytaikaisen työkyvyttömyyden (3.4) varalta, Turvat tapaturman aiheuttamien hoitokulujen
+(3.2), lyhytaikaisen työkyvyttömyyden (3.5), pysyvän haitan (3.9) ja kuoleman (3.12) varalta, Kuolemantapausturvan (3.11), Turvan vakavan sairauden ja
+tapaturman aiheuttaman pysyvän työkyvyttömyyden (3.13) varalta ja Vakavan sairauden turvan (3.14). Turva hoitokulujen varalta (3.1) voi sisältää myös
+Fysikaalisen hoidon lisäturvan (3.1.1) ja Turva tapaturman aiheuttamien hoitokulujen varalta (3.2) Tapaturman hoitokulujen lisäturvan (3.2.1). Seitsemän (7)
+vuorokautta täyttäneen ja alle 15-vuotiaan vakuutus voi sisältää edellä mainituista turvat 3.2, 3.2.1, 3.9 ja 3.12.
+
+Nuoren sairausvakuutukseen (ent. Vauvavakuutus / Lapsuusajan vakuutus) sisältyvät Turva hoitokulujen varalta (3.1), Turva tapaturman aiheuttaman
+pysyvän haitan varalta (3.9) ja Turva tapaturman aiheuttaman kuoleman varalta (3.12). Vuonna 2017 myönnetty vakuutus sisältää myös Fysikaalisen
+hoidon lisäturvan (3.1.1). Tämän vakuutuksen myynti on lopetettu 31.12.2017.
+
+Ifin lapsivakuutus sisältää Turvan hoitokulujen varalta (3.1), Fysikaalisen hoidon lisäturvan (3.1.1), Turvan tapaturman aiheuttaman pysyvän haitan varalta
+(3.9) ja Turvan tapaturman aiheuttaman kuoleman varalta (3.12). Mikäli vakuutus on myönnetty syntymättömälle lapselle, sisältää se lisäksi Turvan
+vakavan synnynnäisen sairauden ja vamman varalta (3.15), Turvan lapsen sairaalahoidon varalta (3.16) ja Turvan äidin sairaalahoidon varalta (3.3).
+Lapsivakuutus voi sisältää myös Perheen sopeutumisturvan (3.10). Vakuutetun täytettyä 18 vuotta tuotteen nimi muuttuu aikuisen sairausvakuutukseksi.
+
+Ennen 1.1.2018 myönnetty Ifin lapsivakuutus sisältää Turvan hoitokulujen varalta (3.1), Turvan pysyvän haitan varalta (3.8), Perheen sopeutumisturvan
+(3.10) ja Turvan tapaturman aiheuttaman kuoleman varalta (3.12). Vuonna 2017 myönnetty vakuutus sisältää myös Fysikaalisen hoidon lisäturvan (3.1.1).
+
+Ifin liittovakuutuksen tapaturmavakuutus voi sisältää Liittovakuutussopimuksen mukaan Turvat tapaturman aiheuttamien hoitokulujen (3.2), pysyvän
+haitan (3.9) ja kuoleman (3.12) varalta.
+
+Henkilö- ja Lapsivakuutuksen sekä nuoren sairausvakuutuksen sisältö muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä
+sopimusehdoista. Vakuutuskirjasta ilmenee, mitkä tuotteet ja turvat kukin vakuutussopimus sisältää.
+
+Liittovakuutukseen sovelletaan soveltuvin osin näitä ehtoja ja järjestön kanssa tehtyä Liittovakuutussopimusta.
+
+Vakuutusehdoissa käytettyjä käsitteitä ..................................................... 1                            3.6 Turva sairaalahoidon varalta ........................................................... 6
+1 Vakuutuksen voimassaolo ...................................................................... 2                        3.7 Turva tapaturman aiheuttaman sairaalahoidon varalta .................. 6
+   1.1 Voimassaoloalue ............................................................................ 2                     3.8 Turva pysyvän haitan varalta .......................................................... 6
+   1.2 Voimassaoloaika ............................................................................. 2                    3.9 Turva tapaturman aiheuttaman pysyvän haitan varalta.................. 7
+   1.3 Voimassaolo urheiltaessa ............................................................... 2                         3.10 Perheen sopeutumisturva ............................................................. 7
+   1.3.1 Urheilurajoitus .............................................................................. 2                 3.11 Kuolemantapausturva ................................................................... 8
+   1.3.2 Ammattiurheilijan tapaturmaturva ................................................ 3                              3.12 Turva tapaturman aiheuttaman kuoleman varalta ........................ 8
+   1.4 Jatko- ja siirto-oikeus ...................................................................... 3                   3.13 Turva vakavan sairauden ja tapaturman aiheuttaman pysyvän
+   1.4.1 Jatko-oikeus ................................................................................. 3                 työkyvyttömyyden varalta ...................................................................... 8
+   1.4.2 Jatko-oikeuden käyttäminen ........................................................ 3                            3.14 Vakavan sairauden turva .............................................................. 9
+   1.4.3 Siirto-oikeus ................................................................................. 3                3.15 Turva vakavan synnynnäisen sairauden ja vamman varalta ...... 10
+2 Muita vakuutusturviin liittyviä säädöksiä ................................................ 3                            3.16 Turva lapsen sairaalahoidon varalta ........................................... 11
+   2.1 Vakuutetut ....................................................................................... 3            4 Vakuutusturvien kiinteät rajoitukset ...................................................... 11
+   2.2 Edunsaaja ....................................................................................... 3                4.1 Kaikkia vakuutusturvia koskevat kiinteät rajoitukset ..................... 11
+   2.3 Vakuutusmaksuun vaikuttavat tekijät ............................................. 3                                4.1.1 Alkoholi, lääkkeet ja huumaavat aineet sekä nikotiini................ 11
+   2.4 Indeksitarkistukset .......................................................................... 3                   4.1.2 Muun sairauden tai vian myötävaikutus ..................................... 11
+   2.5 Vakuutusyhtiön oikeus määrätä hoitopaikka .................................. 3                                     4.1.3 Raskaus, synnytys ja lapsettomuus ........................................... 11
+3 Vakuutusturvat……. ............................................................................... 4                     4.1.4 Sota ja aseellinen selkkaus ........................................................ 11
+   3.1 Turva hoitokulujen varalta............................................................... 4                        4.2 Tapaturman varalta voimassa olevia turvia koskevat
+   3.1.1. Fysikaalisen hoidon lisäturva ...................................................... 4                          lisärajoitukset ....................................................................................... 11
+   3.2 Turva tapaturman aiheuttamien hoitokulujen varalta ..................... 4                                         4.2.1 Tapaturmana ei korvata ............................................................. 12
+   3.2.1. Tapaturman hoitokulujen lisäturva.............................................. 5                               4.2.2 Leikkaus-, hoito- ja muut lääkinnälliset toimenpiteet ................. 12
+   3.3 Turva äidin sairaalahoidon varalta.................................................. 5                             4.2.3 Ennen vakuutuksen voimaantuloa alkanut sairaus ................... 12
+   3.4 Turva lyhytaikaisen työkyvyttömyyden varalta ............................... 6                                  5 Hoitokulukorvauksen hakeminen .......................................................... 12
+   3.5 Turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden
+   varalta ................................................................................................... 6
+
+
+Vakuutusehdoissa käytettyjä käsitteitä
+Tapaturma on äkillinen, ruumiinvamman aiheuttava odottamaton tapahtuma, joka sattuu vakuutetun tahtomatta ja ulkoisen tekijän vaikutuksesta.
+Tapaturmaksi katsotaan myös vakuutetun tahtomatta sattunut hukkuminen, lämpöhalvaus, auringonpistos, paleltuminen, kaasumyrkytys, ilmanpaineen
+huomattavasta vaihtelusta äkillisesti aiheutunut vamma ja erehdyksessä nautitun aineen aiheuttama myrkytys.
+
+ICD-10-tautiluokituksella tarkoitetaan Maailman terveysjärjestön (WHO) kansainvälistä tautiluokitusta, jonka soveltamisesta Suomessa määrää sosiaali-
+ja terveysministeriö.
+
+
+
+
+                                                                                                                   1
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+1 Vakuutuksen voimassaolo
+1.1 Voimassaoloalue
+Vakuutusturvat ovat voimassa kaikkialla maailmassa. Sairauden perusteella tai Tapaturman hoitokulujen lisäturvasta korvataan kuitenkin vain Suomessa
+syntyneitä hoitokuluja.
+
+1.2 Voimassaoloaika
+Henkilövakuutuksen jatkuvat vakuutusturvat päättyvät viimeistään sen vakuutuskauden lopussa, jonka aikana vakuutettu on täyttänyt seuraavat iät:
+  1) Turva hoitokulujen varalta: päättymisikä 80 vuotta.
+      Fysikaalisen hoidon lisäturva (3.1.1): päättymisikä 80 vuotta. Jos hoitokuluturva, johon lisäturva on liitetty, päättyy aikaisemmin, niin myös lisäturva
+      päättyy.
+  2) Turva tapaturman aiheuttamien hoitokulujen varalta: päättymisikä 100 vuotta. Vakuutusmäärä alenee vakuutetun 80 vuoden täyttämistä seuraavan
+      vakuutuskauden alusta lukien siten, että uusi vakuutusmäärä on jäljellä oleva vakuutusmäärä, kuitenkin enintään 10 000 euroa.
+      Tapaturman hoitokulujen lisäturva (3.2.1): päättymisikä 80 vuotta. Jos hoitokuluturva, johon lisäturva on liitetty, päättyy aikaisemmin, niin myös
+      lisäturva päättyy.
+  3) Turva lyhytaikaisen työkyvyttömyyden varalta: turva päättyy, kun vakuutettu jää eläkkeelle, kuitenkin viimeistään sen vakuutuskauden lopussa, jonka
+      aikana vakuutettu täyttää 70 vuotta.
+  4) Turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden varalta: turva päättyy, kun vakuutettu jää eläkkeelle, kuitenkin viimeistään sen
+      vakuutuskauden lopussa, jonka aikana vakuutettu täyttää 70 vuotta.
+  5) Turva sairaalahoidon varalta: päättymisikä 65 vuotta.
+  6) Turva tapaturman aiheuttaman sairaalahoidon varalta: päättymisikä 65 vuotta.
+  7) Turva pysyvän haitan varalta: päättymisikä 60 vuotta. Tämän jälkeen turva muuttuu turvaksi tapaturman aiheuttaman pysyvän haitan varalta (turva
+      8).
+  8) Turva tapaturman aiheuttaman pysyvän haitan varalta: päättymisikä 100 vuotta. Vakuutusmäärä alenee 20 000 euroon vakuutetun 80 vuoden
+      täyttämistä seuraavan vakuutuskauden alusta lukien.
+  9) Kuolemantapausturva: päättymisikä 90 vuotta. Kahden hengen yhteisturva päättyy, kun vanhempi vakuutettu täyttää 90 vuotta tai jompikumpi
+      vakuutettu kuolee.
+  10) Turva tapaturman aiheuttaman kuoleman varalta: päättymisikä 100 vuotta. Vakuutusmäärä alenee 5 000 euroon vakuutetun 80 vuoden täyttämistä
+      seuraavan vakuutuskauden alusta lukien.
+  11) Turva vakavan sairauden ja tapaturman aiheuttaman pysyvän työkyvyttömyyden varalta: turva päättyy, kun vakuutettu jää eläkkeelle, kuitenkin
+      viimeistään sen vakuutuskauden lopussa, jonka aikana vakuutettu täyttää 60 vuotta.
+  12) Vakavan sairauden turva: päättymisikä 65 vuotta.
+
+Nuoren sairausvakuutus päättyy sen vakuutuskauden lopussa, jonka aikana vakuutettu täyttää 25 vuotta.
+
+Lapsivakuutus (18 v iän täyttämisen jälkeen aikuisen sairausvakuutus) ja siihen liittyvät turvat päättyvät sen vakuutuskauden lopussa, jonka aikana
+vakuutettu täyttää 80 vuotta. Perheen sopeutumisturva päättyy kuitenkin jo sen vakuutuskauden lopussa, jonka aikana vakuutettu on täyttänyt 18 vuotta.
+Kun vakuutus on otettu ennen lapsen syntymää, niin Turva vakavan synnynnäisen sairauden ja vamman varalta (3.15) sekä Turvat lapsen (3.16) ja äidin
+(3.3) sairaalahoidon varalta päättyvät lapsen syntymään. Korvaukset maksetaan kuitenkin näissä turvissa määritellyillä tavalla. Turvasta hoitokulujen
+varalta (3.1) korvattavia hoitokuluja voi aiheutua vasta kun lapsi katsotaan virallisesti elävänä syntyneeksi.
+
+Ennen 1.1.2018 myönnetty Lapsivakuutus ja siihen sisältyvät turvat päättyvät sen vakuutuskauden lopussa, jonka aikana vakuutettu täyttää 25 vuotta.
+
+Vauvavakuutuksen ja Lapsivakuutuksen päättyessä vakuutetun 25 vuoden iän johdosta vakuutetulle syntyy oikeus tapaturmavakuutukseen ilman uutta
+terveysselvitystä. Vakuutuksen tulee sisältää Turvat tapaturman aiheuttamien hoitokulujen, pysyvän haitan ja kuoleman varalta. Tapaturmavakuutus
+myönnetään enintään vakuutuksen päättymishetkellä jäljellä olleita vakuutusmääriä vastaavina, mutta ilman omavastuuta. Jatko-oikeuden käyttäminen on
+kerrottu ehtokohdassa 1.4.2.
+
+Liittovakuutuksen tapaturmavakuutus päättyy Liittovakuutussopimuksessa mainitussa iässä.
+
+Täysajan vakuutus on voimassa ympäri vuorokauden sekä työssä että vapaa-aikana. Vapaa-ajan vakuutus on voimassa vain vapaa-aikana. Jos
+tapaturman varalta voimassa olevat vakuutusturvat (3.2, 3.5, 3.7, 3.9 ja 3.12) ovat voimassa vain vapaa-aikana, tämä on mainittu vakuutuskirjassa.
+Vakuutetun jäätyä eläkkeelle vain vapaa-aikana voimassa oleva vakuutusturva muutetaan täysajan turvaksi ja siitä peritään uutta voimassaoloaikaa
+vastaavaa maksua. Liittovakuutuksen tapaturmavakuutus on voimassa vain vapaa-aikana.
+
+Vapaa-ajan vakuutuksesta ei korvata tapaturmavakuutuslain, työtapaturma- ja ammattitautilain tai niitä vastaavien muiden lakien tarkoittamia tapaturmia,
+jotka sattuvat työmatkalla, vakuutetun tehdessä työtä ansiotarkoituksessa tai itsenäisenä yrittäjänä taikka muussa vastaavassa toiminnassa.
+
+1.3 Voimassaolo urheiltaessa
+1.3.1 Urheilurajoitus
+Urheilurajoitus ei koske alle 12-vuotiaita. Urheilurajoitus on voimassa sen vakuutuskauden lopusta lukien, jonka aikana vakuutettu täyttää 12 vuotta.
+
+Vakuutus ei ole voimassa tapaturmien varalta:
+ 1) vakuutetun osallistuessa urheiluliiton tai -seuran järjestämiin kilpailuihin, otteluihin tai niitä varten järjestettyihin harjoituksiin tai vakuutetun
+     harjoitellessa valmennusohjelman mukaisesti
+ 2) kiipeilylajeissa, kuten vuori-, seinä-, kallio- tai jääkiipeilyssä taikka boulderoinnissa. Edellä mainituista kiipeilylajeista rajoitus ei koske seinäkiipeilyä
+     silloin, kun käytetään putoamisen estäviä suoja- ja turvavarusteita.
+ 3) jäätikkövaelluksella
+ 4) taistelu-, kamppailu- tai itsepuolustuslajeissa
+ 5) moottoriurheilussa
+ 6) urheilu- tai laitesukelluksessa
+ 7) ilmailulajeissa, kuten laskuvarjohyppy, riippuliito, varjoliito, purjelento, kuumailmapallolento, benjihyppy, lento ultrakeveällä tai harrasterakenteisella
+     koneella
+ 8) voimailulajeissa, kuten painonnosto, voimanosto ja voimamiesurheilu.
+ 9) Off-pistelaskussa
+ 10) roller derbyssä
+ 11) siipi- ja leijapurjehduksessa
+ 12) alamäkiluistelussa ja -pyöräilyssä
+
+Edellä mainitusta urheilusta urheilurajoitus voidaan lisämaksusta poistaa erikseen sopimalla (Urheiluturva).
+
+Seuraavissa urheilulajeissa vakuutus ei ole lainkaan voimassa eikä urheilurajoitusta voida poistaa:
+ 1) amerikkalainen, australialainen ja gaelilainen jalkapallo sekä rugby
+ 2) basehyppy
+ 3) nopeus- ja syöksylasku
+ 4) kehonrakennus
+ 5) vapaaottelu
+
+
+
+                                                                                  2
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+Urheilurajoitus koskee seuraavia vakuutusturvia:
+1) Turva hoitokulujen varalta
+2) Turva tapaturman aiheuttamien hoitokulujen varalta
+3) Turva lyhytaikaisen työkyvyttömyyden varalta
+4) Turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden varalta
+5) Turva sairaalahoidon varalta
+6) Turva tapaturman aiheuttaman sairaalahoidon varalta
+
+Muut vakuutusturvat ovat voimassa urheiltaessa.
+
+Urheilurajoitus voidaan poistaa Ifin henkilö- ja lapsivakuutuksen sekä nuoren sairausvakuutuksen edellä olevan luettelon kohdissa 1-4 mainituista turvista
+(Urheiluturva). Mikäli urheilurajoitus on poistettu, siitä on merkintä vakuutuskirjassa. Urheilulajit on jaettu riskialttiutensa mukaan vastuuluokkiin. Kukin
+vastuuluokka kattaa siinä ja sitä alemmissa vastuuluokissa luetellut urheilulajit. Voimassa oleva listaus vastuuluokista on internetissä osoitteessa
+if.fi/urheilu. Urheilurajoitusta ei kuitenkaan voida poistaa edellä tässä ehtokohdassa mainituista lajeista.
+
+1.3.2 Ammattiurheilijan tapaturmaturva
+Ammatikseen urheilevan vakuuttamisesta säädetään lailla urheilijoiden tapaturma- ja eläketurvasta. Jos vahinkotapahtuma kuuluu tai olisi kuulunut
+korvattavaksi lain mukaisesta ammattiurheilijan tapaturmaturvasta, ei korvausta makseta Ifin henkilö- ja lapsivakuutuksen eikä nuoren
+sairausvakuutuksen vakuutusturvista. Tämä rajoitus ei koske Kuolemantapausturvaa (3.11).
+
+1.4 Jatko- ja siirto-oikeus
+1.4.1 Jatko-oikeus
+Vakuutetulla, joka ei ole vakuutuksenottaja, on oikeus jatkaa vakuutusturvaansa ilman uutta terveysselvitystä, jos vakuutuksenottaja irtisanoo vakuutetun
+henkilön vakuutusturvan tai antaa sen päättyä maksamattomana. Jatko-oikeuden perusteella myönnettävä vakuutusturva määräytyy niiden sääntöjen
+mukaan, joita vakuutusyhtiö kulloinkin soveltaa henkilöasiakkaalle vakuutuksen myöntämisen, vakuutusturvan laajuuden, ehtojen ja maksujen osalta. Tästä
+johtuen vakuutusturvaan voi tulla muutoksia tai sitä ei voida myöntää.
+
+Kun Ifin henkilövakuutuksen kahden hengen yhteisturvana otettu kuolemantapausturva päättyy toisen vakuutetun täytettyä 90 vuotta tai kuoltua, alle 90-
+vuotiaalla vakuutetulla on oikeus jatkaa kuolemantapausturvaansa yksilöllisen vakuutuksen maksulla.
+
+1.4.2 Jatko-oikeuden käyttäminen
+Jatko-oikeuden käyttämisestä on ilmoitettava kirjallisesti kuuden (6) kuukauden kuluessa vakuutusturvan päättymisestä. Jatko-oikeuden käyttämistä
+koskeva ilmoitus katsotaan tehdyksi, kun se on kirjallisena saapunut vakuutusyhtiöön. Jos jatko-oikeutta on käytetty, vakuutuksenottajalla ei ole enää
+oikeutta saattaa vakuutetun päättynyttä vakuutusturvaa voimaan.
+
+Jos vakuutuksen jatkamiseen oikeutettu vakuutettu kuolee ennen kuuden (6) kuukauden määräajan päättymistä ehtimättä käyttää jatko-oikeuttaan,
+katsotaan vakuutuksen olleen hänen osaltaan voimassa entisin ehdoin.
+
+1.4.3 Siirto-oikeus
+Jos vakuutuksenottajana on yksityishenkilö, täysi-ikäisellä vakuutetulla on oikeus siirtää voimassa oleva vakuutusturvansa vastaavaan vakuutukseen
+ilmoittamalla siitä kirjallisesti vakuutusyhtiölle. Vakuutuksenottajalla ei tällöin ole oikeutta pitää vakuutusta voimassa siirretyn turvan osalta.
+
+2 Muita vakuutusturviin liittyviä säädöksiä
+2.1 Vakuutetut
+Vakuutettuina ovat, ellei toisin ole sovittu, vakuutuskirjassa mainitut, Suomen sairausvakuutuslain piiriin kuuluvat henkilöt, joiden kotikuntalain mukainen
+vakinainen kotipaikka on Suomessa ja jotka myös asuvat vakituisesti Suomessa. Vakituisesti Suomessa asuvaksi ei katsota vakuutettua, joka oleskelee yli
+kuusi (6) kuukautta kalenterivuodesta ulkomailla.
+
+Myönnettäessä vakuutusturvaa syntymättömälle lapselle äidin tulee täyttää edellä mainitut edellytykset. Kun lapsivakuutuksessa vakuutettuna on
+syntymätön lapsi ja on otettu vain yksi lapsivakuutus ja samalla kertaa syntyy useampi lapsi, koskee vakuutus vain ensinnä syntynyttä lasta.
+
+2.2 Edunsaaja
+Kuolemantapausturvien vakuutusmäärä maksetaan omaisille ja muut vakuutuskorvaukset vakuutetulle itselleen, ellei vakuutuksenottaja ole kirjallisesti
+ilmoittanut muuta edunsaajaa vakuutusyhtiöön.
+
+2.3 Vakuutusmaksuun vaikuttavat tekijät
+Henkilövakuutusten maksuun vaikuttavia tekijöitä ovat muun muassa vakuutuksen myöntämishetki, vakuutetun ikä, asuinpaikka ja vakuutusturvan laajuus
+sekä etuasiakkuus. Maksuun vaikuttavat myös vakuutusmäärä ja omavastuu. Urheiluturvan maksuun vaikuttavat lisäksi sen voimassaoloaika ja urheilulajin
+vastuuluokka. Maksuun vaikuttavat tekijät vaihtelevat eri henkilövakuutuksissa ja -turvissa. Jos etuasiakkuus vaikuttaa vakuutusmaksuun, siitä on kerrottu
+tarkemmin vakuutuskirjassa. Ostettaessa vakuutusturvaa syntymättömälle lapselle Turvassa vakavan synnynnäisen sairauden ja vamman varalta sekä
+Turvissa äidin ja lapsen sairaalahoidon varalta maksun perusteena on äidin ikä lapsen laskettuna syntymäaikana.
+
+Vakuutusmaksuun voivat vaikuttaa myös vakuutus- ja vahinkohistoria. Maksu ei kuitenkaan muutu sen vuoksi, että vakuutetun terveydentila on
+vakuutuksen ottamisen jälkeen huonontunut, eikä sen vuoksi, että kyseessä olevaan vakuutukseen liittyvä vakuutustapahtuma on sattunut.
+
+Henkilövakuutusten maksut muuttuvat vakuutuskauden vaihtuessa, kun vakuutetun ikä kasvaa ja/tai asuinpaikka on muuttunut. Vakuutusmaksut kehittyvät
+vakuutetun ikää vastaavan vahinkoriskin mukaisesti. Jos iän tai asuinalueen suhde vahinkoriskiin muuttuu nykyisestä, vakuutusmaksuja voidaan muuttaa
+paremmin riskiä vastaaviksi. Maksun muuttuminen voi johtua myös vakuutusturvan laajuuden muuttumisesta ja etuasiakkuudessa tapahtuneista
+muutoksista.
+
+Henkilövakuutuksien laajuus ja vakuutusmäärät voivat muuttua vakuutetun iän tai eläkkeelle siirtymisen johdosta vakuutuksen voimassaoloaikana näissä
+ehdoissa tai vakuutuskirjassa mainitulla tavalla.
+
+2.4 Indeksitarkistukset
+Vakuutusturvien vakuutusmäärät, omavastuut ja vakuutusmaksut tarkistetaan vuosittain vakuutuskauden vaihtuessa indeksillä. Indeksin tarkistuslukuna
+käytetään edellisen kalenterivuoden heinäkuun pistelukua. Mikäli indeksi laskee tai uusi pisteluku on alempi kuin tarkistuksessa aiemmin käytetty pisteluku,
+niin indeksitarkistusta ei kuitenkaan tehdä. Indeksitarkistusta ei tehdä lainkaan Turvaan vakavan synnynnäisen sairauden ja vamman varalta (3.15) eikä
+Turviin äidin ja lapsen sairaalahoidon varalta (3.3 ja 3.16).
+
+Hoitokuluturvat (3.1 ja 3.2) tarkistetaan kuluttajahintaindeksin terveys-hyödykeryhmän mukaisesti ja muut turvat elinkustannusindeksin mukaisesti.
+
+2.5 Vakuutusyhtiön oikeus määrätä hoitopaikka
+Vakuutusyhtiöllä on oikeus määrätä vakuutettu tutkimukseen tai hoitoon vakuutusyhtiön valitsemalle palveluntuottajalle.
+Jos vakuutettu kuitenkin käyttää itse valitsemaansa palveluntuottajaa, vakuutusyhtiöllä on oikeus korvata tutkimuksesta ja hoidosta vain se osa, mitä
+tutkimus ja hoito olisivat maksaneet vakuutusyhtiön kustantamana vakuutusyhtiön valitsemalla palveluntuottajalla.
+
+
+                                                                               3
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+3 Vakuutusturvat
+3.1 Turva hoitokulujen varalta
+Tästä vakuutusturvasta korvataan jäljempänä mainitut sairauden tai tapaturman hoidosta syntyneet kohtuulliset kulut siltä osin kuin niistä ei ole tai ei olisi
+ollut oikeutta korvaukseen jonkin lain perusteella. Sairauden perusteella korvataan vain Suomessa syntyneitä hoitokuluja.
+
+Korvaaminen edellyttää, että vakuutusturva on voimassa kulujen syntymishetkellä ja tapaturma on sattunut vakuutusturvan voimassaoloaikana. Korvaus
+maksetaan sairaudesta kulujen syntymishetkellä ja tapaturmasta tapaturman sattumishetkellä voimassa olevien vakuutusehtojen mukaisesti.
+
+Korvattavia ovat vain sellaiset hoitokulut, jotka vakuutettu itse joutuisi maksamaan. Korvattavan vahingon määrästä vähennetään vakuutuskirjaan merkitty
+omavastuu.
+
+Hoitokulukorvausta maksetaan yhteensä enintään vakuutuskirjaan merkitty määrä, jonka jälkeen turva hoitokulujen varalta päättyy.
+
+Hoitokulujen korvaaminen edellyttää, että tutkimus ja hoito ovat lääkärin määräämiä ja terveydenhuoltoalan ammattihenkilön antamia. Lisäksi niiden tulee
+olla yleisesti hyväksytyn lääketieteellisen käsityksen mukaisia ja kysymyksessä olevan sairauden tai vamman hoidon kannalta tarpeellisia ja välttämättömiä.
+
+Korvattavia hoitokuluja ovat kohtuulliset
+ -    lääkärinpalkkiot, tutkimus- ja hoitokustannukset
+ -    kustannukset tapaturman aiheuttaman hammasvamman hoidosta
+ -    Lääkealan turvallisuus- ja kehittämiskeskuksen luvan perusteella myytävien lääkkeiden kustannukset sekä kustannukset Kelan korvausjärjestelmään
+      kuuluvista, lääketehtaan valmistamista perusvoiteista
+ -    sairaalan hoitopäivämaksut vakuutuskirjassa merkittyyn päivittäiseen enimmäiskorvausmäärään saakka
+ -    lääkärinhoitoa vaatineen tapaturman yhteydessä käytössä rikkoutuneiden turvakypärän, kuulokojeen ja hammasproteesin korjauskustannukset tai
+      alkuperäiset hankintakustannukset
+ -    lääkärinhoitoa vaatineen tapaturman yhteydessä käytössä rikkoutuneiden silmälasien korjauskustannukset tai rikkoutuneita vastaavien
+      jälleenhankintakustannukset. Silmälasien korvausmäärästä tehdään silmälasien ikään perustuva vuotuinen 15 %:n vähennys. Vähennystä ei tehdä
+      käyttöönottovuodelta eikä sitä seuraavalta kalenterivuodelta. Ikävähennys tehdään myös vahinkovuodelta. Vähennys lasketaan vuodet x 15 %.
+      Vähennystä ei tehdä laskuun perustuvista korjauskustannuksista. Korjauskustannuksia korvataan enintään vahingon määrään asti mahdollisella
+      omavastuulla vähennettynä.
+ -    ensimmäisen lääkinnällisen välineen hankintakustannukset
+ -    tästä vakuutusturvasta korvatun tapaturman aiheuttaman leikkaus- tai kipsaushoidon jälkeisen lääkärin määräämän fysikaalisen hoidon
+      kustannukset. Yhtä tapaturmaa kohden korvataan yksi, enintään 15 hoitokertaa sisältävä hoitojakso.
+ -    tästä vakuutusturvasta korvatun tapaturman aiheuttaman plastiikkakirurgisen hoidon tai leikkauksen kustannukset. Plastiikkakirurgisesta hoidosta tai
+      leikkauksesta on sovittava etukäteen vakuutusyhtiön kanssa.
+
+Hoitokulukorvausta ei makseta
+ 1) kuntoutuksesta eikä fysikaalisesta hoidosta, lukuun ottamatta korvattavaksi mainittuja fysikaalisen hoidon kustannuksia
+ 2) puhe-, psyko-, ravitsemus-, toiminta-, psykologisesta tai neuropsykologisesta taikka muusta näihin verrattavasta terapiasta, tutkimuksesta, hoidosta
+      tai kuntoutuksesta
+ 3) hammassairauden, hampaiden tai purentaelinten tutkimuksesta tai hoidosta
+ 4) näkökyvyn heikentymisen tai taittovirheen tutkimisesta, hoidosta tai korjaamisesta leikkauksella eikä niiden aiheuttamista komplikaatioista tai
+      myöhemmistä toimenpiteistä, ellei kyse ole korvattavan tapaturman hoidosta
+ 5) silmälasien tai piilolasien hankinnasta
+ 6) matka- ja yöpymiskuluista
+ 7) päivähoidosta, koti- tai kodinhoidosta ym. välillisistä kustannuksista
+ 8) erilaisten riippuvuuksien lääkehoidoista
+ 9) seksuaaliseen suorituskykyyn vaikuttavista lääkkeistä eikä lääkkeistä, joita käytetään lievittämään kaljuuntumisen, vaihdevuosivaivojen tai muiden
+      fysiologisten muutosten haittavaikutuksia
+ 10) ennaltaehkäisevästä hoidosta, rokotuksista, terveystarkastuksista tai tutkimuksista, jotka on tehty sellaisen sairauden toteamiseksi tai
+      poissulkemiseksi, josta vakuutetulla ei ole ollut oireita ennen tutkimuksen aloittamista
+ 11) kosmeettisesta tai plastiikkakirurgisesta tutkimuksesta, hoidosta, toimenpiteestä tai leikkauksesta eikä niiden aiheuttamista komplikaatioista tai
+      myöhemmistä korjaustoimenpiteistä, lukuun ottamatta korvattavaksi mainittuja plastiikkakirurgisen hoidon kustannuksia. Plastiikkakirurgialla
+      tarkoitetaan sekä lääketieteellisistä syistä tehtävää korjaavaa plastiikkakirurgiaa että esteettisistä syistä tehtävää plastiikkakirurgiaa.
+ 12) lihavuuden tutkimuksesta, hoidosta tai leikkauksesta eikä niiden aiheuttamista komplikaatioista
+ 13) hivenaine-, kivennäisaine-, ravinto-, rohdos- tai vitamiinivalmisteen (esimerkiksi rauta-, sinkki-, kalium- ja kalsiumvalmisteet) taikka antroposofisen tai
+      homeopaattisen tuotteen hankkimisesta
+ 14) hivenaine-, kivennäisaine- ja vitamiinitutkimuksesta tai -hoidosta (esimerkiksi rautainfuusio tai ferritiini-, natrium-, kalium-, kalsium- tai B12-
+      vitamiinitutkimus tai -hoito) eikä muusta näihin rinnastettavasta tutkimuksesta tai hoidosta eikä myöskään antroposofisesta tai homeopaattisesta
+      tutkimuksesta tai hoidosta.
+
+Jos korvattavaksi haettu kustannus ylittää huomattavasti normaalin, yleisesti hyväksytyn ja noudatetun paikallisen kohtuullisen tason, korvaus maksetaan
+tämän kohtuullisen tason mukaan. Lääkärin tai muun terveydenhuoltoalan ammattihenkilön suorittamasta kotikäynnistä tai hoidosta vakuutetun luona ei
+makseta korvausta siltä osin kuin kustannus ylittää kohtuullisen kustannustason vastaavasta hoidosta hoitolaitoksessa.
+
+Jos vakuutusyhtiö maksaa hoitokuluja, jotka ovat korvattavia jonkin lain mukaan, vakuutusyhtiöllä on oikeus hakea niistä takaisin lain mukainen osuus.
+
+3.1.1. Fysikaalisen hoidon lisäturva
+Turvaan hoitokulujen varalta liittyvästä fysikaalisen hoidon lisäturvasta korvataan sekä tapaturman että sairauden aiheuttaman fysikaalisen hoidon
+kustannukset enintään viideltä (5) käyntikerralta tapaturmaa ja sairautta kohden. Vakuutuskaudessa korvataan kuitenkin yhteensä enintään 10 käyntiä.
+Fysikaalisen hoidon korvaamisessa sovelletaan ehtokohdassa 3.1 mainittuja säännöksiä ja näitä henkilövakuutusehtoja kokonaisuudessaan.
+
+Lisäturvan voimassaolo edellyttää erikseen sopimista ja lisämaksua. Lisäturvaan sovelletaan sen hoitokuluturvan vakuutusmäärää ja omavastuuta, johon
+lisäturva on liitetty. Jos hoitokuluturva, johon lisäturva on liitetty, päättyy, niin myös lisäturva päättyy.
+
+Tässä mainittuja fysikaalisen hoidon kuluja ei korvata, jos
+ -   tapaturma on sattunut tai sairaus on alkanut ennen tämän lisäturvan voimaantuloa
+ -   kyseessä on lääkinnällisen välineen tai muun apuvälineen, hoitolaitteen, tukipohjallisen tai muun pohjallisen hankkimiseen liittyvä hoitokäynti
+     fysikaalisessa hoitolaitoksessa.
+
+3.2 Turva tapaturman aiheuttamien hoitokulujen varalta
+Tästä vakuutusturvasta korvataan jäljempänä mainitut tapaturman hoidosta syntyneet kohtuulliset kulut siltä osin kuin niistä ei ole tai ei olisi ollut oikeutta
+korvaukseen jonkin lain perusteella.
+
+Korvaaminen edellyttää, että vakuutusturva on voimassa kulujen syntymishetkellä ja tapaturma on sattunut vakuutusturvan voimassaoloaikana. Korvaus
+maksetaan tapaturman sattumishetkellä voimassa olevien vakuutusehtojen mukaisesti.
+
+
+
+
+                                                                                4
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+Korvattavia ovat vain sellaiset hoitokulut, jotka vakuutettu itse joutuisi maksamaan. Korvattavan vahingon määrästä vähennetään vakuutuskirjaan merkitty
+omavastuu.
+
+Hoitokulukorvausta maksetaan yhteensä enintään vakuutuskirjaan merkitty määrä, jonka jälkeen turva tapaturman aiheuttamien hoitokulujen varalta
+päättyy.
+Hoitokulujen korvaaminen edellyttää, että tutkimus ja hoito ovat lääkärin määräämiä ja terveydenhuoltoalan ammattihenkilön antamia. Lisäksi niiden tulee
+olla yleisesti hyväksytyn lääketieteellisen käsityksen mukaisia ja kysymyksessä olevan vamman hoidon kannalta tarpeellisia ja välttämättömiä.
+
+Korvattavia hoitokuluja ovat kohtuulliset
+ -    lääkärinpalkkiot, tutkimus- ja hoitokustannukset
+ -    Lääkealan turvallisuus- ja kehittämiskeskuksen luvan perusteella myytävien lääkkeiden kustannukset sekä kustannukset Kelan korvausjärjestelmään
+      kuuluvista, lääketehtaan valmistamista perusvoiteista
+ -    sairaalan hoitopäivämaksut vakuutuskirjassa merkittyyn päivittäiseen enimmäiskorvausmäärään saakka
+ -    lääkärinhoitoa vaatineen tapaturman yhteydessä käytössä rikkoutuneiden turvakypärän, kuulokojeen ja hammasproteesin korjauskustannukset tai
+      alkuperäiset hankintakustannukset
+ -    lääkärinhoitoa vaatineen tapaturman yhteydessä käytössä rikkoutuneiden silmälasien korjauskustannukset tai rikkoutuneita vastaavien
+      jälleenhankintakustannukset. Silmälasien korvausmäärästä tehdään silmälasien ikään perustuva vuotuinen 15 %:n vähennys. Vähennystä ei tehdä
+      käyttöönottovuodelta eikä sitä seuraavalta kalenterivuodelta. Ikävähennys tehdään myös vahinkovuodelta. Vähennys lasketaan vuodet x 15 %.
+      Vähennystä ei tehdä laskuun perustuvista korjauskustannuksista. Korjauskustannuksia korvataan enintään vahingon määrään asti mahdollisella
+      omavastuulla vähennettynä.
+ -    ensimmäisen lääkinnällisen välineen hankintakustannukset
+ -    tästä vakuutusturvasta korvatun tapaturman aiheuttaman leikkaus- tai kipsaushoidon jälkeisen, lääkärin määräämän fysikaalisen hoidon
+      kustannukset. Yhtä tapaturmaa kohden korvataan yksi, enintään 15 hoitokertaa sisältävä hoitojakso.
+ -    tästä vakuutusturvasta korvatun tapaturman aiheuttaman plastiikkakirurgisen hoidon tai leikkauksen kustannukset. Plastiikkakirurgisesta hoidosta tai
+      leikkauksesta on sovittava etukäteen vakuutusyhtiön kanssa.
+
+Hoitokulukorvausta ei makseta
+ 1) kuntoutuksesta eikä fysikaalisesta hoidosta, lukuun ottamatta korvattavaksi mainittuja fysikaalisen hoidon kustannuksia
+ 2) puhe-, psyko-, ravitsemus-, toiminta-, psykologisesta tai neuropsykologisesta taikka muusta näihin verrattavasta terapiasta, tutkimuksesta, hoidosta
+      tai kuntoutuksesta
+ 3) matka- ja yöpymiskuluista
+ 4) päivähoidosta, koti- tai kodinhoidosta ym. välillisistä kustannuksista.
+
+Jos korvattavaksi haettu kustannus ylittää huomattavasti normaalin, yleisesti hyväksytyn ja noudatetun paikallisen kohtuullisen tason, korvaus maksetaan
+tämän kohtuullisen tason mukaan. Lääkärin tai muun terveydenhuoltoalan ammattihenkilön suorittamasta kotikäynnistä tai hoidosta vakuutetun luona ei
+makseta korvausta siltä osin kuin kustannus ylittää kohtuullisen kustannustason vastaavasta hoidosta hoitolaitoksessa.
+
+Jos vakuutusyhtiö maksaa hoitokuluja, jotka ovat korvattavia jonkin lain mukaan, vakuutusyhtiöllä on oikeus hakea niistä takaisin lain mukainen osuus.
+
+3.2.1. Tapaturman hoitokulujen lisäturva
+Turvaan tapaturman aiheuttamien hoitokulujen varalta liittyvästä lisäturvasta korvataan äkillisen liikkeen tai voimanponnistuksen yhteydessä ilmi tulleiden,
+seuraavien rasitus- ja sairausperäisten vammojen hoitokuluja:
+  -    jänteen venähdys ja repeämä tai jännetulehdus
+  -    lihasvenähdys ja -repeämä
+  -    napa- ja nivustyrä
+  -    polven nivelkierukan repeämä
+  -    nivelen tai polvilumpion sijoiltaanmeno
+  -    penikkatauti
+  -    rasitusmurtuma (korvauspiiriin eivät kuulu rasitusosteopatiat)
+  -    tennis- ja golfkyynärpää
+  -    akillesjänteen tulehdus tai repeämä
+  -    olkapään jännealueen tulehdus
+  -    limapussitulehdus
+  -    kantakalvon tulehdus
+
+Korvaaminen edellyttää, että äkillinen liike tai voimanponnistus on sattunut vakuutusturvan voimassaoloaikana.
+
+Hoitokuluina korvataan lisäksi kustannuksia lääkärin määräämästä fysikaalisesta hoidosta enintään viideltä (5) käyntikerralta sekä tässä ehtokohdassa
+yksilöityä rasitus- ja sairausperäistä vammaa että vakuutusehtojen tarkoittamaa tapaturmaa kohden. Vakuutuskaudessa korvataan kuitenkin yhteensä
+enintään 10 käyntiä.
+
+Sekä näiden yksilöityjen vammojen että fysikaalisen hoidon korvaamisessa sovelletaan ehtokohdassa 3.2 mainittuja säännöksiä ja näitä
+henkilövakuutusehtoja kokonaisuudessaan. Lihaksen ja jänteen venähdyksissä korvausta maksetaan enintään kuuden (6) viikon ajalta venähdyksen
+syntymisestä.
+
+Lisäturvan voimassaolo edellyttää erikseen sopimista ja lisämaksua. Lisäturvaan sovelletaan sen hoitokuluturvan vakuutusmäärää ja omavastuuta, johon
+lisäturva on liitetty. Jos hoitokuluturva, johon lisäturva on liitetty, päättyy, niin myös lisäturva päättyy.
+
+Lisäturvasta ei korvata kuluja, jos tässä ehtokohdassa yksilöidystä vammasta on ollut oireita ennen tämän lisäturvan voimaantuloa.
+
+Tässä mainittuja fysikaalisen hoidon kuluja ei korvata, jos kyseessä on lääkinnällisen välineen tai muun apuvälineen, hoitolaitteen, tukipohjallisen tai muun
+pohjallisen hankkimiseen liittyvä hoitokäynti fysikaalisessa hoitolaitoksessa.
+
+3.3 Turva äidin sairaalahoidon varalta
+Tästä vakuutusturvasta maksetaan vakuutuskirjaan merkitty vakuutusmäärä lapsen äidille, jos hän on raskausaikana tai kolmen (3) kuukauden kuluessa
+lapsen syntymästä yhteensä vähintään 30 vuorokautta sairaalahoidossa Pohjoismaissa.
+
+Sairaalahoitopäiväksi katsotaan ympärivuorokautinen hoitopäivä sairaalassa. Sairaalahoidon ei tarvitse olla yhtäjaksoista. Korvausta voidaan hakea, kun
+äiti on ollut yhteensä vähintään 30 vuorokautta sairaalahoidossa. Sairaalahoitopäivien laskennassa ei oteta kuitenkaan huomioon niitä sairaalahoitopäiviä,
+jolloin vakuutus ei ole ollut voimassa eikä lainkaan lapsen syntymän jälkeisiä sairaalahoitopäiviä, jos vakuutus ei ole ollut voimassa lapsen syntyessä.
+Vakuutusmäärä maksetaan vain kerran.
+
+
+
+
+                                                                              5
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+3.4 Turva lyhytaikaisen työkyvyttömyyden varalta
+Tästä vakuutusturvasta maksetaan vakuutetun sairaudesta tai tapaturmasta aiheutuneelta työkyvyttömyysajalta vakuutuskirjaan merkittyä päivärahaa. Jos
+Kansaneläkelaitos (Kela) maksaa samalta työkyvyttömyysajalta osasairauspäivärahaa, maksettava päiväraha on puolet (1/2) vakuutuskirjaan merkitystä
+päivärahasta. Korvaaminen edellyttää, että vakuutusturva on voimassa työkyvyttömyyden aikana ja tapaturma on sattunut vakuutusturvan
+voimassaoloaikana.
+
+Työkyvyttömäksi katsotaan vakuutettu, joka on kykenemätön tekemään tavanomaisia työtehtäviään. Päivärahaa maksetaan niin monelta päivältä kuin
+työkyvyttömyyttä on jatkunut yhtäjaksoisesti yli vakuutuskirjaan merkityn omavastuuajan. Korvauksen maksaminen ja omavastuuajan laskeminen alkavat
+aikaisintaan lääkärinhoidon alkamispäivästä. Päivärahaa maksetaan kuukausittain jälkikäteen.
+
+Päivärahaa maksetaan yhteensä enintään vakuutuskirjaan merkitty aika, jonka jälkeen turva lyhytaikaisen työkyvyttömyyden varalta päättyy.
+
+Päivärahaa ei makseta, jos työkyvyttömyys aiheutuu yksinomaan vakuutetun ilmoittamista oireista, eikä lääkärintutkimuksissa löydy mitään sairauteen tai
+tapaturmaan viittaavaa.
+3.5 Turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden varalta
+Tästä vakuutusturvasta maksetaan vakuutetun tapaturmasta aiheutuneelta työkyvyttömyysajalta vakuutuskirjaan merkittyä päivärahaa. Jos
+Kansaneläkelaitos (Kela) maksaa samalta työkyvyttömyysajalta osasairauspäivärahaa, maksettava päiväraha on puolet (1/2) vakuutuskirjaan merkitystä
+päivärahasta. Korvaaminen edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana ja jatkuva vakuutusturva on voimassa
+työkyvyttömyyden aikana.
+
+Työkyvyttömäksi katsotaan vakuutettu, joka on kykenemätön tekemään tavanomaisia työtehtäviään.
+
+Päivärahaa maksetaan niin monelta päivältä kuin työkyvyttömyyttä on jatkunut yhtäjaksoisesti yli vakuutuskirjaan merkityn omavastuuajan. Korvauksen
+maksaminen ja omavastuuajan laskeminen alkavat aikaisintaan lääkärinhoidon alkamispäivästä. Päivärahaa maksetaan kuukausittain jälkikäteen.
+
+Päivärahaa maksetaan yhteensä enintään vakuutuskirjaan merkitty aika, jonka jälkeen turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden
+varalta päättyy.
+
+Päivärahaa ei makseta, jos työkyvyttömyys aiheutuu yksinomaan vakuutetun ilmoittamista oireista, eikä lääkärintutkimuksissa löydy mitään tapaturmaan
+viittaavaa.
+
+3.6 Turva sairaalahoidon varalta
+Tämä vakuutusturva ei ole enää myynnissä.
+
+Tästä vakuutusturvasta maksetaan vakuutetun sairaudesta tai tapaturmasta aiheutuneen sairaalahoidon ajalta vakuutuskirjaan merkittyä
+sairaalapäivärahaa. Korvaaminen edellyttää, että vakuutusturva on voimassa sairaalahoidon aikana ja tapaturma on sattunut vakuutusturvan
+voimassaoloaikana.
+
+Sairaalapäivärahaa maksetaan niin monelta päivältä kuin sairaalahoito on jatkunut yhtäjaksoisesti yli vakuutuskirjaan merkityn omavastuuajan.
+Jos vakuutettua on hoidettu muussa kotimaisessa sairaanhoitolaitoksessa kuin sairaalassa ja vakuutuksesta korvattava hoito on ollut lääketieteellisistä
+syistä välttämätöntä ja sairaalahoidon korvaavaa, sairaalapäivärahaa maksetaan myös hoitoajalta tällaisessa laitoksessa. Tällaiseksi laitokseksi ei
+kuitenkaan katsota kylpylä-, luontaishoito- tai kuntoutuslaitosta.
+
+Sairaalapäivärahaa ei makseta, jos hoito aiheutuu yksinomaan vakuutetun ilmoittamista oireista eikä lääkärintutkimuksissa löydy mitään sairauteen tai
+tapaturmaan viittaavaa.
+
+Sairaalapäivärahaa ei makseta ajalta, jonka sairaalan kirjoissa oleva vakuutettu on ollut kotihoidossa tai lomalla sairaalasta.
+
+Sairaalapäivärahaa maksetaan yhteensä enintään vakuutuskirjaan merkityltä ajalta, jonka jälkeen turva sairaalahoidon varalta päättyy.
+
+3.7 Turva tapaturman aiheuttaman sairaalahoidon varalta
+Tämä vakuutusturva ei ole enää myynnissä.
+
+Tästä vakuutusturvasta maksetaan vakuutetun tapaturmasta aiheutuneen sairaalahoidon ajalta vakuutuskirjaan merkittyä sairaalapäivärahaa. Korvaaminen
+edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana ja vakuutusturva on voimassa sairaalahoidon aikana.
+
+Sairaalapäivärahaa maksetaan niin monelta päivältä kuin sairaalahoito on jatkunut yhtäjaksoisesti yli vakuutuskirjaan merkityn omavastuuajan.
+
+Jos vakuutettua on hoidettu muussa kotimaisessa sairaanhoitolaitoksessa kuin sairaalassa ja vakuutuksesta korvattava hoito on ollut lääketieteellisistä
+syistä välttämätöntä ja sairaalahoidon korvaavaa, sairaalapäivärahaa maksetaan myös hoitoajalta tällaisessa laitoksessa. Tällaiseksi laitokseksi ei
+kuitenkaan katsota kylpylä-, luontaishoito- tai kuntoutuslaitosta.
+
+Sairaalapäivärahaa ei makseta, jos hoito aiheutuu yksinomaan vakuutetun ilmoittamista oireista eikä lääkärintutkimuksissa löydy mitään tapaturmaan
+viittaavaa.
+
+Sairaalapäivärahaa ei makseta ajalta, jonka sairaalan kirjoissa oleva vakuutettu on ollut kotihoidossa tai lomalla sairaalasta.
+
+Sairaalapäivärahaa maksetaan yhteensä enintään vakuutuskirjaan merkityltä ajalta, jonka jälkeen turva tapaturman aiheuttaman sairaalahoidon
+varalta päättyy.
+
+3.8 Turva pysyvän haitan varalta
+Tämä vakuutusturva ei ole enää myynnissä.
+
+Tästä vakuutusturvasta maksetaan korvausta vakuutetulle sattuneen tapaturman tai vakuutettua kohdanneen yksittäisen sairauden aiheuttamasta
+pysyvästä haitasta. Tapaturman aiheuttamasta pysyvästä haitasta maksetaan korvausta, jos haittaluokka on vähintään 2 (10 %). Tapaturman sormille
+tai silmille aiheuttamista vammoista maksetaan kuitenkin korvausta vähintään haittaluokan 1 (5 %) mukaisesta pysyvästä haitasta. Sairauden
+aiheuttamasta pysyvästä haitasta maksetaan korvausta, jos haittaluokka on vähintään 12 (60 %). Lapsivakuutuksessa (myönnetty ennen 1.1.2018)
+sairauden aiheuttamasta pysyvästä haitasta maksetaan kuitenkin korvausta vähintään haittaluokan 6 (30 %) mukaisesta pysyvästä haitasta, ellei pysyvä
+haitta ole aiheutunut synnynnäisestä epämuodostumasta, epämuotoisuudesta tai kromosomipoikkeavuudesta (ICD-10-tautiluokituskoodit Q00 - Q99).
+Tällöin haittaluokan tulee olla vähintään 10 (50 %).
+
+Korvaaminen edellyttää, että vakuutusturva on voimassa sairauden aiheuttaman pysyvän haitan ilmetessä ja tapaturma on sattunut vakuutusturvan
+voimassaoloaikana.
+
+Pysyvä haitta on lääketieteellisesti arvioitu yleinen haitta, joka vammasta tai sairaudesta aiheutuu vakuutetulle. Haittaa määriteltäessä otetaan huomioon
+sairauden tai vamman laatu, mutta ei vammautuneen yksilöllisiä olosuhteita kuten ammattia tai harrastuksia.
+
+
+
+                                                                               6
+                    Henkilövakuutusehdot
+                    Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+Pysyvän haitan suuruus määritellään Valtioneuvoston työtapaturma- ja ammattitautilain haittaluokituksesta antaman asetuksen (768/2015) mukaan. Yksi
+haittaluokka vastaa viiden (5) prosentin haitta-astetta. Esimerkiksi haittaluokan 2 mukainen haitta-aste on 10 prosenttia ja suurin, haittaluokan 20 mukainen
+haitta-aste tarkoittaa 100 prosentin haittaa.
+
+Korvaus on määritellyn haittaluokan mukaisen prosenttiluvun osoittama osa tapaturman sattumishetken / sairauden toteamishetken vakuutusmäärästä. Jos
+pysyvä haitta on vähintään haittaluokan 10 (50 %) mukainen pysyvä haitta, maksetaan korvaus kaksinkertaisena. Pysyvän haitan kaksinkertaiseen
+korvaukseen ei ole kuitenkaan oikeutta silloin, kun vakuutuskirjassa on maininta, että turvasta ei makseta kaksinkertaista korvausta. Tapaturman
+aiheuttama pysyvä haitta määritellään aikaisintaan yhden (1) vuoden kuluttua tapaturman sattumisesta. Sairauden aiheuttama pysyvä haitta
+määritellään, kun sairauden tila on lääketieteellisesti vakiintunut, kuitenkin aikaisintaan yhden (1) vuoden kuluttua hoidon alkamisesta ja/tai sairauden
+toteamisesta ja viimeistään kolmen (3) vuoden kuluttua vakuutuksen päättymisestä.
+
+Jos pysyvän haitan haitta-aste nousee ennen kuin kolme (3) vuotta on kulunut siitä, kun pysyvästä haitasta annettiin ensimmäisen kerran päätös,
+maksetaan haittaluokan korotusta vastaava lisäkorvaus. Haitta-asteen myöhäisempi nousu ei oikeuta lisäkorvaukseen.
+
+Pysyvän haitan korvauksena maksetaan enintään haittaluokan 20 (100 %) mukainen korvaus, jonka jälkeen turva pysyvän haitan varalta päättyy.
+
+Tapaturman aiheuttaman pysyvän haitan korvausta ei makseta, jos
+ 1) pysyvän haitan haittaluokka on alle 2 (10 %), lukuun ottamatta silmien ja sormien vammoja
+ 2) silmille tai sormille aiheuttaneen pysyvän haitan haittaluokka on alle 1 (5 %)
+ 3) pysyvä haitta ilmenee myöhemmin kuin kolmen (3) vuoden kuluttua tapaturman sattumisesta.
+
+Sairauden aiheuttaman pysyvän haitan korvausta ei makseta, jos pysyvän haitan haittaluokka on alle 12 (60 %), ellei kysymys ole Lapsivakuutuksesta.
+Lapsivakuutuksesta (myönnetty ennen 1.1.2018) ei makseta sairauden aiheuttaman pysyvän haitan korvausta, jos
+ 1) pysyvän haitan haittaluokka on alle 6 (30 %)
+ 2) pysyvää haittaa ei ole määritelty kolmen (3) vuoden kuluessa vakuutuksen päättymisestä
+ 3) pysyvä haitta aiheutuu mielenterveyden- ja käyttäytymisen häiriöistä tai tunnehäiriöistä. Taudinmäärityksessä näiden sairauksien ICD-10-
+      tautiluokituskoodit ovat F00 - F99 tai R48.
+ 4) pysyvä haitta aiheutuu CP-oireyhtymästä tai muusta halvausoireyhtymästä. Taudinmäärityksessä näiden sairauksien ICD-10-tautiluokituskoodit ovat
+      G80 - G83.
+ 5) synnynnäisestä epämuodostumasta, epämuotoisuudesta tai kromosomipoikkeavuudesta aiheutuvan pysyvän haitan haittaluokka on alle 10 (50 %).
+      Taudinmäärityksessä näiden sairauksien ICD-10-tautiluokituskoodit ovat Q00 - Q99.
+
+3.9 Turva tapaturman aiheuttaman pysyvän haitan varalta
+Tästä vakuutusturvasta maksetaan korvausta vakuutetulle sattuneen tapaturman aiheuttamasta pysyvästä haitasta. Korvausta maksetaan, jos tapaturman
+aiheuttaman pysyvän haitan haittaluokka on vähintään 2 (10 %). Tapaturman sormille tai silmille aiheuttamista vammoista maksetaan kuitenkin korvausta
+vähintään haittaluokan 1 (5 %) mukaisesta pysyvästä haitasta. Korvaaminen edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana.
+
+Pysyvä haitta on lääketieteellisesti arvioitu yleinen haitta, joka vammasta aiheutuu vakuutetulle. Haittaa määriteltäessä otetaan huomioon vamman laatu,
+mutta ei vammautuneen yksilöllisiä olosuhteita kuten ammattia tai harrastuksia.
+
+Pysyvän haitan suuruus määritellään Valtioneuvoston työtapaturma- ja ammattitautilain haittaluokituksesta antaman asetuksen (768/2015) mukaan. Yksi
+haittaluokka vastaa viiden (5) prosentin haitta-astetta. Esimerkiksi haittaluokan 2 mukainen haitta-aste on 10 prosenttia ja suurin, haittaluokan 20 mukainen
+haitta-aste tarkoittaa 100 prosentin haittaa.
+
+Korvaus on määritellyn haittaluokan mukaisen prosenttiluvun osoittama osa tapaturman sattumishetken vakuutusmäärästä. Mikäli tapaturman aiheuttama
+pysyvä haitta on vähintään haittaluokan 10 (50 %) mukainen pysyvä haitta, maksetaan korvaus kaksinkertaisena. Pysyvän haitan kaksinkertaiseen
+korvaukseen ei ole kuitenkaan oikeutta, jos turva on myönnetty 31.12.2021 jälkeen eikä myöskään silloin, kun vakuutuskirjassa on maininta, että turvasta ei
+makseta kaksinkertaista korvausta. Pysyvä haitta määritellään aikaisintaan yhden (1) vuoden kuluttua tapaturman sattumisesta. Jos haitta-aste nousee
+ennen kuin kolme (3) vuotta on kulunut siitä, kun pysyvästä haitasta annettiin ensimmäisen kerran päätös, maksetaan haittaluokan korotusta vastaava
+lisäkorvaus. Haitta-asteen myöhäisempi nousu ei oikeuta lisäkorvaukseen.
+
+Pysyvän haitan korvauksena maksetaan enintään haittaluokan 20 (100 %) mukainen korvaus, jonka jälkeen turva tapaturman aiheuttaman pysyvän haitan
+varalta päättyy.
+
+Pysyvän haitan korvausta ei makseta, jos
+ 1) tapaturman aiheuttaman pysyvän haitan haittaluokka on alle 2 (10 %), lukuun ottamatta silmien ja sormien vammoja
+ 2) tapaturman silmille tai sormille aiheuttaman pysyvän haitan haittaluokka on alle 1 (5 %)
+ 3) pysyvä haitta ilmenee myöhemmin kuin kolmen (3) vuoden kuluttua tapaturman sattumisesta.
+
+3.10 Perheen sopeutumisturva
+Tästä vakuutusturvasta maksetaan vakuutuskirjaan merkitty vakuutusmäärä, jos vakuutetulla todetaan vakuutusturvan voimassaoloaikana tässä
+ehtokohdassa mainittu sairaus tai vamma taikka vakuutetulle suoritetaan tässä ehtokohdassa mainittu toimenpide. Alle 18-vuotiaan vakuutetun
+vakuutusmäärä maksetaan vakuutuksenottajalle. 18 vuotta täyttäneen vakuutetun vakuutusmäärä maksetaan hänelle itselleen.
+
+Vakuutusmäärä maksetaan sairauden diagnosoinnin, vamman vahvistamisen tai toimenpiteen suorittamisen jälkeen. Korvauksen maksaminen edellyttää,
+että vakuutettu on elossa vähintään 24 tuntia diagnoosin vahvistamisen jälkeen. Vakuutusmäärä maksetaan erikseen jokaisesta tässä ehtokohdassa
+todetusta diagnoosista, vammasta tai toimenpiteestä, kuitenkin enintään yhden kerran jokaisesta diagnoosiryhmästä. Aivojen hyvänlaatuinen kasvain ja
+lastenreuma tulee olla diagnosoitu ja elinsiirto suoritettu 1.1.2018 tai sen jälkeen.
+
+Mikäli tässä ehtokohdassa mainittu diagnoosi tai toimenpide johtaa toiseen tässä ehtokohdassa mainittuun diagnoosiin tai toimenpiteeseen, maksetaan
+korvaus vain ensimmäisen diagnoosin tai toimenpiteen perusteella.
+
+Tässä ehtokohdassa tarkoitettuja, korvauksen edellytyksenä olevia diagnoosiryhmiä ja niihin sisältyviä sairauksia, vammoja ja toimenpiteitä ovat:
+
+- Pahanlaatuinen kasvain
+Kudostutkimuksin todettu pahanlaatuinen kasvain. Tähän ryhmään kuuluvat myös leukemia, pahanlaatuiset kasvaimet imukudoksissa (lymfoomat) sekä
+pahanlaatuiset tummasolusyöpäkasvaimet (melanoomat).
+
+Vakuutuksen korvauspiiriin eivät kuulu tavallinen ihosyöpä (basaliooma ja spinaliooma), histologisesti määritetyt syövän esiasteet (premalignit kasvaimet)
+tai alkavat pahanlaatuiset muutokset eivätkä pintakerrokseen rajoittuneet kasvaimet (carsinoma in situ).
+
+Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja C00 - C43 tai C45 - C97.
+
+- Aivojen hyvänlaatuinen kasvain
+Aivokudoksesta tai aivokalvosta kehittynyt leikkausta vaativa kasvain. Taudinmäärityksen on oltava lastenneurologian, neurologian tai neurokirurgian
+erikoislääkärin toteama ja noudatettava ICD-10-tautiluokituskoodeja D32.0, D33.0-D33.3 tai D35.2-D35.4.
+
+                                                                              7
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+- Diabetes 1
+Insuliinihoitoinen lastentautien tai sisätautien erikoislääkärin toteama nuoruustyypin diabetes. Paastoverensokeriarvo pysyvästi yli 7 millimoolia litrassa
+(mmol/l). Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia E10.
+
+- Munuaisten vajaatoiminta
+Munuaisten toiminta voimakkaasti alentunut, komplikaatioina anemia sekä rasva-aineenvaihdunnan häiriöt. Dialyysihoito tarpeen. Taudinmäärityksen oltava
+munuaistauteihin perehtyneen lastenlääkärin tai nefrologian erikoislääkärin toteama ja noudatettava ICD-10-tautiluokituskoodeja N17-N19.
+
+- Lastenreuma
+Juveniili idiopaattinen artriitti (JIA). Taudinmäärityksen on oltava lastenreumatologian tai reumatologian erikoislääkärin toteama ja noudatettava ICD-10-
+tautiluokituskoodia M08.
+
+- Amputaatio
+Alaraajan menetys vähintään ylemmän nilkkanivelen korkeudelta tai yläraajan menetys vähintään ranteen korkeudelta.
+
+- Vakava aivovamma
+Aivojen ruhjevammat, jotka ovat aiheuttaneet merkittävän aleneman tajunnan tasoon ja ovat kliinisesti tai radiologisesti vakaviksi todennettavissa
+(Glasgowin kooma-asteikolla 3–7 tai vähintään 1 tunnin pituinen tajuttomuus tai 10 vuorokauden pituinen tajunnan tason alenema ja lisäksi vähintään 4
+vuorokauden pituinen tehostetun hoidon jakso tarpeen). Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja I60 - I69 tai S06.
+
+- Vakava palovamma
+Vakuutettu alle 10-vuotias: kehon pinnasta vähintään 10 % on syviä toisen tai kolmannen asteen palovammoja.
+ Vakuutettu vähintään 10-vuotias: kehon pinnasta vähintään 15 % on syviä toisen tai kolmannen asteen palovammoja.
+
+- Elinsiirto
+Käsittää sydämen, maksan, munuaisen, keuhkon ja suolen siirron ja kantasolusiirron. Siirto tulee olla tehty Suomessa tai suomalaisen terveydenhuollon
+lähetteellä.
+
+3.11 Kuolemantapausturva
+Tästä vakuutusturvasta maksetaan kuolinhetkellä voimassa ollut vakuutusmäärä edunsaajille vakuutetun kuoltua. Vakuutusmäärän maksaminen edellyttää,
+että vakuutusturva on voimassa kuolinhetkellä.
+
+Vakuutusmäärää ei makseta, jos vakuutettu on tehnyt itsemurhan vuoden kuluessa vastuun alkamisesta tai siitä, kun vakuutus viimeksi terveysselvityksin
+saatettiin voimaan. Rajoitusehtoa sovelletaan vakuutetun iästä ja mielentilasta riippumatta.
+
+Kuolemantapausturva voi olla joko tasasummainen tai alenevasummainen. Tasasummaisessa kuolemantapausturvassa vakuutusmaksu nousee
+vakuutetun iän perusteella vakuutusaikana. Alenevasummaisessa kuolemantapausturvassa vakuutusmäärä alenee vakuutetun iän perusteella
+vakuutusaikana.
+
+Kuolemantapausturva voi olla joko yhden hengen turva tai kahden hengen yhteisturva.
+
+Jos kahden hengen yhteisturvalla vakuutetut henkilöt kuolevat samanaikaisesti ja kuolemantapausmäärät ovat yhtä suuret, vakuutusmäärä maksetaan
+puoliksi kummankin vakuutetun edunsaajille, ellei muuta ole määrätty. Jos vakuutusmäärät ovat erisuuruiset, pienempi vakuutusmäärä maksetaan puoliksi
+kummankin vakuutetun edunsaajille ja suuremman vakuutusmäärän edunsaajille maksetaan lisäksi vakuutusmäärien erotus.
+
+3.12 Turva tapaturman aiheuttaman kuoleman varalta
+Tästä vakuutusturvasta maksetaan kuolinhetkellä voimassa ollut vakuutusmäärä edunsaajille vakuutetun kuoltua tapaturmaisesti. Vakuutusmäärän
+maksaminen edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana.
+
+Vakuutusmäärää ei makseta, jos vakuutettu kuolee myöhemmin kuin kolmen (3) vuoden kuluttua tapaturman sattumisesta. Vauva- ja Lapsivakuutuksen
+vakuutusmäärää ei makseta myöskään silloin, kun lapsi syntyy kuolleena.
+
+3.13 Turva vakavan sairauden ja tapaturman aiheuttaman pysyvän työkyvyttömyyden varalta
+Tästä vakuutusturvasta maksetaan vakuutuskirjaan merkitty kertakorvaus pysyvästä työkyvyttömyydestä, jos vakuutettu tulee tässä ehtokohdassa mainitun
+sairauden, vamman tai toimenpiteen johdosta pysyvästi työkyvyttömäksi. Korvaaminen edellyttää, että vakuutusturva on voimassa sekä pysyvän
+työkyvyttömyyden ilmetessä että pysyvän työkyvyttömyyseläkkeen alkaessa ja, että tapaturma on sattunut vakuutusturvan voimassaoloaikana. Pysyvän
+työkyvyttömyyden toteaminen edellyttää, että vakuutetulle on myönnetty työeläkelakien mukainen pysyvä työkyvyttömyyseläke.
+
+Vakuutetulla on kuitenkin oikeus jo aiemmin 10 %:n osakorvaukseen vakuutusmäärästä, jos hänelle myönnetään vähintään 12 kuukauden pituinen
+työeläkelakien mukainen kuntoutustuki tässä ehtokohdassa mainitun sairauden, vamman tai toimenpiteen johdosta. Vaadittava 12 kuukauden aika
+voi olla yhtämittainen tai muodostua useammasta peräkkäisestä ajanjaksosta. Osakorvaukseen on oikeus vain yhden kerran vakuutusturvan
+voimassaoloaikana. Kuntoutustuen perusteella maksettu osakorvaus vakuutusmäärästä vähennetään korvattavasta pysyvän työkyvyttömyyden
+kertakorvauksesta. Korvaaminen edellyttää, että tämä vakuutusturva on voimassa kuntoutustuen alkaessa ja, että tapaturma on sattunut tämän
+vakuutusturvan voimassaoloaikana. Osakorvausta kuntoutustuen perusteella ei makseta, jos tässä ehtokohdassa mainitun sairauden, vamman tai
+toimenpiteen johdosta on myönnetty kuntoutustukea ennen 1.1.2017.
+
+Korvausta haettaessa on vakuutusyhtiölle toimitettava kuntoutustuki-/eläkepäätös ja lääkärinlausunto, jonka perusteella työeläkeyhtiö on myöntänyt
+kuntoutustuen tai pysyvän työkyvyttömyyseläkkeen. Vakuutustapahtumaksi katsotaan kuntoutustuen/pysyvän työkyvyttömyyseläkkeen alkamispäivä.
+Pysyvällä työkyvyttömyyseläkkeellä ei tarkoiteta osatyökyvyttömyyseläkettä eikä kuntoutustuella osakuntoutustukea.
+
+Vakuutusmäärä alenee vuosittain vakuutetun iän perusteella sen vakuutuskauden alusta alkaen, jonka aikana vakuutettu täyttää 50 vuotta. Vakuutusmaksu
+sen sijaan pysyy samansuuruisena indeksi- ja maksutarkistuksia lukuun ottamatta. Vakuutetun täytettyä 55 vuotta vakuutusmäärä ei enää alene.
+
+Turva vakavan sairauden ja tapaturman aiheuttaman pysyvän työkyvyttömyyden varalta päättyy, kun pysyvän työkyvyttömyyden korvaus on maksettu.
+
+Pysyvän työkyvyttömyyden ja kuntoutustuen syyn (päädiagnoosi) tulee olla jokin seuraavista sairauksista, vammoista tai toimenpiteistä:
+
+- Pahanlaatuinen kasvain
+Kudostutkimuksin todettu pahanlaatuinen kasvain. Tähän ryhmään kuuluvat myös leukemia, pahanlaatuiset kasvaimet imukudoksissa (lymfoomat) sekä
+pahanlaatuiset tummasolusyöpäkasvaimet (melanoomat).
+
+Vakuutuksen korvauspiiriin eivät kuulu tavallinen ihosyöpä (basaliooma ja spinaliooma), histologisesti määritetyt syövän esiasteet (premalignit kasvaimet)
+tai alkavat pahanlaatuiset muutokset eivätkä pintakerrokseen rajoittuneet kasvaimet (carsinoma in situ). Taudinmäärityksen on noudatettava ICD-10-
+tautiluokituskoodeja C00 - C43 tai C45 - C97.
+
+- Aivojen hyvänlaatuinen kasvain
+Aivokudoksesta tai aivokalvosta kehittynyt leikkausta vaativa kasvain. Taudinmäärityksen on noudatettava ICD-10- tautiluokituskoodeja D32.0, D33.0 -
+D33.3 tai D35.2 - D35.4.
+
+                                                                               8
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+- Skitsofrenia
+Taudinmäärityksen täytettävä voimassa olevat tautiluokituskriteerit ja oltava psykiatrian erikoislääkärin toteama sekä noudatettava ICD-10-
+tautiluokituskoodia F20.
+
+- Motoneuronisairaus (esim. ALS)
+Etenevä degeneroiva tauti, jolle ominaista liikehermo-solujen tuhoutuminen selkäytimessä, aivorungossa ja liikeaivokuoressa. Käsittää taudinmääritykset
+amyotrofinen lateraaliskleroosi (ALS), primaarinen lateraaliskleroosi, progressiivinen spinaalinen lihasatrofia ja progressiivinen bulbaaripareesi.
+Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia G12.2.
+
+- Parkinsonin tauti
+Vaiheittainen dopamiinia (tärkeä liiketoimintojen välittäjäaine) käyttävien hermosolujen rappeutuminen. Taudinmäärityksen oltava neurologian
+erikoislääkärin toteama ja noudatettava ICD-10-tautiluokituskoodia G20.
+
+- Alzheimerin tauti
+Dementian yleisten kriteerien täytyttävä. Lisäksi potilaalla spesifisiä ongelmia ymmärtää sanoja ja puhetta (afasia, agrafia, aleksia, akalkulia) tai motoriikan
+häiriöitä käsissä/jaloissa (apraksia). Taudinmäärityksen oltava neurologian tai geriatrian erikoislääkärin toteama ja noudatettava ICD-10
+tautiluokituskoodeja G30, G30.1, G30.8 tai G30.9.
+
+- Multippeliskleroosi (MS-tauti)
+Hajanaiset ja laaja-alaiset vauriot aivojen ja selkäytimen hermosolu-ulokkeissa, jonka seurauksena usein motoristen ja muiden toimintojen menetys.
+
+Edellytyksenä yli 6 kuukautta kestävä tyypillinen neurologinen sairausjakso (sairauden ilmeneminen) tai useammin kuin kerran esiintyviä sairausjaksoja.
+Taudinmääritys oltava neurologin suorittama, ja varmennettu tyypillisten oireiden, aivo-selkäydinnesteen analyysin sekä magneettitutkimuksen perusteella
+sekä noudatettava ICD-10-tautiluokituskoodia G35.
+
+- Epilepsia
+Toistuvat kohtaukset, joissa yleistyneet kouristukset sekä aivojen sähköisen toimintahäiriön seurauksena alentunut tajunnantaso. Taudinmääritys oltava
+neurologian erikoislääkärin toteama ja todennettu EEG:ssä sekä noudatettava ICD-10-tautiluokituskoodia G40.
+
+ - Sydäninfarkti
+Osa sydänlihaskudoksesta kuollut alueen puutteellisen verenkierron seurauksena. Troponiinipitoisuuden tulee ylittää viitealueen yläraja (99. persentiili) ja
+peräkkäisissä näytteissä tulee todeta troponiinipitoisuuden muutos (suureneminen tai pieneneminen). Lisäksi jonkin seuraavista ehdoista tulee täyttyä:
+sydänlihaksen iskemiaan sopivat oireet tai EKG-muutokset, taikka kuvantamisella todettu uusi sydänlihasvaurio. Taudinmäärityksen on noudatettava ICD-
+10-tautiluokituskoodeja I21 - I23.
+
+- Aivoverenvuoto tai aivoinfarkti
+Aivoverenvuoto tai aivoveritulppa, jonka seurauksena yli 6 viikkoa kestävä käden tai jalan halvaantuminen tai puhehäiriö. Vaurio oltava todennettavissa
+tietokonetomografian tai magneettitutkimuksen avulla. Taudinmääritys oltava neurologian erikoislääkärin toteama ja noudatettava ICD-10-
+tautiluokituskoodeja I60 - I63.
+
+- Aortta-aneurysma ja/tai aortan dissekoituma
+Leikkauksella hoidettu aortan aneurysma. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia I71.
+
+- Krooninen tulehdusperäinen suolistosairaus
+Käsittää taudinmääritykset Crohnin tauti ja haavainen koliitti. Taudinmääritys todennettu röntgenologisten tai endoskooppisten muutosten sekä
+varmennettujen histopatologisten löydösten avulla ja noudatettava ICD-10-tautiluokituskoodeja K50 tai K51.
+
+- Nivelreuma
+Krooninen tulehduksellinen niveltulehdus, joka johtaa nivelten toiminnan alentumiseen. Taudinmäärityksen oltava reumatologian erikoislääkärin toteama ja
+voimassa olevien tautiluokituskriteereiden mukainen ja noudatettava ICD-10-tautiluokituskoodeja M05 tai M06.
+
+- Munuaisten vajaatoiminta
+Munuaisten toiminta voimakkaasti alentunut, komplikaatioina anemia sekä rasva-aineenvaihdunnan häiriöt. Dialyysihoito tarpeen. Taudinmäärityksen oltava
+nefrologian erikoislääkärin toteama ja noudatettava ICD-10-tautiluokituskoodeja N17 - N19.
+
+- Sokeus
+Näön oltava pysyvästi heikentynyt molemmissa silmissä. Näöntarkkuus on paremmalla silmällä taittovikakorjattuna 0,03 tai heikompi.
+
+- Kuurous
+Audiometrisesti määritetty pysyvä kuulon alenema 60 dB tai enemmän puheen taajuusalueella (500–2 000 Hz) molemmissa korvissa.
+
+- Vakava palovamma
+Vähintään 30 % kehon pinnasta oltava syviä toisen tai kolmannen asteen palovammoja.
+
+- Halvaus ja amputaatio
+Selkäydinvamma tai raaja-amputaatio, jonka seurauksena vähintään 50 %:n lääketieteellistä haittaa vastaava toiminnanvajavuus kädessä ja/tai jalassa.
+Selkäydinvamman oltava objektiivisesti todettavissa. Toiminnallisia tai psykogeenisia halvauksia ei korvata.
+
+- Elinsiirto
+Käsittää sydämen, maksan, munuaisen, keuhkon ja suolen siirron sekä kantasolusiirron. Siirto tulee olla tehty Suomessa tai suomalaisen terveydenhuollon
+lähetteellä.
+
+- Sydänleikkaus
+Edellytyksenä toimenpide, jossa rintakehä on avattu.
+
+3.14 Vakavan sairauden turva
+Tästä vakuutusturvasta maksetaan vakuutuskirjaan merkitty vakuutusmäärä, jos vakuutetulla todetaan vakuutusturvan voimassaoloaikana tässä
+ehtokohdassa mainittu sairaus tai vamma taikka vakuutetulle suoritetaan tässä ehtokohdassa mainittu toimenpide. Tässä vakuutusturvassa voi olla
+vakuutuskirjassa mainitun mittainen karenssiaika koskien sekä korvaukseen oikeuttavia pahanlaatuisia kasvaimia että aivojen hyvänlaatuisia kasvaimia.
+Karenssiaika alkaa terveysselvityksen allekirjoittamisesta ja tarkoittaa, että korvausta ei makseta vakuutuksen voimassaoloaikana sellaisesta kasvaimesta,
+joka todetaan tai jonka diagnoosiin johtavat tutkimukset aloitetaan karenssiajan aikana. Karenssiajan laskennassa ensimmäiseksi karenssipäiväksi
+katsotaan terveysselvityksen allekirjoittamista seuraava päivä. Karenssiaikaa sovelletaan vain, jos siitä on erikseen sovittu ja siitä on maininta
+vakuutuskirjalla.
+
+
+
+
+                                                                                9
+                    Henkilövakuutusehdot
+                    Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+Vakuutusmäärä maksetaan sairauden tai vamman diagnoosin vahvistamisen tai toimenpiteen suorittamisen jälkeen. Korvauksen maksaminen edellyttää,
+että vakuutettu on elossa vähintään 24 tuntia diagnoosin vahvistamisen jälkeen. Vakuutusmäärä maksetaan erikseen jokaisesta tässä ehtokohdassa
+todetusta diagnoosista tai toimenpiteestä, kuitenkin enintään yhden kerran jokaisesta diagnoosi- tai toimenpideryhmästä.
+Mikäli tässä ehtokohdassa mainittu diagnoosi tai toimenpide johtaa toiseen tässä ehtokohdassa mainittuun diagnoosiin tai toimenpiteeseen, maksetaan
+korvaus vain ensimmäisen diagnoosin tai toimenpiteen perusteella.
+
+Tässä ehtokohdassa tarkoitettuja, korvauksen edellytyksenä olevia diagnoosi- ja toimenpideryhmiä sekä niihin sisältyviä sairauksia, vammoja ja
+toimenpiteitä ovat:
+
+- Pahanlaatuinen kasvain
+Kudostutkimuksin todettu pahanlaatuinen kasvain. Tähän ryhmään kuuluvat myös leukemia, pahanlaatuiset kasvaimet imukudoksissa (lymfoomat) sekä
+pahanlaatuiset tummasolusyöpäkasvaimet (melanoomat).
+
+Vakuutuksen korvauspiiriin eivät kuulu tavallinen ihosyöpä (basaliooma ja spinaliooma), histologisesti määritetyt syövän esiasteet (premalignit kasvai
+met) tai alkavat pahanlaatuiset muutokset eivätkä pintakerrokseen rajoittuneet kasvaimet (carsinoma in situ). Taudinmäärityksen on noudatettava ICD-10-
+tautiluokituskoodeja C00-C43 tai C45-C97.
+
+- Aivojen hyvänlaatuinen kasvain
+Aivokudoksesta tai aivokalvosta kehittynyt leikkausta vaativa kasvain. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja D32.0, D33.0 -
+D33.3 tai D35.2 - D35.4.
+
+- Motoneuronisairaus (esim. ALS)
+Etenevä degeneroiva tauti, jolle ominaista liikehermosolujen tuhoutuminen selkäytimessä, aivorungossa ja liikeaivokuoressa. Käsittää taudinmääritykset
+amyotrofinen lateraaliskleroosi (ALS), primaarinen lateraaliskleroosi, progressiivinen spinaalinen lihasatrofia ja progressiivinen bulbaaripareesi.
+Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia G12.2.
+
+- Multippeliskleroosi (MS-tauti)
+Hajanaiset ja laaja-alaiset vauriot aivojen ja selkäytimen hermosolu-ulokkeissa, jonka seurauksena usein motoristen ja muiden toimintojen menetys.
+
+Edellytyksenä yli 6 kuukautta kestävä tyypillinen neurologinen sairausjakso (sairauden ilmeneminen) tai useammin kuin kerran esiintyviä sairausjaksoja.
+Taudinmääritys oltava neurologin suorittama, ja varmennettu tyypillisten oireiden, aivo-selkäydinnesteen analyysin sekä magneettitutkimuksen perusteella
+sekä noudatettava ICD-10-tautiluokituskoodia G35. Tauti tulee olla diagnosoitu 26.5.2018 tai sen jälkeen.
+
+- Sydäninfarkti
+Osa sydänlihaskudoksesta kuollut alueen puutteellisen verenkierron seurauksena. Troponiinipitoisuuden tulee ylittää viitealueen yläraja (99. persentiili) ja
+peräkkäisissä näytteissä tulee todeta troponiinipitoisuuden muutos (suureneminen tai pieneneminen). Lisäksi jonkin seuraavista ehdoista tulee täyttyä:
+sydänlihaksen iskemiaan sopivat oireet tai EKG-muutokset, taikka kuvantamisella todettu uusi sydänlihasvaurio. Taudinmäärityksen on noudatettava ICD-
+10-tautiluokituskoodeja I21 - I23.
+.
+- Aivoverenvuoto tai aivoinfarkti
+Aivoverenvuoto tai aivoveritulppa, jonka seurauksena yli 6 viikkoa kestävä käden tai jalan halvaantuminen tai puhehäiriö. Vaurio oltava todennettavissa
+tietokonetomografian tai magneettitutkimuksen avulla. Taudinmääritys oltava neurologian erikoislääkärin toteama ja noudatettava ICD-10-
+tautiluokituskoodeja I60 - I63.
+
+- Aortta-aneurysma ja/tai aortan dissekoituma
+Leikkauksella hoidettu aortan aneurysma. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia I71.
+
+- Vakava palovamma
+Vähintään 30 % kehon pinnasta oltava syviä toisen tai kolmannen asteen palovammoja.
+
+ - Elinsiirto
+Käsittää sydämen, maksan, munuaisen, keuhkon ja suolen siirron sekä kantasolusiirron. Siirto tulee olla tehty Suomessa tai suomalaisen terveydenhuollon
+lähetteellä.
+
+- Sydänleikkaus
+Edellytyksenä toimenpide, jossa rintakehä on avattu.
+
+3.15 Turva vakavan synnynnäisen sairauden ja vamman varalta
+Tästä vakuutusturvasta maksetaan vakuutuskirjaan merkitty vakuutusmäärä vakuutuksenottajalle, jos vakuutetulla diagnosoidaan syntymästä kuuden (6)
+kuukauden kuluessa tässä ehtokohdassa mainittu synnynnäinen sairaus tai vamma. Vakuutusmäärä maksetaan vain yhden diagnoosin perusteella.
+
+Korvaaminen edellyttää, että vakuutus on voimassa lapsen syntyessä. Korvausta ei makseta, jos vakuutettu kuolee ennen diagnoosin vahvistamista.
+
+Tässä ehtokohdassa tarkoitettuja korvauksen edellytyksenä olevia synnynnäisiä sairauksia ja vammoja ovat:
+
+- Selkärankahalkio
+Selkärangassa esiintyvä epämuodostuma, jossa nikamankaaret eivät ole takana kasvaneet yhteen. Korvauksen edellytyksenä on sulkeutumattomasta
+kallon tai rangan halkioaukosta ulostyöntyvä selkäytimen tyrä. Selkäydinkalvon tyrä (Meningoseele) ei oikeuta korvaukseen. Taudinmäärityksen on
+noudatettava ICD-10-tautiluokituskoodia Q05.
+
+ - Synnynnäinen vesipäisyys
+Aivo- ja selkäydinnesteen kiertohäiriön seurauksena aiheutuva vastasyntyneen vesipäisyys (Hydrokefalia). Taudinmäärityksen on noudatettava ICD-10-
+tautiluokituskoodia Q03.
+
+- Älyllinen kehitysvammaisuus
+Edellytyksenä vaikea tai syvä synnynnäinen kehitysvammaisuus, joka diagnosoidaan viimeistään 6 kuukauden sisällä syntymästä. Diagnoosin on oltava
+lastenneurologian erikoislääkärin tekemä. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja F72 tai F73.
+
+- CP-oireyhtymä
+Edellytyksenä vaikea synnynnäinen CP-vammaisuus, joka diagnosoidaan viimeistään 6 kuukauden sisällä syntymästä. Korvauksen edellytyksenä on
+neliraajahalvaus (tetraplegia), molempien alaraajojen halvaus (paraplegia) tai vaikea atetoosi. Diagnoosin on oltava lastenneurologian erikoislääkärin
+tekemä. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja G80 tai G82.
+
+- Downin oireyhtymä
+Kromosomipoikkeavuudesta aiheutuva kehityshäiriö. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia Q90.
+
+- Suurten suonten transpositio (TGA)
+Sydämen suurten valtimorunkojen synnynnäinen virhesijainti. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia Q20.3.
+
+                                                                             10
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+- Yksikammioinen sydän (UVH)
+Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia Q20.48.
+
+- Fallot'n tetralogia
+Synnynnäisten sydänvikojen yhdistelmä. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja Q21.30 - Q21.33.
+
+- Vajaakehittyneen vasemman sydänpuoliskon oireyhtymä (HLHS)
+Aortta-aukon tai -läpän umpeuma tai huomattava vajaakehitys. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia Q23.4
+
+- Keuhkovaltimon umpeuma (PA)
+Keuhkoverenkiertoa haittaava tukos keuhkovaltimossa. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia Q25.5.
+
+- Yläraajan puuttumat
+Korvauksen edellytyksenä on synnynnäinen yläraajan puuttuminen, olka- ja kyynärvarren puuttuminen, kyynärvarren ja käden puuttuminen tai käden ja
+kaikkien sormien puuttuminen. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja Q71.0 - Q71.3.
+
+ - Alaraajan puuttumat
+Korvauksen edellytyksenä on synnynnäinen alaraajan puuttuminen, reiden ja säären puuttuminen, säären ja jalkaterän puuttuminen tai jalkaterän ja
+kaikkien varpaiden puuttuminen. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodeja Q72.0 - Q72.3.
+
+- Sokeus
+Synnynnäinen molempien silmien pysyvän sokeuden aiheuttava näkövamma, joka diagnosoidaan viimeistään 6 kuukauden sisällä syntymästä. Diagnoosin
+on oltava silmätautien erikoislääkärien tekemä. Taudinmäärityksen on noudatettava ICD-10-tautiluokituskoodia H54.0.
+
+
+3.16 Turva lapsen sairaalahoidon varalta
+Tästä vakuutusturvasta maksetaan vakuutuskirjaan merkitty vakuutusmäärä vakuutuksenottajalle, jos vakuutettu lapsi on kolmen (3) kuukauden kuluessa
+syntymästään yhteensä vähintään 30 vuorokautta sairaalahoidossa Pohjoismaissa.
+
+Sairaalahoitopäiväksi katsotaan ympärivuorokautinen hoitopäivä sairaalassa. Sairaalahoidon ei tarvitse olla yhtäjaksoista. Korvausta voidaan hakea, kun
+lapsi on ollut yhteensä vähintään 30 vuorokautta sairaalahoidossa. Sairaalahoitopäivien laskennassa ei oteta kuitenkaan huomioon niitä
+sairaalahoitopäiviä, jolloin vakuutus ei ole ollut voimassa. Vakuutusmäärä maksetaan vain kerran.
+
+Korvaaminen edellyttää, että vakuutus on voimassa lapsen syntyessä.
+
+4 Vakuutusturvien kiinteät rajoitukset
+4.1 Kaikkia vakuutusturvia koskevat kiinteät rajoitukset
+4.1.1 Alkoholi, lääkkeet ja huumaavat aineet sekä nikotiini
+Korvausta ei makseta, jos sairaus tai työkyvyttömyys on aiheutunut vakuutetun käyttämästä alkoholista, muusta huumaavasta aineesta tai lääkeaineen
+väärinkäytöstä. Korvausta ei makseta myöskään alkoholin, lääkkeiden, huumeiden, nikotiinin tai muiden aineiden käytön aiheuttamasta riippuvuudesta tai
+sen hoidosta. Nämä rajoitukset eivät koske Kuolemantapausturvaa (3.11).
+
+4.1.2 Muun sairauden tai vian myötävaikutus
+Jos vammaan tai vamman paranemisen pitkittymiseen on olennaisesti myötävaikuttanut korvattavasta tapaturmasta riippumaton sairaus tai vika,
+maksetaan hoitokulu-, päiväraha-, sairaalapäiväraha- ja haittakorvauksia vain siltä osin kuin hoitokulut, työkyvyttömyys, sairaalahoito ja pysyvä haitta on
+katsottava korvattavasta tapaturmasta aiheutuneiksi.
+
+Jos sairauteen tai sairauden paranemisen pitkittymiseen on olennaisesti myötävaikuttanut korvattavasta sairaudesta riippumaton sairaus tai vika,
+maksetaan hoitokulu-, päiväraha-, sairaalapäiväraha- ja haittakorvauksia vain siltä osin kuin hoitokulut, työkyvyttömyys, sairaalahoito ja pysyvä haitta on
+katsottava korvattavasta sairaudesta aiheutuneiksi.
+
+Tapaturmassa vahingoittuneiden hampaiden hoito korvataan enintään tapaturmaa edeltäneeseen tilaan.
+
+4.1.3 Raskaus, synnytys ja lapsettomuus
+Hoitokulu-, päiväraha- ja sairaalapäivärahakorvauksia ei makseta, jos hoitokulut, työkyvyttömyys tai sairaalahoito johtuvat
+  1) raskaudentilasta tai synnytyksestä
+  2) raskauden ehkäisystä, raskauden keskeyttämisestä, lapsettomuuden tutkimuksesta tai hoidosta, keinohedelmöityksestä, sterilisaatiosta tai sikiön
+      tilan tutkimisesta.
+
+4.1.4 Sota ja aseellinen selkkaus
+Vakuutusturvat eivät ole voimassa vakuutetun osallistuessa sotaan tai aseelliseen selkkaukseen eivätkä vakuutetun palvellessa kansainvälisissä
+rauhanturvaamis- tai niihin liittyvissä tehtävissä. Tämä rajoitus ei koske Kuolemantapausturvaa (3.11) vakuutetun palvellessa kansainvälisissä
+rauhanturvaamis- tai niihin liittyvissä tehtävissä edellyttäen, että vakuutetun kuollessa on kulunut vähintään vuosi vakuutusyhtiön vastuun alkamisesta sekä
+vakuutuksen voimaansaattamisesta terveysselvityksellä.
+
+Korvausta ei makseta vahingosta, joka on aiheutunut sodasta, kapinasta, aseellisesta selkkauksesta tai vastaavasta, vaikka vakuutettu itse ei olisikaan
+osallistunut mainittuihin toimiin. Jos vakuutettu on aloittanut ulkomaan matkansa ennen aseellisten toimien alkamista eikä itse ole osallistunut niihin,
+sovelletaan tätä ehtokohtaa vasta kun 14 vuorokautta on kulunut aseellisten toimien alkamisesta. Jos kyseessä on suursota, sovelletaan tätä ehtokohtaa
+heti. Suursodalla tarkoitetaan kahden tai useamman YK:n turvallisuusneuvoston pysyvän jäsenmaan välistä sotaa. Tämä rajoitus ei koske
+Kuolemantapausturvaa (3.11).
+
+Vakuutussopimuslaissa on erikseen säädetty vakuutusyhtiön vastuusta, kun vakuutettuna olevan Suomen kansalaisen tai Suomessa asuvan henkilön
+kuolema tai työkyvyttömyys aiheutuu Suomeen kohdistuvasta aseellisesta hyökkäyksestä tai sodasta.
+
+4.2 Tapaturman varalta voimassa olevia turvia koskevat lisärajoitukset
+Jos vakuutusturva on voimassa vain tapaturmien (turvat 3.2, 3.5, 3.7, 3.9 ja 3.12) varalta, noudatetaan ehtokohdan 4.1 rajoitusten lisäksi seuraavia
+rajoituksia.
+
+
+
+
+                                                                              11
+                     Henkilövakuutusehdot
+                     Ehto HEN 100.26, voimassa 1.1.2026
+
+
+
+
+4.2.1 Tapaturmana ei korvata
+  1) vammaa eikä kuolemaa, joka on aiheutunut vakuutetun sairaudesta, viasta, vammasta tai näiden aiheuttamasta tapahtumasta. Jos vammaan tai
+       kuolemaan on olennaisesti myötävaikuttanut tapaturmasta riippumaton sairaus, vika, vamma tai näiden aiheuttama tapahtuma, korvausta ei
+       makseta.
+  2) tapaturmasta riippumatonta sairautta, vikaa tai vammaa eikä tuki- tai liikuntaelimistön rappeutumisia, vaikka ne olisivat olleet oireettomia ennen
+       tapaturmaa
+  3) hyönteisen tai punkin pureman tai piston aiheuttamaa tartuntatautia tai sairautta seurauksineen
+  4) vakuutetun käyttämän lääkeaineen, alkoholin tai muun huumaavassa tarkoituksessa käytetyn aineen aiheuttamaa myrkytystä seurauksineen
+  5) puremisesta hampaalle tai hammasproteesille aiheutunutta vauriota, vaikka siihen olisi vaikuttanut ulkopuolinen tekijä
+  6) psyykkisiä seurauksia, jotka eivät ole seurausta tapaturman aiheuttamasta aivovammasta
+  7) kuolemaa, joka on aiheutunut itsemurhasta
+  8) synnytyksen yhteydessä syntyvälle lapselle aiheutuneita vammoja. Tapaturmaksi ei voida katsoa vammaa, joka on aiheutunut ennen kuin lapsi
+       katsotaan virallisesti elävänä syntyneeksi.
+
+4.2.2 Leikkaus-, hoito- ja muut lääkinnälliset toimenpiteet
+Vakuutuksesta ei korvata vammaa, sairautta tai kuolemaa, joka on aiheutunut sairauden tai ruumiinvian hoitamiseksi suoritetusta leikkaus-, hoito- tai
+muusta lääkinnällisestä toimenpiteestä, ellei sitä ole suoritettu tästä vakuutuksesta korvattavan vamman hoitamiseksi.
+
+4.2.3 Ennen vakuutuksen voimaantuloa alkanut sairaus
+Kun Ifin henkilö- tai liittovakuutus on myönnetty ilman vakuutetun terveydentilan selvittämistä, ei Turvista tapaturman aiheuttamien hoitokulujen,
+lyhytaikaisen työkyvyttömyyden ja pysyvän haitan varalta makseta korvausta, jos vamma on katsottava saaduksi ja sairaus alkaneeksi ja myös selviä
+sairausoireita on ilmaantunut ennen vakuutuksen voimaantuloa.
+
+5 Hoitokulukorvauksen hakeminen
+Korvaukseen oikeutetun tulee itse maksaa hoitoon liittyvät kulut ja sen jälkeen hakea sairausvakuutuslain mukainen korvausosuus Kelan
+(Kansaneläkelaitoksen) toimistolta kuuden (6) kuukauden kuluessa kulujen maksupäivästä. Säilytä Kelan korvauslaskelma, kopiot Kelalle toimitetuista
+kuiteista ja alkuperäisinä ne kuitit, joista Kela ei maksa korvausta. Pyydettäessä nämä on toimitettava Ifille. Korvausta on haettava Ifistä viimeistään vuoden
+kuluttua sen vakuutuskauden päättymisestä, jonka aikana hoitokulut ovat syntyneet.
+
+Vakuutusyhtiö maksaa korvauksen, josta on vähennetty omavastuu sekä mahdolliset Kelan korvausosuudet.
+
+Jos oikeus sairausvakuutuslain mukaiseen korvaukseen on menetetty edellä mainitun kuuden (6) kuukauden määräajan laiminlyönnin tai muun syyn
+johdosta, korvauksesta vähennetään se osuus, jonka Kela olisi maksanut sairausvakuutuslain perusteella.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+                                                                              12
+

@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Toteutuneet huoltotoimet",
+  "type": "object",
+  "properties": {
+    "action_id": {
+      "type": "string",
+      "description": "Toimenpiteen tunniste."
+    },
+    "cell_id": {
+      "type": "string",
+      "description": "Kohteen ruutu."
+    },
+    "site_id": {
+      "type": "string",
+      "description": "Varmennettu kulkuväylä tai huoltokohde."
+    },
+    "action": {
+      "type": "string",
+      "description": "Toimenpiteen tyyppi.",
+      "enum": [
+        "gritting",
+        "plowing",
+        "inspection"
+      ]
+    },
+    "started_at": {
+      "type": "string",
+      "description": "Toimenpiteen alku.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "completed_at": {
+      "type": "string",
+      "description": "Toteutuneen toimenpiteen loppu.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "ingested_at": {
+      "type": "string",
+      "description": "Hetki, jolloin tämä rivi saapui palveluun. Ei sama kuin tapahtuma-aika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "coverage_fraction": {
+      "type": "number",
+      "description": "Varmennetun kohteen peitto-osuus, ei automaattisesti koko ruutu.",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "target_verified": {
+      "type": "boolean",
+      "description": "Onko kohdistus kyseiseen demokohteeseen varmistettu?"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "action_id",
+    "cell_id",
+    "site_id",
+    "action",
+    "started_at",
+    "completed_at",
+    "ingested_at",
+    "coverage_fraction",
+    "target_verified",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

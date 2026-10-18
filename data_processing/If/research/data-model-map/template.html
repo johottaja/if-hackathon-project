@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Turku · Data ja mallit</title>
+  <style>/*__STYLE__*/</style>
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner"><a class="brand" href="#flow">TURKU <span>/ Data ja mallit</span></a><span class="stamp">Hackathonin suunnittelutyökalu · v1.0</span></div>
+  </header>
+  <main>
+    <div class="intro">
+      <div><div class="eyebrow">Liukastumishavainnosta huollon tehtäväksi</div><h1>Mistä tieto tulee.<br>Mitä malli oikeasti laskee.</h1></div>
+      <p>Tutki tietovirtaa, tarkista tiedostojen kentät ja kokeile neljää yksinkertaista laskentaa. Kaikki toimii paikallisesti ilman asennuksia.</p>
+    </div>
+    <div class="provenance"><span class="dot real"></span><strong>Oikea lähdenäyte:</strong> FMI:n XML ja sen 9 mittausarvoa. <span class="dot demo"></span><strong>Mallilaboratorio:</strong> kaikki syötteet ovat synteettisiä. Ifin sisäistä dataa ei ole.</div>
+    <nav class="tabs" aria-label="Näkymät">
+      <button type="button" data-view="flow" aria-current="page">01 · Datavirta</button>
+      <button type="button" data-view="formats">02 · Tarkat formaatit</button>
+      <button type="button" data-view="lab">03 · Mallilaboratorio</button>
+      <button type="button" data-view="next">04 · Eteneminen ja ideat</button>
+    </nav>
+    <section id="flow-view" aria-label="Datan ja mallien yhteydet">
+      <div class="section-lead"><div><h2>Yksi yhteinen piirrerivi</h2><p>Lähteet yhdistetään ruutuun ja arviointihetkeen. Klikkaa solmua nähdäksesi täsmällisen sisällön.</p></div><span class="quiet">Suunnitelma + suoritettava demo</span></div>
+      <div class="flow-layout">
+        <div class="flow-scroll"><div id="flow-map" class="flow-map"><svg id="flow-lines" aria-hidden="true"></svg><div id="flow-lanes" class="flow-lanes"></div></div></div>
+        <aside id="node-detail" class="detail" aria-live="polite"></aside>
+      </div>
+      <div class="legend"><span><i class="dot real"></i>Oikea ladattu näyte</span><span><i class="dot demo"></i>Oma sopimus / simulaatio</span><span><i class="dot pending"></i>Toimitus tai poiminta avoin</span><span>Viivat kertovat tietoriippuvuuden.</span></div>
+    </section>
+    <section id="formats-view" hidden aria-label="Tiedostomuodot ja skeemat">
+      <div class="section-lead"><div><h2>Tiedostot, avaimet ja esimerkit</h2><p>Erottele alkuperäinen lähdeformaatti ja projektin oma normalisointi.</p></div></div>
+      <div id="format-picker" class="format-picker"></div>
+      <div id="format-content"></div>
+    </section>
+    <section id="lab-view" hidden aria-label="Mallien kokeilu">
+      <div class="section-lead"><div><h2>Aja samat syötteet neljällä tavalla</h2><p>Sääsignaali, raaka havainto-osuus, beta-binomimalli ja huollon toimintasääntö. Mallit eivät vaadi GPU:ta tai opetusta.</p></div></div>
+      <div class="notice">M1 ja M2 mittaavat anturipoikkeaman sisältävien ohikulkujen osuutta sovelluksen otoksessa. Ne eivät ennusta loukkaantumista. Myös myönteinen käyttäjävastaus on itse ilmoitettu havainto.</div>
+      <div class="lab-controls">
+        <label>Ruutu<select id="lab-cell"></select></label>
+        <label>Arviointihetki · UTC<select id="lab-time"></select></label>
+        <label>Anturiraja · [0,1]<input id="lab-threshold" type="number" min="0" max="1" step=".05" value=".70"></label>
+        <label>Priorin keskiarvo · %<input id="lab-prior-mean" type="number" min=".1" max="99.9" step=".5" value="5"></label>
+        <label>Priorin vahvuus<input id="lab-prior-strength" type="number" min=".1" max="1000" step="1" value="20"></label>
+      </div>
+      <div id="lab-error" role="alert" hidden></div>
+      <div id="lab-context" class="lab-context" aria-live="polite"></div>
+      <div id="model-results" class="model-results"></div>
+      <div class="lab-bottom">
+        <div><h3>Syötteestä tulokseen</h3><div id="model-picker" class="model-picker"></div><div id="model-explanation"></div></div>
+        <div><div class="code-head"><h3>Valitun mallin JSON-tulos</h3><button id="download-result" class="button" type="button">Lataa tulos .json</button></div><pre id="lab-output"></pre></div>
+      </div>
+      <details><summary>Katso yhteinen piirrerivi ja saman ajan kaikkien ruutujen tulokset</summary><pre id="lab-features"></pre><div class="table-wrap"><table id="batch-results"></table></div></details>
+    </section>
+    <section id="next-view" hidden aria-label="Toteutusjärjestys ja jatkoideat"><div id="next-content"></div></section>
+    <footer><span>Versio 1.0 · 17.10.2026 · selitettävät vertailutasot</span><a href="../turku-datakartta.md">Taustalla oleva datakartta</a><a href="README.md">Käyttö ja ajokomennot</a></footer>
+  </main>
+  <script id="catalog-data" type="application/json">/*__PAYLOAD__*/</script>
+  <script>/*__MODELS__*/</script>
+  <script>/*__APP__*/</script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+/data/johdettu/*
+!/data/johdettu/.gitkeep
+/tulokset/*
+!/tulokset/.gitkeep
+.Rhistory
+.RData

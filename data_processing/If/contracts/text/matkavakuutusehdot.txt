@@ -1,0 +1,634 @@
+                              Matkavakuutusehdot
+                              Ehto MAT 120.8, voimassa 1.1.2026
+
+
+
+
+Matkavakuutustuotteet
+Ifin matkavakuutuksen henkilöturva sisältää aina matkustajaturvan (3.1). Sen lisäksi matkavakuutuksen henkilöturvaan voi sisällyttää turvat tapaturman
+aiheuttaman pysyvän haitan (3.2) ja kuoleman (3.3) varalta.
+
+Ifin liittovakuutuksen matkustajavakuutus voi sisältää Liittovakuutussopimuksen mukaan matkustajaturvan (3.1) sekä turvat tapaturman aiheuttaman
+pysyvän haitan (3.2) ja kuoleman (3.3) varalta.
+
+Matkavakuutuksen sisältö muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä sopimusehdoista. Vakuutuskirjasta ilmenee, mitkä turvat kukin
+vakuutussopimus sisältää.
+
+Liittovakuutukseen sovelletaan soveltuvin osin näitä ehtoja ja järjestön kanssa tehtyä Liittovakuutussopimusta
+
+Vakuutusehdoissa käytettyjä käsitteitä ..................................................... 1                       3.1.2 Korvaus matkan peruuntuessa .................................................... 4
+1 Vakuutuksen voimassaolo ...................................................................... 2                   3.1.3 Korvaus matkan keskeytyessä .................................................... 5
+   1.1 Voimassaoloalue ............................................................................ 2                3.1.4 Korvaus matkalta myöhästyttäessä ............................................. 5
+   1.2 Voimassaoloaika ............................................................................. 2               3.1.5 Korvaus vainajan kotiinkuljetus- tai hautauskustannuksista ........ 5
+   1.3 Voimassaolo urheiltaessa ............................................................... 2                    3.1.6 Korvaus evakuointikustannuksista ............................................... 5
+   1.3.1 Urheilurajoitus .............................................................................. 2            3.1.7 Kriisiturva ...................................................................................... 6
+   1.4 Jatko- ja siirto-oikeus ...................................................................... 3              3.2 Turva tapaturman aiheuttaman pysyvän haitan varalta.................. 6
+   1.4.1 Jatko-oikeus ................................................................................. 3            3.3 Turva tapaturman aiheuttaman kuoleman varalta .......................... 6
+   1.4.2 Jatko-oikeuden käyttäminen ........................................................ 3                       3.4 Turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden
+   1.4.3 Siirto-oikeus ................................................................................. 3           varalta .................................................................................................... 6
+2 Muita vakuutusturviin liittyviä säännöksiä .............................................. 3                     4 Vakuutusturvien kiinteät rajoitukset ........................................................ 7
+   2.1 Vakuutetut ....................................................................................... 3          4.1 Alkoholi, lääkkeet ja huumaavat aineet sekä nikotiini ..................... 7
+   2.2 Edunsaaja ....................................................................................... 3           4.2 Muun sairauden tai vian myötävaikutus .......................................... 7
+   2.3 Vakuutusmaksuun vaikuttavat tekijät ............................................. 3                           4.3 Raskaus, synnytys ja lapsettomuus ................................................ 7
+   2.4 Indeksitarkistukset .......................................................................... 3              4.4 Sota ja aseellinen selkkaus ............................................................. 7
+   2.5 Vakuutusyhtiön oikeus määrätä hoitopaikka .................................. 3                                4.5 Tapaturmana ei korvata .................................................................. 7
+3 Vakuutusturvat       3                                                                                             4.6 Leikkaus-, hoito- ja muut lääkinnälliset toimenpiteet ...................... 7
+   3.1 Matkustajaturva............................................................................... 3              4.7 Ennen vakuutuksen voimaantuloa alkanut sairaus ........................ 7
+   3.1.1 Korvaus hoitokuluista ................................................................... 3              5 Hoitokulukorvauksen hakeminen ............................................................ 7
+
+
+Vakuutusehdoissa käytettyjä käsitteitä
+Ulkomaanmatkalla tarkoitetaan Suomen rajojen ulkopuolelle suuntautuvaa matkaa, päivittäisiä työmatkoja lukuun ottamatta. Matka alkaa Suomesta kotoa
+tai työpaikalta ja päättyy Suomeen kotiin tai työpaikalle. Kyseessä ei kuitenkaan ole ulkomaanmatka silloin, kun ulkomaan matkan kotimaassa tapahtuvan
+matkustamisen osalta poiketaan tarkoituksenmukaisimmalta reitiltä. Jatkuvassa Matkavakuutuksessa yhtäjaksoisen matkan tai oleskelun ulkomailla ei
+katsota katkeavan alle 14 vuorokauden mittaisen kotimaassa käynnin vuoksi, mikäli tarkoitus on palata samaan matkakohteeseen. Matkasairaudeksi tai -
+tapaturmaksi ei kuitenkaan katsota tämän kotimaassa käynnin aikana sattunutta vakuutustapahtumaa.
+
+Jos vakuutus on voimassa kotimaan matkalla, tämä on mainittu vakuutuskirjassa
+
+Kotimaanmatkalla tarkoitetaan normaalin päivittäisen elinympäristön ulkopuolelle yli 150 kilometrin etäisyydelle tehtävää vapaa-ajan matkaa, joka sisältää
+menon matkakohteeseen, yöpymisen siellä sekä paluun.
+
+Liittovakuutuksissa ja ennen 17.5.2014 alkaneissa sellaisissa matkavakuutuksissa, jotka ovat voimassa ilman lisämaksua myös kotimaan
+matkalla, kotimaanmatkalla tarkoitetaan normaalin päivittäisen elinympäristön ulkopuolelle linnuntietä yli 50 kilometrin etäisyydelle tehtävää matkaa, joka
+sisältää menon matkakohteeseen, oleskelun siellä sekä paluun.
+
+Päivittäisellä elinympäristöllä tarkoitetaan vakuutetun tai hänen puolisonsa koti-, työ-, vapaa-ajan asunto- tai opiskelupaikkakuntaa sekä näiden välisiä
+matkoja. Matka pitää pystyä tarvittaessa todentamaan matkalipuin tai majoitustosittein.
+
+Matkasairaus on sellainen lääkärinhoitoa vaativa sairaus, josta on ilmennyt selviä oireita vasta matkan aikana tai jonka yleisesti hyväksytyn
+lääketieteellisen käsityksen mukaan muuten on katsottava saaneen alkunsa matkan aikana.
+
+Matkasairauden korvaaminen edellyttää, että lääkärinhoitoa on annettu matkan aikana tai 14 vuorokauden kuluessa matkan päättymisestä. Mikäli kyseessä
+on tartuntatauti, jonka itämisaika on pidempi kuin 14 vuorokautta, ei määräaikaa sovelleta.
+
+Vakuutetulla ennen matkan alkua ollut sairaus ei ole vakuutusehtojen tarkoittama matkasairaus.
+
+Tapaturma on äkillinen, ruumiinvamman aiheuttava odottamaton tapahtuma, joka sattuu vakuutetun tahtomatta ja ulkoisen tekijän vaikutuksesta.
+Tapaturmaksi katsotaan myös vakuutetun tahtomatta sattunut hukkuminen, lämpöhalvaus, auringonpistos, paleltuminen, kaasumyrkytys, ilmanpaineen
+huomattavasta vaihtelusta äkillisesti aiheutunut vamma ja erehdyksessä nautitun aineen aiheuttama myrkytys.
+
+Matkan peruuntumisella tarkoitetaan sitä, että matkalle lähtö estyy kokonaan.
+
+Matkan keskeytymisellä tarkoitetaan alkaneen matkan muuttumista siten, että vakuutettu joutuu sairaalahoitoon tai palaamaan lähtöpaikkakunnalleen
+Suomeen alkuperäisestä matkasuunnitelmasta poiketen.
+
+Matkalta myöhästymisellä tarkoitetaan sitä, että vakuutettu myöhästyy jatkoyhteydestä siten, että hän ei ehdi alkuperäisen matkasuunnitelmansa
+mukaisesti etukäteen varatun lento-, laiva-, juna- tai linja-automatkansa alkamispaikkaan meno- tai paluumatkalla.
+
+Matkustajaturvassa tarkoitettuja lähiomaisia ovat
+ -   avio- ja rekisteröity puoliso sekä vakuutetun kanssa samassa taloudessa vakinaisesti asuva avopuoliso
+ -   lapsi, avio- tai rekisteröidyn puolison lapsi, sijoitettu lapsi ja lapsenlapsi sekä samassa taloudessa vakinaisesti asuvan avopuolison lapsi
+ -   vanhemmat, appi- ja isovanhemmat
+ -   sisarukset ja avio- tai rekisteröidyn puolison sisarukset sekä vakuutetun kanssa samassa taloudessa vakinaisesti asuvan avopuolison sisarukset
+ -   miniä ja vävy
+ -   enintään kaksi matkakumppania, joiden kanssa vakuutettu on yhdessä varannut matkan
+ -   enintään yksi matkakohtaisesti ilmoitettu henkilö.
+
+
+
+
+                                                                                                              1
+                      Matkavakuutusehdot
+                      Ehto MAT 120.8, voimassa 1.1.2026
+1 Vakuutuksen voimassaolo
+1.1 Voimassaoloalue
+Matkustajaturva ja vain matkalla voimassa olevat vakuutusturvat tapaturman varalta ovat voimassa ulkomaanmatkalla.
+
+Jatkuvaan matkustajaturvaan sisältyvien matkan peruuntumisen ja keskeytymisen sekä matkalta myöhästymisen osalta turva on voimassa myös
+kotimaanmatkalla.
+
+Jatkuvan matkustajaturvan korvaus hoitokuluista sekä vain matkalla voimassa olevat vakuutusturvat tapaturman varalta voidaan lisämaksusta saattaa
+voimaan myös kotimaanmatkalle.
+
+Ennen 17.5.2014 myönnetyt jatkuvat matkavakuutukset ovat voimassa joko vain ulkomaanmatkoilla tai sekä ulkomaan että kotimaan matkoilla.
+
+Voimassaoloalue on kerrottu vakuutuskirjassa.
+
+Liittovakuutuksen matkustajaturva on voimassa Liittovakuutussopimuksessa mainitulla alueella.
+
+Määräaikaiset matkavakuutukset ovat voimassa vain ulkomaanmatkoilla.
+
+1.2 Voimassaoloaika
+Matkavakuutuksen jatkuva Matkustajaturva päättyy viimeistään sen vakuutuskauden lopussa, jonka aikana vakuutettu on täyttänyt 90 vuotta.
+Matkavakuutukseen liittyvät, vain tapaturman varalta kattavat vakuutusturvat päättyvät viimeistään samalla kuin matkustajaturva.
+
+Jos matkavakuutukseen liittyy turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden varalta, päättyy se, kun vakuutettu jää eläkkeelle, kuitenkin
+viimeistään sen vakuutuskauden lopussa, jonka aikana vakuutettu täyttää 70 vuotta.
+
+Matkavakuutuksen jatkuva matkustajaturva on voimassa vakuutuskirjassa mainitun pituisilla matkoilla.
+
+Määräaikainen matkavakuutus on voimassa vakuutuskirjassa mainitun ajan.
+
+Liittovakuutuksen matkustajaturva päättyy Liittovakuutussopimuksessa mainitussa iässä. Liittovakuutuksen matkustajaturva on voimassa
+Liittovakuutussopimuksessa mainitun pituisilla matkoilla.
+
+Matkavakuutuksen matkustajaturva on voimassa täysajan vakuutuksena ympäri vuorokauden sekä työssä että vapaa-aikana. Jatkuvan matkustajaturvan
+lisämaksullinen turva kotimaan matkoille on kuitenkin voimassa vain vapaa-ajan matkoilla. Liittovakuutuksen matkustajaturva on voimassa vain vapaa-ajan
+matkoilla.
+
+Vapaa-ajan matkalla voimassa olevasta vakuutuksesta ei korvata tapaturmavakuutuslain, työtapaturma- ja ammattitautilain tai niitä vastaavien muiden
+lakien tarkoittamia tapaturmia, jotka sattuvat työmatkalla, vakuutetun tehdessä työtä ansiotarkoituksessa tai itsenäisenä yrittäjänä taikka muussa
+vastaavassa toiminnassa. Vapaa-ajan matkalla voimassa oleva vakuutus ei ole myöskään voimassa työmatkan vapaa-ajalla.
+
+1.3 Voimassaolo urheiltaessa
+1.3.1 Urheilurajoitus
+Urheilurajoitus ei koske alle 18-vuotiaita. Urheilurajoitus on voimassa sen vakuutuskauden lopusta lukien, jonka aikana vakuutettu täyttää 18 vuotta.
+
+Vakuutus ei ole voimassa tapaturmien varalta:
+ 1) vakuutetun osallistuessa urheiluliiton tai -seuran järjestämiin kilpailuihin, otteluihin tai niitä varten järjestettyihin harjoituksiin tai vakuutetun
+     harjoitellessa valmennusohjelman mukaisesti
+ 2) kiipeilylajeissa, kuten vuori-, seinä-, kallio- tai jääkiipeilyssä taikka boulderoinnissa. Edellä mainituista kiipeilylajeista rajoitus ei koske seinäkiipeilyä
+     silloin, kun käytetään putoamisen estäviä suoja- ja turvavarusteita.
+ 3) jäätikkövaelluksella
+ 4) taistelu-, kamppailu- tai itsepuolustuslajeissa
+ 5) moottoriurheilussa
+ 6) urheilu- tai laitesukelluksessa
+ 7) ilmailulajeissa, kuten laskuvarjohyppy, riippuliito, varjoliito, purjelento, lento ultrakeveällä tai harrasterakenteisella koneella
+ 8) voimailulajeissa, kuten painonnosto, voimanosto ja voimamiesurheilu.
+ 9) Off-pistelaskussa
+ 10) roller derbyssä
+ 11) siipi- ja leijapurjehduksessa
+ 12) alamäkiluistelussa ja -pyöräilyssä
+
+Edellä mainitusta urheilusta urheilurajoitus voidaan lisämaksusta poistaa erikseen sopimalla (Urheiluturva).
+
+Urheilurajoitus ei kuitenkaan koske matkustajaturvassa edellä mainittujen lajien osalta seuraavaa toimintaa:
+ -    ohjattu sukelluskokeilu ja sukelluksen peruskurssi
+ -    ohjattu, enintään 4 tuntia kestävä lajikokeilu kiipeilylajeissa ja jäätikkövaelluksessa
+ -    kuumailmapallolento (voimassaolo ei koske lentäjää) ja benjihyppy
+ -    tandemlento riippu- tai varjoliitimellä ja tandemhyppy laskuvarjolla (voimassaolo ei koske varsinaista lentäjää/hyppääjää)
+Vaadittaessa korvauksenhakijan tulee esittää tosite toimintaan osallistumisesta.
+
+Seuraavissa urheilulajeissa vakuutus ei ole lainkaan voimassa eikä urheilurajoitusta voida poistaa:
+ 1) amerikkalainen, australialainen ja gaelilainen jalkapallo sekä rugby
+ 2) basehyppy
+ 3) nopeus- ja syöksylasku
+ 4) kehonrakennus
+ 5) vapaaottelu
+
+Urheilurajoitus koskee matkustajaturvaa lukuun ottamatta korvausta matkan peruuntuessa ja korvausta vainajan kotiinkuljetus- tai
+hautauskustannuksista. Muut vakuutusturvat ovat voimassa urheiltaessa.
+
+Urheilurajoitus voidaan poistaa matkustajaturvasta (urheiluturva). Mikäli urheilurajoitus on poistettu, siitä on merkintä vakuutuskirjassa. Urheilulajit on jaettu
+riskialttiutensa mukaan vastuuluokkiin. Kukin vastuuluokka kattaa siinä ja sitä alemmissa vastuuluokissa luetellut urheilulajit. Voimassa oleva listaus
+vastuuluokista on internetissä osoitteessa if.fi/urheilu. Urheilurajoitusta ei kuitenkaan voida poistaa edellä tässä ehtokohdassa mainituista lajeista.
+
+
+
+
+                                                                                  2
+                    Matkavakuutusehdot
+                    Ehto MAT 120.8, voimassa 1.1.2026
+
+
+
+
+1.4 Jatko- ja siirto-oikeus
+1.4.1 Jatko-oikeus
+Vakuutetulla, joka ei ole vakuutuksenottaja, on oikeus jatkaa vakuutusturvaansa ilman uutta terveysselvitystä, jos vakuutuksenottaja irtisanoo vakuutetun
+henkilön vakuutusturvan tai antaa sen päättyä maksamattomana. Jatko-oikeuden perusteella myönnettävä vakuutusturva määräytyy niiden sääntöjen
+mukaan, joita vakuutusyhtiö kulloinkin soveltaa henkilöasiakkaalle vakuutuksen myöntämisen, vakuutusturvan laajuuden, ehtojen ja maksujen osalta. Tästä
+johtuen vakuutusturvaan voi tulla muutoksia tai sitä ei voida myöntää.
+
+1.4.2 Jatko-oikeuden käyttäminen
+Jatko-oikeuden käyttämisestä on ilmoitettava kirjallisesti kuuden (6) kuukauden kuluessa vakuutusturvan päättymisestä. Jatko-oikeuden käyttämistä
+koskeva ilmoitus katsotaan tehdyksi, kun se on kirjallisena saapunut vakuutusyhtiöön. Jos jatko-oikeutta on käytetty, vakuutuksenottajalla ei ole enää
+oikeutta saattaa vakuutetun päättynyttä vakuutusturvaa voimaan.
+
+Jos vakuutuksen jatkamiseen oikeutettu vakuutettu kuolee ennen kuuden (6) kuukauden määräajan päättymistä ehtimättä käyttää jatko-oikeuttaan,
+katsotaan vakuutuksen olleen hänen osaltaan voimassa entisin ehdoin.
+
+1.4.3 Siirto-oikeus
+Jos vakuutuksenottajana on yksityishenkilö, täysi-ikäisellä vakuutetulla on oikeus siirtää voimassa oleva vakuutusturvansa vastaavaan vakuutukseen
+ilmoittamalla siitä kirjallisesti vakuutusyhtiölle. Vakuutuksenottajalla ei tällöin ole oikeutta pitää vakuutusta voimassa siirretyn turvan osalta.
+
+2 Muita vakuutusturviin liittyviä säännöksiä
+2.1 Vakuutetut
+Vakuutettuina ovat, ellei toisin ole sovittu, vakuutuskirjassa mainitut, Suomen sairausvakuutuslain piiriin kuuluvat henkilöt, joiden kotikuntalain mukainen
+vakinainen kotipaikka on Suomessa ja jotka myös asuvat vakituisesti Suomessa. Vakituisesti Suomessa asuvaksi ei katsota vakuutettua, joka oleskelee yli
+kuusi (6) kuukautta kalenterivuodesta ulkomailla.
+
+Vanhempansa mukana matkustavat alle 20-vuotiaat lapset ovat vakuutettuina vanhempansa Matkustajaturvalla. Isovanhempansa mukana matkustavat alle
+20-vuotiaat lapsenlapset ovat vakuutettuina isovanhempansa Matkustajaturvalla. Mukana matkustavalla lapsella ja lapsenlapsella tulee olla sekä sama
+meno- että paluumatka ja sama matkakohde kuin vanhemmillaan ja isovanhemmillaan. Jos lapsi matkustaa yksin tai Matkustajaturvan voimassaolo
+urheiltaessa edellyttää lisämaksua, lapsi tarvitsee oman Matkustajaturvan. Lapsen yksin matkustamisella tarkoitetaan sekä matkaa kokonaan ilman
+vanhempaa tai isovanhempaa että matkan sisällä tehtävää, yöpymisen sisältävää matkaa eri matkakohteeseen ilman vanhempaa tai isovanhempaa.
+
+2.2 Edunsaaja
+Kuolemantapausturvien vakuutusmäärä maksetaan omaisille ja muut vakuutuskorvaukset vakuutetulle itselleen, ellei vakuutuksenottaja ole kirjallisesti
+ilmoittanut muuta edunsaajaa vakuutusyhtiöön.
+
+2.3 Vakuutusmaksuun vaikuttavat tekijät
+Matkavakuutusten maksuun vaikuttavia tekijöitä ovat muun muassa vakuutuksen myöntämishetki, vakuutetun ikä, asuinpaikka ja vakuutusturvan laajuus
+sekä vakuutusmäärä. Urheiluturvan maksuun vaikuttavat lisäksi sen voimassaoloaika ja urheilulajin vastuuluokka. Maksuun vaikuttavat tekijät vaihtelevat
+eri vakuutusturvissa. Määräaikaisessa turvassa maksuun vaikuttavat myös matkan kesto ja matkan pääasiallinen kohdemaa.
+
+Vakuutusmaksuun voivat vaikuttaa myös vakuutus- ja vahinkohistoria. Maksu ei kuitenkaan muutu sen vuoksi, että vakuutetun terveydentila on
+vakuutuksen ottamisen jälkeen huonontunut, eikä sen vuoksi, että kyseessä olevaan vakuutukseen liittyvä vakuutustapahtuma on sattunut.
+
+Matkavakuutusten maksut muuttuvat vakuutuskauden vaihtuessa, kun vakuutetun ikä kasvaa ja/tai asuinpaikka on muuttunut. Vakuutusmaksut kehittyvät
+vakuutetun ikää vastaavan vahinkoriskin mukaisesti. Jos iän tai asuinalueen suhde vahinkoriskiin muuttuu nykyisestä, vakuutusmaksuja voidaan muuttaa
+paremmin riskiä vastaaviksi.
+
+2.4 Indeksitarkistukset
+Vakuutusturvien vakuutusmäärät, omavastuut ja vakuutusmaksut tarkistetaan vuosittain vakuutuskauden vaihtuessa indeksillä. Indeksin tarkistuslukuna
+käytetään edellisen kalenterivuoden heinäkuun pistelukua. Mikäli indeksi laskee tai uusi pisteluku on alempi kuin tarkistuksessa aiemmin käytetty pisteluku,
+niin indeksitarkistusta ei kuitenkaan tehdä.
+
+Matkustajaturva (3.1) tarkistetaan kuluttajahintaindeksin terveys-hyödykeryhmän mukaisesti ja muut turvat elinkustannusindeksin mukaisesti.
+
+2.5 Vakuutusyhtiön oikeus määrätä hoitopaikka
+Vakuutusyhtiöllä on oikeus määrätä vakuutettu tutkimukseen tai hoitoon vakuutusyhtiön valitsemalle palveluntuottajalle.
+
+Jos vakuutettu kuitenkin käyttää itse valitsemaansa palveluntuottajaa, vakuutusyhtiöllä on oikeus korvata tutkimuksesta ja hoidosta vain se osa, mitä
+tutkimus ja hoito olisivat maksaneet vakuutusyhtiön kustantamana vakuutusyhtiön valitsemalla palveluntuottajalla.
+
+3 Vakuutusturvat
+3.1 Matkustajaturva
+3.1.1 Korvaus hoitokuluista
+Tästä vakuutusturvasta korvataan vakuutuskirjassa tai -sopimuksessa määritellyllä matkalla turvan voimassaoloaikana sattuneen tapaturman tai alkaneen
+matkasairauden aiheuttamia hoitokuluja, siltä osin kuin niistä ei ole tai ei olisi ollut oikeutta korvaukseen jonkin lain perusteella. Korvattavia ovat vain
+sellaiset hoitokulut, jotka vakuutettu on itse velvollinen maksamaan.
+
+Vakuutetulla ennen matkaa olleen sairauden äkillisestä ja odottamattomasta pahenemisesta matkan aikana korvataan matkakohteessa enintään yhden (1)
+viikon aikana annettu akuutti ensiapuluonteinen hoito, mutta ei muita kustannuksia. Hoitokuluja korvataan vain, mikäli sairauden paheneminen yleisen
+lääketieteellisen kokemuksen mukaan ei ole ollut todennäköistä tai odotettavissa. Sairauden odottamattomana pahenemisena ei pidetä sellaista sairauden
+pahenemista, jonka tutkimukset tai hoitotoimenpiteet ovat kesken matkalle lähdettäessä tai josta vakuutukseen on sisällytetty yksilöllinen rajoitusehto.
+
+Matkasairauden tutkimisesta ja hoitamisesta aiheutuneita sekä ehdoissa mainittuja muita kuluja korvataan enintään siihen asti, kun lääkärin hoidon
+alkamisesta on kulunut 90 päivää. Matkatapaturman aiheuttamat hoitokulut korvataan enintään siihen asti, kun kolme (3) vuotta on kulunut tapaturman
+sattumisesta.
+
+Hoitokulujen korvaaminen edellyttää, että tutkimus ja hoito ovat lääkärin määräämiä ja terveydenhuoltoalan ammattihenkilön antamia. Lisäksi niiden tulee
+olla yleisesti hyväksytyn lääketieteellisen käsityksen mukaisia ja kysymyksessä olevan sairauden tai vamman hoidon kannalta tarpeellisia ja välttämättömiä.
+
+
+
+
+                                                                              3
+                     Matkavakuutusehdot
+                     Ehto MAT 120.8, voimassa 1.1.2026
+Korvattavia hoitokuluja ovat kohtuulliset
+ -    lääkärinpalkkiot, tutkimus- ja hoitokustannukset kohtuullisine ja välttämättömine sairaankuljetus- ja matkakustannuksineen. Yksityisauton käytöstä
+      syntyneitä kuluja korvataan enintään 0,33 euroa/km ja vain siltä osin matkaa kuin vakuutettu on kulkuneuvon kyydissä.
+ -    kustannukset tapaturman aiheuttaman hammasvamman hoidosta
+ -    kustannukset lääkkeistä, jotka olisivat Lääkealan turvallisuus- ja kehittämiskeskuksen luvan perusteella myytäviä sekä kustannukset niistä
+      lääketehtaan valmistamista perusvoiteista, jotka kuuluisivat Kelan korvausjärjestelmään
+ -    sairaalan hoitopäivämaksut
+ -    lääkärinhoitoa vaatineen tapaturman yhteydessä käytössä rikkoutuneiden turvakypärän, kuulokojeen ja hammasproteesin korjauskustannukset tai
+      alkuperäiset hankintakustannukset
+ -    lääkärinhoitoa vaatineen tapaturman yhteydessä käytössä rikkoutuneiden silmälasien korjauskustannukset tai rikkoutuneita vastaavien
+      jälleenhankintakustannukset. Silmälasien korvausmäärästä tehdään silmälasien ikään perustuva vuotuinen 15 %:n vähennys. Vähennystä ei tehdä
+      käyttöönottovuodelta eikä sitä seuraavalta kalenterivuodelta. Ikävähennys tehdään myös vahinkovuodelta. Vähennys lasketaan vuodet x 15 %.
+      Vähennystä ei tehdä laskuun perustuvista korjauskustannuksista. Korjauskustannuksia korvataan enintään vahingon määrään asti mahdollisella
+      omavastuulla vähennettynä.
+ -    ensimmäisen lääkinnällisen välineen hankintakustannukset
+ -    tästä vakuutusturvasta korvatun tapaturman aiheuttaman leikkaus- tai kipsaushoidon jälkeisen lääkärin määräämän fysikaalisen hoidon
+      kustannukset. Yhtä tapaturmaa kohden korvataan yksi, enintään 15 hoitokertaa sisältävä hoitojakso.
+ -    tästä vakuutusturvasta korvatun tapaturman aiheuttaman plastiikkakirurgisen hoidon tai leikkauksen kustannukset. Plastiikkakirurgisesta hoidosta tai
+      leikkauksesta on sovittava etukäteen vakuutusyhtiön kanssa.
+ -    kustannukset äkillisen hammassäryn poistamiseksi välttämättömästä hampaan ensiapuluonteisesta hoidosta, jos särky on alkanut ja hoito on annettu
+      matkakohteessa, kuitenkin enintään 200 euroa, mutta eivät muut kustannukset. Ensiapuluonteisella hoidolla tarkoitetaan märkäpesäkkeiden
+      avaamista, juurihoidon aloitusta, väliaikaista paikkausta tai hampaan poistoa. Kustannukset korvataan, vaikka hammassärky olisi aiheutunut
+      puremisesta tai muusta kuin matkasairaudesta.
+ -    ennen raskausviikkoa 29 syntyneet, raskaudentilasta aiheutuneet ensiapuluonteiset hoitokulut matkakohteessa enintään yhden (1) viikon ajalta,
+      mutta eivät muut kustannukset.
+
+Matkasairauden ja matkatapaturman hoitokuluiksi katsotaan välttämättömät ja kohtuulliset
+ -   ylimääräiset majoituskustannukset matkan aikana
+ -   ylimääräiset matkakustannukset etukäteen suunnitellun matkan jatkamiseksi, kuitenkin ainoastaan seuraavaan matkakohteeseen
+ -   kustannukset lääketieteellisesti arvioiden välttämättömästä sairaankuljetuksesta Suomeen ja välttämättömän saattajan tarpeelliset, välittömät matka-
+     ja majoituskustannukset vakuutusyhtiön ennen järjestelyjen alkamista antaman suostumuksen mukaisesti
+ -   yhden lähiomaisen välittömät matka- ja majoituskustannukset vakuutetun luokse ulkomaille ja takaisin Suomeen enintään seitsemältä (7)
+     vuorokaudelta, jos vakuutettu korvattavan tapaturman tai matkasairauden vuoksi on hoitavan lääkärin mukaan hengenvaarallisessa tilassa.
+ -   ulkomailla vakuutusyhtiöön soitetut, vahinkoasian hoitamiseksi tarpeelliset puhelinkulut, kuitenkin enintään 200 euroa.
+
+Hoitokuluiksi katsotaan myös jäljempänä mainitut, matkan peruuntumisesta, keskeytymisestä tai matkalta myöhästymisestä aiheutuneet kulut.
+
+Korvausta ei makseta hoito- ja matkakuluista, jotka aiheutuvat
+ 1) kuntoutuksesta eikä fysikaalisesta hoidosta, lukuun ottamatta korvattavaksi mainittuja fysikaalisen hoidon kustannuksia
+ 2) puhe-, psyko-, ravitsemus-, toiminta-, psykologisesta tai neuropsykologisesta taikka muusta näihin verrattavasta terapiasta, tutkimuksesta, hoidosta
+     tai kuntoutuksesta, lukuun ottamatta Kriisiturvasta (3.1.7) korvattavia psykoterapian kustannuksia
+ 3) hammassairauden, hampaiden tai purentaelinten tutkimuksesta tai hoidosta
+ 4) näkökyvyn heikentymisen tai taittovirheen tutkimisesta, hoidosta tai korjaamisesta leikkauksella eikä niiden aiheuttamista komplikaatioista tai
+     myöhemmistä toimenpiteistä, ellei kyse ole korvattavan tapaturman hoidosta
+ 5) silmälasien tai piilolasien hankinnasta
+ 6) yöpymiskuluista
+ 7) päivähoidosta, koti- tai kodinhoidosta ym. välillisistä kustannuksista
+ 8) erilaisten riippuvuuksien lääkehoidoista
+ 9) seksuaaliseen suorituskykyyn vaikuttavista lääkkeistä eikä lääkkeistä, joita käytetään lievittämään kaljuuntumisen, vaihdevuosivaivojen tai muiden
+     fysiologisten muutosten haittavaikutuksia
+ 10) ennaltaehkäisevästä hoidosta, rokotuksista, terveystarkastuksista tai tutkimuksista, jotka on tehty sellaisen sairauden toteamiseksi tai
+     poissulkemiseksi, josta vakuutetulla ei ole ollut oireita ennen tutkimuksen aloittamista
+ 11) kosmeettisesta tai plastiikkakirurgisesta tutkimuksesta, hoidosta, toimenpiteestä tai leikkauksesta eikä niiden aiheuttamista komplikaatioista tai
+     myöhemmistä korjaustoimenpiteistä, lukuun ottamatta korvattavaksi mainittuja plastiikkakirurgisen hoidon kustannuksia. Plastiikkakirurgialla
+     tarkoitetaan sekä lääketieteellisistä syistä tehtävää korjaavaa plastiikkakirurgiaa että esteettisistä syistä tehtävää plastiikkakirurgiaa.
+ 12) lihavuuden tutkimuksesta, hoidosta tai leikkauksesta eikä niiden aiheuttamista komplikaatioista
+ 13) hivenaine-, kivennäisaine-, ravinto-, rohdos- tai vitamiinivalmisteen (esimerkiksi rauta-, sinkki-, kalium- ja kalsiumvalmisteet) taikka antroposofisen tai
+     homeopaattisen tuotteen hankkimisesta
+ 14) hivenaine-, kivennäisaine- ja vitamiinitutkimuksesta tai -hoidosta (esimerkiksi rautainfuusio tai ferritiini-, natrium-, kalium-, kalsium- tai B12-
+     vitamiinitutkimus tai -hoito) eikä muusta näihin rinnastettavasta tutkimuksesta tai hoidosta eikä myöskään antroposofisesta tai homeopaattisesta
+     tutkimuksesta tai hoidosta.
+
+Jos korvattavaksi haettu kustannus ylittää huomattavasti normaalin, yleisesti hyväksytyn ja noudatetun paikallisen kohtuullisen tason, korvaus maksetaan
+tämän kohtuullisen tason mukaan. Lääkärin tai muun terveydenhuoltoalan ammattihenkilön suorittamasta kotikäynnistä tai hoidosta vakuutetun luona ei
+makseta korvausta siltä osin kuin kustannus ylittää kohtuullisen kustannustason vastaavasta hoidosta hoitolaitoksessa.
+
+Vakuutusyhtiöllä on oikeus kuljettaa vakuutettu hoitoon joko Suomeen tai muualle, jos hoito matkakohteessa ei ole riittävää vamma tai sairaudentila
+huomioiden tai sen kustannukset muodostuvat Suomessa annettavaan vastaavan tasoiseen hoitoon nähden merkittävästi kalliimmaksi.
+
+Jos vakuutusyhtiö maksaa hoitokuluja, jotka ovat korvattavia jonkin lain mukaan, vakuutusyhtiöllä on oikeus hakea niistä takaisin lain mukainen osuus.
+
+3.1.2 Korvaus matkan peruuntuessa
+Matkan peruuntuminen korvataan, kun se johtuu vakuutetun tai hänen lähiomaisensa kuolemasta, vakavasta tapaturmasta tai vakavasta,
+odottamattomasta ja äkillisestä sairastumisesta, joka pakottavasti estää matkalle lähdön. Pakottavuus arvioidaan lääketieteellisin perustein. Matkan
+peruuntumiskulujen tulee kohdistua vakuutusturvan voimassaoloaikaan. Korvattavia ovat vain sellaiset matkan peruuntumiskulut, jotka vakuutettu on itse
+velvollinen maksamaan ja, joista ei ole tai ei olisi ollut takaisinsaantioikeutta. Korvattavia eivät ole kuitenkaan sellaiset matkan peruuntumiskulut, jotka
+kohdistuvat muiden saman matkan matkustajien laskennalliseen osuuteen matkakustannuksista.
+
+Matkan peruuntuminen korvataan myös silloin, kun peruuntumisen syynä on
+ -   ennen matkan varaamista olleen vakuutetun sairauden äkillinen ja odottamaton paheneminen, joka pakottavasti estää matkalle lähdön
+ -   vakuutetun Suomessa olevaan omaisuuteen kohdistunut odottamaton, merkittävä taloudellinen vahinko, joka pakottavasti edellyttää vakuutetun
+     läsnäoloa vahinkopaikalla.
+
+Korvauksen maksaminen edellyttää, että matkavakuutus on tehty viimeistään kolme vuorokautta ennen matkan alkamista ja peruuntumisen syy ei ole
+ilmennyt ennen vakuutusturvan tekemistä tai matkan varaamista. Lisäksi edellytetään, ettei peruuntumisen syy ole ilmennyt ennen vakuutusmaksun
+maksamista niissä matkustajaturvissa, joissa maksaminen on voimaantulon edellytys. Matkan peruuntuessa matka tulee peruuttaa viipymättä
+matkanjärjestäjälle tai muulle palveluntuottajalle.
+
+
+                                                                               4
+                    Matkavakuutusehdot
+                    Ehto MAT 120.8, voimassa 1.1.2026
+
+
+
+
+Matkan peruuntumisesta korvataan etukäteen maksetut kulut, joista vakuutettu on matkanjärjestäjän ehtojen mukaan vastuussa seuraavasti:
+ -   Lain matkapalveluyhdistelmistä mukaisesti matkapaketin ja yhdistetyn matkajärjestelyn peruuntumisessa korvataan matkapakettisopimuksen
+     mukainen peruutusmaksu, kuitenkin enintään 5 000 euroa yhtä matkaa ja vakuutettua kohti.
+ -   Muiden matkojen peruuntumisessa korvataan ennen matkan alkamista maksetuista matkaan liittyvistä kustannuksista se osuus, jota matkanjärjestäjä
+     ei matkaehtojen tai muu palveluntuottaja omien ehtojensa mukaan ole velvollinen hyvittämään vakuutetulle. Kustannuksia korvataan enintään 5 000
+     euroon asti yhtä matkaa ja vakuutettua kohti.
+
+3.1.3 Korvaus matkan keskeytyessä
+Matkan keskeytyminen korvataan, kun se johtuu vakuutetun kuolemasta, vakavasta tapaturmasta tai vakavasta matkasairaudesta, joka pakottavasti
+aiheuttaa matkan keskeytymisen. Pakottavuus arvioidaan lääketieteellisin perustein. Korvattavia ovat vain sellaiset matkan keskeytymiskulut, jotka
+vakuutettu on itse velvollinen maksamaan.
+
+Matkan keskeytyminen korvataan myös silloin, kun keskeytymisen syynä on vakuutetun matkan aikana sattunut
+ -   lähiomaisen kuolema, vakava tapaturma tai vakava, odottamaton ja äkillinen sairastuminen
+ -   vakuutetun Suomessa olevaan omaisuuteen kohdistunut odottamaton, merkittävä taloudellinen vahinko, joka pakottavasti edellyttää vakuutetun
+     läsnäoloa vahinkopaikalla.
+
+Korvauksen maksaminen edellyttää, että keskeytymisen syy ei ole ilmennyt ennen vakuutusturvan tekemistä, matkan varaamista eikä matkan alkamista.
+
+Matkan keskeytymisestä korvataan
+ -   välttämättömät ylimääräiset matka- ja majoituskustannukset matkan aikana, ei kuitenkaan liikennevälineen kotiinkuljetuskustannuksia, ruokailu- tai
+     ravintokustannuksia eikä vainajan kotiinkuljetus- tai hautauskustannuksia (ks. 3.1.5 Korvaus vainajan kotiinkuljetus- tai hautauskustannuksista). Jos
+     keskeytymisen syynä on vakuutetun lähiomaisen kuolema, vakava tapaturma tai vakava, odottamaton ja äkillinen sairastuminen edellä mainittuja
+     majoituskustannuksia korvataan enintään neljäntoista (14) vuorokauden ajalta.
+ -   kohtuulliset matkakustannukset uudesta menomatkasta matkakohteeseen, jos tämä on vakuutusturvan voimassaoloaikana välttämätöntä opiskelun
+     tai ulkomailla enintään vuodeksi sovitun työsuhteen jatkumisen vuoksi
+ -   sairaalahoidon ajalta ja ennenaikaisen matkalta paluun takia menetetyistä matkapäivistä enintään 45 vuorokaudelta 80 euroa/vuorokausi, kuitenkin
+     enintään ennen matkan alkamista maksetun matkan hinta. Mikäli matkanjärjestäjä tai muu palveluntuottaja on maksanut hyvitystä matkasta, ennen
+     matkan alkamista maksetuksi matkan hinnaksi katsotaan hinnan hyvittämättä jäänyt osuus. Mikäli ulkomaanmatka keskeytyy jo Suomessa eikä
+     vakuutettu pääse lainkaan matkakohteeseen, maksetaan ennen matkan alkamista maksetun matkan hinnasta myös se osuus, jota 80 euron
+     vuorokausikohtainen korvaus ei riitä kattamaan.
+ -   vakuutetun etukäteen maksamat, matkan aikana käyttämättä jääneet palvelut kohteessa sekä edestakaiset matkat kohteesta toiseen kohteeseen,
+     kuitenkin enintään 1 000 euroa Suomesta alkanutta matkaa kohden. Tässä palveluilla tarkoitetaan kuluja osallistumismaksuista, tapahtumalipuista ja
+     kulkuneuvojen vuokrauksista. Korvausta maksetaan vain siltä osin kuin vakuutettu ei ole saanut hyvitystä matkanjärjestäjältä tai palveluntuottajalta.
+     Tässä mainittuja kuluja voidaan korvata enintään 300 euroa silloin, kun kyseessä ei ole vakuutusehtojen tarkoittama matkan keskeytyminen.
+     Korvaaminen edellyttää kuitenkin, että kyseessä on tästä vakuutuksesta korvattava matkasairaus tai -tapaturma, joka pakottavasti estää palvelun
+     käyttämisen. Vaadittaessa korvauksenhakijan tulee esittää lääkärinlausunto palvelun käyttämättä jäämisen syystä.
+
+Korvaus sairaalahoidon vuoksi menetetyistä matkapäivistä maksetaan sairastuneelle vakuutetulle.
+
+Jos huoltajan läsnäolo sairaalassa on lääkärin määräyksestä välttämätön alaikäisen matkasairauden tai tapaturman vuoksi, maksetaan menetettyjen
+matkavuorokausien korvaus myös yhdelle matkalla mukana olevalle huoltajalle.
+
+Korvausta menetetyistä matkapäivistä ei makseta kuolleen henkilön osalta. Matkapäivät lasketaan matkan alkamishetkestä täysinä 24 tunnin ajanjaksoina.
+Menetetyt matkapäivät lasketaan vastaavasti sairaalahoidon alkamisesta tai matkan keskeytymisestä siihen saakka, kunnes sairaalahoito päättyi tai
+enintään siihen asti, kun matkan oli määrä päättyä. Jos viimeinen näin laskettu täysi ajanjakso ylittyy 12 tunnilla, lasketaan se yhdeksi päiväksi. Mikäli
+matkan oli määrä päättyä myöhemmin kuin vakuutusturvan voimassaolon kyseisellä matkalla, niin menetetyt matkapäivät lasketaan enintään
+vakuutusturvan voimassaolon päättymiseen asti.
+
+3.1.4 Korvaus matkalta myöhästyttäessä
+Matkalta myöhästyminen korvataan, jos vakuutettu ei ehdi alkuperäisen matkasuunnitelmansa mukaisesti etukäteen varatun lento-, laiva-, juna- tai linja-
+automatkansa alkamispaikkaan meno- tai paluumatkalla seuraavien syiden johdosta:
+  -    sääeste, tekninen vika, liikenneonnettomuus, rikollinen teko tai viranomaisen määräys aiheuttaa kulkuneuvon kulun estymisen tai myöhästymisen
+
+Vakuutuksesta korvataan myöhästyminen vain, jos vakuutettu on varannut riittävästi aikaa ehtiäkseen siihen paikkaan, josta jatkoyhteys alkaa, ottaen
+huomioon sekä vallinneet olosuhteet ennen matkan alkua että matkanjärjestäjän, liikenneyhtiön, lentokentän ja viranomaisen ohjeistukset.
+
+Matkalta myöhästymisestä korvataan ylimääräiset, kohtuulliset ja välttämättömät matka- ja majoituskulut, ei kuitenkaan liikennevälineen
+kuljetuskustannuksia eikä ruokailu- tai ravintokustannuksia. Ylimääräisinä kuluina maksetaan kuitenkin enintään alkuperäisen matkan hinta. Korvattavia
+ovat vain sellaiset myöhästymiskulut, jotka vakuutettu on itse velvollinen maksamaan. Jos vakuutettu ei pääse lainkaan matkalle korvaukseen oikeuttavan
+myöhästymisen vuoksi, korvataan alkuperäisen matkan hinta. Kuluja korvataan enintään 5 000 euroon asti yhtä matkaa ja vakuutettua kohti. Mikäli
+matkanjärjestäjä tai muu palveluntuottaja on maksanut hyvitystä matkasta, katsotaan alkuperäisen matkan hinnaksi hyvittämättä jäänyt osuus.
+
+3.1.5 Korvaus vainajan kotiinkuljetus- tai hautauskustannuksista
+Jos vakuutettu kuolee ulkomaan matkan aikana, korvataan vainajan kohtuulliset kuljetuskustannukset ulkomailta Suomeen tai enintään niitä vastaavat
+hautauskustannukset matkakohteessa ulkomailla. Nämä kustannukset korvataan kuolinsyystä riippumatta. Tässä mainittuja kustannuksia ei korvata
+lainkaan, jos vakuutettu kuolee kotimaan matkalla.
+
+3.1.6 Korvaus evakuointikustannuksista
+Matkalta evakuointi korvataan, kun olosuhteet ulkomaan matkakohteessa muuttuvat matkan alkamisen jälkeen siinä määrin vaaralliseksi, että Suomen
+ulkoministeriö suosittelee alueelta poistumista luonnonkatastrofin, epidemian, äkillisen aseellisen selkkauksen tai terrorismin vuoksi.
+
+Korvattavia evakuointikustannuksia ovat kohtuulliset ja välttämättömät, ylimääräiset matka- ja majoituskustannukset, jotka aiheutuvat evakuoinnista
+lähimpään turvalliseen paikkaan tai Suomeen mahdollisimman tarkoituksenmukaista reittiä. Evakuoinnin tulee tapahtua 21 päivän kuluessa Suomen
+ulkoministeriön antamasta poistumissuosituksesta. Korvauksen yläraja on 2 000 euroa yhtä matkaa ja vakuutettua kohden. Vakuutusyhtiön tulee olla
+hyväksynyt kustannukset etukäteen.
+
+Korvausta maksetaan vain, mikäli kulut ovat syntyneet vakuutusturvan voimassa ollessa. Myös sen tapahtuman, jonka perusteella kuluja haetaan, tulee olla
+sattunut vakuutusturvan voimassa ollessa. Lisäksi evakuoinnin syy ei ole saanut ilmetä ennen vakuutusturvan tekemistä.
+
+Korvausta ei makseta, jos
+ -   matka on suuntautunut alueelle, jolle Suomen ulkoministeriö ei ole suositellut matkustamista ennen matkan alkamista.
+ -   vakuutetulla on oikeus korvaukseen lain tai matkanjärjestäjän sopimusehtojen perusteella.
+
+
+
+                                                                            5
+                    Matkavakuutusehdot
+                    Ehto MAT 120.8, voimassa 1.1.2026
+3.1.7 Kriisiturva
+Kriisiturvasta korvataan matkan peruuntumisen, keskeytymisen ja psykoterapian kuluja tässä ehtokohdassa kerrotuin edellytyksin.
+
+Matkan peruuntuminen ja keskeytyminen korvataan Kriisiturvasta silloin, kun peruuntumisen tai keskeytymisen syynä on matkakohteessa tapahtuva
+luonnonkatastrofi, epidemia, äkillinen aseellinen selkkaus tai terrorismi.
+
+Matkan peruuntumisen osalta korvauksen maksaminen edellyttää, että matkan alkuun on alle 14 vrk, kun tässä ehtokohdassa mainittu korvaukseen
+oikeuttava tapahtuma sattuu/alkaa. Lisäksi edellytetään, että matkan tulee olla varattu ja maksettu ennen kyseisen tapahtuman sattumista/alkamista.
+Korvaukseen sovelletaan ehtokohdan 3.1.2 (matkan peruuntuminen) säännöksiä.
+
+Matkan keskeytymisen osalta korvauksen maksaminen edellyttää, matkan uudelleenjärjestelyt tulee aloittaa 48 tunnin kuluessa korvaukseen oikeuttavan
+tapahtuman sattumisesta/alkamisesta. Matkan keskeytymisen osalta korvattavia kuluja ovat sellaiset matkan keskeytymiskulut, jotka vakuutettu on itse
+velvollinen maksamaan ja, joista ei ole tai ei olisi ollut takaisinsaantioikeutta. Korvaukseen sovelletaan ehtokohdan 3.1.3 (matkan keskeytyminen)
+säännöksiä. Mikäli matkan keskeytyminen korvataan matkan keskeytymisturvasta, vakuutetulla ei ole oikeutta saada vastaavia korvauksia Kriisiturvasta.
+
+Psykoterapiaa korvataan Kriisiturvasta silloin, kun sen tarve on seurausta seuraavista vahinkotapahtumista:
+ -   matkakohteessa tapahtuva luonnonkatastrofi, epidemia, äkillinen aseellinen selkkaus tai terrorismi
+ -   vakuutettuun tai hänen matkakumppaniinsa matkalla kohdistuva väkivaltarikos (rikoksesta on ilmoitettava poliisille)
+ -   liikenneonnettomuus, jossa vakuutettu tai hänen matkakumppaninsa on ollut osallisena.
+
+Kriisiturvasta korvataan kohtuulliset kustannukset lääkärin määräämästä ja terveydenhuoltoalan ammattihenkilön Suomessa antamasta psykoterapiasta
+enintään viideltä käynniltä vahinkotapahtumaa kohden. Korvaaminen edellyttää, että hoitoon hakeudutaan kahden kuukauden kuluessa vahinkotapahtuman
+sattumisesta, ja korvattava terapia on annettava kuuden kuukauden kuluessa vahinkotapahtuman sattumisesta. Korvattavan terapian tulee olla yleisesti
+hyväksytyn lääketieteellisen käsityksen mukaista ja hoidollisesti arvioiden tarpeellista ja välttämätöntä. Psykoterapian korvaaminen Suomessa sattuneesta
+vahinkotapahtumasta edellyttää hoitokulukorvauksen (3.1.1) voimassaoloa kotimaan matkalla.
+
+Jos korvattavaksi haettu kustannus ylittää huomattavasti normaalin, yleisesti hyväksytyn ja noudatetun kohtuullisen tason, korvaus maksetaan tämän
+kohtuullisen tason mukaan. Jos vakuutusyhtiö maksaa kustannuksia, jotka ovat korvattavia jonkin lain mukaan, vakuutusyhtiöllä on oikeus hakea niistä
+takaisin lain mukainen osuus.
+
+Korvausta ei makseta, jos väkivaltarikoksen aiheuttaja on vakuutetun matkakumppani.
+
+Matkakumppanilla tarkoitetaan samalla matkavarauksella olevia henkilöitä.
+
+3.2 Turva tapaturman aiheuttaman pysyvän haitan varalta
+Tästä vakuutusturvasta maksetaan korvausta vakuutetulle sattuneen tapaturman aiheuttamasta pysyvästä haitasta. Korvausta maksetaan, jos tapaturman
+aiheuttaman pysyvän haitan haittaluokka on vähintään 2 (10 %). Tapaturman sormille tai silmille aiheuttamista vammoista maksetaan kuitenkin korvausta
+vähintään haittaluokan 1 (5 %) mukaisesta pysyvästä haitasta.
+
+Korvaaminen edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana.
+
+Pysyvä haitta on lääketieteellisesti arvioitu yleinen haitta, joka vammasta aiheutuu vakuutetulle. Haittaa määriteltäessä otetaan huomioon vamman laatu,
+mutta ei vammautuneen yksilöllisiä olosuhteita kuten ammattia tai harrastuksia.
+
+Pysyvän haitan suuruus määritellään Valtioneuvoston työtapaturma- ja ammattitautilain haittaluokituksesta antaman asetuksen (768/2015) mukaan. Yksi
+haittaluokka vastaa viiden (5) prosentin haitta-astetta. Esimerkiksi haittaluokan 2 mukainen haitta-aste on 10 prosenttia ja suurin, haittaluokan 20 mukainen
+haitta-aste tarkoittaa 100 prosentin haittaa.
+
+Korvaus on määritellyn haittaluokan mukaisen prosenttiluvun osoittama osa tapaturman sattumishetken vakuutusmäärästä. Mikäli tapaturman aiheuttama
+pysyvä haitta on vähintään haittaluokan 10 (50 %) mukainen pysyvä haitta, maksetaan korvaus kaksinkertaisena. Pysyvän haitan kaksinkertaiseen
+korvaukseen ei ole kuitenkaan oikeutta, jos turva on myönnetty 31.12.2021 jälkeen eikä myöskään silloin, kun vakuutuskirjassa on maininta, että turvasta ei
+makseta kaksinkertaista korvausta. Pysyvä haitta määritellään aikaisintaan yhden (1) vuoden kuluttua tapaturman sattumisesta. Jos haitta-aste nousee
+ennen kuin kolme (3) vuotta on kulunut siitä, kun pysyvästä haitasta annettiin ensimmäisen kerran päätös, maksetaan haittaluokan korotusta vastaava
+lisäkorvaus. Haitta-asteen myöhäisempi nousu ei oikeuta lisäkorvaukseen.
+
+Pysyvän haitan korvauksena maksetaan enintään haittaluokan 20 (100 %) mukainen korvaus, jonka jälkeen turva tapaturman aiheuttaman pysyvän haitan
+varalta päättyy.
+
+Pysyvän haitan korvausta ei makseta, jos
+ 1) tapaturman aiheuttaman pysyvän haitan haittaluokka on alle 2 (10 %), lukuun ottamatta silmien ja sormien vammoja
+ 2) tapaturman silmille tai sormille aiheuttaman pysyvän haitan haittaluokka on alle 1 (5 %)
+ 3) pysyvä haitta ilmenee myöhemmin kuin kolmen (3) vuoden kuluttua tapaturman sattumisesta.
+
+3.3 Turva tapaturman aiheuttaman kuoleman varalta
+Tästä vakuutusturvasta maksetaan kuolinhetkellä voimassa ollut vakuutusmäärä edunsaajille vakuutetun kuoltua tapaturmaisesti. Vakuutusmäärän
+maksaminen edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana.
+
+Vakuutusmäärää ei makseta, jos vakuutettu kuolee myöhemmin kuin kolmen (3) vuoden kuluttua tapaturman sattumisesta.
+
+3.4 Turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden varalta
+Tämä vakuutusturva ei ole enää myynnissä.
+
+Tästä vakuutusturvasta maksetaan vakuutetun tapaturmasta aiheutuneelta työkyvyttömyysajalta vakuutuskirjaan merkittyä päivärahaa. Jos
+Kansaneläkelaitos (Kela) maksaa samalta työkyvyttömyysajalta osasairauspäivärahaa, maksettava päiväraha on puolet (1/2) vakuutuskirjaan merkitystä
+päivärahasta. Korvaaminen edellyttää, että tapaturma on sattunut vakuutusturvan voimassaoloaikana ja jatkuva vakuutusturva on voimassa
+työkyvyttömyyden aikana.
+
+Työkyvyttömäksi katsotaan vakuutettu, joka on kykenemätön tekemään tavanomaisia työtehtäviään.
+
+Päivärahaa maksetaan niin monelta päivältä kuin työkyvyttömyyttä on jatkunut yhtäjaksoisesti yli vakuutuskirjaan merkityn omavastuuajan. Korvauksen
+maksaminen ja omavastuuajan laskeminen alkavat aikaisintaan lääkärinhoidon alkamispäivästä. Päivärahaa maksetaan kuukausittain jälkikäteen.
+
+Päivärahaa maksetaan yhteensä enintään vakuutuskirjaan merkitty aika, jonka jälkeen turva tapaturman aiheuttaman lyhytaikaisen työkyvyttömyyden
+varalta päättyy.
+
+Päivärahaa ei makseta, jos työkyvyttömyys aiheutuu yksinomaan vakuutetun ilmoittamista oireista, eikä lääkärintutkimuksissa löydy mitään tapaturmaan
+viittaavaa.
+
+
+                                                                              6
+                     Matkavakuutusehdot
+                     Ehto MAT 120.8, voimassa 1.1.2026
+
+
+
+
+4 Vakuutusturvien kiinteät rajoitukset
+4.1 Alkoholi, lääkkeet ja huumaavat aineet sekä nikotiini
+Korvausta ei makseta, jos sairaus tai työkyvyttömyys on aiheutunut vakuutetun käyttämästä alkoholista, muusta huumaavasta aineesta tai lääkeaineen
+väärinkäytöstä. Korvausta ei makseta myöskään alkoholin, lääkkeiden, huumeiden, nikotiinin tai muiden aineiden käytön aiheuttamasta riippuvuudesta tai
+sen hoidosta
+
+4.2 Muun sairauden tai vian myötävaikutus
+Jos vammaan tai vamman paranemisen pitkittymiseen on olennaisesti myötävaikuttanut korvattavasta tapaturmasta riippumaton sairaus tai vika,
+maksetaan hoitokulu-, päiväraha- ja haittakorvauksia vain siltä osin kuin hoitokulut, työkyvyttömyys ja pysyvä haitta on katsottava korvattavasta
+tapaturmasta aiheutuneiksi.
+
+Jos sairauteen tai sairauden paranemisen pitkittymiseen on olennaisesti myötävaikuttanut korvattavasta sairaudesta riippumaton sairaus tai vika,
+maksetaan hoitokulu-, päiväraha- ja haittakorvauksia vain siltä osin kuin hoitokulut, työkyvyttömyys ja pysyvä haitta on katsottava korvattavasta sairaudesta
+aiheutuneiksi.
+
+Tapaturmassa vahingoittuneiden hampaiden hoito korvataan enintään tapaturmaa edeltäneeseen tilaan.
+
+4.3 Raskaus, synnytys ja lapsettomuus
+Hoitokulu- ja päivärahakorvauksia ei makseta, jos hoitokulut tai työkyvyttömyys johtuvat
+  1) raskaudentilasta tai synnytyksestä, lukuun ottamatta Matkustajaturvassa (3.1.1) mainittuja kustannuksia.
+  2) raskauden ehkäisystä, raskauden keskeyttämisestä, lapsettomuuden tutkimuksesta tai hoidosta, keinohedelmöityksestä, sterilisaatiosta tai sikiön
+      tilan tutkimisesta.
+
+4.4 Sota ja aseellinen selkkaus
+Vakuutusturvat eivät ole voimassa vakuutetun osallistuessa sotaan tai aseelliseen selkkaukseen eivätkä vakuutetun palvellessa kansainvälisissä
+rauhanturvaamis- tai niihin liittyvissä tehtävissä.
+
+Korvausta ei makseta vahingosta, joka on aiheutunut sodasta, kapinasta, aseellisesta selkkauksesta tai vastaavasta, vaikka vakuutettu itse ei olisikaan
+osallistunut mainittuihin toimiin. Jos vakuutettu on aloittanut ulkomaan matkansa ennen aseellisten toimien alkamista eikä itse ole osallistunut niihin,
+sovelletaan tätä ehtokohtaa vasta kun 14 vuorokautta on kulunut aseellisten toimien alkamisesta. Jos kyseessä on suursota, sovelletaan tätä ehtokohtaa
+heti. Suursodalla tarkoitetaan kahden tai useamman YK:n turvallisuusneuvoston pysyvän jäsenmaan välistä sotaa.
+
+4.5 Tapaturmana ei korvata
+  1) vammaa eikä kuolemaa, joka on aiheutunut vakuutetun sairaudesta, viasta, vammasta tai näiden aiheuttamasta tapahtumasta. Jos vammaan tai
+      kuolemaan on olennaisesti myötävaikuttanut tapaturmasta riippumaton sairaus, vika, vamma tai näiden aiheuttama tapahtuma, korvausta ei
+      makseta.
+  2) tapaturmasta riippumatonta sairautta, vikaa tai vammaa eikä tuki- tai liikuntaelimistön rappeutumisia, vaikka ne olisivat olleet oireettomia ennen
+      tapaturmaa
+  3) hyönteisen tai punkin pureman tai piston aiheuttamaa tartuntatautia tai sairautta seurauksineen
+  4) vakuutetun käyttämän lääkeaineen, alkoholin tai muun huumaavassa tarkoituksessa käytetyn aineen aiheuttamaa myrkytystä seurauksineen
+  5) puremisesta hampaalle tai hammasproteesille aiheutunutta vauriota, vaikka siihen olisi vaikuttanut ulkopuolinen tekijä
+  6) psyykkisiä seurauksia, jotka eivät ole seurausta tapaturman aiheuttamasta aivovammasta
+  7) kuolemaa, joka on aiheutunut itsemurhasta
+  8) synnytyksen yhteydessä syntyvälle lapselle aiheutuneita vammoja; tapaturmaksi ei voida katsoa vammaa, joka on aiheutunut ennen kuin lapsi
+      katsotaan virallisesti elävänä syntyneeksi.
+
+4.6 Leikkaus-, hoito- ja muut lääkinnälliset toimenpiteet
+Vakuutuksesta ei korvata vammaa, sairautta tai kuolemaa, joka on aiheutunut sairauden tai ruumiinvian hoitamiseksi suoritetusta leikkaus-, hoito- tai
+muusta lääkinnällisestä toimenpiteestä, ellei sitä ole suoritettu tästä vakuutuksesta korvattavan vamman tai matkasairauden hoitamiseksi.
+
+4.7 Ennen vakuutuksen voimaantuloa alkanut sairaus
+Kun Ifin matka- tai liittovakuutus on myönnetty ilman vakuutetun terveydentilan selvittämistä, ei Turvista lyhytaikaisen työkyvyttömyyden ja pysyvän haitan
+varalta eikä Matkustajaturvasta makseta korvausta, jos vamma on katsottava saaduksi ja sairaus alkaneeksi ja myös selviä sairausoireita on ilmaantunut
+ennen vakuutuksen voimaantuloa.
+
+5 Hoitokulukorvauksen hakeminen
+Korvaukseen oikeutetun tulee itse maksaa hoitoon liittyvät kulut ja sen jälkeen hakea sairausvakuutuslain mukainen korvausosuus Kelan
+(Kansaneläkelaitoksen) toimistolta kuuden (6) kuukauden kuluessa kulujen maksupäivästä. Säilytä Kelan korvauslaskelma, kopiot Kelalle toimitetuista
+kuiteista ja alkuperäisinä ne kuitit, joista Kela ei maksa korvausta. Pyydettäessä nämä on toimitettava Ifille. Korvausta on haettava Ifistä viimeistään vuoden
+kuluttua sen vakuutuskauden päättymisestä, jonka aikana hoitokulut ovat syntyneet.
+
+Vakuutusyhtiö maksaa korvauksen, josta on vähennetty omavastuu sekä mahdolliset Kelan korvausosuudet.
+
+Jos oikeus sairausvakuutuslain mukaiseen korvaukseen on menetetty edellä mainitun kuuden (6) kuukauden määräajan laiminlyönnin tai muun syyn
+johdosta, korvauksesta vähennetään se osuus, jonka Kela olisi maksanut sairausvakuutuslain perusteella.
+
+Ulkomailla aiheutuneet, vakuutuksesta korvattavat lääkärinpalkkiot ja sairaalamaksut maksetaan useimmiten suoraan sopimuskumppaninamme toimivalle
+lääkäriasemalle tai sairaalalle.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+                                                                               7
+

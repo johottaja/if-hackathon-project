@@ -1,0 +1,8 @@
+{
+  "source_url": "https://opendata.fmi.fi/wfs?service=WFS&version=2.0.0&request=GetFeature&storedquery_id=fmi%3A%3Aobservations%3A%3Aweather%3A%3Atimevaluepair&place=Turku&parameters=t2m%2Crh%2Cr_1h&starttime=2026-01-10T00%3A00%3A00Z&endtime=2026-01-10T02%3A00%3A00Z&timestep=60",
+  "retrieved_at": "2026-10-17T12:31:58.831082Z",
+  "sha256": "155f946a3c6571a5641743bcd451c085fe7a65a7d15056b5fdef51de421d64dc",
+  "http_status": 200,
+  "is_simulated": false,
+  "bytes": 14130
+}

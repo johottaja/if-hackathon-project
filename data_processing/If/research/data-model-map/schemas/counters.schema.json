@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ulkoiset kävijälaskurit",
+  "type": "object",
+  "properties": {
+    "counting_site_id": {
+      "type": "string",
+      "description": "Laskentapisteen tunniste."
+    },
+    "interval_start": {
+      "type": "string",
+      "description": "Mittausjakson alku, mukana.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "interval_end": {
+      "type": "string",
+      "description": "Mittausjakson loppu, ei mukana.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "travel_mode": {
+      "type": "string",
+      "description": "Mitattu kulkutapa.",
+      "enum": [
+        "pedestrian",
+        "bicycle",
+        "mixed"
+      ]
+    },
+    "count": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Ohitusten määrä, ei välttämättä yksilöiden määrä.",
+      "minimum": 0
+    },
+    "lon": {
+      "type": "number",
+      "description": "Pisteen pituusaste."
+    },
+    "lat": {
+      "type": "number",
+      "description": "Pisteen leveysaste."
+    },
+    "ingested_at": {
+      "type": "string",
+      "description": "Hetki, jolloin tämä rivi saapui palveluun. Ei sama kuin tapahtuma-aika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "counting_site_id",
+    "interval_start",
+    "interval_end",
+    "travel_mode",
+    "count",
+    "lon",
+    "lat",
+    "ingested_at",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

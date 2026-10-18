@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Keruun kattavuus",
+  "type": "object",
+  "properties": {
+    "cell_id": {
+      "type": "string",
+      "description": "Ruutu."
+    },
+    "app_collection_status": {
+      "type": "string",
+      "description": "Demossa koko toiston kattava kiinteä keruun tila.",
+      "enum": [
+        "complete",
+        "missing",
+        "unknown"
+      ]
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "cell_id",
+    "app_collection_status",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

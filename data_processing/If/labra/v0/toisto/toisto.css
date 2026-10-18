@@ -1,0 +1,14 @@
+body { font: 16px/1.5 system-ui,sans-serif; color: #202327; background: #fff; margin: 24px; }
+main { max-width: 1240px; margin: auto; }
+h1 { font-size: 26px; margin-bottom: 0; }
+h2 { font-size: 19px; margin-bottom: 0; }
+p { margin: 8px 0 14px; }
+.ohjaus { display: flex; flex-wrap: wrap; gap: 18px; align-items: center; }
+button,select { font: inherit; padding: 6px 12px; }
+.aikajana { display: flex; gap: 16px; align-items: center; margin-top: 16px; }
+input[type=range] { flex: 1; min-width: 0; }
+.kartat { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+canvas { display: block; width: 100%; height: auto; border: 1px solid #aaa; box-sizing: border-box; }
+.lahde { color: #50555a; font-size: 13px; }
+details { margin-top: 20px; }
+@media(max-width: 700px) { body { margin: 12px; } .kartat { grid-template-columns: 1fr; gap: 4px; } }

@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "If:n vahinkohistoria",
+  "type": "object",
+  "properties": {
+    "claim_case_id": {
+      "type": "string",
+      "description": "Tapahtumatason tunniste ja päällekkäisyyksien hallinta Ifin kanssa sovittava."
+    },
+    "occurred_on": {
+      "type": "string",
+      "description": "Päivämäärä, jos kellonaikaa ei tunneta.",
+      "format": "date"
+    },
+    "occurred_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tapahtuman tarkka aika, jos saatavilla.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "reported_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ilmoittamisen aika, jos saatavilla.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "location_precision": {
+      "type": "string",
+      "description": "Sijaintitiedon todellinen tarkkuus.",
+      "enum": [
+        "coordinate",
+        "address",
+        "postcode",
+        "municipality",
+        "unknown"
+      ]
+    },
+    "postal_code": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Postinumero; ei muuteta tarkaksi koordinaatiksi."
+    },
+    "lon": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Pituusaste, jos tarkka sijainti oikeasti tunnetaan."
+    },
+    "lat": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Leveysaste, jos tarkka sijainti oikeasti tunnetaan."
+    },
+    "cause": {
+      "type": "string",
+      "description": "Luokitus sovittava Ifin kanssa.",
+      "enum": [
+        "slip",
+        "trip",
+        "other",
+        "unknown"
+      ]
+    },
+    "incurred_cost_eur": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Kustannuksen käsite ja kirjaushetki sovittava; esimerkissä tuntematon."
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "claim_case_id",
+    "occurred_on",
+    "occurred_at",
+    "reported_at",
+    "location_precision",
+    "postal_code",
+    "lon",
+    "lat",
+    "cause",
+    "incurred_cost_eur",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

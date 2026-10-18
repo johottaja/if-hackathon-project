@@ -1,4 +1,4 @@
-# Publishes the dashboard build, the live demo (demo.html) and the Pito app's web build (app/)
+# Publishes the dashboard build, the heatmap and live demo (demo.html) and the Pito app's web build (app/)
 # to GitHub Pages. Enable once: Settings → Pages → Source: GitHub Actions.
 name: Deploy demo to GitHub Pages
 

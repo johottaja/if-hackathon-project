@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anturin raakamuoto",
+  "type": "object",
+  "properties": {
+    "recording_id": {
+      "type": "string",
+      "description": "Tallenteen tunniste; trace_id viittaa tähän."
+    },
+    "timestamp_utc": {
+      "type": "string",
+      "description": "Näytteen ajankohta. Esimerkissä 20 ms askel = 50 Hz.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "ax_m_s2": {
+      "type": "number",
+      "description": "Laitteen ax-akselin kiihtyvyys; tässä sopimuksessa painovoima mukana."
+    },
+    "ay_m_s2": {
+      "type": "number",
+      "description": "Laitteen ay-akselin kiihtyvyys; tässä sopimuksessa painovoima mukana."
+    },
+    "az_m_s2": {
+      "type": "number",
+      "description": "Laitteen az-akselin kiihtyvyys; tässä sopimuksessa painovoima mukana."
+    },
+    "gx_rad_s": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Kulmanopeus; tyhjä CSV-kenttä tarkoittaa puuttuvaa gyroskooppia."
+    },
+    "gy_rad_s": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Kulmanopeus; tyhjä CSV-kenttä tarkoittaa puuttuvaa gyroskooppia."
+    },
+    "gz_rad_s": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Kulmanopeus; tyhjä CSV-kenttä tarkoittaa puuttuvaa gyroskooppia."
+    }
+  },
+  "required": [
+    "recording_id",
+    "timestamp_utc",
+    "ax_m_s2",
+    "ay_m_s2",
+    "az_m_s2",
+    "gx_rad_s",
+    "gy_rad_s",
+    "gz_rad_s"
+  ],
+  "additionalProperties": false
+}

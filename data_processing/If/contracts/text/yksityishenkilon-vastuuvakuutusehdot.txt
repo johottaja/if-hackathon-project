@@ -1,0 +1,208 @@
+                             Yksityishenkilön vastuuvakuutusehdot
+                             Ehto YVA 500.21, voimassa 1.1.2026 alkaen
+
+
+
+
+Yksityishenkilön vastuuvakuutuksen sisältö muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä sopimusehdoista.
+
+1 Vakuutetut ja vakuutuksen voimassaolo ................................................ 1                       4.1 Korvaamisen perusteet ........................................................................ 2
+2 Vakuutusturvat ....................................................................................... 1       4.1.1 Korvaamisen rajoitukset ................................................................... 2
+2.1 Vastuuturva       .................................................................................. 1       4.2 Korvauksen määräytyminen ................................................................ 2
+2.2 Laaja vastuuturva ................................................................................ 1         5 Toimenpiteet vahingon tapahduttua ....................................................... 2
+3 Vakuutusturvien rajoitukset .................................................................... 1             5.1 Asianajo- ja oikeudenkäyntikulujen korvaamisen edellytykset ........... 2
+4 Vahinkojen korvaaminen ........................................................................ 2              6 Vakuutusmaksuun vaikuttavat seikat ..................................................... 3
+
+
+1 Vakuutetut ja vakuutuksen voimassaolo
+Vakuutettuina ovat vakuutuksenottaja ja hänen taloudessaan vakinaisesti ja tosiasiallisesti asuvat henkilöt.
+
+Vakuutetun asuinpaikkana pidetään väestörekisteriviranomaisen rekisteriin merkittyä osoitetta.
+
+Jos vakuutuksenottaja on kuollut tai jos vakuutuksenottajana on kuolinpesä,
+vakuutettuina ovat ne perheenjäsenet
+  -   jotka vakuutuksenottajan kuollessa asuivat vakinaisesti hänen kanssaan samassa taloudessa, ja
+  -   joilla ei ole omaa vakuutusta ja
+  -   jotka edelleen asuvat tässä samassa osoitteessa.
+
+Vakuutettuja ovat myös jakamattoman kuolinpesän osakkaat tässä kotivakuutuksessa vakuutettuna olevan huoneiston tai kiinteistön omistamiseen, hallin-
+taan tai käyttämiseen liittyvissä vahingoissa, ellei heillä ole omaa vastuuvakuutusta.
+
+Vakuutus on voimassa tilapäisesti kaikkialla maailmassa. Tilapäisyys voi kestää enintään yhden (1) vuoden ajan.
+
+Jos vakuutetun vakituinen asuinpaikka ei ole Suomessa, vakuutus on voimassa vain Suomessa.
+
+2 Vakuutusturvat
+Vakuutus sisältää ne turvat, jotka on merkitty vakuutuskirjaan.
+
+2.1 Vastuuturva
+Vakuutuksesta korvataan vakuutetun toiselle aiheuttama äkillinen henkilö- tai esinevahinko, joka todetaan vakuutuksen voimassaoloaikana ja josta vakuu-
+tettu on voimassa olevan oikeuden mukaan korvausvastuussa.
+
+2.2 Laaja vastuuturva
+Vakuutuksesta korvataan vakuutuksen voimassaoloaikana todettu vakuutetun toiselle aiheuttama äkillinen henkilö- tai esinevahinko, jos vakuutetun teko tai
+laiminlyönti on syy-yhteydessä vahingon aiheutumiseen tai jos vahingon on aiheuttanut vakuutetun omistama esine (esim. laite tai eläin), eikä vahingon
+kärsinyttä itseään voida pitää vahingon aiheuttajana.
+
+3 Vakuutusturvien rajoitukset
+Vakuutuksesta ei korvata vahinkoa,
+  1) joka on aiheutunut vakuutuksenottajalle itselleen tai muulle vakuutetulle
+  2) jonka lapsi on aiheuttanut hoitajalleen tai hoitajan kotitalouteen kuuluvalle henkilölle taikka vahinkoa, josta hoitaja tai joku muu kuin vakuutettu on
+      korvausvastuussa. Hoitajalla tarkoitetaan henkilöä, jonka valvonnassa lapsi on. Rajoitus ei kuitenkaan koske henkilövahinkoa.
+  3) jonka lapsi on aiheuttanut huoltajalleen tai huoltajan ansiotoimintaan tai työharjoitteluun tarkoitetulle omaisuudelle, kuten työnantajan omaisuudelle
+       (esim. työsuhdeauto tai -puhelin)
+  4) joka on aiheutunut vakuutetun osallistumisesta peliin tai sellaiseen toimintaan, joka edellyttää fyysistä kontaktia tai joka yleisen kokemuksen mukaan
+       muuten saattaa aiheuttaa osallistujan henkilöön tai omaisuuteen kohdistuvaa vahinkoa
+  5) joka on aiheutunut tappelun, pahoinpitelyn tai muun rikoksen yhteydessä
+  6) josta vakuutettu on vastuussa yksinomaan sopimuksen, sitoumuksen tai lupauksen perusteella eikä korvausvastuuta olisi ilman näitä sitoumuksia.
+       Tällaisia ovat esimerkiksi asuntokaupan kohteessa ilmenneet vahingot, virheet tai puutteet.
+  7) joka aiheutuu
+    -     purjeveneen, rekisteröitävän veneen tai aluksen käyttämisestä
+    -     vesiskootterin käyttämisestä
+    -     ilma-aluksen käyttämisestä
+    -     liikennevakuutuslain 2 pykälän mukaisella ajoneuvolla liikennevakuutuslain tai vastaavan ulkomaisen lain mukaisesta liikenteeseen käyttämisestä.
+
+    Vakuutuksesta ei myöskään korvata edellä mainituille kulkuvälineille itselleen näissä tilanteissa aiheutunutta vahinkoa.
+  8)  jonka vakuutettu aiheuttaa työharjoittelussa, tuloa hankkiessaan tai yleensä ansaitsemistarkoituksessa. Vakuutuksesta ei myöskään korvata vahin-
+      koa, joka aiheutuu vakuutetun ansiotoimintaan tai työharjoitteluun tarkoitetulle omaisuudelle, kuten työnantajan omaisuudelle (esim. työsuhdeauto tai
+      -puhelin), tai vakuutetun käyttäessä tällaista omaisuutta.
+  9) joka liittyy vakuutetun omistuksessa olevaan sijoitusasuntoon
+  10) joka aiheutuu työ- tai asennusvirheestä. Tätä rajoitusehtoa ei sovelleta, jos vakuutettu on tehnyt työ- tai asennusvirheen koskien omaa tai lähiomai-
+      sensa omaisuutta, eikä kyseinen työ lain tai määräysten mukaan edellytä erityistä pätevyyttä, kuten sähkö- ja putkityöt.
+  11) joka aiheutuu vakuutetun hallussa olleelle omaisuudelle tai omaisuudelle, jonka vakuutettu on ottanut valmistaakseen, asentaakseen,
+      korjatakseen, kuljettaakseen tai säilyttääkseen taikka muulla tavoin
+      käsitelläkseen tai huolehdittavakseen
+  12) joka aiheutuu irtaimelle omaisuudelle, jonka vakuutettu tai joku muu hänen lukuunsa on vuokrannut tai lainannut toiselta yksityishenkilöltä
+  13) joka aiheutuu omaisuuden tavanomaisen käytön aiheuttamasta kulumisesta tai omaisuuden huonosta hoidosta
+  14) joka aiheutuu siitä, että veden pääsy lattiakaivoon tai poistovesiputkeen on estynyt
+  15) joka aiheutuu vakuutetun ja hänen perheensä asuntona käytetyn huoneiston tai omakotitalon kiinteälle sisustukselle. Asuinhuoneiston kiinteällä si-
+      sustuksella tarkoitetaan asunto-osakeyhtiölain (1599/2009) 4 luvun 2-3 pykälien mukaista osakkeenomistajan kunnossapitovastuulla olevaa omai-
+      suutta sekä huoneistossa tehtyjä sisustus- ja parannustöitä.
+  16) joka aiheutuu siitä, että vakuutettu suorittaa asunto- tai kiinteistöosakeyhtiölle huolto-, kunnossapito- tai korjaustyötä. Tätä rajoitusehtoa ei sovelleta
+      vahinkoihin, jotka vakuutettu aiheuttaa tehdessään edellä mainittuja töitä oman asunto-osakeyhtiöön kuuluvan omakotitalonsa piha-alueella tai siihen
+      liittyvällä alueella, josta asunto-osakeyhtiön osakkaat ovat yhteisesti vastuussa.
+  17) joka aiheutuu kosteudesta tai homesienestä, joka on seurausta rakennustavasta, suunnittelu-, asennus- tai rakennusvirheestä, rakennuksen tai ra-
+      kenteen muusta ominaisuudesta tai muusta pysyvästä olosuhteesta
+  18) josta vakuutettu on vastuussa kiinteistön omistajana tai haltijana, ellei suurin osa kiinteistöstä ole vakuutetun käytössä
+  19) joka aiheutuu teräsöljysäiliöiden tai niiden putkistojen rikkoutumisesta, ellei asiantuntijaliike ole tarkastanut säiliötä vähintään 10 vuoden välein tai
+      ellei tarkastuksessa todettuja toimenpiteitä ja korjauksia ole tehty. Pohjavesialueella sijaitsevat säiliöt on tarkastettava viiden (5) vuoden välein.
+  20) joka aiheutuu sellaisesta syystä, että se voidaan korvata jonkin erityislain, takuun, muun sitoumuksen tai vakuutuksen perusteella taikka julkisista
+      varoista
+
+
+                                                                                                             1
+                     Yksityishenkilön vastuuvakuutusehdot
+                     Ehto YVA 500.21, voimassa 1.1.2026 alkaen
+
+
+ 21) jonka eläin on aiheuttanut hoitajalleen tai hoitajan kotitalouteen kuuluvalle henkilölle, eikä vahinkoa, josta joku muu kuin vakuutettu on korvausvas-
+     tuussa. Hoitajalla tarkoitetaan henkilöä, jonka valvonnassa eläin on. Rajoitus ei kuitenkaan koske henkilövahinkoa.
+ 22) jonka eläin on aiheuttanut omistajalleen, yhteisomistajalleen tai hänen kotitalouteensa kuuluvalle henkilölle
+ 23) joka aiheutuu eläimen hoitolaitokselle tai sen työntekijälle taikka eläintä vastiketta vastaan hoitavalle henkilölle tai hänen kanssaan samassa kotita-
+     loudessa asuvalle henkilölle tai heidän omaisuudelleen.
+ 24) joka aiheutuu huumekasvien viljelystä
+ 25) joka aiheutuu loisista, punkeista tai vastaavista.
+
+4 Vahinkojen korvaaminen
+4.1 Korvaamisen perusteet
+Vakuutuksesta korvattavan vahingon tulee olla äkillinen. Vahinkoa pidetään äkillisenä, kun se on aiheutettu äkillisesti ja vahinko (vaurio) todetaan yhden (1)
+vuoden sisällä vahingon aiheuttamisesta.
+Vakuutuksesta korvataan myös tästä vastuuvakuutuksesta korvattavan, välittömästi uhkaamassa olevan vahingon torjunnasta sekä korvausvastuun selvit-
+telystä aiheutuneet välttämättömät kustannukset. Asianajo- ja oikeudenkäyntikulut korvataan ehtokohdan 5.1 mukaisesti.
+
+Lapsen aiheuttama vahinko korvataan, vaikka hän ei ikänsä puolesta vielä ole korvausvelvollinen. Vahinko korvataan siinä laajuudessa kuin sen olisi
+aiheuttanut lapsi, joka on saavuttanut korvausvelvollisuuden syntymistä edellyttävän alimman iän. Alle 12-vuotiaan vakuutetun tahallaankin aiheuttama
+vahinko korvataan.
+
+4.1.1 Korvaamisen rajoitukset
+Vakuutuksesta ei korvata kustannuksia, jotka ovat aiheutuneet virheellisen tai puutteellisen työsuorituksen korjaamisesta tai uudelleen suorittamisesta.
+
+Vakuutuksesta ei korvata sakkoa, sopimussakkoa tai muuta vastaavaa seuraamusta.
+
+Vakuutuksesta ei korvata varallisuusvahinkoja, jotka eivät ole seurausta henkilö- tai esinevahingosta.
+
+4.2 Korvauksen määräytyminen
+Korvauksen määrittämisessä noudatetaan vahingonkorvauslain perusteita.
+
+Henkilövahingoissa sairaanhoitokustannukset korvataan julkisen terveydenhuollon yleisen maksuluokan mukaisen taksan mukaan.
+
+Seuraeläimille aiheutuneiden vahinkojen osalta korvataan eläinlääkärin määräämien ja antamien hoitojen kuluja enintään 2 000 euroa. Seuraeläimen
+kuolemantapauksissa korvataan seuraeläimen arvo. Seuraeläimen arvonalentumista ei korvata.
+
+Muiden eläinten osalta korvataan eläinlääkärin määräämien ja antamien hoitojen kuluja enintään eläimen arvoon asti, ja kuolemantapauksissa eläimen
+arvo.
+
+Jos vahinkoa kärsinyt on itse myötävaikuttanut vahinkoon, vakuutuksesta korvataan vain vakuutetun vastuulla oleva osa vahingosta.
+
+Jos useampi henkilö on yhdessä velvollinen korvaamaan saman vahingon, korvataan vakuutuksesta vain se osa vahingosta, joka vastaa vakuutetun
+osuutta vahingon aiheuttajana tai vakuutetun vahinkotapahtumasta saamaa hyötyä. Vakuutuksesta korvataan enintään vahingon aiheuttaneiden henkilöi-
+den lukumäärän mukaan määräytyvä osuus kokonaisvahingosta, ellei vakuutettu näytä muuta toteen.
+
+Vakuutusyhtiön korvausvelvollisuuden ylimpänä rajana on jokaisessa vakuutustapahtumassa vakuutuskirjaan merkitty vakuutusmäärä. Samasta teosta tai
+laiminlyönnistä aiheutuneet vahingot katsotaan yhdeksi vakuutustapahtumaksi. Korvattavan vahingon määrästä vähennetään jokaisessa vakuutustapahtu-
+massa vakuutuskirjaan merkitty omavastuu.
+
+Omavastuu ja muut vähennykset tehdään seuraavassa järjestyksessä:
+ -  mahdollinen veron määrä
+ -  omavastuu
+ -  henkilön menettelyyn perustuva korvauksen mahdollinen vähentäminen
+
+Omavastuuta ei vähennetä vahingon torjumis- ja rajoittamiskustannuksista.
+
+Jos useaa vakuutuskohdetta korvataan saman vakuutustapahtuman perusteella ja vakuutusturvissa on erilaiset omavastuut, vähennetään vain suurin
+omavastuu.
+
+5 Toimenpiteet vahingon tapahduttua
+Vakuutetun tulee varata vakuutusyhtiölle mahdollisuus tarkastaa vahinko sekä vaikuttaa asian ratkaisemiseen sopimalla.
+
+Vakuutusyhtiö selvittää vakuutetun mahdollisen vahingonkorvausvastuun ja neuvottelee korvauksen vaatijan kanssa, jos vahinkoon ei sovelleta vakuutuk-
+sen rajoitusehtoja. Jos vakuutettu korvaa vahingon, sopii siitä tai hyväksyy vaatimuksen, tämä ei sido vakuutusyhtiötä, ellei korvauksen peruste ja määrä
+ole ilmeisen oikea.
+
+Vakuutetun on viipymättä ilmoitettava vakuutusyhtiölle, jos vakuutustapahtuma johtaa oikeudenkäyntiin.
+
+Jos vakuutusyhtiö ilmoittaa vakuutetulle olevansa valmis sopimaan vakuutusmäärän rajoissa sopimuksen vahingonkärsineen kanssa vahinkojen korvaami-
+sesta eikä vakuutettu tähän suostu, vakuutusyhtiö ei ole velvollinen korvaamaan sen jälkeen aiheutuvia kustannuksia eikä selvitä asiaa enempää.
+
+5.1 Asianajo- ja oikeudenkäyntikulujen korvaaminen
+Vakuutuksesta korvataan kohtuulliset ja välttämättömät asianajo- ja oikeudenkäyntikulut.
+Asianajo- ja oikeudenkäyntikulujen korvaamisen edellytyksenä on, että
+      -     vaatimus koskee vakuutusehtojen mukaan korvattavaa vahinkotapahtumaa
+      -     vakuutuksenottaja ilmoittaa vakuutusyhtiölle välittömästi, jos vahingon selvittäminen edellyttää ulkopuolisen lakimiehen käyttämistä tai jos va-
+            hinko johtaa oikeudenkäyntiin
+      -     vahinkoilmoitus on tehty vakuutusyhtiölle ennen oikeudenkäynnin alkamista
+      -     vakuutusyhtiöllä on ollut mahdollisuus nimetä asianajaja tai muu lakimies, joka edustaa vakuutettua.
+
+
+
+
+                                                                              2
+                    Yksityishenkilön vastuuvakuutusehdot
+                    Ehto YVA 500.21, voimassa 1.1.2026 alkaen
+
+
+
+
+6 Vakuutusmaksuun vaikuttavat seikat
+Vastuuvakuutuksen maksuun vaikuttavat muun muassa vakuutuksenottajan, vakuutettujen tai omaisuuden haltijan ominaisuudet, kuten ikä, vakuutettujen
+lukumäärä, asuinpaikka ja asuinympäristö sekä
+vakuutus- ja vahinkohistoria, vakuutetut kohteet ja niiden käyttötarkoitus sekä vakuutusturvan laajuus ja omavastuun suuruus.
+
+Vakuutusyhtiöllä on oikeus muuttaa vakuutusmaksua vakuutuskauden vaihtuessa vakuutuksen kohteen, vakuutuksenottajan, hänen perheenjäsentensä,
+vakuutettujen tai omaisuuden haltijan iän muuttumisen seurauksena. Tällöin vakuutusmaksu muuttuu iän muutosta vastaavan tilastollisen vahinkoriskin
+muutoksen mukaisesti.
+
+Kun iän vaikutus vahinkoriskiin muuttuu, vakuutusmaksua voidaan muuttaa paremmin riskiä vastaaviksi.
+Muut tilanteet, joissa vakuutusyhtiöllä on oikeus muuttaa vakuutusmaksua, on kerrottu yleisissä sopimusehdoissa.
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ)
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+                                                                           3
+

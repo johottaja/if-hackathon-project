@@ -48,3 +48,9 @@ Rscript aja_demo.R <path-to>/if-hackathon-project/dashboard/public/demo
 
 The model and its proofs are in that repository’s `If/labra/v0/paperi/simulaattori.pdf`. `src/demo/timeline.mjs` holds the counters and `src/demo/insights.mjs` the risk maps and tasks; `npm test` checks them against the simulator data.
 Two additional clickable hazard symbols sit between the Linnankatu and Aurakatu labels: a slippery-surface warning sign opens a simulated above-weather-expectation message, and a bicycle opens a pothole report. These are synthetic, approximate map annotations; they do not add fall counts or change the connected maintenance workflow.
+
+## Dashboard and heatmap tabs
+
+The GitHub Pages site has top navigation for **If dashboard** (`./`) and **Heatmap visualisation** (`demo.html#heatmap`). The heatmap opens with a timeline, estimated slip risk per 1,000 passes, an optional hidden simulation truth layer, street averages and active gritting outlines. Existing simulation, customer and If operations views remain available within the visualisation page. The root dashboard’s connected maintenance actions still require the local API; Pages hosts static files only.
+
+Simulator source is vendored in [data_processing](../data_processing/README.md) from `Elkkuboi/junction_turku`, revision `2bd7a66a6aa8e541abfa7b9cbb8c0497bb2d3118`. Only If materials are retained. The browser uses the existing checked-in export; importing source does not regenerate results. See the data-processing README for the R regeneration command.

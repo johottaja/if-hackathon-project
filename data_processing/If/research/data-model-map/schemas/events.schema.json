@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Anturin tapahtumaehdokkaat",
+  "type": "object",
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "description": "Yksilöity tapahtuma; identtinen kopio poistetaan."
+    },
+    "passage_id": {
+      "type": "string",
+      "description": "Viite havaittuun ohikulkuun."
+    },
+    "event_at": {
+      "type": "string",
+      "description": "Poikkeaman ajankohta.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "ingested_at": {
+      "type": "string",
+      "description": "Hetki, jolloin tämä rivi saapui palveluun. Ei sama kuin tapahtuma-aika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "lon": {
+      "type": "number",
+      "description": "Tapahtuman pituusaste.",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "lat": {
+      "type": "number",
+      "description": "Tapahtuman leveysaste.",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "accuracy_m": {
+      "type": "number",
+      "description": "Paikannuksen ilmoitettu tarkkuus; ei deterministinen virheraja.",
+      "minimum": 0
+    },
+    "sensor_score": {
+      "type": "number",
+      "description": "Anturiluokittimen pisteytys; ei kaatumistodennäköisyys.",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "score_kind": {
+      "type": "string",
+      "description": "Pisteytyksen tulkinta.",
+      "const": "uncalibrated_score"
+    },
+    "trace_id": {
+      "type": "string",
+      "description": "Viite raw sensor recording_id:hen."
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "event_id",
+    "passage_id",
+    "event_at",
+    "ingested_at",
+    "lon",
+    "lat",
+    "accuracy_m",
+    "sensor_score",
+    "score_kind",
+    "trace_id",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

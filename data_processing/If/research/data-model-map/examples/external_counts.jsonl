@@ -1,0 +1,1 @@
+{"counting_site_id":"demo-counter-1","interval_start":"2026-01-10T07:00:00Z","interval_end":"2026-01-10T08:00:00Z","travel_mode":"pedestrian","count":800,"lon":22.28,"lat":60.45,"ingested_at":"2026-01-10T08:05:00Z","source_id":"demo-external-counter","is_simulated":true}

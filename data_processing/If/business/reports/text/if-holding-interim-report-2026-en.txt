@@ -1,0 +1,1019 @@
+Interim Report
+January – June 2026
+If P&C Insurance Holding Ltd (publ), 556241-7559
+Contents
+Economic overview. .................................................................................................................3
+Key figures.....................................................................................................................................4
+Consolidated income statement.......................................................................................5
+Consolidated statement of comprehensive income. .............................................6
+Consolidated balance sheet. ...............................................................................................7
+Changes in shareholders’ consolidated equity. ........................................................9
+Consolidated cash flow statement.................................................................................10
+Parent company........................................................................................................................11
+Notes. .............................................................................................................................................13
+Signature.....................................................................................................................................20
+Definitions. ..................................................................................................................................21
+
+
+
+
+2                                                                                                            If’s Interim report January - June 2026
+                                                                                     Economic overview
+If is the leading property and casualty insurance company in the          by a strong second quarter for both the equity investments and
+Nordic region, with insurance operations that also encompass              the fixed income portfolio. The allocation of the investment assets
+the Baltic countries. The Group’s headquarters is located in              has remained stable, fixed income comprises 89% (88) and
+Solna, Sweden and the Parent Company of the If Group, If P&C              equities 11% (12) of the total investment assets. The duration of
+Insurance Holding Ltd (publ), is a wholly owned subsidiary                the fixed income assets has gradually increased and was 3.1 years
+of Sampo plc, a Finnish listed company. If's subsidiaries and             (2.6) at the end of the period.
+branches provide insurance solutions and services in Sweden,                 Insurance finance income or expenses, net was MSEK -1,265
+Norway, Denmark, Finland and the Baltic countries. If’s                   (-682) and included the effect of changes in discount rates of
+insurance operations are divided into four business areas: Private,       MSEK -21 (585) and interest expense (unwinding) of MSEK -1,249
+Commercial, Industrial and Baltic.                                        (-1,071).
+   The totals in tables and statements in the interim report may
+not always reconcile due to rounding. The aim is for each line item       Solvency, cash flow and financing
+to correspond to the source and therefore rounding differences            Insurance is a regulated business subject to EU-wide rules for
+may arise in totals. Comparative figures for income statement             calculating capital requirements and available capital. All If’s
+items refer to the period January-June 2025 and for balance sheet         insurance subsidiaries have regulatory solvency capital requi-
+items as per 31 December 2025.                                            rements (SCR) and fulfilled those during the reporting period.
+                                                                          If P&C Insurance Ltd (publ) applies the Sampo Group partial
+Earnings and financial position                                           internal model to calculate the regulatory solvency capital requi-
+                                                                          rement, where the majority of the insurance risks are calculated
+Result                                                                    using the Sampo Group partial internal model while other risks
+Insurance service result increased to MSEK 7,299 (6,846), and
+                                                                          are calculated using the standard formula according to Solvency
+the combined ratio improved and amounted to 81.9 (82.3). Net
+                                                                          II. During the period, approval was obtained from the Swedish
+financial result was MSEK 1,973 (2,876). Profit before tax for the
+                                                                          Financial Supervisory Authority to include the merged business
+period amounted to MSEK 8,449 (8,807).
+                                                                          from Topdanmark in the Sampo Group partial internal model. If
+Premiums                                                                  Livförsäkring AB, If P&C Insurance AS, and Forsikringsselskabet
+Insurance revenue amounted to MSEK 43,287 (42,082) whereof                Dansk Sundhedssikring A/S use only the standard formula to
+gross written premium amounted to MSEK 53,254 (53,180).                   calculate the SCR. As a subsidiary of Sampo plc, If P&C Insurance
+Gross written premium growth was 2.9%. The growth was robust              Holding Ltd (publ) is a member of the Sampo insurance group
+for business area Private and Commercial while Industrial and             and is not subject to a formal requirement to report its subgroup
+Baltic were slightly negative. The growth was mainly driven by            solvency position.
+continued strong retention, positive customer count development               Cash flow from operating activities, including net investments
+and premium increases.                                                    in financial investment assets, has decreased to MSEK 11,779
+                                                                          (15,971) despite lower claims payments as the net investments
+Claims                                                                    have increased. At the Annual General Meeting a dividend of
+Insurance service expenses, claims incurred and reinsurers’ share         MSEK 5,400 (11,000) was paid and in addition an extra dividend of
+of claims incurred increased to a net of MSEK 26,402 (25,589)             MSEK 2,800 (-) was paid in the period. The subordinated loan was
+during the period. The risk ratio improved slightly to 59.5%              repaid of net MSEK 1,500 (238).
+(59.6), including a 1.9 percentage points (1.0) positive impact of
+prior years’ development. The period showed favourable large
+claims outcome, with weather-related claims broadly in line with
+                                                                          Significant events and effects during the
+expectations despite a major storm.                                       reporting period
+   On 30 June the liability for incurred claims amounted to               In April, the Danish Supreme Court ruled that the compensation
+MSEK 90,294 (84,972). Adjusted for currency effects, the liability        threshold for permanent loss of earning capacity in workers’
+for incurred claims increased by MSEK 2,785 compared to the               compensation cases will be retrospectively lowered from 15%
+end of 2025.                                                              to 5%. The ruling may lead to additional claims and financial
+   The reinsurance asset for incurred claims amounted to                  consequences for the Danish insurance industry, although the full
+MSEK 6,340 (6,568). Adjusted for currency effects and other               impact remains uncertain. The potential impact is expected to be
+items that did not impact the income statement, the decrease              covered by existing reserves.
+during the period was MSEK 447.
+Expenses                                                                  Significant events and effects after the
+Insurance service expenses, operating expenses amounted to                reporting period
+MSEK 6,675 (6,223) during the first half of the year. The cost ratio      No significant events have occurred after the reporting period.
+improved to 22.5% (22.7).
+  During the first half of the year, the restructuring reserve was        Parent Company earnings
+released by MSEK 172 (200), which was utilised against incurred           The operations of the Parent Company If P&C Insurance Holding
+expenses.                                                                 Ltd (publ) consist primarily of ownership and management
+Net financial result                                                      of shares in subsidiaries. Parts of the cash surplus are also
+Net financial result was MSEK 1,973 (2,876) and consists of               managed in a dedicated investment portfolio. Profit for the
+Investment result and Insurance finance income or expenses, net.          period was MSEK 9,457 (12,336), primarily due to dividends from
+  The investment result was MSEK 3,238 (3,558). The result cor-           subsidiaries.
+responds to a total investment return of 2.2% (2.5), driven mainly
+
+
+
+                                                  If’s Interim report January - June 2026                                                   3
+Key figures
+
+                                                                                                              2026        2025     2025    2024    2023    2022
+    MSEK                                                                                                    Jan-Jun     Jan-Jun Jan-Dec Jan-Dec Jan-Dec Jan-Dec
+    Earnings-related information 1)
+    Insurance revenue                                                                                        43,287       42,082       85,251      68,045       61,158      56,570
+    Reinsurance premium expenses                                                                              -2,912      -3,424       -6,918      -5,028       -3,832       -3,174
+    Insurance service expenses, claims incurred                                                              -26,817     -26,688     -54,396      -46,177      -43,180     -38,978
+         of which, claims handling expenses                                                                   -2,395       -2,534      -5,003       -3,592      -3,253       -3,002
+    Insurance service expenses, operating expenses                                                            -6,675      -6,223      -12,597       -9,911      -8,916       -8,512
+    Reinsurers' share of claims incurred                                                                         415       1,099        2,708       3,765        4,434        1,247
+    Insurance service result                                                                                   7,299       6,846      14,048       10,694       9,664         7,152
+    Investment result                                                                                          3,238       3,558        7,027       7,584        9,934       2,927
+    Insurance finance income or expense, net                                                                  -1,265        -682         -246       -2,188      -3,801       6,488
+    Net financial result                                                                                       1,973       2,876        6,781       5,396        6,133       9,415
+
+
+    Net profit for the period 1)                                                                              6,590        6,843      14,362       11,029      12,309       13,023
+
+
+    Information regarding financial position 1)
+    Investment assets                                                                                       146,308      139,242      137,534     147,040      120,312     116,288
+    Insurance liabilities                                                                                   109,832      105,973      98,144      102,253       79,162      74,433
+    Consolidation capital                                                                                    45,507       45,442       47,503      50,573       47,943      44,739
+         of which, deferred tax                                                                                5,652        5,221       5,495        5,333       3,860        3,307
+
+
+    Key data 1)
+    Claims ratio                                                                                              65.4%       66.2%        66.0%        67.3%       67.6%        70.7%
+    Expense ratio                                                                                             16.5%        16.1%        16.1%       15.7%       15.6%        15.9%
+    Combined ratio                                                                                            81.9%       82.3%        82.1%       83.0%        83.1%       86.6%
+    Risk ratio 3)                                                                                             59.5%       59.6%        59.6%        61.6%       61.9%       65.0%
+    Cost ratio 3)                                                                                             22.5%        22.7%       22.5%        21.4%       21.2%        21.6%
+    Insurance margin 3)                                                                                        18.1%       17.7%        17.9%       17.0%       16.9%        13.4%
+    Gross written premium 3)                                                                                 53,254       53,180       87,718      69,719       62,743      57,732
+    Total investment return                                                                                    2.2%         2.5%        5.0%         6.0%        8.3%        -4.4%
+    Total return 1,2)                                                                                          3,238       3,558        7,027       7,584       9,934       -5,439
+    Consolidation margin                                                                                      55.5%       59.9%        59.1%       78.5%        81.7%        82.1%
+    1)
+         Since 1 January 2023 If applies IFRS 9 Financial instruments. The figures presented for 2022 are unchanged, which means that they are presented in accordance with the
+         previously applied accounting policies.
+    2)
+         The total return from 2023 onwards consists of the Investment result. For 2022 this consists of the Investment result and effects presented in Other comprehensive income
+         (Remeasurement of financial assets available for sale and Value changes on financial assets available for sale reclassified to the income statement).
+    3)
+         Refers to alternative performance measures which are defined in Definitions.
+
+
+
+
+4                                                                       If’s Interim report January - June 2026
+                                                Consolidated income statement
+
+                                                                                            2026       2025       2025
+MSEK                                                                                      Jan-Jun    Jan-Jun   Jan-Dec
+
+
+Insurance revenue                                                                          43,287     42,082    85,251
+
+
+Reinsurance premium expenses                                                               -2,912     -3,424    -6,918
+
+
+Insurance service expenses
+ Claims incurred                                                                          -26,817    -26,688   -54,396
+ Operating expenses                                                                        -6,675     -6,223    -12,597
+                                                                                          -33,492    -32,911   -66,993
+
+
+Reinsurers' share of claims incurred                                                          415      1,099     2,708
+
+
+Insurance service result                                                                    7,299     6,846     14,048
+
+
+Investment result
+ Direct investment income                                                                   2,647      2,776     5,156
+ Changes in value                                                                             801      1,079     2,434
+ Management costs                                                                            -210       -296      -563
+                                                                                            3,238      3,558      7,027
+
+
+Insurance finance income or expenses, net
+ Insurance contracts                                                                        -1,341      -811      -453
+ Reinsurance contracts held                                                                    76        128       207
+                                                                                           -1,265      -682       -246
+
+
+Net financial result                                                                        1,973      2,876     6,781
+
+
+Other income                                                                                 856        873       1,713
+Other expenses                                                                             -1,369     -1,397    -3,250
+Interest expenses, financing                                                                 -318      -396       -739
+Interest income, net pension asset                                                              11        4          7
+Income from associates                                                                         -3          1          1
+Result before income taxes                                                                 8,449      8,807     18,562
+
+
+Taxes                                                                                      -1,859     -1,964    -4,200
+
+
+Net profit for the period                                                                  6,590      6,843     14,362
+
+
+Of which attributable to owners of the parent                                               6,590      6,843    14,362
+
+
+
+
+                                                If’s Interim report January - June 2026                                   5
+Consolidated statement of comprehensive income
+
+                                                                                                             2026       2025      2025
+    MSEK                                                                                                   Jan-Jun   Jan-Jun   Jan-Dec
+    Net profit for the period                                                                                6,590     6,843     14,362
+
+
+    Other comprehensive income
+    Items that will not be reclassified subsequently to profit or loss
+    Remeasurements of the net pension asset                                                                    -25       116       266
+    Taxes related to items which will not be reclassified                                                       5        -24       -55
+                                                                                                               -20       92        211
+
+
+    Items that will be reclassified subsequently to profit or loss when specific conditions are met
+    Effects of changes in exchange rates, foreign operations                                                 1,499    -1,243     -2,696
+    Hedging of net investments in foreign operations                                                         -462       543       1,113
+    Taxes related to items which will be reclassified when specific conditions are met                         -60       -25         5
+                                                                                                              977       -724     -1,577
+
+
+    Total comprehensive income for the period                                                                7,547     6,211    12,996
+
+
+    Of which attributable to owners of the parent                                                            7,547     6,211     12,996
+
+
+
+
+6                                                                If’s Interim report January - June 2026
+                                                       Consolidated balance sheet
+
+Assets
+
+                                                                                               2026      2025       2025
+MSEK                                                                                  Note    30 Jun    30 Jun     31 Dec
+Intangible assets
+Goodwill                                                                                      13,314    13,345     12,964
+Other intangible assets                                                                        4,666     5,390      4,912
+                                                                                              17,980    18,734     17,876
+
+
+Investment assets
+Land and buildings                                                                                3          4         3
+Investments in associates                                                                        54         47        56
+Other financial investment assets                                                       4    146,245   139,184    137,469
+Deposits with ceding undertakings                                                                  7         7         6
+                                                                                             146,308   139,242    137,534
+
+
+Reinsurance assets
+Asset for remaining coverage                                                                     615      506         82
+Asset for incurred claims                                                                      6,340     7,330      6,568
+                                                                                               6,955     7,835     6,650
+
+
+Deferred tax assets                                                                              70       106         63
+
+
+Debtors                                                                                        3,880     5,104      4,061
+
+
+Other assets
+Tangible assets                                                                                2,992     3,048      2,869
+Cash and bank balances                                                                         8,086      7,911     5,987
+Collateral and security settlement claims                                                      1,020       612       810
+Net pension assets                                                                               718       547        717
+                                                                                              12,816    12,118    10,384
+
+
+Prepaid expenses and accrued income
+Accrued interest and rental income                                                             1,400     1,165      1,438
+Other prepaid expenses and accrued income                                                      1,275     1,145      1,053
+                                                                                               2,675     2,310      2,491
+
+
+Total assets                                                                                 190,684   185,450    179,059
+
+
+
+
+                                            If’s Interim report January - June 2026                                         7
+Consolidated balance sheet
+
+
+
+
+    Shareholders’ equity, provisions and liabilities
+
+                                                                                                                2026       2025      2025
+    MSEK                                                                                               Note    30 Jun     30 Jun    31 Dec
+    Shareholders' equity
+    Share capital                                                                                               2,726      2,726     2,726
+    Statutory reserve                                                                                            400        400       400
+    Profit brought forward                                                                                     30,140     28,754    23,021
+    Net profit for the period                                                                                   6,590      6,843    14,362
+                                                                                                               39,855     38,723   40,508
+
+
+    Subordinated debt                                                                                                -     1,498     1,499
+
+
+    Insurance liabilities
+    Liability for remaining coverage and acquisition cashflow asset                                            19,537     19,384    13,172
+    Liability for incurred claims                                                                              90,294     86,589    84,972
+                                                                                                              109,832    105,973   98,144
+
+
+    Provisions for other risks and charges
+    Deferred tax liability                                                                                      5,722      5,327     5,558
+    Other provisions                                                                                            1,305      1,923     1,547
+                                                                                                                7,027      7,250     7,105
+
+
+    Creditors
+    Loans from parent company                                                                                   19,111    19,220    18,649
+    Derivatives                                                                                          4        732       560       799
+    Other creditors                                                                                             11,521    10,080     9,394
+                                                                                                               31,364    29,859    28,842
+
+
+    Accrued expenses and prepaid income                                                                         2,607      2,146    2,960
+
+
+    Total shareholders' equity, provisions and liabilities                                                    190,684    185,450   179,059
+
+
+
+
+8                                                            If’s Interim report January - June 2026
+        Changes in shareholders’ consolidated equity
+
+                                                                       Restricted equity          Unrestricted equity
+                                                                                                 Profit          Net
+                                                                        Share     Statutory    brought     profit for         Total
+ MSEK                                                                  capital     reserves    forward    the period         equity
+ Equity at beginning of 2026                                            2,726          400       37,383             -        40,508
+ Total comprehensive income                                                  -             -        957        6,590            7,547
+ Dividend paid                                                               -             -      8,200             -         -8,200
+ Equity at end of June 2026                                              2,726           400     30,140        6,590          39,855
+
+
+
+ Equity at beginning of 2025                                             2,726           400    40,387              -         43,512
+ Total comprehensive income                                                  -             -       -632        6,843            6,211
+ Dividend paid                                                               -             -    -11,000             -         -11,000
+ Equity at end of June 2025                                              2,726           400     28,754        6,843          38,723
+
+
+
+ Equity at beginning of 2025                                             2,726           400    40,387              -         43,512
+ Total comprehensive income                                                  -             -     -1,366        14,362         12,996
+ Dividend paid                                                               -             -    -16,000             -        -16,000
+ Equity at end of 2025                                                   2,726           400     23,021       14,362         40,508
+
+
+
+The number of shares amounts to 136,350,000, with a quotient value of SEK 19.99 per share. Of these, 103,525,000 are Series A shares
+carrying one vote per share, and 32,825,000 are Series B shares carrying one-tenth of a vote per share.
+  The accumulated translation difference amounts to MSEK 634 (–865). The accumulated reserve relating to the hedging of net invest-
+ments in foreign operations amounts to MSEK 889 (1,351). The amounts are recognised in profit brought forward within equity.
+
+
+
+
+                                               If’s Interim report January - June 2026                                                  9
+Consolidated cash flow statement
+
+                                                                                                 2026       2025       2025
+ MSEK                                                                                          Jan-Jun    Jan-Jun   Jan-Dec
+ CASH FLOW FROM OPERATING ACTIVITIES
+ Cash flow from insurance operations
+ Premium flows, direct insurance                                                                48,982     48,287    85,738
+ Claim payments, direct insurance                                                              -25,382    -28,584    -56,153
+ Reinsurance flows                                                                              -2,644     -2,602     -2,831
+ Costs of operations                                                                             -7,361    -7,048    -13,540
+                                                                                                13,595     10,053    13,215
+
+
+ Cash flow from asset management
+ Interest received                                                                               2,677      2,917      5,131
+ Interest paid                                                                                     -74       -120      -182
+ Dividends received, shares                                                                        265       300        396
+ Cash flows from properties                                                                          -1      -49          -2
+ Net investments in financial investment assets                                                 -1,950      5,858     6,526
+                                                                                                   918     8,905     11,869
+
+
+ Interest paid, financing                                                                         -297      -440       -776
+ Realised foreign exchange transactions                                                             22        94       -901
+ Paid income tax                                                                                -2,458     -2,642     -4,037
+                                                                                                11,779     15,971    19,370
+
+
+ CASH FLOW FROM INVESTING ACTIVITIES
+ Investments in associated companies                                                                  -         -        -9
+ Dividends received and sale of shares, associates                                                    -         1          1
+                                                                                                      -         1        -9
+
+
+ CASH FLOW FROM FINANCING ACTIVITIES
+ Dividend paid                                                                                  -8,200    -11,000   -16,000
+ Repayments of lease liabilities                                                                  -151       -137       -311
+ Repayments of loans                                                                            -1,500       -238      -259
+                                                                                                -9,851    -11,375   -16,570
+
+
+ Cash flow for the period                                                                        1,928      4,597     2,790
+
+
+ Cash and bank balances
+ Opening cash and bank balances for the period                                                   5,987      3,433     3,433
+ Effect of exchange rate changes                                                                   171       -118      -236
+ Cash flow for the period                                                                        1,928      4,597     2,790
+ Closing cash and bank balances for the period                                                  8,086       7,911     5,987
+
+
+
+
+10                                                   If’s Interim report January - June 2026
+                                                                                                  Parent company
+
+Income statement
+
+                                                                                                       2026      2025       2025
+MSEK                                                                                                 Jan-Jun   Jan-Jun   Jan-Dec
+Other operating expenses                                                                                   0         0         -1
+Operating result                                                                                          0         0          -1
+
+
+Result from financial investments
+Dividends from group companies                                                                        10,037    12,754     18,254
+Interest income and similar income items                                                                  91       103        179
+Interest expenses and similar expense items                                                             -401      -471      -897
+Write down, shares in subsidiaries                                                                      -289         -          -
+Result after financial items                                                                          9,438     12,386     17,536
+
+
+Group contributions, net                                                                                   -         -        -21
+Result before income taxes                                                                            9,438     12,386     17,515
+
+
+Taxes                                                                                                    20        -50       -60
+
+
+Net profit for the period                                                                              9,457    12,336     17,455
+
+
+
+
+Statement of comprehensive income
+
+                                                                                                      2026       2025       2025
+MSEK                                                                                                Jan-Jun    Jan-Jun   Jan-Dec
+Net profit for the period                                                                             9,457     12,336     17,455
+
+
+Other comprehensive income
+Items that will be reclassified subsequently to profit or loss when specific conditions are met
+Effects of changes in exchange rates, foreign operations                                                  0         0          0
+Taxes related to items which will be reclassified when specific conditions are met                        0         0          0
+                                                                                                          0         0          0
+
+
+Total comprehensive income for the period                                                             9,457     12,336    17,455
+
+
+
+
+                                                       If’s Interim report January - June 2026                                      11
+Parent company
+
+
+
+
+ Balance sheet
+
+ MSEK                                                                                                2026      2025     2025
+ Assets                                                                                             30 Jun    30 Jun   31 Dec
+ Financial fixed assets
+ Shares in group companies                                                                          75,910    75,804   76,106
+ Debtors, group companies                                                                               53         -        -
+ Shares in associates                                                                                   29       20       29
+                                                                                                    75,992    75,824   76,135
+
+
+ Deferred tax asset                                                                                     22        3        2
+
+
+ Debtors
+ Debtors, group companies                                                                              294      208      300
+ Other debtors                                                                                           2        0        0
+ Other prepaid expenses and accrued income                                                               3        4        4
+                                                                                                      299       212      305
+
+
+ Short-term investments                                                                               444       497     1,126
+
+
+ Cash and bank balances                                                                              3,079     3,623   2,094
+
+
+ Total assets                                                                                       79,836    80,158   79,662
+
+
+ Shareholders’ equity, provisions and liabilities
+ Shareholders’ equity
+ Share capital                                                                                       2,726     2,726    2,726
+ Statutory reserve                                                                                     400      400      400
+ Profit brought forward                                                                             46,068    41,813   36,813
+ Net profit for the period                                                                           9,457    12,336   17,455
+                                                                                                    58,650    57,274   57,393
+
+
+ Subordinated debt                                                                                        -    1,498    1,499
+
+
+ Provisions
+ Other provisions                                                                                       10        10       10
+                                                                                                        10       10       10
+
+
+ Non-current creditor
+ Loans from Parent company                                                                           19,111   19,220   18,649
+                                                                                                     19,111   19,220   18,649
+
+
+ Current creditors
+ Creditors, group companies                                                                           1,721    1,641    1,936
+ Provision for taxes                                                                                      -      58       66
+ Accounts payable                                                                                         -        1       0
+ Other creditors                                                                                       242       351       9
+ Other accrued expenses and prepaid income                                                             101       105     100
+                                                                                                     2,064     2,156    2,111
+
+
+ Total shareholders’ equity, provisions and liabilities                                             79,836    80,158   79,662
+
+
+
+
+12                                                        If’s Interim report January - June 2026
+                                                                                                                             Notes
+NOTE 1 – Accounting policies
+                                                                          otherwise would have been classified in the investing category
+For the Group, this Interim report was prepared in accordance             will be presented in the operating category. There is no expected
+with IAS 34 Interim Financial Reporting and applicable regu-              impact on the insurance service result, net profit for the year or
+lations in the Annual Accounts Act (1995:1560) for Insurance              equity.
+Companies (ÅRFL), and for the Parent Company in accordance                  As a consequence of the changed requirements for aggregation
+with the Annual Accounts Act (1995:1554) (ÅRL). The accounting            and disaggregation, some changes to the presentation in the
+policies for the Group and the Parent Company that have been              primary financial statements as well as the note disclosures are
+applied in this Interim report are the same as those applied in the       expected. Current assessment is that there are no management-
+2025 Annual Report.                                                       defined performance measures for the Group
+   Besides the disclosures provided in Notes 1-5 more information
+can be found in the section Economic overview.
+   As commented on in the 2025 Annual report, the Group will in
+2027 for the first time apply IFRS 18 Presentation and Disclosure
+in Financial Statements. The Group primarily has insurance
+operations and has therefore been considered to have a main
+business activity of investing in assets. Income and expenses that
+
+
+
+NOTE 2 – Risks and uncertainties
+
+Risks and risk management are a natural and integrated part                  If has a risk framework in place to manage its risks in line with
+of If's operations and external environment. An effective risk            overall risk management objectives and strategy. If bases its risk
+management process is a prerequisite for running the business             framework on regulation and best practices and applies the three
+efficiently and achieving established goals. If’s primary risk cate-      lines model in its daily risk management activities. The objective
+gories are underwriting risk, market risk, credit risk, operational       of risk management is to provide assurance to the boards and
+risk, and other risks which include sustainability risks. The main        other stakeholders that risks and capital are being managed
+underwriting risks in the insurance business are premium and              appropriately.
+reserve risks, while the main market risks are interest rate risk,           If’s risks and risk management are further described in the
+equity risk and currency risk.                                            2025 Annual Report.
+
+
+
+
+                                                  If’s Interim report January - June 2026                                                   13
+Notes
+
+
+
+NOTE 3 – Result per business area
+
+
+ Income statement and balance sheet per business area
+
+                                                                                                                                             Eliminations and
+                                                                                                                                               adjustments to
+ MSEK                                                                                                                                            consolidated         Total 2026
+ 2026                                                                           Private Commercial           Industrial          Other 1)           policies 2)          Jan-Jun
+ Insurance revenue                                                                23,271    12,926                5,534            1,556                      -            43,287
+ Reinsurance premium expenses                                                       -275      -460               -2,159                -17                    -             -2,912
+ Insurance service expenses, claims incurred                                     -15,517    -8,073               -2,457             -898                   128            -26,817
+ Insurance service expenses, operating expenses                                   -3,445    -2,358                 -591              -237                  -44             -6,675
+ Reinsurers' share of claims incurred                                                 33        20                  359                  3                    -                415
+ Insurance service result                                                         4,066      2,054                  687              408                    84              7,299
+ Investment result                                                                                                                 3,238                      -              3,238
+ Insurance finance income or expenses, net                                                                                        -1,265                      -            -1,265
+ Net financial result                                                                                                              1,973                      -              1,973
+ Other income                                                                                                                       1,271                 -415                 856
+ Other expenses                                                                                                                   -1,695                   327             -1,369
+ Interest expenses, financing                                                                                                        -318                     -               -318
+ Interest income, net pension asset                                                                                                     11                    -                  11
+ Income from associates                                                                                                                 -3                    -                 -3
+ Result before income taxes                                                      4,066           2,054              687            1,647                    -5              8,449
+
+ Assets
+ Reinsurance assets                                                                461           2,526            3,953               15                                    6,955
+ Other 3)                                                                                                                        183,730                                  183,730
+ Total assets                                                                      461           2,526            3,953          183,745                                 190,684
+
+ Shareholders’ equity, provisions and liabilities
+ Shareholders’ equity                                                                                                             39,855                                   39,855
+ Insurance liabilities                                                           44,411         41,307           20,705            3,408                                  109,832
+ Other 3)                                                                                                                         40,997                                   40,997
+ Total shareholders’ equity, provisions and liabilities                         44,411          41,307          20,705            84,261                                 190,684
+ 1)
+      Insurance service result, Reinsurance assets and Insurance liabilities in Other consist primarily of business area Baltic and assumed reinsurance from the Hastings Group.
+ 2)
+      Refers to elimination of transactions between business areas.
+ 3)
+      Other assets and liabilities have not been allocated per business area.
+
+
+
+
+14                                                                     If’s Interim report January - June 2026
+                                                                                                                                                                              Notes
+
+
+
+
+Income statement and balance sheet per business area
+
+                                                                                                                                             Eliminations and
+                                                                                                                                               adjustments to
+MSEK                                                                                                                                             consolidated         Total 2025
+2025                                                                           Private Commercial           Industrial           Other 1)           policies 2)         Jan-Jun
+Insurance revenue                                                               21,949     12,678                5,814             1,640                      -           42,082
+Reinsurance premium expenses                                                       -269       -627              -2,514                 -13                    -            -3,424
+Insurance service expenses, claims incurred                                     -14,815    -8,202               -2,724            -1,036                   89            -26,688
+Insurance service expenses, operating expenses                                   -3,206     -2,120                -613               -253                  -31             -6,223
+Reinsurers' share of claims incurred                                                 83        319                 705                  -8                    -              1,099
+Insurance service result                                                          3,742    2,048                  667                 331                  58              6,846
+Investment result                                                                                                                  3,558                      -             3,558
+Insurance finance income or expenses, net                                                                                           -682                      -               -682
+Net financial result                                                                                                              2,876                       -             2,876
+Other income                                                                                                                        1,163                -290                  873
+Other expenses                                                                                                                    -1,627                  230               -1,397
+Interest expenses, financing                                                                                                        -396                      -               -396
+Interest income, net pension asset                                                                                                       4                    -                  4
+Income from associates                                                                                                                   1                    -                  1
+Result before income taxes                                                      3,742           2,048               667           2,352                     -3              8,807
+
+Assets
+Reinsurance assets                                                                279           2,508             5,030                18                                   7,835
+Other 3)                                                                                                                          177,615                                 177,615
+Total assets                                                                      279           2,508             5,030          177,633                                 185,450
+
+Shareholders’ equity, provisions and liabilities
+Shareholders’ equity                                                                                                              38,723                                   38,723
+Insurance liabilities                                                           41,218         40,105            21,476            3,175                                  105,973
+Other 3)                                                                                                                          40,753                                   40,753
+Total shareholders’ equity, provisions and liabilities                         41,218          40,105            21,476           82,621                                 185,450
+1)
+     Insurance service result, Reinsurance assets and Insurance liabilities in Other consist primarily of business area Baltic and assumed reinsurance from the Hastings Group.
+2)   Refers to elimination of transactions between business areas.
+3)
+     Other assets and liabilities have not been allocated per business area.
+
+
+
+
+                                                                 If’s Interim report January - June 2026                                                                             15
+Notes
+
+
+
+
+NOTE 4 – Other financial investment assets and derivative liabilities
+Classification of other financial investment assets
+and derivative liabilities
+The measurement and reporting of financial assets and liabilities
+depends on their classification.
+
+
+                                                                                                           Acquisition value              Fair value                Carrying amount
+                                                                                                            2026          2025          2026          2025           2026          2025
+ MSEK                                                                                                      30 Jun        31 Dec        30 Jun        31 Dec         30 Jun        31 Dec
+ Financial assets at fair value through profit or loss (mandatorily)
+ Shares and participations                                                                                  9,243          8,937        17,067        15,996        17,067        15,996
+ Bonds and other interest-bearing securities                                                              127,903        120,174      128,390       120,865       128,390        120,865
+ Derivatives                                                                                                    82           122           430            251          430            251
+ Total financial assets at fair value through profit or loss                                              137,229      129,233        145,887        137,112      145,887        137,112
+
+
+ Financial assets measured at amortised cost1)
+ Other loans                                                                                                   374           372           358           356           358           356
+ Total other financial investment assets                                                                  137,603      129,605        146,245       137,469       146,245        137,469
+
+
+ Financial liabilities at fair value through profit or loss (mandatorily)
+ Derivatives                                                                                                  293            472           732           799            732          799
+ Total financial liabilities at fair value through profit or loss                                             293            472           732           799           732           799
+ 1)
+      Other loans are in accordance with If’s application of IFRS 9 accounted for at amortised cost. The fair value is only shown for disclosure purposes. Financial
+      instruments with fair value information are classified in three different hierarchy levels depending on their liquidity and valuation methods. All loans are classified in level 3
+      and the fair value of these loans is based on cash-flow valuations.
+
+
+
+
+16                                                                       If’s Interim report January - June 2026
+                                                                                                                                           Notes
+
+
+
+
+Financial investment assets and derivative                                Level 3 – Financial assets and liabilities with valuation based on
+liabilities measured at fair value                                        unobservable inputs for the asset or liability.
+Within If, a thorough process is followed and controls are per-              When neither quoted prices in active markets nor observable
+formed in order to determine fair values of financial assets and          market data is available, the fair value of financial instruments
+liabilities in accordance with applicable regulations. For example,       is calculated using valuation techniques that are based on non-
+controls are made against several different external sources and          observable market data.
+assessments of abnormal price changes are performed when                     Level 3 comprises private equity, unlisted shares and distressed
+necessary.                                                                assets encountering financial difficulties where trading has
+   Different valuation methods are used to determine the fair             essentially ceased to exist.
+                                                                             The types of financial instruments classified as level 3 in the
+value depending on the type of financial instruments and to what
+                                                                          valuation hierarchy are discussed below with reference to type of
+extent they are traded on active markets. In order to evaluate
+                                                                          securities and valuation method:
+the activity in a market with respect to frequency and volume, If
+mainly uses information compiled by Bloomberg. Quoted shares              – Private equity is classified as level 3. The majority of If’s invest-
+are measured on the basis of latest trade prices on stock markets           ments in private equity is made in mutual funds. The fair values
+and are obtained from Bloomberg. The valuation of bonds is also             are based on prices and share values obtained from the funds’
+usually based on prices from Bloomberg, where the last bid prices           administrators. These quotations are based on the value of the
+are used for quoted bonds. For model-valued interest bearing                underlying assets in accordance with market practice. The last
+instruments, yield curves based on last mid prices are used.                obtained value is used.
+   If’s financial instruments, which are measured at fair value, are      – For some unlisted shares external evaluations are obtained and
+categorised in three hierarchy levels depending on their valuation          used for valuation. The external valuations are based on models
+methods, as well as how active the market is and available                  that contain non-observable assumptions.
+observable or unobservable inputs. The classification in hierarchy        – Other assets in level 3 are normally measured at least yearly
+levels is reviewed quarterly. If conditions have changed for the            and the valuation is based either on external estimates, cash
+existing level, the holding in question is moved to the correct             flow analyses or latest market transactions.
+hierarchy level.
+
+Level 1 – Financial assets and liabilities with valuation based on
+quoted prices in active markets for identical assets or liabilities.
+  Quoted prices in active markets are considered the best
+estimate of an asset/liability’s fair value. An active market is
+typically characterised by quoted prices that are easily available
+and that represent actual and regularly occurring transactions at
+arm’s length.
+  Assets and liabilities in the category include shares, listed
+funds (ETF), equity and interest rate funds and interest bearing
+assets that have quoted prices in an active market at the time of
+valuation.
+
+Level 2 – Financial assets and liabilities with valuation based on
+quoted prices or valuation based on directly or indirectly observable
+market data.
+   In the level 2 hierarchy, all essential inputs are observable
+either directly or indirectly. The large majority of the instruments
+in level 2 are traded in a market with daily quoted prices and
+regularly occurring market transactions but where the market
+is not considered to be active enough regarding frequency and
+volume and/ or when the standard deviation of the prices is high.
+A very limited part of the instruments is model-valued with the
+help of market data that is indirectly observable, meaning that
+prices can be derived from observable markets where market
+interest rates and underlying prices are normally updated daily
+or, in exceptional cases, at least monthly.
+   Instruments that are measured at level 2 include interest-
+bearing assets where the market is not active enough. Most OTC
+derivatives, standardised derivatives and currency derivatives
+are also included in this level.
+
+
+
+
+                                                  If’s Interim report January - June 2026                                                      17
+Notes
+
+
+
+
+  Financial investment assets and derivative liabilities in fair value hierarchy
+
+                                                                                                           2026                                          2025
+                                                                                                          30 Jun                                        31 Dec
+                                                                                                                               Total                                     Total
+                                                                                                                                 fair                                      fair
+  MSEK                                                                                   Level 1 Level 2 Level 3               value    Level 1 Level 2 Level 3          value
+  Financial assets at fair value through profit or loss (mandatorily)
+  Shares and participations 1)                                                            16,527        463          77    17,067       15,525         398        74    15,996
+  Bonds and other interest-bearing securities                                             94,661      33,651        79 128,390          80,945      39,856       65 120,865
+  Derivatives
+      Inflation-linked derivatives                                                                -      145          -          145           -       129          -      129
+      Fixed income derivatives                                                                    -       70          -           70           -        18          -       18
+      Currency derivatives                                                                        -      216          -          216           -       103          -      103
+  Total financial investment assets at fair value                                        111,188      34,544       156 145,887 96,469 40,504                     138    137,112
+
+
+  Financial liabilities at fair value through profit or loss (mandatorily)
+  Derivatives
+      Inflation-linked derivatives                                                                -      185          -          185           -       190          -      190
+      Fixed income derivatives                                                                    -     320           -          320           -       330          -      330
+      Currency derivatives                                                                        -      227          -          227           -       278          -      278
+  Total derivative liabilities at fair value                                                      -     732           -          732           -       799          -      799
+ 1)
+      Mutual equity funds recognised in the above balances amounted to MSEK 8,145 (6,944) of which MSEK 7,683 (6,546) was allocated to level 1, MSEK 451 (387) to
+      level 2 and MSEK 12 (11) to level 3.
+
+
+
+Transfers from level 1 to level 2 amounted to MSEK 3,451 (3,072)                                level 2 to level 1 amounted to MSEK 8,892 (4,607) corresponding
+corresponding to 2.4% (2.3) of the outstanding balance for                                      to 6.1% (3.4) of the outstanding balance for financial investment
+financial investment assets measured at fair value. Transfers from                              assets measured at fair value.
+
+
+
+Financial investment assets in level 3
+All assets in level 3 are categorised as financial assets at fair value
+through profit or loss (mandatorily).
+
+
+
+                                                                                                                                                                   Net gains/
+                                                                                                                                                            losses in income
+                                                                                                                                                              statement that
+                                            Carrying   Net gains/losses                                         Transfers Exchange                 Carrying are attributable
+  MSEK                                       amount         recorded in                              Sales/       into/out         rate             amount to assets held at
+  2026                                         1 Jan Income statement Purchases                   maturities     of level 3 differences              30 Jun     end of period
+  Financial assets at fair
+  value through profit or loss
+  (mandatorily)
+  Shares and participations                         74                        2             -              -1              -               2             77                   2
+  Bonds and other interest-bearing
+  securities                                        65                        -             9               -              -               5             79                   -
+ Total                                             138                       2              9              -1              -               7            156                   2
+
+
+
+
+18                                                                  If’s Interim report January - June 2026
+                                                                                                                                                                   Notes
+
+
+
+
+                                                                                                                                                              Net gains/
+                                                                                                                                                       losses in income
+                                                                                                                                                         statement that
+                                             Carrying   Net gains/losses                                   Transfers     Exchange      Carrying        are attributable
+  MSEK                                        amount         recorded in            Sales/                   into/out         rate      amount         to assets held at
+  2025                                          1 Jan Income statement Purchases maturities                 of level 3 differences       30 Jun            end of period
+  Financial assets at fair
+  value through profit or loss
+  (mandatorily)
+  Shares and participations                         101                   -6           -               -           -             1              96                   -6
+  Bonds and other interest-bearing
+  securities                                        197                    1         20             -137           -           -10              73                        1
+ Total                                             298                    -4         20             -137           -           -9              169                   -4
+
+
+
+
+Sensitivity analysis of the fair values of financial                                       The following changes in key assumptions have been used:
+investment assets in level 3                                                               – 1% increase in the yield curve for bonds and other interest-
+The sensitivity of the fair value of level 3 instruments to changes                          bearing securities; and
+in key assumptions, by category and financial instrument is shown                          – 20% decrease in prices for equity related securities.
+below.
+
+
+                                                                                            2026                                           2025
+                                                                                           30 Jun                                         31 Dec
+                                                                                                           Effect of                                          Effect of
+                                                                                                        reasonably                                         reasonably
+                                                                                                           possible                                           possible
+                                                                                                        alternative                                        alternative
+  MSEK                                                                    Carrying amount              assumptions         Carrying amount                assumptions
+  Financial assets, at fair value through profit or loss
+  (mandatorily)
+  Shares and participations 1)                                                             77                    -15                           74                   -15
+  Bonds and other interest-bearing securities                                              79                      -                          65                      -
+  Total                                                                                156                       -15                          138                   -15
+ 1)
+      Includes holding in equity funds.
+
+
+
+NOTE 5 – Pledged assets and contingent liabilities
+
+
+                                                                                                                                      2026            2025       2025
+  MSEK                                                                                                                               30 Jun          30 Jun     31 Dec
+  Pledged assets and equivalent securities
+  Other financial investment assets                                                                                                   4,258           4,183      4,218
+  Shares in subsidiaries                                                                                                              1,081           1,029        985
+  Cash and bank balances                                                                                                               505               4         408
+  Total                                                                                                                              5,843            5,216      5,611
+
+
+  Policyholders’ beneficiary rights
+  Assets covered by policyholders' beneficiary rights                                                                            140,578            108,096     131,503
+  Technical provisions, net 1)                                                                                                   -93,108            -69,072    -85,660
+  Surplus of registered securities                                                                                                   47,470         39,024     45,842
+
+
+  Contingent liabilities and other commitments
+  Surety and guarantee undertakings                                                                                                     16              16          15
+  Other commitments                                                                                                                    470             298         249
+  Total                                                                                                                                486             313         264
+ 1)
+      Measured in accordance with the Solvency II regulation.
+
+
+
+
+                                                                If’s Interim report January - June 2026                                                                   19
+Signature
+
+
+
+                              Stockholm, 21 August 2026
+
+
+
+
+                                     Måns Edsman
+                                    Managing Director
+
+
+
+
+            The interim report has not been reviewed by the company’s auditors.
+
+
+
+
+20                          If’s Interim report January - June 2026
+                                                                                                             Definitions
+Alternative performance measures                                         Risk ratio *)
+A performance measure which is not defined in applicable                 Total sum of insurance service expenses, claims incurred
+accounting standards (IFRS, ÅRFL, FFFS 2019:23 and FRL),                 excluding claims handling expenses and reinsurers’ share of
+but where If considers it relevant to monitor and describe the           incurred claims, in relation to the sum of insurance revenue and
+Group’s financial situation and to provide additional useful             reinsurance premium expenses, expressed as a percentage.
+information to the users of its financial statements. Since these
+measures have been developed and adapted for If, they are not            Total investment return
+fully comparable with similar performance measures presented             Total return in relation to other financial investment assets, land
+                                                                         and buildings, cash and bank balances, accrued financial income,
+by other companies. These are marked below with *).
+                                                                         securities settlement claims/liabilities and derivative liabilities,
+Claims ratio                                                             expressed as a percentage. The return has been calculated using
+Total sum of insurance service expenses, claims incurred                 a daily time-weighted return calculation method.
+including claims handling expenses and reinsurers’ share of
+incurred claims in relation to the sum of insurance revenue and
+                                                                         Total return
+                                                                         Net of the following income and expenses: interest income/
+reinsurance premium expenses, expressed as a percentage.
+                                                                         expense, dividend on shares and participations, surplus/deficits
+Combined ratio                                                           from land and buildings, management costs, realised and unreali-
+Total sum of insurance service expenses (claims incurred and             sed changes in fair value of real estate, shares and participations
+operating expenses) and reinsurers’ share of claims incurred             and interest-bearing securities, and currency gains/losses.
+in relation to the sum of insurance revenue and reinsurance              Return pertaining to associates is not included.
+premium expenses, expressed as a percentage.
+Consolidation capital
+Shareholders’ equity less deferred tax assets plus untaxed
+reserves, subordinated debt and deferred tax liability.
+Consolidation margin
+Key ratio representing the relative size of the consolidation
+capital. The consolidation margin is calculated as the consolida-
+tion capital in relation to premiums written, net of reinsurance,
+excluding portfolio premiums.
+Cost ratio *)
+Total sum of insurance service expenses, operating expenses
+and claims handling expenses in relation to the sum of insurance
+revenue and reinsurance premium expenses, expressed as a
+percentage.
+Expense ratio
+Insurance service expenses, operating expenses in relation to the
+sum of insurance revenue and reinsurance premium expenses,
+expressed as a percentage.
+Gross written premium *)
+Gross written premium refers to the compensation that If
+receives from the policyholder in return for the transfer of risk.
+Gross written premium is the contractually determined premium
+(for the entire coverage period) for insurance contracts where
+risk coverage began during the period, subsequently adjusted for
+any expected losses and write-offs.
+Gross written premium growth *)
+Change in gross written premium adjusted for currency effects
+and excluding any adjustments for the expected losses and write-
+offs, expressed as a percentage.
+Insurance margin *)
+Insurance service result in relation to the sum of insurance
+revenue and reinsurance premium expenses, expressed as a
+percentage.
+
+
+
+
+                                                 If’s Interim report January - June 2026                                                    21
+                             Contact:
+                             Sweden            +46 771 430 000   if.se
+                             Norway            +47 21 49 24 00   if.no
+                             Denmark           +45 368 740 00    if.dk
+                             Finland           +358 10 51510     if.fi
+
+
+
+
+22   If’s Interim report January - June 2026
+

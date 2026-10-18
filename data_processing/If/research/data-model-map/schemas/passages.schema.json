@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Havaitut ohikulut",
+  "type": "object",
+  "properties": {
+    "passage_id": {
+      "type": "string",
+      "description": "Yhden täydellisen ruudun läpikulun tunniste. Ei henkilön tunniste."
+    },
+    "cell_id": {
+      "type": "string",
+      "description": "Viite cells-ruutuun."
+    },
+    "entered_at": {
+      "type": "string",
+      "description": "Ohikulun alku.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "exited_at": {
+      "type": "string",
+      "description": "Ohikulun loppu; tämän mukaan tarkasteluikkuna valitaan.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "ingested_at": {
+      "type": "string",
+      "description": "Hetki, jolloin tämä rivi saapui palveluun. Ei sama kuin tapahtuma-aika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "complete": {
+      "type": "boolean",
+      "description": "Vain valmistuneet ohikulut ovat mallin n:ssä."
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "passage_id",
+    "cell_id",
+    "entered_at",
+    "exited_at",
+    "ingested_at",
+    "complete",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

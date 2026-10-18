@@ -1,0 +1,1017 @@
+                              Kaskovakuutusehdot
+                              Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+
+Kaskovakuutuksen sisältö muodostuu vakuutuskirjasta, näistä vakuutusehdoista ja yleisistä sopimusehdoista.
+
+1 Vakuutuksen voimassaolo .................................................................... 1                   3.12 Pysäköintiturva ................................................................................ 6
+1.1 Vakuutuksen voimassaoloalue .......................................................... 1                       3.13 Eläinkolariturva ................................................................................ 6
+1.2 Ajoneuvon liikennekäytöstä poistaminen .......................................... 1                            3.14 Lemmikkiturva .................................................................................. 7
+1.3 Vakuutuksen päättyminen Vakuutus päättyy, kun ............................ 2                                   3.14.1 Vahinkojen korvaaminen lemmikkiturvasta .................................. 7
+1.4 Vakuutusmaksuun vaikuttavat tekijät ................................................ 2                         3.14.2 Korvaamisen rajoitukset lemmikkiturvassa .................................. 7
+1.4.1 Vakuutusmaksun muuttaminen vakuutuskauden vaihtuessa ........ 2                                              3.15 Henkilöturva ..................................................................................... 7
+1.4.2 Vakuutusmaksun muuttaminen vakuutuskauden aikana............... 2                                            3.15.1 Korvausmäärät henkilöturvassa ................................................... 7
+1.4.3 Muut tilanteet .................................................................................. 2          3.15.2. Henkilöturvan päättyminen .......................................................... 8
+1.5 Bonusalennus .................................................................................... 2            4 Vakuutusturvien yleiset rajoitukset ....................................................... 8
+2 Vakuutuksen kohde .............................................................................. 2               5 Suojeluohjeet ........................................................................................ 8
+2.1 Rajoitukset ......................................................................................... 2        5.1 Omaisuuden turvallinen käyttö: ......................................................... 8
+3 Vakuutusturvat ...................................................................................... 3          5.2 Turvallinen säilytys ja varkauksien estäminen: ................................. 8
+3.1 Törmäysturva ..................................................................................... 3           6 Vahinkojen korvaaminen ...................................................................... 9
+3.2 Varkausturva ..................................................................................... 3           6.1 Korvaamisen perusteet ...................................................................... 9
+3.2.1 Lukitusvaatimukset ......................................................................... 3               6.1.1 Välitön esinevahinko ja muut korvattavat kustannukset ................ 9
+3.3 Paloturva............................................................................................ 3        6.1.2 Vahinkotarkastus ............................................................................ 9
+3.4 Ilkivaltaturva ....................................................................................... 3       6.1.3 Korvaamisen rajoitukset ................................................................. 9
+3.5 Lunastusturva .................................................................................... 3           6.2 Omaisuuden arvon ja vahingon määrän arvioiminen ........................ 9
+3.6 Hinaus ja matkakulut -turvat .............................................................. 4                  6.2.1 Käypä arvo ...................................................................................... 9
+3.6.1 Hinaus ja matkakulut Suomessa .................................................... 4                         6.2.2 Ikävähennykset ............................................................................... 9
+3.6.2 Hinaus ja matkakulut ulkomailla ..................................................... 4                      6.3 Korvaamistavat ................................................................................ 10
+3.6.2.1 Ajoneuvon hinaus ja kuljettaminen.............................................. 4                          6.3.1 Korjaaminen .................................................................................. 10
+3.6.2.2 Muut matkan keskeytymisestä aiheutuneet kustannukset ......... 4                                           6.3.2 Kertakorvaus ................................................................................. 10
+3.6.3 Korvaamisen rajoitukset hinaus ja matkakulut -turvissa ................ 4                                    6.3.3 Tilalle hankkiminen ....................................................................... 10
+3.7 Sijaisautopalvelu ................................................................................ 4           6.3.4 Lunastus ....................................................................................... 10
+3.7.1 Korvaamisen rajoitukset sijaisautopalvelussa ................................ 5                              6.3.4.1 Lunastusturva ............................................................................ 10
+3.8 Keskeytysturva .................................................................................. 5            6.4 Omavastuu ja muut vähennykset .................................................... 11
+3.9 Rahoitusturva .................................................................................... 5           6.4.1 Omavastuu.................................................................................... 11
+3.10 Lasiturva .......................................................................................... 6        6.4.2 Moitittavan menettelyn vaikutus korvausta vähentävänä ............. 11
+3.11 Vastuuturva ulkomaille .................................................................... 6                 6.4.2.1 Samastaminen ........................................................................... 11
+Enimmäiskorvausmäärät sisältävät myös oikeudenkäyntikulut vahingon                                                 6.4.2.2 Ifin takautumisoikeus autovahingoissa ...................................... 11
+korvaamista koskevassa oikeudenkäynnissä. ........................................ 6                               6.4.3 Verolainsäädännön vaikutus korvauksen määrään ..................... 11
+3.11.1 Korvaamisen rajoitukset Vastuuturvassa ulkomaille .................... 6                                    6.4.4 Vähennysten laskemisjärjestys .................................................... 11
+3.11.2 Korvausvaatimuksen käsittely vastuuturvassa ulkomaille ........... 6
+
+1 Vakuutuksen voimassaolo
+1.1 Vakuutuksen voimassaoloalue
+Vakuutus on voimassa kaikkialla Euroopassa ja sen ulkopuolisissa Green Card -sopimusmaissa lukuun ottamatta Azerbaidzania, Irania, Kosovoa,
+Kyproksen pohjoisosaa, Marokkoa, Tunisiaa, Turkkia, Valko-Venäjää, Venäjää ja Vuoristo-Karabahia.
+
+Vastuuturva ulkomaille on kuitenkin voimassa vain Green Card -sopimusmaissa, jotka eivät kuulu Euroopan talousalueeseen (ETA) lukuun ottamatta
+Azerbaidzania, Irania, Kosovoa, Kyproksen pohjoisosaa, Marokkoa, Tunisiaa, Turkkia, Valko-Venäjää, Venäjää ja Vuoristo-Karabahia.
+
+Vakuutus ei ole voimassa vuokrauksissa.
+
+Vakuutus ei ole myöskään voimassa silloin, kun ajoneuvo on annettu myytäväksi autoliikkeelle, muulle yritykselle tai kun se on myytävänä muulla henkilöllä
+kuin sen ajoneuvorekisteriin merkityllä omistajalla tai haltijalla.
+
+1.2 Ajoneuvon liikennekäytöstä poistaminen
+Ajoneuvorekisteriin merkityn ajoneuvon vakuutusmaksua palautetaan siltä ajalta, jona ajoneuvo on ollut liikennekäytöstä poistettuna. Moottoripyörillä ja
+pakettiautoilla yhtäjaksoisen liikenteestä poistamisen ajan tulee olla vähintään 30 vuorokautta.
+
+Vakuutusmaksun palauttaminen edellyttää, että ajoneuvon omistaja tai haltija on liikennekäytöstä poiston alkamispäivänä tehnyt siitä rekisteri-ilmoituksen
+Traficomille.
+
+Maksunpalautus kultakin päivältä on 1/360 osaa törmäysturvan vuosimaksusta.
+
+Maksunpalautusta ei anneta
+ 1) vakuutuksista, joiden hinnoittelu perustuu vuodenaikahinnoitteluun
+ 2) museoajoneuvovakuutuksista
+ 3) vientikilvellisistä ajoneuvoista
+ 4) rekisteröimättömien ajoneuvojen vakuutuksista
+ 5) vakuutuksista, joiden vakuutuksenottajana on rahoitussopimuksen velkoja tai leasing- tai muun vuokrasopimuksen vuokranantaja
+ 6) sellaisista autojen vakuutuksista, joissa ei ole bonusoikeutta
+ 7) vakuutuksista, jotka on hinnoiteltu kiinteällä hinnalla määrätyksi ajaksi tai koko voimassaoloajalle tai jonka hintaan bonus tai voimassaoloaikana
+     sattuneet vahingot eivät vaikuta.
+
+Liikennekäytöstä poiston aikana ei törmäysturva ole voimassa. Törmäysturvasta korvataan kuitenkin liikennekäytöstä poiston aikana luonnonilmiöstä
+ulkoapäin äkillisesti ja ennalta arvaamattomasti aiheutuneet vahingot.
+
+Korvauksen maksaminen liikennekäytöstä poiston aikana tapahtuneista vahingoista edellyttää, että ajoneuvoa ei ole käytetty liikenteeseen tai muuhun
+ajoon.
+
+
+
+
+                                                                                                               1
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+1.3 Vakuutuksen päättyminen
+Vakuutus päättyy, kun
+  1) ajoneuvon liikennevakuutus irtisanotaan
+  2) ajoneuvo poistetaan lopullisesti Traficomin ajoneuvorekisteristä
+  3) ajoneuvo poistetaan Traficomin ajoneuvorekisteristä Ahvenanmaalle tai ulkomaille
+  4) ajoneuvo siirtyy lain perusteella kunnan omistukseen.
+
+Muut tilanteet, joissa vakuutus päättyy, on kerrottu Yleisissä Sopimusehdoissa.
+
+1.4 Vakuutusmaksuun vaikuttavat tekijät
+Kaskovakuutuksen maksuun vaikuttavia tekijöitä ovat muun muassa vakuutuksenottajan, hänen perheenjäsentensä, ajoneuvon omistajan, haltijan,
+vakuutetun tai kuljettajien ominaisuudet, kuten ikä, asuinpaikka, asuinympäristö ja postinumero sekä vakuutus- ja vahinkohistoria, ajoneuvo ja sen
+ominaisuudet, käyttöpaikka, käyttötarkoitus, käyttömäärä ja -tapa, käyttöaika sekä vakuutusturvan laajuus ja omavastuun suuruus.
+Maksuun vaikuttavat tekijät voivat vaihdella eri ajoneuvojen välillä.
+
+1.4.1 Vakuutusmaksun muuttaminen vakuutuskauden vaihtuessa
+Ifillä on oikeus muuttaa vakuutusmaksua vakuutuskauden vaihtuessa vakuutuksenottajan iän, ajoneuvon haltijan iän, ajoneuvon kuljettajan iän tai
+ajoneuvon iän muuttumisen seurauksena. Kun iän muuttumisen vaikutuksesta vahinkoriski muuttuu, vakuutusmaksua voidaan muuttaa paremmin
+vahinkoriskiä vastaavaksi.
+
+1.4.2 Vakuutusmaksun muuttaminen vakuutuskauden aikana
+Vakuutuksissa, joissa vakuutusmaksuun vaikuttaa ajoneuvon ajosuorite, kuljettajan ikä (ajoneuvolla alle 24-vuotias kuljettaja) tai käyttötapa, If voi niiden
+muututtua muuttaa vakuutusmaksua saatuaan tiedon muutoksesta. Tällöin vakuutusmaksua voidaan muuttaa paremmin vahinkoriskiä vastaavaksi.
+
+Vakuutuksenottajan tai ajoneuvon haltijan väestörekisteriin merkityn kotiosoitteen muuttuessa vakuutusmaksu muuttuu sen mukaiseksi, mikä on
+vakuutusmaksu ottaen huomioon uusi kotiosoite. Ajoneuvon siirtyminen kuolinpesälle vaikuttaa vakuutusmaksuun korottavasti.
+
+1.4.3 Muut tilanteet
+Muut tilanteet, joissa Ifillä on oikeus muuttaa vakuutusmaksua, on kerrottu yleisissä sopimusehdoissa.
+
+1.5 Bonusalennus
+Bonusoikeudellisen kaskovakuutuksen törmäysturvan maksusta annetaan maksualennus Ifin bonussääntöjen mukaisesti.
+
+Bonus nousee 10 prosenttiyksikköä sellaisen vakuutuskauden jälkeen, jonka aikana törmäysturvan perusteella ei ole maksettu korvausta ja ajoneuvo on
+ollut liikennekäytössä:
+   1) moottoripyörät vähintään 90 vuorokauden ajan, vuodenaikahinnoitellussa tuotteessa 300 vuorokautta
+   2) muut ajoneuvot vähintään 140 vuorokauden ajan.
+
+Vuoden mittaisen ajanjakson kuluessa bonus voi nousta vain kerran. Korkein mahdollinen bonus on 80 prosenttia (ennen 17.2.2018 alkaneissa
+vakuutuksissa yksityiskäyttöisillä henkilö-, paketti- ja matkailuautoilla sekä moottoripyörillä 70 prosenttia, muilla ajoneuvoilla 60 prosenttia).
+
+Bonus alenee jokaisen törmäysturvasta korvatun vahingon seurauksena 10 prosenttiyksikköä (ennen 17.2.2018 alkaneissa vakuutuksissa 20
+prosenttiyksikköä). Bonus ei alene vahingoissa, joissa raekuuro tai myrsky on vaurioittanut ajoneuvoa tai pysäköity ajoneuvo on vaurioitunut äkillisestä
+vedenpinnan noususta.
+
+Jos ajoneuvon Ifissä olevan liikennevakuutuksen bonus on vahingon sattuessa 80 % (tai ennen 20.5.2017 alkaneessa liikennevakuutuksessa 75 %), ei
+ensimmäinen vahinko kullakin vakuutuskaudella alenna kaskovakuutuksen bonusta.
+2 Vakuutuksen kohde
+Vakuutuksen kohteena on vakuutuskirjassa mainittu moottoriajoneuvo sekä siihen kiinteästi asennetut, ajoneuvossa liikenteessä käytettäväksi tarkoitetut
+vakiovarusteet.
+
+Vakuutuksen kohteena ovat myös
+  1) tavanomaiset, kiinteästi asennetut liikenteessä käytettäväksi tarkoitetut lisävarusteet kohdassa 2.1 mainituin rajoituksin.
+  2) Kiinteästi jälkiasennetut äänentoisto- tai tietotekniikkalaitteet, näytöt, kamerat ja autonavigaattorilaitteet ovat kuitenkin vakuutuksen kohteena vain
+      autoissa ja valoraudat, lisävalot, kylki- ja kattoputket, astinlaudat ja lavakaaret vain autoissa, traktoreissa, traktorimönkijöissä ja mönkijöissä. Ne
+      korvataan huippukaskosta, täyskaskosta ja etukaskosta yhteensä 6000 euron ja osakaskosta yhteensä 600 euron määrään asti. Nämä
+      enimmäiskorvausmäärät sisältävät myös asennustarvikkeet ja -kustannukset.
+  3) ajoneuvon alkuperäisvalmistajan tuottamat veloituksettomat tai kertamaksuiset, merkkikohtaiset ohjelmoinnit ajoneuvon suorituskyvyn
+      parantamiseksi tai lisäominaisuuksien toteuttamiseksi ajoneuvoon. Vakuutuksesta ei kuitenkaan korvata ohjelmistopäivitysten laiminlyöntejä.
+  4) vakuutettuun ajoneuvoon kuuluvat, varastoituna lukitussa tilassa olevat yksi kesä- tai talvirengaskerta, kattoteline ja suksiboksi
+  5) liikuntarajoitteisten henkilöiden käytössä olevissa autoissa ajohallintalaitteet, kääntyvät istuimet ja pyörätuolin nostolaitteet
+  6) moottoripyörän, mopon, mönkijän, traktorimönkijän ja moottorikelkan vakuutuksissa kypärä ja kypäräpuhelin
+  7) irrallinen ajoakkujen latausjohto sen ollessa varastoituna lukitussa tilassa, säilytettävänä lukitussa autossa tai latauksen aikana autoon tai muuhun
+      moottoriajoneuvoon yhdistettynä.
+  8) traktoriin, traktorimönkijään, mönkijään ja moottorityökoneeseen kuuluva yksi kauha, etunostolaite, paripyörät ja muu liitettävä lisälaite, jonka paino
+      lepää ajoneuvon omilla akseleilla.
+  9) traktorilla ja moottorityökoneella 20 000 euron määrään ja traktorimönkijällä ja mönkijällä 2000 euron määrään asti vahinkohetkellä ajoneuvoon
+      kytkettynä ollut perävaunu, jota ei koske rekisteröintivelvollisuus.
+
+Muut kuin ajoneuvon valmistajan alkuperäisvanteet ovat vakuutuksen kohteena enintään yhteensä 5 000 euron määrään saakka.
+
+Muissa ajoneuvoissa kuin autoissa jälkiasennetut navigaattorilaitteet ovat vain törmäysturvan kohteena, eikä niitä korvata esimerkiksi varkaus- tai
+ilkivaltatapauksissa.
+
+2.1 Rajoitukset
+Vakuutuksen kohteena eivät ole
+  1) kilpailukäyttöön tarkoitetut varusteet ja rakenteet
+  2) helmiäishohto-, koriste- ja muut erikoismaalaukset tai maalipinnan ja lasien suojakäsittelyt eivätkä teippaukset, kumipinnoitteet ja jälkikäteiset
+       ruostesuojaukset (ajoneuvovalmistajan normaaliin värivalikoimaan kuuluvia värejä ei pidetä erikoismaalauksina)
+  3) ajoneuvon varaosat tai osien kaksoiskappaleet
+  4) turvallisuus- tai viranomaismääräysten vastaiset tai niiden vastaisesti asennetut osat tai laitteet
+  5) jälkiasennetut alustasarjat ja säädettävät alustat, erikoisiskunvaimentimet ja madallusjouset, erikoispuslat ja kallistuksenvakaajat, polttoaineensyötön
+       ja moottorinohjauksen osat ja ohjelmoinnit sekä muut moottorin tehon tai väännön lisäämiseksi tarkoitetut osat tai ohjelmoinnit, erikoiskytkimet ja
+       erikoisvauhtipyörät sekä muut viritys-, tuning- ja kustomoidut osat. Tässä ehtokohdassa kerrottuina ohjelmointeina ei kuitenkaan pidetä ajoneuvon
+       alkuperäisvalmistajan tuottamia veloituksettomia tai kertamaksuisia ohjelmointeja.
+  6) muissa ajoneuvoissa kuin autoissa jälkiasennetut äänentoisto- tai tietotekniikkalaitteet, näytöt ja kamerat
+
+                                                                               2
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+  7) poltto- ja voiteluaineet
+  8) perävaunuun rakennetut tai hinattavan laitteen koneet, laitteet, kojut, saunat tai muut rakennelmat
+  9) kattoteltat ja matkailukorit
+  10) muut latausasemat ja ajoakkujen lataamisen käytettävät laitteet ja johdot kuin irrallinen latausjohto sen ollessa varastoituna lukitussa tilassa,
+      säilytettävänä lukitussa autossa tai latauksen aikana autoon tai muuhun moottoriajoneuvoon yhdistettynä.
+
+3 Vakuutusturvat
+Vakuutukseen sisältyvät turvat on merkitty vakuutuskirjaan.
+
+3.1 Törmäysturva
+Törmäysturvasta korvataan äkillisen, ennalta arvaamattoman, ulkoisen tapahtuman aiheuttama välitön esinevahinko, jonka syynä on törmäys, tieltä
+suistuminen, kaatuminen tai muu vastaava ulkoinen tapahtuma.
+
+Törmäysturvasta ei korvata tuulilasin, sivuikkunan tai takalasin rikkoutumista, jos auto ei ole vahingon yhteydessä vaurioitunut muilta osin.
+
+Varkauden tai moottorikulkuneuvon käyttövarkauden yhteydessä tapahtunut tai ajoneuvon sisätiloihin kohdistunut vahinko korvataan vain, jos vakuutuksen
+kohde oli ehtokohdassa 3.2 (Varkausturva) kerrotulla tavalla lukittu tai lukitussa tai vartioidussa säilytyssuojassa. Vakuutuksenottajan on vaadittava
+rangaistusta rikoksesta epäillylle henkilölle.
+
+3.2 Varkausturva
+Varkausturvasta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on rikoslain tarkoittama varkaus, moottorikulkuneuvon
+käyttövarkaus tai niiden yritys, kun vakuutuksen kohde tai sen lukittava osa (kuten ajoakkujen latausjohto) on ollut teon tapahtumahetkellä lukittu alla
+kohdassa 3.2.1 kerrotulla tavalla tai lukitussa säilytyssuojassa, johon ulkopuolisilla ei ole pääsyä ja lukitus on täyttänyt suojaustehtävänsä.
+
+Jos ajoneuvon lukitseminen, avaaminen tai käynnistäminen voi tapahtua avainten lisäksi tai ohella muulla tavoin, kuten esimerkiksi matkapuhelimella,
+koodilla tai muulla avaimen korvaavalla tavalla, sovelletaan niihin, mitä näissä vakuutusehdoissa on kerrottu avaimista. Lukitusvaatimus koskee kaikkia
+ajoneuvoja.
+
+Varkausvahingon yhteydessä menetetyn ajoneuvon lunastuksen tai tilalle hankkimisen edellytyksenä on lisäksi, että menetettyä ajoneuvoa ei ole löytynyt
+30 päivän kuluessa siitä, kun If on saanut tiedon vahingosta ja kun poliisiviranomaiselle tehtiin asiasta rikosilmoitus.
+
+Vakuutuksenottajan on vaadittava rangaistusta rikoksesta epäillylle henkilölle.
+
+3.2.1 Lukitusvaatimukset
+Ajoneuvo, jossa on umpikori, on lukittu, kun sen koritila, ovet, ikkunat ja kuormatila on suljettu ja lukittu, ajoneuvon avaimet on poistettu ajoneuvosta ja
+mahdolliset elektroninen ajonestolaite ja ohjauslukko ovat käytössä.
+
+Moottoripyörä, mopo, mönkijä ja moottorikelkka on lukittu, kun niiden avaimet on poistettu ajoneuvosta ja mahdolliset elektroninen ajonestolaite ja
+ohjauslukko ovat käytössä. Jos edellä mainittu lukitus puuttuu, on tällainen ajoneuvo lukittu, kun se on lukittu levyjarrulukolla tai rengaslukolla tai kiinteään
+kohteeseen ketjulla ja lukolla, vaijerilukolla tai muulla vastaavalla lukolla.
+
+Matkailu- ja muut perävaunut katsotaan lukituksi vain, kun ne on lukittu aisalukolla tai rengaslukolla tai kiinteään kohteeseen ketjulla ja lukolla, niiden
+avaimet on poistettu ajoneuvosta ja niiden koritila, ovet, ikkunat ja kuormatila on suljettu ja lukittu.
+
+Sähköpyörä ja muu sähköinen kulkuväline on lukittu, kun niiden avaimet on poistettu ajoneuvosta ja mahdolliset elektroninen ajonestolaite ja ohjauslukko
+ovat käytössä. Jos edellä mainittu lukitus puuttuu, on tällainen ajoneuvo lukittu, kun se on lukittu kiinteään kohteeseen ketjulla ja lukolla, vaijerilukolla tai
+muulla vastaavalla lukolla.
+
+Muut ajoneuvot, joissa ei ole elektronista ajonestolaitetta tai ohjauslukkoa, katsotaan lukituksi vain, kun niiden avaimet on poistettu ajoneuvosta ja ne on
+lukittu levyjarrulukolla tai rengaslukolla tai kiinteään kohteeseen ketjulla ja lukolla, vaijerilukolla tai muulla vastaavalla lukolla.
+
+Toisessa ajoneuvossa tai perävaunussa oleva ajoneuvo katsotaan lukituksi vain, kun ne molemmat on lukittu tässä ehtokohdassa kerrotulla tavalla.
+
+Yhteistilassa ajoneuvoon tarkoitetut varusteet, kuten renkaat, on pidettävä lukittuna. Yhteistila on sellainen tila, johon on pääsy myös muilla kuin
+vakuutuksenottajalla tai hänen kanssaan samassa taloudessa asuvilla henkilöillä.
+
+3.3 Paloturva
+Paloturvasta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on irtipäässyt tuli tai ajoneuvoon suoraan kohdistunut
+salamanisku.
+
+Paloturvasta ei korvata
+  1) vahinkoa sähkölaitteelle, johdolle, johtosarjalle tai ajoneuvon elektroniselle ohjausyksikölle, jos vahinko on aiheutunut niiden tai niihin liittyvien
+       johtojen tai johtosarjan ylikuumenemisesta, oikosulusta, ylijännitteestä tai muusta sisäisestä rikkoutumisesta
+  2) ajoneuvon moottorin tai pakoputkiston sisällä tapahtuneesta palosta tai räjähdyksestä niille itselleen aiheutunutta vahinkoa
+  3) ajoneuvon sisätiloista alkanutta paloa, ellei sen syynä ole ajoneuvon tekninen vika.
+
+Varkauden tai moottorikulkuneuvon käyttövarkauden yhteydessä tapahtunut tai ajoneuvon sisätiloihin kohdistunut vahinko korvataan vain, jos vakuutuksen
+kohde oli ehtokohdassa 3.2.1 (Lukitusvaatimukset) kerrotulla tavalla lukittu tai lukitussa tai vartioidussa säilytyssuojassa.
+
+3.4 Ilkivaltaturva
+Ilkivaltaturvasta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on tahallinen vahingonteko. Ilkivaltaturvasta ei korvata
+vahinkoa, joka on aiheutettu toisella ajoneuvolla.
+
+Varkauden tai moottorikulkuneuvon käyttövarkauden yhteydessä tapahtunut tai ajoneuvon sisätiloihin kohdistunut vahinko korvataan vain, jos vakuutuksen
+kohde oli ehtokohdassa 3.2.1 (Lukitusvaatimukset) kerrotulla tavalla lukittu tai lukitussa tai vartioidussa säilytyssuojassa.
+
+Vakuutuksenottajan on vaadittava rangaistusta rikoksesta epäillylle henkilölle.
+
+3.5 Lunastusturva
+Lunastusturvasta maksetaan korvaus ajoneuvon lunastustilanteissa ehtokohdan 6.3.4 sääntöjen mukaan.
+
+
+
+
+                                                                                 3
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+3.6 Hinaus ja matkakulut -turvat
+3.6.1 Hinaus ja matkakulut Suomessa
+Hinaus ja matkakulut -turvasta korvataan ajoneuvon hinaus lähimpään korjaamoon ajon keskeytyessä Suomessa välittömästi ajoneuvon vian,
+vaurioitumisen, rengasrikon tai tieltä suistumisen seurauksena. Ajon ei katsota keskeytyneen, jos ajoneuvoa ei saada käynnistetyksi ja liikkeelle ennen
+matkan alkamista.
+
+Kun kysymyksessä on yksityisessä käytössä oleva henkilöauto, jonka käyttövoimana on yksinomaan sähköenergia, korvataan ajon keskeytyessä
+ajoakkujen sähkövoiman loppumiseen sen hinaus Suomessa lähimpään sellaiseen paikkaan, jossa sen ajoakkujen lataus on mahdollista.
+
+Hinauksen sijasta voidaan korvata renkaanvaihto tai ajoneuvon korjaus tapahtumapaikalla. Niistä maksetaan korvausta enintään säästyneiden
+hinauskustannusten määrään asti. Uutta rengasta ja varaosia ei korvata.
+
+Lisäksi korvataan enintään yhteensä 500 euron määrään asti
+  1) kuljettajan ja matkustajien kuljettaminen lähtö- tai määräpaikkakunnalle tarkoituksenmukaisella tavalla
+  2) ylimääräiset kustannukset korjatun ajoneuvon noutamisesta
+  3) muita ajon keskeytymisestä aiheutuneita tarkoituksenmukaisia, ylimääräisiä matka- ja majoituskustannuksia.
+
+Jos matka keskeytyy kuljettajan vammautumisen, äkillisen sairastumisen tai kuoleman vuoksi eikä matkustajalla ole ajokorttia, korvataan ajoneuvon
+kuljettaminen kotipaikkakunnalle.
+
+Ennen hinauksen tai muun tiepalvelun tilaamista tulee ottaa yhteyttä Ifin hinaus- ja tiepalveluun, jolla on oikeus valita hinausliike tai muu palveluntuottaja.
+Kun hinaus tai tiepalvelu tilataan Ifin kautta, ei korvauksesta vähennetä omavastuuta. Jos hinausta tai muuta tiepalvelua ei ole tilattu Ifin kautta,
+vähennetään korvauksesta vakuutuskirjassa kerrotun suuruinen omavastuu. Ifin hinaus- ja tiepalvelun yhteystiedot ovat if.fi/hinaus tai puhelin 010 19 18 40.
+
+3.6.2 Hinaus ja matkakulut ulkomailla
+3.6.2.1 Ajoneuvon hinaus ja kuljettaminen
+Hinaus ja matkakulut ulkomailla -turvasta korvataan ajoneuvon hinaus lähimpään korjaamoon ajon keskeytyessä ulkomailla välittömästi ajoneuvon vian,
+vaurioitumisen, rengasrikon tai tieltä suistumisen seurauksena. Ajon ei katsota keskeytyneen, jos ajoneuvoa ei saada käynnistetyksi ja liikkeelle ennen
+matkan alkamista.
+
+Kun kysymyksessä on yksityisessä käytössä oleva henkilöauto, jonka käyttövoimana on yksinomaan sähköenergia, korvataan ajon keskeytyessä
+ajoakkujen sähkövoiman loppumiseen sen hinaus lähimpään sellaiseen paikkaan, jossa sen ajoakkujen lataus on mahdollista.
+
+Jos matka keskeytyy ulkomailla kuljettajan vammautumisen, äkillisen sairastumisen tai kuoleman vuoksi eikä matkustajalla ole ajokorttia, korvataan
+ajoneuvon kuljettaminen kotipaikkakunnalle.
+
+Jos ajoneuvo on vaurioitunut ja se joudutaan jättämään ulkomailla vahinkopaikkakunnalle korjattavaksi, korvataan korjatun ajoneuvon noutamisesta määrä-
+tai lähtöpaikkakunnalle yhden henkilön matkalippu vahinkopaikkakunnalle halvimmalla kuljetusvälineellä. Ajoneuvon ajamisesta määrä- tai
+lähtöpaikkakunnalle ei makseta kilometrikorvausta.
+
+Kun ajon keskeytymisen syynä on tekninen vika, korvauksen maksamisen edellytyksenä on ajoneuvon korjaaminen ajon keskeytymisen tapahtumapaikkaa
+lähinnä olevalla korjaamolla.
+
+Ennen hinauksen, muun tiepalvelun tai ajoneuvon kuljetuksen tilaamista tulee ottaa yhteyttä Ifin hinaus- ja tiepalveluun, jolla on oikeus valita hinausliike tai
+muu palveluntuottaja. Kun hinaus, muu tiepalvelu tai ajoneuvon kuljetus tilataan Ifin kautta, ei korvauksesta vähennetä omavastuuta. Jos niitä ei ole tilattu
+Ifin kautta, vähennetään korvauksesta vakuutuskirjassa kerrotun suuruinen omavastuu. Ifin hinaus- ja tiepalvelun puhelinnumero ulkomailla sattuneissa
+vahingoissa on +358 10 515 8777.
+
+3.6.2.2 Muut matkan keskeytymisestä aiheutuneet kustannukset
+Hinaus ja matkakulut ulkomailla -turvasta korvataan kuljettajan ja matkustajien kotimatka vahinkopaikkakunnalta halvinta kulkuneuvoa käyttäen, jos
+ajoneuvo joudutaan jättämään ulkomailla vahinkopaikkakunnalle korjattavaksi tai jos se on kokonaan varastettu.
+
+Vaihtoehtoisesti hinaus ja matkakulut ulkomailla -turvasta voidaan korvata muita matkan keskeytymisestä ulkomailla aiheutuneita välttämättömiä,
+ylimääräisiä matka- ja majoituskustannuksia enintään kotimatkasta aiheutuvien kustannusten määrään saakka.
+
+Näiden kustannusten enimmäiskorvausmäärä on yhteensä 2000 euroa. Tämä määrä sisältää myös ajoneuvon säilyttämisestä aiheutuneet kustannukset,
+joita korvataan enintään 500 euroa.
+
+3.6.3 Korvaamisen rajoitukset hinaus ja matkakulut -turvissa
+Hinaus ja matkakulut -turvista ei makseta korvausta
+  1) lisäkustannuksista, jotka aiheutuvat muiden kuin ajoneuvon kuljettajan tai matkustajien kuljettamisesta
+  2) kustannuksista, jotka olisivat aiheutuneet vahinkotapahtumasta riippumatta
+  3) vahingon selvittelyyn tai vahinkoon välillisesti liittyvistä kustannuksista, kuten puhelinkuluista, ansionmenetyksestä tai muista vastaavista kuluista tai
+       menetyksistä
+  4) ruoka- ja juomakuluista eikä asioiden hoitamisesta aiheutuneista kuluista eikä päivärahoista
+  5) kun ajoneuvon avaimet tai avaimen korvaavat laitteet tai koodit ovat jääneet ajoneuvoon sisälle tai kadonneet
+  6) jos polttoaine tai ajoneuvon käyttövoimana ollut sähköenergia on loppunut. Tämä ei koske henkilöautoja, joiden yksinomaisena käyttövoimana on
+       sähköenergia.
+  7) jos ajon keskeytymisen syynä on sähköenergian tai käyttövoimana olevan aineen jakelun säännöstely.
+
+If ei ole vastuussa eikä korvausvelvollinen vahingosta, joka on aiheutunut matkan keskeytymiseen liittyvästä avunantotoimenpiteestä tai kuljetuksen
+viivästymisestä.
+
+Jos ajoneuvolla erillisenä palveluna hankittu tai ajoneuvon valmistajan, maahantuojan, myyjän tai muun tahon myöntämä hinaus- tai tiepalvelu, hinaus- ja
+matkakulut -turvista maksetaan korvausta vain siltä osin, kuin sitä ei makseta tällaisesta hinaus- tai tiepalvelusta.
+
+Syntyneistä kustannuksista on esitettävä alkuperäinen lasku. Kun korvausta haetaan matkan keskeytymisestä ajoneuvolle syntyneen sisäisen
+rikkoutumisen vuoksi, tästä on esitettävä korjauslasku.
+
+3.7 Sijaisautopalvelu
+Sijaisautopalvelusta korvataan sijaisauton käytöstä aiheutuneita kustannuksia, jotka johtuvat siitä, että
+  1) ajo on keskeytynyt Suomessa välittömästi ajoneuvon vian, vaurioitumisen tai tieltä suistumisen seurauksena. Ajon ei katsota keskeytyneen, jos
+       ajoneuvoa ei saada käynnistetyksi ja liikkeelle ennen matkan alkamista.
+  2) pysäköitynä olevaan ajoneuvoon on Suomessa kohdistunut kaskovakuutuksesta korvattava esinevahinko, kuten palo, varkaus tai törmäys.
+
+Jos ajoneuvo ei ole ajon keskeytymisen tai kaskovakuutuksesta korvattavan esinevahingon jälkeen ajokuntoinen, sijaisauton käytöstä maksetaan korvausta
+ajon keskeytymisestä alkaen.
+
+                                                                                4
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+
+Jos ajoneuvo on ajokuntoinen, korvausta sijaisauton käytöstä maksetaan vain silloin, kun sijaisauton käyttötarve perustuu siihen, että ajoneuvo on
+korjaamolla korjattavana kaskovakuutuksesta korvattavan esinevahingon vuoksi. Tällöin korvausta maksetaan vasta siitä lähtien, kun ajoneuvon korjaus
+korjaamolla on aloitettu.
+
+Korvausta maksetaan siihen saakka, kun ajoneuvo on valmiina noudettavaksi korjaamolta, kuitenkin enintään 40 päivältä ja teknisissä vioissa enintään
+seitsemältä päivältä.
+
+Edellä mainittuun korvattavaan aikaan sisältyy korjauksen tai varaosien odotusaika. Odotusaikojen osalta korvausta maksetaan enintään 7 päivältä.
+
+Anastustapauksissa korvaus maksetaan enintään 30 päivältä. Jos ajoneuvo lunastetaan tai siitä maksetaan kertakorvaus, korvausta maksetaan siihen
+saakka, kunnes vakuutuksenottaja on hankkinut korvaavan ajoneuvon, enintään kuitenkin 14 päivältä.
+
+Sijaisautona korvataan vuokrakustannukset perusmallisesta henkilöautosta, joka kuuluu autovuokraamoalalla yleisesti käytetyn autoluokituksen mukaan
+segmenttiin C (Perheauto - Compact C). Moottoripyörien vakuutuksissa korvaus voidaan maksaa päiväkorvauksena, joka on 45 euroa päivältä.
+
+Jos korvausta maksetaan muun vakuutuksen perusteella, siirtyy vakuutetun oikeus korvaukseen Ifille sen suorittamaan korvausmäärään saakka.
+
+Syntyneistä kustannuksista on esitettävä alkuperäinen lasku tai kuitti. Kun korvausta haetaan matkan keskeytymisestä ajoneuvolle syntyneen sisäisen
+rikkoutumisen vuoksi, siitä on esitettävä korjauslasku.
+
+3.7.1 Korvaamisen rajoitukset sijaisautopalvelussa
+Sijaisautopalvelusta ei makseta korvausta sijaisauton käytöstä
+  1) jos ajon keskeytyminen on johtunut ajoneuvon määräaikaishuollon, hoidon tai korjaustoimenpiteiden laiminlyönnistä
+  2) siltä ajalta, joka johtuu siitä, että ajoneuvoa ei ole viipymättä toimitettu korjaamoon
+  3) jos ajoneuvon avaimet tai avaimen korvaavat laitteet tai koodit ovat jääneet ajoneuvoon sisälle tai kadonneet
+  4) jos polttoaine tai ajoneuvon käyttövoimana ollut sähköenergia on loppunut
+  5) pidentyneeltä korjausajalta, jonka syynä on korjaamon työvirhe tai väärä varaosatilaus. Korvausta ei myöskään makseta korjaustyön laajuuteen
+       nähden perusteettoman pitkältä korjausajalta.
+  6) sijaisauton käytöstä ajoneuvon huollon tai huollossa todetun vian korjauksen, katsastuksessa määrätyn ajokiellon, korjauskehotuksen, käyttökiellon
+       tai katsastuksen hylkäyksen perusteena olevan vian tai katsastuksessa muutoin todetun vian korjauksen tai jälkitarkastuksen ajalta
+
+Jos ajoneuvolla on erillisenä palveluna hankittu tai ajoneuvon valmistajan, maahantuojan, myyjän tai muun tahon myöntämä hinaus- tai tiepalvelu,
+korvausta sijaisautopalvelusta maksetaan vain siltä osin, kuin sitä ei makseta tällaisesta hinaus- tai tiepalvelusta.
+
+3.8 Keskeytysturva
+Keskeytysturvasta korvataan ajoneuvon käyttöpäivien menetys täysiltä vuorokausilta päiväkorvauksena, jonka määrä on merkitty vakuutuskirjaan.
+
+Korvauksen maksaminen edellyttää, että käyttöpäivien menetys johtuu vakuutetun ajoneuvon kaskovakuutuksesta korvattavasta esinevahingosta, kuten
+törmäyksestä, tieltä suistumisesta, palosta tai varkaudesta, eikä esimerkiksi ajoneuvon teknisestä viasta.
+
+Korvauksesta vähennetään samalta ajalta muusta vakuutuksesta mahdollisesti saatu korvaus, kuten liikennevakuutuksen seisontapäiväkorvaus.
+
+Jos ajoneuvo on sitä kohdanneen esinevahingon jälkeen ajokuntoinen, korvausta maksetaan vasta siitä lähtien, kun ajoneuvon korjaus korjaamolla on
+aloitettu.
+
+Jos ajoneuvo ei ole ajokuntoinen, korvausta maksetaan siitä lähtien, kun Ifille on ilmoitettu vahingosta.
+
+Korvausta maksetaan siihen saakka, kun vakuutettu ajoneuvo on valmiina noudettavaksi korjaamolta, se on muutoin vakuutuksenottajan käytettävissä tai
+sen tilalle on annettu, vuokrattu tai hankittu toinen ajoneuvo. Ajoneuvon korjausajalta korvausta maksetaan kuitenkin enintään 40 päivältä.
+
+Korvattavaan aikaan sisältyy korjauksen tai varaosien odotusaika. Odotusaikaa korvataan enintään seitsemältä (7) menetetyltä käyttöpäivältä, jos
+kokonaiskorjausaika odotusaikoineen ylittää 10 vuorokautta.
+
+Jos ajoneuvo lunastetaan tai siitä maksetaan kertakorvaus, korvausta maksetaan enintään 14 päivältä.
+
+Jos auto menetetään varkauden seurauksena, korvausta maksetaan enintään 40 menetetyltä käyttöpäivältä.
+
+3.9 Rahoitusturva
+Rahoitusturvasta maksetaan korvausta vakuutuksen kohteena olevan ajoneuvon leasingsopimuksen vuokranantajalle (leasingin antaja) tai rahoituksen
+omistuksenpidätysehdoin myöntäneelle luottoyhteisölle, joka on Euroopan keskuspankin, Suomen Finanssivalvonnan tai muun EU- tai ETA-maan
+vastaavan elimen valvottavaluettelossa. Rahoitusturva ei ole voimassa muiden hyväksi, kuten esimerkiksi vahingon aiheuttajan, leasinginvuokralle ottajan,
+ajoneuvon osamaksuostajan tai muun haltijan hyväksi.
+
+Edellytyksenä korvauksen maksamiselle rahoitusturvasta on, että vakuutukseen sisältyy vakuutustapahtuman kattava vakuutusturva, josta maksettava
+korvaus kuitenkin evättäisiin tai sitä alennettaisiin perustuen
+
+1) suojeluohjeiden laiminlyöntiin (ehtokohta 5),
+2) henkilön moitittavaan menettelyyn (ehtokohta 6.4.2),
+3) yleisten sopimusehtojen tarkoittamaan vahingontorjumis- ja rajoittamisvelvollisuuden laiminlyöntiin (yleiset sopimusehdot kohta 5.2.1),
+4) ajoneuvon käyttöön liikenteessä ennalta ilmoitettuna liikennekäytöstä poiston aikana tai
+5) siihen, että ajoneuvo tai muu teon kohde ei ollut näissä vakuutusehdoissa edellytetyllä tavalla lukittu.
+
+Korvauksen maksamisen edellytyksenä on aina myös ajoneuvon lunastamisen edellytysten täyttyminen, mikä tässä tapauksessa tarkoittaa sitä, että
+ajoneuvon arvo vahingon jälkeen lisättynä arvioiduilla korjauskustannuksilla ylittää ajoneuvon käyvän arvon ennen vahinkoa.
+
+Kun korvauksen saajana on rahoituksen omistuksenpidätysehdoin myöntänyt luottoyhteisö, korvauksen ylärajana on ajoneuvon käypä arvo ennen
+vahinkoa, kuitenkin enintään erääntymättömän saatavan määrä vahinkohetkellä. Tämä koskee myös tilanteita, joissa vakuutuksessa on lunastusturva.
+
+Kun korvauksen saajana on leasingin antaja, korvauksen ylärajana on ajoneuvon käypä arvo ennen vahinkoa, kuitenkin enintään ajoneuvon kirjanpitoarvo
+vahinkohetkellä. Tämä koskee myös tilanteita, joissa vakuutuksessa on lunastusturva.
+
+Korvausta ei makseta maksamatta jääneistä osamaksu-, rahoitus-, vuokra- tai leasingvuokraeristä.
+
+
+
+
+                                                                               5
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+Omavastuu on kuhunkin vakuutustapahtumaan sovellettavan omavastuun suuruinen. Korvauksesta voidaan vähentää tähän vakuutukseen kohdistuvat
+erääntyneet, maksamattomat vakuutusmaksut.
+
+Ifillä on oikeus hakea maksamansa korvaus takaisin vahingon aiheuttajalta ja ajoneuvon haltijalta tai leasinginvuokralle ottajalta, siten kuin ehtokohdassa
+6.4.2.2 on kerrottu.
+
+3.10 Lasiturva
+Lasiturvasta korvataan tuulilasin, sivuikkunan, takalasin, lasikaton tai lasisen kattoluukun äkillisestä ja ennalta arvaamattomasta rikkoutumisesta aiheutunut
+välitön esinevahinko, kun rikkoutumisen syynä on lasiin ulkoapäin suoraan kohdistunut isku, kuten kiven iskemä.
+
+Korvaaminen edellyttää, että vaurio on sellainen, että lasin korjaaminen tai vaihtaminen on ajoneuvon liikenneturvallisuuden säilyttämisen vuoksi
+välttämätöntä.
+
+Lasiturvasta ei korvata vahinkoja, jotka
+ 1) ovat aiheutuneet muille laseille tai lasirakenteille, kuten peileille tai valoumpioille. Ne kuuluvat törmäysturvan piiriin.
+ 2) eivät vaikuta ajoneuvon liikenneturvallisuuteen
+ 3) ovat seurausta lasin kulumisesta tai naarmuuntumisesta
+ 4) aiheutuvat lämpötilan muutoksesta tai lasin sisäisestä jännitteestä.
+
+Ennen lasin korjausta tai vaihtoa tulee ottaa yhteyttä Ifiin, jolla on oikeus valita lasin korjaaja tai vaihtaja. Kun lasin korjaus tai vaihto tilataan Ifin
+osoittamalta Ifin kumppanikorjaamolta, ei lasin korjauksissa korvauksesta vähennetä omavastuuta eikä lasin vaihdoissa korvauksesta vähennettävä
+omavastuu ole korotettu. Löydät Ifin kumppanikorjaamot osoitteesta if.fi/tuulilasi.
+
+3.11 Vastuuturva ulkomaille
+Vastuuturva ulkomaille on voimassa enintään yhtäjaksoisesti 45 vuorokautta kestävillä matkoilla sellaisissa Green Card -sopimusmaissa, jotka eivät kuulu
+Euroopan talousalueeseen (ETA). Vastuuturva ulkomaille ei kuitenkaan ole voimassa Azerbaidzanissa, Iranissa, Kosovossa, Kyproksen pohjoisosassa,
+Marokossa, Tunisiassa, Turkissa, Valko-Venäjällä, Venäjällä eikä Vuoristo-Karabahissa.
+
+Vakuutettuja ovat vakuutuskirjalla mainitun ajoneuvon kuljettaja, haltija ja omistaja, kukin siinä ominaisuudessaan.
+
+Vastuuturvasta ulkomaille korvataan vakuutuskirjassa mainitun ajoneuvon ulkomailla liikenteeseen käyttämisestä ulkopuoliselle aiheutuneita henkilö-
+ja esinevahinkoja sekä mainitun ajoneuvon matkustajille aiheutuneita henkilövahinkoja, joista vakuutettu on voimassa olevan oikeuden mukaan
+henkilökohtaisessa korvausvastuussa.
+
+Korvauksen maksaminen edellyttää, että korvausvastuun perusteena oleva teko tai laiminlyönti on tapahtunut vakuutuksen voimassa ollessa.
+
+Jos vahinkoa kärsinyt on itse myötävaikuttanut vahinkoon, vakuutuksesta korvataan vain vakuutetun vastuulla oleva osa vahingosta.
+
+Jos useampi henkilö on yhdessä velvollinen korvaamaan saman vahingon, vakuutuksesta korvataan vain se osa vahingosta, joka vastaa vakuutetun
+osuutta vahingon aiheuttajana. Vakuutuksesta korvataan enintään vahingon aiheuttaneiden henkilöiden lukumäärän mukaan määräytyvä osuus koko-
+naisvahingosta, ellei vakuutettu näytä muuta toteen.
+
+Vastuuturvasta ulkomaille maksetaan korvausta omaisuusvahingoista vahinkoa aiheuttanutta tapahtumaa kohden yhteensä enintään 250 000 euroa ja
+henkilövahingoista yhteensä enintään 250 000 euroa.
+
+Enimmäiskorvausmäärät sisältävät myös oikeudenkäyntikulut vahingon korvaamista koskevassa oikeudenkäynnissä.
+
+3.11.1 Korvaamisen rajoitukset Vastuuturvassa ulkomaille
+Vastuuturvasta ulkomaille ei korvata vahinkoa
+  1) jota koskeva korvausvastuu perustuu sopimukseen, sitoumukseen, lupaukseen tai takuuseen
+  2) siltä osin, kun vahingon kärsinyt on oikeutettu saamaan korvausta liikenne-, tapaturma- tai muusta vakuutuksesta, erityisestä korvausjärjestelmästä
+      tai lain tai muun sääntelyn perusteella muualta
+  3) kun kysymys on sakosta tai muusta rangaistuksesta, verosta, hallinnollisesta maksusta, menettämisseuraamuksesta tai muusta niiden kaltaisesta
+      seuraamuksesta
+  4) joka seuraa hoitovirheestä tai muusta potilasvahingosta.
+
+Vastuuturvasta ulkomaille ei korvata vahinkoa, joka aiheutuu
+ 1) lentokenttäalueella
+ 2) vakuutuskirjassa mainitun ajoneuvon ollessa kuljetettavana toisessa ajoneuvossa, aluksessa tai muussa kuljetusvälineessä
+ 3) sodasta, sotatoimen tapaisesta tapahtumasta, lakosta tai työnseisauksesta
+ 4) vakuutuskirjassa mainitun ajoneuvon kuljettajalle, haltijalle tai omistajalle tai heidän omaisuudelleen. Tästä poiketen korvataan kuitenkin myös
+      haltijalle tai omistajalle aiheutettu henkilövahinko heidän ollessaan vakuutuskirjassa mainitussa ajoneuvossa matkustajina
+ 5) vakuutuskirjassa mainitun ajoneuvon kuormalle, lastille tai siinä olleelle muulle omaisuudelle
+ 6) vakuutuskirjassa mainitulle ajoneuvolle.
+
+Kaikki edellä kerrotut rajoitukset koskevat myös vakuutuskirjassa mainittuun ajoneuvoon kytkettyä perävaunua.
+
+3.11.2 Korvausvaatimuksen käsittely vastuuturvassa ulkomaille
+Vakuutetun tulee varata Ifille tilaisuus vahingon tarkastamiseen sekä mahdollisuus vaikuttaa sovinnollisen ratkaisun aikaansaamiseen.
+
+If selvittää, onko vakuutettu velvollinen maksamaan vahingonkorvausta tapahtumasta ja neuvottelee korvauksen vaatijan kanssa. Jos vakuutettu korvaa
+vahingon, sopii siitä tai hyväksyy vaatimuksen, tämä ei sido Ifiä, ellei korvauksen peruste ja määrä ole ilmeisen oikea.
+
+Vakuutetun on viipymättä ilmoitettava Ifille, jos vakuutustapahtuma johtaa oikeudenkäyntiin. Jos If ilmoittaa vakuutetulle olevansa valmis tekemään
+vakuutusmäärän rajoissa sopimuksen vahingonkärsineen kanssa vahinkojen korvaamisesta eikä vakuutettu tähän suostu, If ei ole velvollinen korvaamaan
+sen jälkeen aiheutuneita kustannuksia eikä selvittämään asiaa enempää.
+
+3.12 Pysäköintiturva
+Pysäköintiturvasta korvataan toisen moottoriajoneuvon törmäyksellään vakuutuksen kohteena olevaan, pysäköityyn ajoneuvoon aiheuttama välitön
+esinevahinko, kun vahingon aiheuttanut ajoneuvo ei ole tiedossa.
+
+Korvauksen maksaminen edellyttää, että korvauksen vaatija on voinut luotettavasti selvittää Ifille tapahtuma-ajan ja -paikan.
+
+3.13 Eläinkolariturva
+Eläinkolariturvasta korvataan äkillinen ja ennalta arvaamaton välitön esinevahinko, jonka syynä on törmäys eläimeen.
+
+Eläimen väistämisestä aiheutuneet vahingot korvataan törmäysturvasta.
+
+                                                                                 6
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+3.14 Lemmikkiturva
+Lemmikkiturvasta maksetaan korvausta, jos koira tai kissa on vakuutuskirjassa mainitun ajoneuvon matkustajana ollessaan
+  1) saanut lääkärinhoitoa vaativan fyysisen vamman liikenneonnettomuudessa
+  2) menehtynyt liikenneonnettomuudessa saamiinsa vammoihin
+  3) vammautunut liikenneonnettomuudessa ja saamiensa vammojen vuoksi jouduttu välttämättä eläinlääkärin määräyksestä lopettamaan
+  4) säikähtäneenä karannut liikenneonnettomuuspaikalta eikä sitä sen jälkeen ole löydetty kolmen kuukauden kuluessa onnettomuudesta.
+
+Korvauksen maksaminen edellyttää, että ajoneuvo, jossa koira tai kissa on matkustanut, on ollut liikennevakuutuslain tarkoittamalla tavalla liikenteessä ja
+liikenneonnettomuus johtuu ajoneuvon palosta, törmäyksestä, tieltä suistumisesta, kaatumisesta tai muusta vastaavasta ulkoisesta tapahtumasta.
+
+Lemmikkiturvan piiriin kuuluvat muutkin koirat kuin seurakoirat, riippumatta koiran käyttötarkoituksesta.
+
+3.14.1 Vahinkojen korvaaminen lemmikkiturvasta
+Vamman hoitokuluista maksetaan korvausta yksittäisen lemmikin osalta enintään yhteensä 3 000 euroa.
+
+Hoitokuluihin sisältyvät eläinlääkärin antamasta tai määräämästä vamman tutkimuksesta ja hoidosta syntyneet kustannukset
+  1) eläinlääkärin vamman hoitoon käyttämien tai määräämien, Fimean luvan perusteella myytävien lääkkeiden, sideaineiden tai niihin verrattavien
+      kustannukset
+  2) välttämättömät laboratorio- ja röntgenkulut
+  3) eläinlääkärin antamasta tai eläinlääkärin määräämästä, koulutetun eläinfysioterapeutin antamasta fysikaalisesta hoidosta syntyneet kustannukset,
+      kuitenkin enintään viisi hoitokertaa.
+
+Ulkomailla tehdyistä tutkimuksista ja hoidoista maksetaan korvausta korkeintaan Suomen hintatason mukaan. Eläinlääkärin lausunnot ja laskut tulee
+toimittaa koneella kirjoitettuna suomeksi, ruotsiksi tai englanniksi. Niistä on ilmettävä eläimen nimi, rotu, ikä, diagnoosi ja suoritetut hoidot. Hoidon
+kustannusten pitää olla selkeästi eritelty.
+
+Lemmikin menehtymisestä liikenneonnettomuudessa saamiinsa vammoihin maksetaan korvauksena:
+  1) rotukoira 1 200 euroa, monirotuinen koira 450 euroa
+  2) rotukissa 800 euroa, maatiaiskissa 180 euroa.
+
+3.14.2 Korvaamisen rajoitukset lemmikkiturvassa
+Lemmikkiturvasta ei korvata hoitokuluja tai menehtymistä
+  1) jos ne johtuvat lemmikkiturvasta korvattavasta liikenneonnettomuudesta riippumattomasta sairaudesta tai viasta
+  2) jotka ovat aiheutuneet eläinlääkärin määräysten laiminlyönnistä, eläinrääkkäyksestä tai hoidon laiminlyönnistä
+  3) jotka ovat seurausta muun henkilön kuin eläinlääkärin tai koulutetun eläinfysioterapeutin suorittamasta hoitotoimenpiteestä
+  4) sen jälkeen, kun on kulunut vuosi liikenneonnettomuudesta, jossa lemmikki vammautui.
+
+Korvausta ei makseta vammoista, jotka ilmenevät vasta sen jälkeen, kun liikenneonnettomuudesta on kulunut kolme kuukautta.
+
+3.15 Henkilöturva
+Henkilöturvasta maksetaan korvausta, jos henkilö on
+  1) saanut fyysisen vamman tai menehtynyt liikenneonnettomuudessa vakuutuskirjassa mainitun ajoneuvon kuljettajana tai matkustajana
+  2) saanut fyysisen vamman tai menehtynyt tultuaan tahattomasti vakuutuskirjassa mainitun ajoneuvon yliajamaksi sen kuljettajan ollessa hänen isänsä,
+      äitinsä, siskonsa, veljensä, lapsensa tai lapsenlapsensa, isovanhempansa, aviopuolisonsa tai hänen kanssaan rekisteröidyssä parisuhteessa oleva
+      tai avioliitonomaisessa suhteessa asuva henkilö.
+
+Henkilöturvasta maksetaan korvausta vain, jos vakuutuskirjaan merkitty ajoneuvo on ollut liikennevakuutuslain tarkoittamalla tavalla liikenteessä ja
+vammasta tai menehtymisestä maksetaan korvausta jonkin ajoneuvon liikennevakuutuksesta.
+
+Korvausta ei makseta seurauksista, jotka ilmenevät vasta sen jälkeen, kun liikenneonnettomuudesta on kulunut yksi vuosi.
+
+Henkilöturvasta ei makseta korvausta vammautumisesta tai menehtymisestä, joka on aiheutunut
+  1) sodasta tai poliittisiin syihin perustuvasta sotatoimen tapaisesta tapahtumasta
+  2) vammautuneen tai menehtyneen henkilön osallistuessa sotaan, aseelliseen selkkaukseen tai palvellessa kansainvälisessä rauhanturvaamis- tai
+      niihin liittyvissä tehtävissä
+  3) itsemurhasta tai sen yrityksestä, sen tehneen henkilön itsensä osalta.
+
+3.15.1 Korvausmäärät henkilöturvassa
+Fyysisestä vammasta maksettava korvaus riippuu vamman laadusta ja vaikeusasteesta sekä vamman vaatiman hoidon laadun ja toipumisen kestoajasta.
+Tämä arvioidaan Liikenne- ja potilasvahinkolautakunnan antamien fyysisten vammojen tilapäisen haitan korvausnormien perusteella, noudattaen sen
+mukaista luokittelua.
+
+Vähäisistä henkilövahingoista ja psyykkisen terveydentilan häiriöistä (psyykkinen haitta) ei makseta korvausta.
+
+Jos vammautunut on liikenneonnettomuuteen joutuessaan alle 18-vuotias, korvaus fyysisestä vammasta maksetaan kaksinkertaisena.
+
+Fyysisestä vammasta maksettava korvausmäärä määräytyy korvausluokkien perusteella seuraavasti:
+ -    Vähäiset henkilövahingot (luokka 1)        ei korvausta
+ -    Lievät vammat (luokka 2)                   700 euroa
+ -    Lievää vaikeammat vammat (luokka 3)        1 900 euroa
+ -    Vaikeat vammat (luokka 4)                  6 500 euroa
+ -    Hyvin vaikeat vammat (luokka 5)            21 000 euroa
+ -    Poikkeuksellisen vaikeat vammat (luokka 6) 21 000 euroa
+
+Jos liikennevahingosta on liikennevakuutuslain mukaan vastuussa toinen vakuutusyhtiö, sen tekemä arvio vamman korvausluokasta ei ole sitova
+maksettaessa korvausta henkilöturvasta.
+
+Jos korvauksen maksamisen jälkeen vamma pahenee vuoden kuluessa liikennevahingosta niin, että sen korvausluokka nousee, maksetaan
+lisäkorvauksena jo maksetun määrän ja kohonnutta korvausluokkaa vastaavan määrän erotus.
+
+Henkilön menehtymisen seurauksena maksetaan korvausta 25 000 euroa. Korvaus maksetaan menehtyneen henkilön kuolinpesälle. Jos
+liikenneonnettomuudessa vammautunut henkilö menehtyy ennen kuin onnettomuudesta on kulunut kolme kuukautta, tästä korvausmäärästä vähennetään
+fyysisestä vammasta maksettava tai jo maksettu korvaus.
+
+
+
+                                                                               7
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+3.15.2. Henkilöturvan päättyminen
+Jos vakuutuksenottaja on laiminlyönyt vakuutusmaksun maksamisen, Ifillä on oikeus irtisanoa henkilöturva päättyväksi vakuutussopimuslain mukaisesti.
+kaskovakuutuksen päättyessä sen osana oleva henkilöturva päättyy samalla.
+
+4 Vakuutusturvien yleiset rajoitukset
+Vakuutuksesta ei korvata vahinkoa, joka aiheutuu
+  1) ajoneuvolle sen suunnittelu-, asennus-, huolto-, käsittely- tai työvirheestä, rakenne-, valmistus- tai aineviasta tai ajoneuvon korjaamiseen käytetyistä
+      sopimattomista tai laadultaan ilmeisen heikoista osista tai materiaaleista
+  2) ajoneuvolle tai sen osalle liiallisesta rasituksesta, ylikuormituksesta tai tavanomaisesta käytöstä
+  3) hitaasti kehittyvistä tapahtumista, kuten kulumisesta, syöpymisestä, ruostumisesta, homehtumisesta, lahoamisesta, aineen väsymisestä tai muusta
+      vastaavasta vähitellen tapahtuvasta ilmiöstä
+  4) ajoneuvolle tai ajoneuvoyhdistelmälle niiden kuormasta tai niissä olevan esineen, henkilön tai eläimen aiheuttamasta vahingosta, ellei vahinko ole
+      välitön seuraus muusta tästä vakuutuksesta korvattavasta vahinkotapahtumasta
+  5) osallistuttaessa kilpailuun tai sen harjoitteluun
+  6) osallistuttaessa ajo- tai nopeusharjoitteluun tai muuhun ajoon moottoriradalla tai yleiseltä liikenteeltä suljetulla alueella tai tieosuudella (jollaiseksi
+      katsotaan myös esimerkiksi Nürburgringin Nordschleifen ja Spa-Francorchampsin niin kutsutut yleisöajovuorot). Tämä rajoitus ei koske
+      liikenneopettajan antamaa ajo-oikeuden saamiseen liittyvää ajokoulutusta.
+  7) kosteudesta, sateesta, pakkasesta, kuumuudesta, jäästä, lumesta tai niiden painosta
+  8) kun ajoneuvoa kuljetetaan veden peittämällä tiellä tai alueella
+  9) ajoneuvon uppoamisesta jäihin muualla kuin tieviranomaisten turvallisuusmääräykset täyttävällä ja yleiseen käyttöön avatulla talvitiellä. Tämä rajoitus
+      ei koske moottorikelkkoja, traktorimönkijöitä ja mönkijöitä.
+  10) ajoneuvon moottorille ja sen lisälaitteille, vaihteistolle, voimansiirtolaitteistolle tai jäähdytysjärjestelmälle puutteellisesta öljyn tai jäähdytysnesteen
+      kierrosta
+  11) varkauden tai moottorikulkuneuvon käyttövarkauden yhteydessä syntyneestä kulumisesta
+  12) petoksesta, kavalluksesta tai vastaavanlaisesta rikoksesta tai sopimuksen rikkomisesta
+  13) väärästä polttoaineesta tai polttoaineseoksesta. Tämä rajoitus ei koske hinaus ja matkakulut -turvista eikä sijaisautopalvelusta korvattavia vahinkoja
+  14) ajoneuvon osasta ajoneuvolle itselleen
+  15) ajoneuvolle sen voimanlähteenä käytettyjen akkujen ylilatauksen seurauksena
+  16) Traficomin takaisinkutsutietokannassa olevan, vakuutettua ajoneuvoa koskevan takaisinkutsukampanjan noudattamatta jättämisestä
+  17) ohjelmistopäivitysten laiminlyönnistä aiheutuvia lisäkustannuksia.
+
+Jos vahinko on aiheutunut sen seurauksena, että ajoneuvon tai sen säilytyssuojan avaimet on saatu haltuun luvatta, vahinko korvataan vain, kun avaimet
+on saatu haltuun murtautumalla tai ryöstämällä. Tämä koskee myös ajoneuvon avaimen korvaavia laitteita tai koodeja.
+
+Vakuutuksesta ei korvata vahinkoja, jotka ovat korvattavia takuun, tavaran virheen tai tuotevastuun perusteella tai muusta syystä korjataan veloituksetta
+ajoneuvon valmistajan, maahantuojan tai myyjän kustannuksella. If ei myöskään vastaa korjaustyön laadusta.
+
+5 Suojeluohjeet
+Suojeluohjeissa on tavallisimpia varotoimenpiteitä, joilla pyritään estämään vahingon syntyminen tai pienentämään vahingon laajuutta.
+
+Vakuutuksenottajan, vakuutetun ja häneen samastettavan henkilön tulee noudattaa suojeluohjeita. Suojeluohjeen laiminlyönti voi aiheuttaa sen, ettei
+korvausta makseta tai että se maksetaan alennettuna yleisten sopimusehtojen kohdan 5.1.1 mukaisesti.
+
+Vakuutuksenottajan, vakuutetun ja häneen samastettavan henkilön tulee huolehtia, ettei esinettä tai omaisuutta käytetä käyttö-, huolto- ja asennusohjeiden
+vastaisesti tai aseteta liian kovalle rasitukselle.
+
+5.1 Omaisuuden turvallinen käyttö:
+  1) Ajoneuvon renkaiden on oltava kulutuspinnaltaan ja ominaisuuksiltaan säännösten ja määräysten edellyttämät. Ajoneuvossa tulee olla talvikäyttöön
+      tarkoitetut renkaat keliolosuhteiden sitä vaatiessa.
+  2) Ajoneuvo tulee pitää ajoneuvolain, tieliikennelain sekä muiden ajoneuvoa koskevien säännösten ja määräysten edellyttämässä kunnossa.
+  3) Ajoneuvo tulee katsastaa säännösten ja määräysten mukaisesti.
+  4) Kun ajoneuvoa korjataan hitsaamalla, verhoilu ja muut syttyvät rakenteet on purettava riittävän laajalta alueelta. Korjauspaikalle on järjestettävä
+      tarvittava alkusammutuskalusto, vartiointi ja jälkivartiointi.
+  5) Ajoneuvon sisätilojen, moottorin ja muiden osien lämmittämiseen saa käyttää ainoastaan laitteen valmistajan ajoneuvokäyttöön tarkoittamia
+      lämmityslaitteita.
+  6) Jos ajoneuvossa tai sen säilytyssuojassa tupakoidaan, on sen jälkeen huolellisesti varmistettava, että sinne ei jää palavaa tai kytevää tupakkaa tai
+      materiaalia.
+  7) Kuljettajalla on oltava viranomaisen antama, kyseisen ajoneuvon ajoneuvoluokan kuljettamiseen edellytettävä, voimassa oleva ajokortti,
+      harjoittelulupa tai ikään perustuva oikeus kuljettaa ajoneuvoa.
+  8) Ajoneuvoa ei saa kuljettaa sairaana tai väsyneenä.
+  9) Käytettäessä ajoneuvon nosturia on käytettävä ajoneuvon tukijalkoja ja varmistettava maaperän kantavuus.
+  10) Irrallinen ajoakkujen latausjohto tulee latauksen jälkeen irrottaa sekä autosta että pistorasiasta. Sitä ei saa säilyttää maassa, ulkona tai lattialla eikä
+      paikassa, johon muillakin kuin vakuutetun perheenjäsenillä on pääsy.
+  11) Jos kiinteistön sähköverkkoa käytetään ladattavien autojen lataamiseen, on sähköasennusten soveltuvuus tarkistettava sähköalan ammattilaisen
+      toimesta.
+  12) Ladattavien ajoneuvojen lataamiseen saa käyttää vain siihen tarkoitettuja latausjohtoja. Jatkojohtojen ja irrallisten kellokytkinten tai irrallisten
+      ajastimien käyttö on ladattaessa kielletty.
+  13) Sähköpolkupyörien ja muiden sähköisten kulkuvälineiden akkujen lataus on kielletty palavien materiaalien lähellä, kuten sängyllä, sohvalla, verhojen
+      ja muiden tekstiilien lähellä. Niitä saa ladata vain kyseiseen laitteeseen tarkoitetulla latauslaitteella ja niitä tulee valvoa latauksen aikana.
+  14) Ajoneuvossa ei saa ajon aikana käyttää teknistä laitetta tai järjestelmää siten, että sen käyttäminen haittaa tai vaarantaa ajamista.
+  15) Ajoneuvon kuljettaja ei saa ajon aikana käyttää viestintävälinettä siten, että pitää sitä kädessään.
+
+5.2 Turvallinen säilytys ja varkauksien estäminen:
+  1) Ajoneuvon ja sen avaimien huolellisesta säilyttämisestä ja silmälläpidosta on huolehdittava. Tämä koskee myös ajoneuvon avaimen korvaavia
+      laitteita ja koodeja.
+  2) Ajoneuvon ja sen säilytyssuojan avaimia ei saa säilyttää näkyvillä tai sellaisessa lukitsemattomassa paikassa, jossa sivullinen ennalta tietää tai voi
+      olettaa avainten olevan. Tämä koskee myös ajoneuvon avaimen korvaavia laitteita ja koodeja.
+  3) Ajoneuvon avaimia ei saa säilyttää ajoneuvossa tai ajoneuvon säilytyssuojassa. Tämä koskee myös ajoneuvon avaimen korvaavia laitteita ja
+      koodeja.
+  4) Ajoneuvoa ei saa jättää sellaiseen paikkaan, missä se on omiaan kiinnittämään rikoksentekijöiden huomiota.
+  5) Jos ajoneuvo vioittuu tai vaurioituu, se tulee välittömästi siirtää turvalliseen paikkaan, jossa se ei ole alttiina varkaudelle tai vahingonteolle.
+  6) Ajoneuvon rekisteröintitodistuksen ilmoitusosaa (rekisteröintitodistuksen II osaa) ja ajoneuvon avainten valmistamisen mahdollistavia tietoja ei saa
+      säilyttää ajoneuvossa. Tämä koskee myös ajoneuvon avaimen korvaavia laitteita ja koodeja.
+  7) Ajoneuvon avaimissa tai niiden yhteydessä ei saa olla tietoja, jotka mahdollistavat ajoneuvon tai sen omistajan tai haltijan yksilöinnin, kuten osoitetta,
+      puhelinnumeroa tai rekisterinumeroa. Tämä koskee myös ajoneuvon avaimen korvaavia laitteita ja koodeja.
+  8) Muita kuin kiinteästi asennettuja tietotekniikka-, viihde-elektroniikka-, näyttö-, kamera- ja autonavigaattorilaitteita ei saa ajon päätyttyä jättää
+      ajoneuvoon näkyville.
+  9) Ajoneuvon moottoria ei saa jättää käyntiin, kun ajoneuvon luota poistutaan.
+                                                                                  8
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+6 Vahinkojen korvaaminen
+6.1 Korvaamisen perusteet
+Vakuutuksen kohteet ja niille valitut turvat on merkitty vakuutuskirjaan. Vakuutuksen tulee olla voimassa vahingon tapahtumishetkellä.
+
+6.1.1 Välitön esinevahinko ja muut korvattavat kustannukset
+Vakuutuksesta korvataan vakuutuksen kohteelle vakuutuksen voimassaoloaikana äkillisesti ja ennalta arvaamatta sattuneesta tapahtumasta aiheutunut
+välitön esinevahinko sovitun turvan mukaisesti, ellei vakuutuskirjassa ole muuta mainittu.
+
+Osamaksu- tai rahoitussopimuksen velkojalle maksettavan korvauksen ylärajana on vahinkohetkellä erääntymättömän saatavan määrä, enintään kuitenkin
+vahingon määrä. Leasingille antajalle maksettavan korvauksen ylärajana on ajoneuvon kirjanpitoarvo vahinkohetkellä, enintään kuitenkin vahingon määrä.
+
+Korvausta ei makseta maksamatta jääneistä osamaksu-, rahoitus-, vuokra-, leasingvuokraeristä.
+
+Vakuutuksesta korvattavan välittömän esinevahingon yhteydessä korvataan lisäksi kohtuulliset kustannukset välttämättömästä hinauksesta vahinko-
+paikalta ja anastetun ajoneuvon noutamisesta tai palauttamisesta.
+
+Vakuutuksenottaja on velvollinen toimimaan vahingon torjumiseksi tai rajoittamiseksi vakuutussopimuslain ja yleisten sopimusehtojen kohdan 5 määräysten
+mukaisesti. Tällöin vakuutuksesta korvataan kohtuulliset pelastuskustannukset.
+
+6.1.2 Vahinkotarkastus
+Ifille on varattava tilaisuus vahingon tarkastamiseen.
+
+Vakuutuksesta ei makseta korvausta, jos vakuutuksenottaja tai vakuutettu ei salli vahingon tai sen syyn selvittämiseksi tarpeellisten toimenpiteiden
+suorittamista tai anna niiden toteuttamiseksi tarvittavaa suostumusta.
+
+Ennen korvauspäätöksen tekemistä on vahingosta aiheutuneista kustannuksista kokonaan vastuussa ajoneuvon omistaja tai haltija.
+
+If ei vastaa korjaustyön laadusta. Ifin tekemä vahingon tarkastus, korjaajan osoittaminen tai muu vahingon tekninen selvittely ei myöskään ole osoitus
+vahingon kuulumisesta vakuutuksesta korvattavaksi tai että If olisi työn tilaajana tai maksajana.
+
+6.1.3 Korvaamisen rajoitukset
+Vakuutuksesta ei korvata
+  1) ajoneuvon arvon alentumista
+  2) korjauksen yhteydessä tehtyjä erillisiä muutos- tai parannustöitä eikä muita vahinkoon liittymättömiä töitä eikä tarvikkeita
+  3) kustannuksia, jotka johtuvat siitä, että ajoneuvo, tarvikkeet tai varaosat kuljetetaan tai korjataan ajan säästämiseksi tavanomaisesta poikkeavin
+       keinoin
+  4) kustannuksia, jotka johtuvat lakosta tai työnseisauksesta
+  5) vahingonselvittelyyn tai vahinkoon välillisesti liittyviä kustannuksia, kuten puhelin- ja matkakuluja, ansionmenetystä tai muita vastaavanlaisia
+       kustannuksia
+  6) omaisuuden tavanomaisen käytön aiheuttamaa kulumista vahinkotapahtuman yhteydessä
+  7) autoveroa tai muuta ajoneuvosta maksettavaksi tulevaa veroa tai maksua
+  8) vahinkoa, joka on aiheutunut ajoneuvon tietokoneohjelmalle tai tietojärjestelmälle tietomurrosta, tietokoneviruksesta, haittaohjelmasta,
+       palvelunestohyökkäyksestä tai siitä, että ohjelmiston päivitys on laiminlyöty
+  9) tietokoneohjelman tai muun tietojärjestelmän käyttökelpoisuuden menettämistä, heikkenemistä tai käytön estymistä.
+
+Korvausta voidaan alentaa, jos
+  1) korvattava osa oli ennen vahinkoa kulunut, ruostunut, syöpynyt tai menettänyt käyttökelpoisuuttaan
+  2) ajoneuvon kunto on korjauksen seurauksena parempi kuin ennen vahingon tapahtumista.
+
+Ifillä on laaja yhteistyökumppaniverkosto, joka tuottaa kustannustehokkaasti ja laadukkaasti vakuutuksesta korvattaviin vahinkoihin liittyviä palveluita.
+Jos ajoneuvon hinaaminen, korjaaminen, vuokraus, tai muu palvelu tai varaosat hankitaan muulta kuin Ifin nimeämältä palveluntuottajalta tai
+myyjältä, niiden kustannukset korvataan enintään sen suuruisina, kuin ne olisivat syntyneet käytettäessä Ifin nimeämää palveluntuottajaa.
+
+6.2 Omaisuuden arvon ja vahingon määrän arvioiminen
+6.2.1 Käypä arvo
+Korvauksena maksetaan enintään käyvän arvon mukainen määrä.
+
+Käypä arvo on se käteishinta, joka vahinkohetken markkinatilanteessa ajoneuvosta tai sen varusteista - ottaen huomioon niiden kunto - on yleisesti
+saatavissa, kun niitä pidetään myytävänä tarkoituksenmukaisella tavalla. Jos vakuutuskirjaan on merkitty vakuutusmäärä tai vakuutusmaksuperusteeksi
+ilmoitettu arvo, ne eivät ole todistuksena käyvästä arvosta.
+
+6.2.2 Ikävähennykset
+Seuraavien esineiden osalta tehdään alla kerrotut ikään perustuvat vähennykset:
+  1) vanteet
+  2) turvaistuimet
+  3) suksiboksi, kattoteline tai muu kuljetusteline
+  4) kypärä ja kypäräpuhelin
+  5) jälkiasennetut äänentoistolaitteet tai
+  6) jälkiasennetut televisio-, video-, DVD-, tietotekniikka-, viihde-elektroniikka, kamera- ja navigaattorilaitteet sekä näytöt.
+
+Esineen ikä kalenterivuosina          Ikävähennysprosentti
+ -    alle 2 vuotta                           0%
+ -    alle 3 vuotta                           30 %
+ -    alle 4 vuotta                           40 %
+ -    alle 5 vuotta                           50 %
+ -    alle 6 vuotta                           60 %
+ -    6 vuotta tai enemmän                    70 %
+
+Korvattaessa renkaita ikävähennys tehdään, jos renkaan ikä on 3 vuotta tai enemmän tai sen kulutuspintaa on jäljellä vähemmän kuin 5 mm.
+Jos renkaan ikä on
+  -   alle 5 vuotta tai sen kulutuspintaa on jäljellä 3-5 mm, on ikävähennys 50 %
+  -   5 vuotta tai enemmän tai sen kulutuspintaa on jäljellä alle 3 mm, on ikävähennys 80 %
+  -   9 vuotta tai enemmän tai sen kulutuspintaa on jäljellä alle 2 mm, on ikävähennys 100 % eikä korvausta renkaasta makseta.
+
+Ikävähennykset tehdään uuden samanlaisen tai lähinnä vastaavanlaisen omaisuuden käteismyyntihinnasta.
+                                                                                9
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+Laskettaessa ikävähennystä ensimmäinen käyttöönottovuosi päättyy kalenterivuoden vaihtuessa riippumatta siitä, mihin aikaan vuodesta esine on otettu
+käyttöön.
+
+Ikävähennyksiä ei tehdä, jos esine korjataan. Silloin korjauskustannuksia korvataan enintään esineen käypään arvoon asti.
+
+6.3 Korvaamistavat
+If korvaa esinevahingot jollakin seuraavista tavoista. Ifillä on oikeus valita korvauksen suorittamistapa.
+
+Ifillä on oikeus nimetä palveluntuottaja, joka suorittaa ajoneuvon hinauksen tai korjauksen tai jolta sijaisauto vuokrataan. Tätä varten on ennen tällaisen
+palvelun tilaamista aina otettava yhteyttä Ifiin. Käytettäessä Ifin kumppaniverkostoa If voi maksaa korvauksen suoraan yhteistyökumppanilleen, ilman että
+korvauksen saajan pitäisi maksaa sitä ensin itse.
+
+6.3.1 Korjaaminen
+Esinevahinko korvataan ensisijaisesti maksamalla korjauskustannukset. Ifillä on oikeus määrätä korjaamo tai paikka, josta osa hankitaan, ja tätä varten
+vakuutetun tulee ottaa ennalta yhteyttä Ifiin.
+
+Korjauskustannuksina maksetaan enintään omaisuudella ennen vahinkoa ollut käypä arvo vähennettynä sen arvolla vahinkotapahtuman jälkeen sekä
+omavastuulla.
+
+Ajoneuvo tulee korjauttaa mahdollisimman pian sen jälkeen, kun If on antanut korvattavuudesta päätöksen.
+
+6.3.2 Kertakorvaus
+Ifillä on oikeus korvata vahinko maksamalla kertakorvaus, kun ajoneuvoa tai muuta vakuutuksen kohdetta ei ole tarkoituksenmukaista korjata ajoneuvon
+iän, osien saatavuuden, korjaustekniikan, korjauksen odotettavissa olevan lopputuloksen, vaurion laadun tai muun vastaavan syyn vuoksi.
+
+Kertakorvaus voidaan sopia muulloinkin, jos If ja ajoneuvon omistaja siitä yhdessä erikseen sopivat. Kertakorvausta ei kuitenkaan makseta silloin, kun
+ajoneuvon omistaa rahoitusyhtiö, muu luottoyhteisö tai leasing-vuokralle antaja.
+
+Kertakorvauksena korvattava vahingon määrä perustuu laskennalliseen arvioon ja se voidaan määritellä vaurion korjaamisesta normaalisti syntyviä
+korvauskustannuksia alemmaksi ottaen huomioon esimerkiksi vaurion laatu, perusteltu korjaustapa, korjaaja, ajoneuvon ikä ja muut vastaavat tekijät.
+Maksettava kertakorvaus voi olla arvioituja korjauskustannuksia alhaisempi. Tämä koskee myös tilanteita, joissa ajoneuvo on autovalmistajan ohjeiden
+mukaan korjattavissa, mutta varaosien saatavuuden tai korjaamon osaamisen puutteiden vuoksi korjausta ei ole voitu suorittaa.
+
+Mikäli kertakorvaus maksetaan ajoneuvon lunastuksen sijaan, voidaan kertakorvauksena maksaa enintään omaisuudella ennen vahinkoa ollut käypä arvo
+vähennettynä sen arvolla vahinkotapahtuman jälkeen sekä omavastuulla.
+
+Jos ajoneuvon varaosia ei enää ole saatavissa, maksetaan enintään omaisuudella ennen vahinkoa ollut käypä arvo vähennettynä sen arvolla
+vahinkotapahtuman jälkeen sekä omavastuulla.
+
+6.3.3 Tilalle hankkiminen
+If voi korvata esinevahingon hankkimalla vaurioituneen tai varastetun omaisuuden tilalle vastaavanlaista omaisuutta. Tällöin vahingoittunut omaisuus siirtyy
+Ifin omaisuudeksi. Ifillä on oikeus määrätä hankintapaikka tai tavarantoimittaja.
+
+Jos korvaukseen oikeutettu ei halua tilalle hankittavan vastaavaa omaisuutta, vaikka se olisikin mahdollista, niin rahakorvauksen määrä lasketaan siitä
+hinnasta, jolla If voisi hankkia tilalle vastaavan omaisuuden.
+
+Edellä kerrotusta hinnasta tehdään ehtokohdan 6.4.4 mukaiset vähennykset.
+
+6.3.4 Lunastus
+If voi korvata esinevahingon lunastamalla ajoneuvon ja sen varusteet käyvästä arvosta tai mikäli vakuutukseen sisältyy Lunastusturva, sen sääntöjen
+mukaan. Omistusoikeus ajoneuvoon ja varusteisiin siirtyy lunastustapauksessa Ifille, ellei toisin sovita.
+
+Ajoneuvon omistajan ja haltijan tulee huolehtia siitä, että ennen ajoneuvon siirtymistä Ifin omistukseen sen tietojärjestelmistä on poistettu omistajien,
+haltijoiden ja käyttäjien henkilökohtaiset tiedot ja käyttäjätilit sekä yhteydet muihin sovelluksiin, kuten esimerkiksi maksusovelluksiin, pysäköinti- tai
+suoratoistopalveluihin.
+
+6.3.4.1 Lunastusturva
+Lunastusturvasta maksetaan ajoneuvon käyvän arvon ylittävä korvaus jäljempänä kerrottujen edellytysten täyttyessä.
+
+Jos vakuutukseen sisältyy rahoitusturva, lunastusturva on voimassa myös osamaksu-, rahoitus- tai leasingsopimuksen kohteen omistajan hyväksi
+jäljempänä kerrotuin rajoituksin.
+
+Lunastusturva ei koske vuokrattuja ajoneuvoja, ellei kysymyksessä ole huoltoleasing.
+Lunastusturvan uusarvolunastus ei koske leasingin kohteena olevia ajoneuvoja.
+Lunastusturva ei koske tilanteita, joissa korvausta maksetaan rahoitusturvan perusteella.
+
+Lunastusturvasta ei makseta korvausta erääntyneiden, mutta maksamattomien leasing-, rahoitus- tai osamaksuerien osalta.
+
+Lunastusturvasta ei makseta korvausta silloin, kun ajoneuvon omistusoikeus ei siirry vakuutusyhtiölle. Korvausta ei makseta myöskään silloin, kun
+vakuutuksesta korvataan useammasta eri vahinkotapahtumasta aiheutuneita vahinkoja, ellei jokin niistä yksinään täytä jäljempänä kerrottuja
+lunastusturvakorvauksen maksamisen edellytyksiä.
+
+Kun korvausta maksetaan lunastusturvasta, omavastuu on kuhunkin vakuutustapahtumaan sovellettavan omavastuun suuruinen.
+
+Kun ajoneuvolla on lunastusturva, siitä maksetaan korvaus ajoneuvon lunastustilanteissa seuraavien sääntöjen mukaan.
+
+6.3.4.1.1 Uusarvolunastus
+Ajoneuvo lunastetaan uuden samanlaisen ajoneuvon käteismyyntihinnasta vahinkohetkellä tai jos ajoneuvoa ei ole enää myynnissä, siitä
+käteismyyntihinnasta, joka ajoneuvolla oli silloin, kun ajoneuvo viimeksi oli uutena myynnissä, jos
+  1) ajoneuvon ensirekisteröinnistä on kulunut enintään kolme (3) vuotta
+  2) ajoneuvolla on ajettu enintään 60 000 kilometriä
+  3) sen korjauskustannusten arvioitu määrä on yli 50 prosenttia uuden samanlaisen ajoneuvon edellä mainitusta hinnasta vahinkohetkellä tai kun
+       sellainen viimeksi on ollut myynnissä
+  4) ajoneuvo on ensirekisteröinnistä alkaen ollut vain vakuutuksenottajan omistuksessa tai hallinnassa tai vakuutuksenottaja on hankkinut ajoneuvon
+       kyseisen automerkin valtuutetulta jälleenmyyjältä, jolla ajoneuvo on ollut uudesta lähtien esittelyautona tai työsuhdeautona.
+
+
+                                                                               10
+                     Kaskovakuutusehdot
+                     Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+
+Uusarvolunastuksen edellytyksenä on kaikkien edellä lueteltujen edellytysten täyttyminen.
+
+6.3.4.1.2 Käypä arvo + 30 prosenttia
+Jos kaikki edellä mainitut uusarvolunastuksen edellytykset eivät täyty, ajoneuvo lunastetaan välittömästi sillä ennen vahinkoa olleesta käyvästä arvosta
+korotettuna 30 prosentilla, jos korjauskustannusten arvioitu määrä on yli 60 prosenttia ajoneuvon käyvästä arvosta. Korvauksena ylärajana on kuitenkin
+enintään uuden samanlaisen ajoneuvon käteismyyntihinta vahinkohetkellä tai kun sellainen viimeksi on ollut myynnissä. Käytettynä hankitusta ajoneuvosta
+ei korvata kuitenkaan enempää kuin sen hankintahetken käypä arvo.
+
+Leasingsopimuksen kohteena olevasta ajoneuvosta käyvän arvon ylittävä lunastuskorvaus maksetaan kuitenkin vain silloin, kun sen kirjanpitoarvo
+leasingille antajan kirjanpidossa ylittää vahinkohetkellä ajoneuvon käyvän arvon. Tällöin lunastuskorvauksena on ajoneuvon käypä arvo vahinkohetkellä
+korotettuna 15 prosentilla, enintään kuitenkin ajoneuvolla leasingille antajan kirjanpidossa oleva jäännösarvo.
+
+6.4 Omavastuu ja muut vähennykset
+6.4.1 Omavastuu
+Korvauksesta vähennetään omavastuu. Omavastuun suuruus määräytyy vakuutuskirjan ja näiden vakuutusehtojen mukaan.
+
+Kun vakuutuksenottajana on yksityishenkilö ja korvausta maksetaan saman vakuutuksenottajan saman vahinkotapahtuman vuoksi useasta eri
+vakuutuksesta, vähennetään omavastuista vain suurin. Jos vakuutuksenottajalla on yritys- tai yhteisötunnus, korvauksista vähennetään kuitenkin aina
+kullekin kohteelle sovittu omavastuu.
+
+Omavastuuta ei vähennetä palovahingon torjumis- ja rajoittamiskustannuksista.
+
+Pohjoismaiden ja Viron ulkopuolella sattuneissa vahingoissa omavastuu on kaksinkertainen, lukuun ottamatta lasiturvaa ja vastuuturvaa ulkomaille.
+
+Kun korvausta maksetaan lunastusturvasta, omavastuu on kuhunkin vakuutustapahtumaan sovellettavan omavastuun suuruinen.
+
+6.4.2 Moitittavan menettelyn vaikutus korvausta vähentävänä
+Jos vakuutettu tai häneen samastettava henkilö on vahinkotapahtuman sattuessa kuljettanut ajoneuvoa sellaisessa tilassa, että
+  -   hänen verensä alkoholipitoisuus on ajon aikana tai sen jälkeen vähintään 1,2 promillea, tai
+  -   hänellä on vähintään 0,53 milligrammaa alkoholia litrassa uloshengitysilmaa tai
+  -   hänen kykynsä tehtävän vaatimiin suorituksiin on tuntuvasti huonontunut muun huumaavan aineen kuin alkoholin vaikutuksesta taikka alkoholin ja
+      muun huumaavan aineen yhteisvaikutuksesta,
+maksetaan vakuutuksesta korvausta vain siltä osin kuin muut olosuhteet ovat vaikuttaneet vahinkoon.
+
+ Jos vakuutettu tai häneen samastettava henkilö on vahinkotapahtuman sattuessa kuljettanut ajoneuvoa sellaisessa tilassa, että
+  -   hänen verensä alkoholipitoisuus on ajon aikana tai sen jälkeen vähintään 0,5 promillea, tai
+  -   hänellä on vähintään 0,22 milligrammaa alkoholia litrassa uloshengitysilmaa, tai
+  -   hänen kykynsä tehtävän vaatimiin suorituksiin on huonontunut muun huumaavan aineen kuin alkoholin vaikutuksesta taikka alkoholin ja muun
+      huumaavan aineen yhteisvaikutuksesta,
+voidaan moottoriajoneuvovakuutuksesta maksettavaa korvausta alentaa sen mukaan, mikä oli hänen osuutensa vahinkoon.
+
+If voi alentaa korvausta tai evätä sen kokonaan siltä vakuutetulta tai häneen samastettavalta henkilöltä, joka on
+   -    aiheuttanut vakuutustapahtuman tahallisesti tai törkeällä huolimattomuudella, tai
+   -    aiheuttanut vahingon käyttäessään ajoneuvoa rikolliseen tarkoitukseen tai rikoksen tai sen tekijän suosimiseen, tai
+   -    laiminlyönyt vakuutuksen suojeluohjeiden noudattamisen (ehtokohta 5 ja yleiset sopimusehdot, ehtokohta 5.1.1), tai
+   -    laiminlyönyt vahingon torjumis- ja rajoittamistoimet (yleiset sopimusehdot, ehtokohta 5.2.1).
+
+6.4.2.1 Samastaminen
+Mitä edellä on sanottu vakuutetusta, sovelletaan vastaavasti henkilöön
+  -    joka vakuutetun suostumuksella on vastuussa vakuutuksen kohteena olevasta moottoriajoneuvosta tai hinattavasta ajoneuvosta, tai
+  -    joka omistaa vakuutetun omaisuuden yhdessä vakuutetun kanssa ja käyttää sitä yhdessä hänen kanssaan, tai
+  -    joka asuu vakuutetun kanssa yhteisessä taloudessa ja käyttää vakuutuksen kohdetta hänen kanssaan.
+
+Mitä edellä on sanottu vakuutetusta, kun kysymys on suojeluohjeen noudattamisesta, sovelletaan vastaavasti henkilöön, jonka tehtävänä
+vakuutuksenottajaan olevan työ- tai virkasuhteen perusteella on huolehtia suojeluohjeen noudattamisesta.
+
+6.4.2.2 Ifin takautumisoikeus autovahingoissa
+Sen lisäksi, mitä yleisten sopimusehtojen kohdassa 12 on mainittu, Ifillä on oikeus vaatia maksamansa korvaus seuraavissa tilanteissa:
+
+Ifille siirtyy maksettuun korvausmäärään asti vakuutetun oikeus saada korvausta moottoriajoneuvon omistajalta, haltijalta, kuljettajalta tai matkustajalta, jos
+tämä on aiheuttanut vakuutustapahtuman
+    -     tahallaan tai törkeällä tuottamuksella, tai
+    -     kuljettaessaan ajoneuvoa sellaisessa tilassa, että hänen verensä alkoholipitoisuus ajon aikana tai sen jälkeen oli vähintään 1,2 promillea, tai että
+          hänellä oli vähintään 0,53 milligrammaa alkoholia litrassa uloshengitysilmaa, tai hänen kykynsä tehtävän vaatimiin suorituksiin on tuntuvasti
+          huonontunut muun huumaavan aineen kuin alkoholin vaikutuksesta taikka alkoholin ja muun huumaavan aineen yhteisvaikutuksesta.
+
+Vakuutetun oikeus saada korvausta jonkun muun vakuutuksen tai takuun perusteella, lain nojalla tai julkisista varoista siirtyy Ifille sen maksamaan määrään
+saakka.
+
+6.4.3 Verolainsäädännön vaikutus korvauksen määrään
+Korvauksen määrää laskettaessa otetaan huomioon verotusta säätelevät lait.
+
+6.4.4 Vähennysten laskemisjärjestys
+Omavastuut ja muut vähennykset vähennetään korvattavan vahingon määrästä peräkkäisinä laskutoimituksina seuraavassa järjestyksessä:
+  1) mahdollisen veron määrä
+  2) käyttöikään perustuva vähennys (ikävähennys)
+  3) omavastuu
+  4) prosenttimääräinen omavastuu/lisäomavastuu
+  5) henkilön menettelyyn perustuva korvauksen mahdollinen vähentäminen.
+
+
+
+
+                                                                              11
+                   Kaskovakuutusehdot
+                   Ehto AUT 640.35, voimassa 23.5.2026 alkaen
+
+
+
+
+If Vahinkovakuutus Oyj, Suomen sivuliike
+Y-tunnus 1602149-8
+If Skadeförsäkring AB (publ),
+10680 Tukholma, Ruotsi
+Org. nr. 516401-8102
+
+
+
+
+                                                                12
+

@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mallin sääpiirteet",
+  "type": "object",
+  "properties": {
+    "cell_id": {
+      "type": "string",
+      "description": "Ruutu, johon säätausta on kohdistettu."
+    },
+    "evaluation_at": {
+      "type": "string",
+      "description": "Piirteiden arviointihetki.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "window_start": {
+      "type": "string",
+      "description": "24 tunnin taustaikkunan alku.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "air_temp_c": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Viimeisin soveltuva ilman lämpötila."
+    },
+    "rain_24h_mm": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "24 h sadekertymä, vain kattavasta jaksosta.",
+      "minimum": 0
+    },
+    "min_temp_24h_c": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "24 h lämpötilaminimi."
+    },
+    "max_temp_24h_c": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "24 h lämpötilamaksimi."
+    },
+    "warning_active": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Alueellinen jalankulkusäävaroitus; null = ei haettua tietoa."
+    },
+    "ingested_at": {
+      "type": "string",
+      "description": "Hetki, jolloin tämä rivi saapui palveluun. Ei sama kuin tapahtuma-aika.",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d{1,3})?Z$"
+    },
+    "source_id": {
+      "type": "string",
+      "description": "Viite source_registry.jsonl-tiedoston source_id:hen."
+    },
+    "is_simulated": {
+      "type": "boolean",
+      "description": "Tämän rivin mittausarvot on simuloitu."
+    }
+  },
+  "required": [
+    "cell_id",
+    "evaluation_at",
+    "window_start",
+    "air_temp_c",
+    "rain_24h_mm",
+    "min_temp_24h_c",
+    "max_temp_24h_c",
+    "warning_active",
+    "ingested_at",
+    "source_id",
+    "is_simulated"
+  ],
+  "additionalProperties": false
+}

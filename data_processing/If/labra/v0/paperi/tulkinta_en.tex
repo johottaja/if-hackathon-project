@@ -1,0 +1,25 @@
+% Interpretation of the tables produced by Rscript paperi/laske_taulukot.R.
+\paragraph{Interpretation.}
+The ordering in the tables matches the theorems. With the default settings,
+\pol{pito} beat \pol{busiest} in 193 of 200 seeds, and the confidence interval
+$[0.38,\ 0.44]$ of the paired difference excludes zero
+(Theorem~\ref{la:aito}). In the settings $G = 1$ and $\eta = \varepsilon$ the
+difference was exactly zero for every seed, as Theorem~\ref{la:valttamaton}
+predicts.
+
+Most of \pol{pito}'s advantage over \pol{rotation} comes from taking walking
+volumes into account: \pol{busiest} removes about 2.1 expected falls and the
+vibration detections about 0.4 more. The detections recover roughly a quarter
+of the advantage of perfect information. With the default $\rho = 0$ the
+slipperiness is redrawn at midnight, so the 00:00 round has no information about
+the new day and the 06:00 round only a quiet night's worth. Mainly the 12:00 and
+18:00 rounds are informed. When slipperiness persists from day to day
+($\rho = 0.9$), information accumulates and the share rises to about 60 per cent.
+
+Even the oracle removes only about 24 per cent of the falls, because the crew
+covers 2 of the 20 blocks at a time. The setting $H = 12$ lies outside
+Assumption~\ref{ol:A}. There \pol{pito} was still better on average, but the
+theorems do not guarantee it (Remark~\ref{hu:H}).
+
+The numbers are simulated falls in a $300 \times 300$ metre area over one month.
+They are not insurance claims or real events in Turku.
