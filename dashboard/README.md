@@ -47,3 +47,4 @@ Rscript aja_demo.R <path-to>/if-hackathon-project/dashboard/public/demo
 ```
 
 The model and its proofs are in that repository’s `If/labra/v0/paperi/simulaattori.pdf`. `src/demo/timeline.mjs` holds the counters and `src/demo/insights.mjs` the risk maps and tasks; `npm test` checks them against the simulator data.
+Two additional clickable hazard symbols sit between the Linnankatu and Aurakatu labels: a slippery-surface warning sign opens a simulated above-weather-expectation message, and a bicycle opens a pothole report. These are synthetic, approximate map annotations; they do not add fall counts or change the connected maintenance workflow.
