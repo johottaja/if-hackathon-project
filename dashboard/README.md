@@ -6,7 +6,7 @@ Reports and maintenance history remain under **Reports & maintenance history**. 
 
 ## Run and validate
 
-Run commands inside `dashboard/`. Start `npm run api` and `npm run dev` in separate terminals. The dashboard polls the shared synthetic API every two seconds; offline data may be stale and mutations require the service. See [the connected runbook](../docs/demo-runbook.md) for phone setup and the complete sequence.
+Run commands inside `dashboard/`. Start `npm run api` and `npm run dev` in separate terminals. The dashboard polls the shared synthetic API every two seconds; local development mutations require the service. Published builds use browser-local synthetic records by default; review, assignment, completion, verification, staged reports and reset work without an API and persist in this browser. Set `VITE_API_URL` at build time to use an explicit API instead. See [the connected runbook](../docs/demo-runbook.md) for phone setup and the complete sequence.
 
 Run `npm run build` and `npm test` for validation. React, TypeScript, Vite, Lucide and Radix Dialog remain the existing stack; no dependencies were added.
 
@@ -46,7 +46,7 @@ Add `?t=<hours>` to open at a given moment, for example `demo.html?t=376#if` for
 
 `npm run build:demo` builds the dashboard and demo into `dist/` and exports the Pito app’s web build into `dist/app/`. `EXPO_BASE_URL` sets the app’s subpath (default `/app`).
 
-`.github/workflows/pages.yml` runs the tests and `build:demo` on every push to `main` and publishes `dist/` to GitHub Pages. Enable it once in the repository: **Settings → Pages → Source: GitHub Actions**. The voter link is then `https://<owner>.github.io/<repository>/demo.html#heatmap`. The connected dashboard at `?view=dashboard` runs without its API there; its mutations require the local service.
+`.github/workflows/pages.yml` runs the tests and `build:demo` on every push to `main` and publishes `dist/` to GitHub Pages. Enable it once in the repository: **Settings → Pages → Source: GitHub Actions**. The voter link is then `https://<owner>.github.io/<repository>/demo.html#heatmap`. The dashboard at `?view=dashboard` uses browser-local records on Pages; changes are not shared with other devices.
 
 During `npm run dev`, the iframe has no app build. Run `npm run web` in `mobile/` and start the dashboard with `VITE_PITO_APP_URL=http://localhost:8081 npm run dev`.
 
@@ -67,6 +67,6 @@ Two additional clickable hazard symbols sit between the Linnankatu and Aurakatu 
 
 ## Dashboard and heatmap tabs
 
-The GitHub Pages site opens **Heatmap** by default. A single navigation row contains Heatmap, Simulation, Pito app, If operations and **If dashboard** (`./?view=dashboard`). The site root redirects to `demo.html#heatmap`; explicit visualisation hashes remain supported. The heatmap opens with a timeline, estimated slip risk per 1,000 passes, an optional hidden simulation truth layer, street averages and active gritting outlines. Existing simulation, customer and If operations views remain available within the visualisation page. The root dashboard’s connected maintenance actions still require the local API; Pages hosts static files only.
+All views, including the If dashboard, share the same header and five navigation choices. The GitHub Pages site opens **Heatmap** by default. A single navigation row contains Heatmap, Simulation, Pito app, If operations and **If dashboard** (`./?view=dashboard`). The site root redirects to `demo.html#heatmap`; explicit visualisation hashes remain supported. The heatmap opens with a timeline, estimated slip risk per 1,000 passes, an optional hidden simulation truth layer, street averages and active gritting outlines. Existing simulation, customer and If operations views remain available within the visualisation page. On Pages, dashboard maintenance actions run locally and persist in the current browser. In development, the local API connects the dashboard and phone.
 
 Simulator source is vendored in [data_processing](../data_processing/README.md) from `Elkkuboi/junction_turku`, revision `2bd7a66a6aa8e541abfa7b9cbb8c0497bb2d3118`. Only If materials are retained. The browser uses the existing checked-in export; importing source does not regenerate results. See the data-processing README for the R regeneration command.

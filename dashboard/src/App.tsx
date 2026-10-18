@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import * as Dialog from '@radix-ui/react-dialog';
 import { ArrowRight, TriangleAlert, CheckCheck, X, Plus, Minus, Navigation, Bike } from 'lucide-react';
-import { places, createInitialState, summary, nextStatus, STORAGE_KEY } from './model.mjs';
+import { places, createInitialState, summary, nextStatus, advance, addScenario, STORAGE_KEY } from './model.mjs';
 
 type State=ReturnType<typeof createInitialState>;
 type Place=typeof places[number];
@@ -33,27 +33,40 @@ function NeighborhoodMap({items,state,selected,onSelect,onSend,busy,error}:{item
  </div>{hazardOpen&&<section id="map-hazard" className="map-action" aria-label={hazardOpen==='slippery'?'Slippery surface information':'Pothole information'}><button className="map-action-close" aria-label="Close hazard information" onClick={()=>setHazardOpen(null)}><X size={18}/></button><span className="eyebrow">LINNANKATU · AURAKATU</span><h2>{hazardOpen==='slippery'?'Slippery surface':'Pothole reported'}</h2><p>{hazardOpen==='slippery'?'It’s more slippery here than the weather would predict.':'There’s a pothole here. Take care when cycling.'}</p><small>{hazardOpen==='slippery'?'Simulated weather comparison · synthetic scenario. No live weather or prediction.':'Synthetic hazard report · approximate location. No fall is implied.'}</small></section>}{actionOpen&&<section id="map-action" className="map-action" aria-label="Linnankatu maintenance action"><button className="map-action-close" aria-label="Close action box" onClick={()=>setActionOpen(false)}><X size={18}/></button><span className="eyebrow">LINNANKATU PAVEMENT</span><h2>{needsAction?'Action needed':centralStatus==='assigned'?'Request recorded':'Maintenance completed'}</h2><p>{needsAction?'Send a maintenance partner to grit the icy pavement.':centralStatus==='assigned'?'Gritting assigned to Nordic Care, a fictional maintenance partner.':'Maintenance is recorded. Conditions can change.'}</p>{needsAction&&<button className="button primary full" disabled={busy} onClick={onSend}>{busy?'Sending…':'Send'}<ArrowRight size={18} aria-hidden="true"/></button>}<small>Simulated assignment · no external dispatch</small>{error&&<p role="alert" className="error">{error}</p>}</section>}<div className="map-label"><span className="live-dot"/>Turku · Linnankatu & riverside</div><div className="zoom-controls"><button onClick={()=>setZoom(Math.min(1.7,zoom+.2))} aria-label="Zoom in" disabled={zoom>=1.7}><Plus size={17}/></button><button onClick={()=>setZoom(Math.max(1,zoom-.2))} aria-label="Zoom out" disabled={zoom<=1}><Minus size={17}/></button><button onClick={()=>setZoom(1)} aria-label="Reset map view"><Navigation size={16}/></button></div><div className="map-legend"><span><i className="legend-blue"/>Confirmed falls · count</span><span><TriangleAlert size={13}/>Hazard only</span><span><i className="legend-green"/>Maintenance completed</span></div><span className="map-caption">Schematic map</span></div>
 }
 export default function App(){
- const [state,setState]=useState<State>(readState),[selected,setSelected]=useState('P01'),[modal,setModal]=useState(false),[note,setNote]=useState(''),[partner,setPartner]=useState('Nordic Care · fictional partner'),[error,setError]=useState(''),[busy,setBusy]=useState(false),[connection,setConnection]=useState('Connecting…');
+ const [state,setState]=useState<State>(readState),[selected,setSelected]=useState('P01'),[modal,setModal]=useState(false),[note,setNote]=useState(''),[partner,setPartner]=useState('Nordic Care · fictional partner'),[error,setError]=useState(''),[busy,setBusy]=useState(false);
+ const stateRef=useRef(state);stateRef.current=state;
+ const standalone=import.meta.env.PROD && !import.meta.env.VITE_API_URL;
  async function request(path='/state',body?:object){
-  const response=await fetch('/api'+path,body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}:undefined);
+  if(standalone){
+   const input=body as {placeId:string,status:string,note:string,partner:string}|undefined;
+   let current=stateRef.current;
+   if(path==='/reset')current=createInitialState();
+   else if(path==='/scenario')current=addScenario(current);
+   else if(path==='/actions'&&input){
+    if(nextStatus[current.actions[input.placeId]?.status as keyof typeof nextStatus]!==input.status)throw Error('The status changed. Close this dialog and try again.');
+    current=advance(current,input.placeId,input.note,input.partner);
+   }
+   stateRef.current=current;return current;
+  }
+  const response=await fetch((import.meta.env.VITE_API_URL || '/api')+path,body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}:undefined);
+  if(!response.headers.get('content-type')?.includes('application/json'))throw Error('The dashboard service is unavailable. Please start the local API.');
   const value=await response.json();if(!response.ok)throw Error(value.error||'Service unavailable');return value.dashboard as State;
  }
- useEffect(()=>{let active=true;const poll=async()=>{try{const next=await request();if(active){setState(next);setConnection('Connected');}}catch{if(active)setConnection('Disconnected · displayed data may be stale');}};poll();const timer=setInterval(poll,2000);return()=>{active=false;clearInterval(timer)}},[]);
+ useEffect(()=>{if(standalone)return;let active=true;const poll=async()=>{try{const next=await request();if(active){setState(next);}}catch{ /* Keep the current state while the local API is unavailable. */ }};poll();const timer=setInterval(poll,2000);return()=>{active=false;clearInterval(timer)}},[]);
  useEffect(()=>{try{localStorage.setItem(STORAGE_KEY,JSON.stringify(state))}catch{}},[state]);
  const place=places.find(p=>p.id===selected)!,detail=summary(state,selected),action=state.actions[selected];
  const next=nextStatus[action.status as keyof typeof nextStatus];
- async function mutate(path:string,body:object){setBusy(true);setError('');try{setState(await request(path,body));setConnection('Connected');return true;}catch(e){setError(e instanceof Error?e.message:'Could not save. Please retry.');return false;}finally{setBusy(false)}}
+ async function mutate(path:string,body:object){setBusy(true);setError('');try{setState(await request(path,body));return true;}catch(e){setError(e instanceof Error?e.message:'Could not save. Please retry.');return false;}finally{setBusy(false)}}
  async function sendGritting(){
   if(busy)return;setBusy(true);setError('');
   try{let current=await request();setState(current);
    if(current.actions.P01.status==='new'){current=await request('/actions',{placeId:'P01',status:'reviewed',note:'Hotspot reviewed for pavement gritting.'});setState(current);}
    if(current.actions.P01.status==='reviewed'){current=await request('/actions',{placeId:'P01',status:'assigned',note:'Request to grit the icy pavement recorded from the map.',partner:'Nordic Care · fictional partner'});setState(current);}
-   setConnection('Connected');
+
   }catch(e){setError(e instanceof Error?e.message:'Could not send. Please retry.');}finally{setBusy(false)}
  }
  async function saveAction(e:React.FormEvent){e.preventDefault();if(await mutate('/actions',{placeId:selected,status:next,note,partner})){setModal(false);setNote('');}}
  return <div className="simple-app"><a className="skip-link" href="#main">Skip to workspace</a>
- <header className="simple-header"><div className="brand"><img src="brand/if-logo.png" alt="If" width="40" height="40" style={{objectFit: 'contain', flexShrink: 0}}/><span className="brand-divider"/>Pito</div><div className="header-meta"><span>Synthetic data</span><span className={connection==='Connected'?'connected':'connection-warning'} role="status">{connection}</span></div></header>
  <main id="main">
  <div className="focus-layout"><section className="map-panel" aria-label="Reported places map"><NeighborhoodMap items={places} state={state} selected={selected} onSelect={setSelected} onSend={sendGritting} busy={busy} error={error}/></section>
  <aside className="focus-panel" aria-label="Selected hotspot"><div className="detail-header"><span className="eyebrow">SELECTED PLACE</span><Badge status={action.status}/></div><h2>{place.name}</h2><p className="muted">{place.category} · Approximate place</p>
@@ -63,7 +76,7 @@ export default function App(){
  <p className="responsibility-note">If coordinates with the responsible partner. Completed maintenance does not guarantee safety.</p>
  <details className="history" key={selected}><summary>Reports & maintenance history</summary>{detail.reports.map((r: State['reports'][number])=><p key={r.id}><strong>{r.fall?'Confirmed fall':'Hazard only'}</strong> · {r.id}<br/>{r.description}</p>)}{action.history.map((h,i)=><p key={i}><strong>{labels[h.status]} · {h.time}</strong><br/>{h.note}</p>)}</details>
  </aside></div>
- <details className="presenter-controls"><summary>Scenario controls</summary><p>Synthetic shared data. Reset restores the opening scenario on both devices.</p><div><button className="button secondary" disabled={busy||state.scenarioAdded} onClick={async()=>{if(await mutate('/scenario',{}))setSelected('P01')}}>{state.scenarioAdded?'Staged report added':'Add staged report'}</button><button className="button secondary" disabled={busy} onClick={async()=>{if(await mutate('/reset',{}))setSelected('P01')}}>Reset</button></div></details>
+ <details className="presenter-controls"><summary>Scenario controls</summary><p>Synthetic records. {standalone?'Changes stay in this browser; Reset restores this browser’s opening scenario.':'Reset restores the opening scenario on both devices.'}</p><div><button className="button secondary" disabled={busy||state.scenarioAdded} onClick={async()=>{if(await mutate('/scenario',{}))setSelected('P01')}}>{state.scenarioAdded?'Staged report added':'Add staged report'}</button><button className="button secondary" disabled={busy} onClick={async()=>{if(await mutate('/reset',{}))setSelected('P01')}}>Reset</button></div></details>
  {error&&!modal&&<p role="alert" className="error">{error}</p>}
  </main>
  <Dialog.Root open={modal} onOpenChange={open=>{if(!busy)setModal(open)}}><Dialog.Portal><Dialog.Overlay className="modal-overlay"/><Dialog.Content className="modal-content"><Dialog.Title>{actionLabels[action.status]}</Dialog.Title><Dialog.Description>{place.name} · Synthetic record. No external notification or work dispatch.</Dialog.Description><form onSubmit={saveAction}>{action.status==='reviewed'&&<label>Responsible partner<select value={partner} onChange={e=>setPartner(e.target.value)} required><option>Nordic Care · fictional partner</option><option>City Works · fictional partner</option></select></label>}<label>{action.status==='completed'?'Verification note':action.status==='assigned'?'Completion note':'Operator note'}<textarea required maxLength={1000} rows={4} value={note} onChange={e=>setNote(e.target.value)} placeholder="Record the evidence and next step…"/></label><p className="responsibility-note">Reports and previous maintenance records are retained.</p>{error&&<p role="alert" className="error">{error}</p>}<button className="button primary full" disabled={busy} type="submit">{busy?'Saving…':actionLabels[action.status]}</button></form><Dialog.Close className="modal-close" disabled={busy} aria-label="Close dialog"><X size={20}/></Dialog.Close></Dialog.Content></Dialog.Portal></Dialog.Root>
