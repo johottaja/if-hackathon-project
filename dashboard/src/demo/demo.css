@@ -99,7 +99,7 @@ h1, h2, p { margin: 0; }
 
 /* Pito app view: the Expo web app in a phone frame, next to the hidden truth */
 .cv-grid { grid-template-columns: auto minmax(0, 1fr); }
-.app-phone { position: relative; height: min(800px, calc(100vh - 250px)); min-height: 540px; aspect-ratio: 9 / 17; margin: 0 auto; border: 9px solid #1d2733; border-radius: 38px; background: #f5f3ef; overflow: hidden; box-shadow: 0 16px 36px rgba(23, 45, 62, .16); }
+.app-phone { position: relative; height: min(800px, calc(100vh - 250px)); min-height: 540px; aspect-ratio: 11.7 / 17; max-width: 100%; margin: 0 auto; border: 9px solid #1d2733; border-radius: 38px; background: #f5f3ef; overflow: hidden; box-shadow: 0 16px 36px rgba(23, 45, 62, .16); }
 .app-phone iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 .app-loading { position: absolute; inset: 0; display: grid; place-items: center; padding: 24px; text-align: center; color: var(--muted); background: #f5f3ef; line-height: 1.5; }
 .truth-card { display: flex; flex-direction: column; gap: 12px; }
