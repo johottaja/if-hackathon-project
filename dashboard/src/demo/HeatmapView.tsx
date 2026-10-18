@@ -16,7 +16,7 @@ export default function HeatmapView({d, t}: {d: SimData; t: number}) {
     <section className="live-card live-map-card">
       <MapCanvas d={d} draw={draw} label={`${layer === 'estimate' ? 'Estimated' : 'Hidden simulated'} slip risk around Eskelinkatu, Turku`}><MapClock d={d} t={t}/></MapCanvas>
     </section>
-    <aside className="live-card live-panel">
+    <aside className="live-card live-panel heatmap-panel">
       <span className="live-eyebrow">Turku · January 2026</span>
       <h1>Slipperiness heatmap</h1>
       <p>Explore the simulator’s 10 metre pavement cells. Play January or move the timeline to see changing conditions and targeted gritting.</p>

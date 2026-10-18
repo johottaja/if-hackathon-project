@@ -208,3 +208,5 @@ h1, h2, p { margin: 0; }
   .live-stats { gap: 8px; }
 }
 @media (prefers-reduced-motion: reduce) { .live-pop { animation-duration: .01s; } }
+
+.heatmap-panel{display:flex;flex-direction:column;gap:18px;line-height:1.65}.heatmap-panel h1{font-size:28px;line-height:1.2;letter-spacing:-.5px}.heatmap-panel h2{font-size:18px}.heatmap-panel select{display:block;width:100%;margin-top:8px;padding:10px;border:1px solid #a8b8c5;border-radius:6px;background:white;color:var(--ink);font:inherit}.heatmap-panel select:focus-visible{outline:3px solid var(--blue);outline-offset:3px}.heatmap-panel ul{padding-left:20px;margin:0}.heatmap-panel li+li{margin-top:8px}
