@@ -22,6 +22,8 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import * as Crypto from "expo-crypto";
 import Svg, { Path, Rect, Circle } from "react-native-svg";
 import { NeighborhoodMap } from "./src/NeighborhoodMap";
+import { LiveRiskMap, LiveNow } from "./src/LiveRiskMap";
+import { useLiveDemo } from "./src/liveDemo";
 import {
   Button,
   Label,
@@ -71,6 +73,7 @@ export default function App() {
 }
 function MobileApp() {
   const insets = useSafeAreaInsets();
+  const live = useLiveDemo();
   const [state, setState] = useState<State>(initialState),
     [ready, setReady] = useState(false),
     [tab, setTab] = useState("Explore"),
@@ -368,8 +371,12 @@ function MobileApp() {
                       />
                     </View>
                     <View>
-                      <Text style={local.area}>Linnankatu</Text>
-                      <Text style={s.small}>Turku</Text>
+                      <Text style={local.area}>
+                        {live ? live.setup.place : "Linnankatu"}
+                      </Text>
+                      <Text style={s.small}>
+                        {live ? live.setup.area : "Turku"}
+                      </Text>
                     </View>
                   </View>
                   <View style={local.segment}>
@@ -410,35 +417,39 @@ function MobileApp() {
                   </View>
                 </View>
               </View>
-              <ScrollView
-                horizontal
-                showsHorizontalScrollIndicator={false}
-                contentContainerStyle={local.filters}
-              >
-                {["All", ...CATEGORIES].map((c) => (
-                  <Pressable
-                    key={c}
-                    accessibilityRole="button"
-                    accessibilityState={{ selected: category === c }}
-                    onPress={() => setCategory(c)}
-                    style={({ pressed }) => [
-                      s.chip,
-                      category === c ? s.chipSelected : null,
-                      { opacity: pressed ? 0.7 : 1 },
-                    ]}
-                  >
-                    <Text
-                      style={[
-                        s.chipText,
-                        category === c ? s.chipTextSelected : null,
+              {live ? null : (
+                <ScrollView
+                  horizontal
+                  showsHorizontalScrollIndicator={false}
+                  contentContainerStyle={local.filters}
+                >
+                  {["All", ...CATEGORIES].map((c) => (
+                    <Pressable
+                      key={c}
+                      accessibilityRole="button"
+                      accessibilityState={{ selected: category === c }}
+                      onPress={() => setCategory(c)}
+                      style={({ pressed }) => [
+                        s.chip,
+                        category === c ? s.chipSelected : null,
+                        { opacity: pressed ? 0.7 : 1 },
                       ]}
                     >
-                      {c === "All" ? "All hazards" : c}
-                    </Text>
-                  </Pressable>
-                ))}
-              </ScrollView>
-              {mapMode ? (
+                      <Text
+                        style={[
+                          s.chipText,
+                          category === c ? s.chipTextSelected : null,
+                        ]}
+                      >
+                        {c === "All" ? "All hazards" : c}
+                      </Text>
+                    </Pressable>
+                  ))}
+                </ScrollView>
+              )}
+              {live ? (
+                <LiveRiskMap live={live} />
+              ) : mapMode ? (
                 <NeighborhoodMap
                   places={filtered}
                   selected={selected}
@@ -448,32 +459,38 @@ function MobileApp() {
                   }}
                 />
               ) : null}
-              <View style={s.content}>
-                <View style={s.between}>
-                  <Text style={s.h2}>Nearby hazards</Text>
-                  <Text style={local.count}>{filtered.length} places</Text>
+              {live ? (
+                <View style={s.content}>
+                  <LiveNow live={live} />
                 </View>
-                <Text style={[s.small, { marginTop: -12 }]}>
-                  {WINDOW} · synthetic reports
-                </Text>
-                {filtered.length === 0 ? (
-                  <Empty
-                    title="No matching reports"
-                    description="Try another hazard type. An absence of reports does not establish safety."
-                  />
-                ) : (
-                  filtered.map((p) => (
-                    <PlaceCard
-                      key={p.id}
-                      place={p}
-                      onPress={() => {
-                        setSelected(p.id);
-                        setDetail(true);
-                      }}
+              ) : (
+                <View style={s.content}>
+                  <View style={s.between}>
+                    <Text style={s.h2}>Nearby hazards</Text>
+                    <Text style={local.count}>{filtered.length} places</Text>
+                  </View>
+                  <Text style={[s.small, { marginTop: -12 }]}>
+                    {WINDOW} · synthetic reports
+                  </Text>
+                  {filtered.length === 0 ? (
+                    <Empty
+                      title="No matching reports"
+                      description="Try another hazard type. An absence of reports does not establish safety."
                     />
-                  ))
-                )}
-              </View>
+                  ) : (
+                    filtered.map((p) => (
+                      <PlaceCard
+                        key={p.id}
+                        place={p}
+                        onPress={() => {
+                          setSelected(p.id);
+                          setDetail(true);
+                        }}
+                      />
+                    ))
+                  )}
+                </View>
+              )}
             </>
           ) : tab === "Updates" ? (
             <View style={s.content}>

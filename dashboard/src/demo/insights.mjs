@@ -1,16 +1,14 @@
-// Customer and If-operator views of the simulated month. Pure functions over simulation.json.
+// Pito app and If-operator views of the simulated month. Pure functions over simulation.json.
 // Time t is in simulated hours from 1 Jan 2026 00:00 Helsinki; January has no DST change.
 import {activeZones, countUpTo} from './timeline.mjs';
 
-export const PERSONA = {name: 'Aino', route: 'eskelinkatu', commutes: [[7, 9], [16, 18]]};
 export const STREETS = {eerikinkatu: 'Eerikinkatu', eskelinkatu: 'Eskelinkatu', humalistonkatu: 'Humalistonkatu', linnankatu: 'Linnankatu'};
 // Slips per 1,000 passes.
 export const RISK_LEVELS = [{max: 2, label: 'Low'}, {max: 5, label: 'Elevated'}, {max: 10, label: 'High'}, {max: Infinity, label: 'Very high'}];
-const WARN_RATIO = 1.5, TIP_RATIO = 0.75, HELP_WINDOW = 12;
+const WARN_RATIO = 1.5;
 
 export const hourOf = (d, t) => Math.max(0, Math.min(d.meta.hours - 1, Math.floor(t)));
 export const riskLevel = v => RISK_LEVELS.find(l => v < l.max).label;
-const isWeekday = h => (3 + Math.floor(h / 24)) % 7 < 5; // 1 Jan 2026 is a Thursday (Monday = 0)
 const median = xs => { const s = [...xs].sort((a, b) => a - b); return s.length ? s[Math.floor(s.length / 2)] : 0; };
 
 export function cellOf(d) {
@@ -57,40 +55,6 @@ const mean = (xs, idx) => idx.reduce((s, i) => s + xs[i], 0) / idx.length;
 export function detectionsWithCells(d) {
   const cell = cellOf(d);
   return d.detections.t.map((t, i) => { const c = cell(d.detections.x[i], d.detections.y[i]); return {t, cell: c, zone: d.cells.zone[c]}; });
-}
-
-// The persona's phone feed: morning warnings with a route tip, "was it slippery?" prompts for
-// detections on her route while she commutes, and "your data helped" when Pito grits that block.
-export function customerFeed(d, persona = PERSONA) {
-  const feed = [], mine = routeCells(d, persona.route);
-  const routes = d.routes.map(r => ({name: r.name, cells: routeCells(d, r.name)}));
-  const days = Math.floor(d.meta.hours / 24);
-  const morning = Array.from({length: days}, (_, day) => {
-    const h = day * 24 + 7, {est} = riskMaps(d, h);
-    return {h, risks: Object.fromEntries(routes.map(r => [r.name, mean(est, r.cells)]))};
-  });
-  const typical = median(morning.map(m => m.risks[persona.route]));
-  for (const {h, risks} of morning) {
-    const ratio = risks[persona.route] / typical;
-    if (ratio < WARN_RATIO) continue;
-    const alt = routes.filter(r => r.name !== persona.route).sort((a, b) => risks[a.name] - risks[b.name])[0];
-    const better = risks[alt.name] <= TIP_RATIO * risks[persona.route];
-    feed.push({id: `w${h}`, t: h, kind: 'warning', street: STREETS[persona.route], ratio,
-      tip: better ? {street: STREETS[alt.name], lower: 1 - risks[alt.name] / risks[persona.route]} : null});
-  }
-  const dets = detectionsWithCells(d), mineSet = new Set(mine), seen = new Set();
-  for (const det of dets) {
-    const h = Math.floor(det.t), hod = h % 24, win = persona.commutes.findIndex(([a, b]) => hod >= a && hod < b);
-    if (win < 0 || !isWeekday(h) || !mineSet.has(det.cell) || seen.has(`${Math.floor(h / 24)}-${win}`)) continue;
-    seen.add(`${Math.floor(h / 24)}-${win}`);
-    feed.push({id: `p${det.t}`, t: det.t, kind: 'prompt', street: STREETS[persona.route], zone: det.zone});
-    const g = d.grit.targeted, k = g.t.findIndex((gt, i) => g.zone[i] === det.zone && gt >= det.t && gt <= det.t + HELP_WINDOW);
-    if (k >= 0) {
-      const signals = dets.filter(x => x.zone === det.zone && x.t >= g.t[k] - 6 && x.t < g.t[k]).length;
-      feed.push({id: `h${det.t}`, t: g.t[k] + 0.02, kind: 'helped', street: STREETS[persona.route], zone: det.zone, at: g.t[k], signals});
-    }
-  }
-  return feed.sort((a, b) => a.t - b.t);
 }
 
 export function zoneStreet(d, zone) {
