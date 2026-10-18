@@ -87,7 +87,7 @@ export default function LiveDemo() {
 
   return <div className="live-app">
     <header className="live-header">
-      <div className="live-brand"><span className="live-brand-word">If</span><span className="live-brand-divider"/>Pito<span className="live-title">Live simulation · January 2026</span></div>
+      <div className="live-brand"><img src="brand/if-logo.png" alt="If" width="40" height="40" style={{objectFit: 'contain', flexShrink: 0}}/><span className="live-brand-divider"/>Pito<span className="live-title">Live simulation · January 2026</span></div>
       <nav className="live-tabs" aria-label="Pito views">
         {VIEWS.map(v => <button key={v.id} aria-pressed={v.id === view} className={v.id === view ? 'active' : ''} onClick={() => choose(v.id)}>
           <v.icon size={16} aria-hidden="true"/><span className="tab-long">{v.label}</span><span className="tab-short">{v.short}</span></button>)}

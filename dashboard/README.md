@@ -14,7 +14,7 @@ Run `npm run build` and `npm test` for validation. React, TypeScript, Vite, Luci
 
 The fixed window is 11–17 October 2026. Counts represent synthetic reports, not unique people, injury probabilities or demonstrated savings. Places are schematic groups rather than geographic coordinates. If coordinates with fictional partners; assigning work sends no external notification. Completion and verification retain report history and do not guarantee safety. New reports can reopen a location.
 
-Weather ingestion, motion processing, actual If-app integration, production authentication and maintenance agreements remain future work. Blue tokens and the plain text If placeholder are provisional brand treatments.
+Weather ingestion, motion processing, actual If-app integration, production authentication and maintenance agreements remain future work. Blue tokens are provisional brand treatments. Headers use the user-supplied If logo stored in `public/brand/if-logo.png`, preserving its aspect ratio.
 
 The Linnankatu count marker also shows an exclamation badge while review or assignment is needed. Clicking it opens **Action needed** on the map. **Send** records review (if needed) and a gritting assignment to the fictional partner through the shared API; it never sends an external dispatch. Errors retain a retry action, and successful assignment changes the popup to **Request recorded**.
 

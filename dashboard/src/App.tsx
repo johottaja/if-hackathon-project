@@ -53,7 +53,7 @@ export default function App(){
  }
  async function saveAction(e:React.FormEvent){e.preventDefault();if(await mutate('/actions',{placeId:selected,status:next,note,partner})){setModal(false);setNote('');}}
  return <div className="simple-app"><a className="skip-link" href="#main">Skip to workspace</a>
- <header className="simple-header"><div className="brand"><span className="brand-word">If</span><span className="brand-divider"/>Pito</div><div className="header-meta"><span>Synthetic data</span><span className={connection==='Connected'?'connected':'connection-warning'} role="status">{connection}</span></div></header>
+ <header className="simple-header"><div className="brand"><img src="brand/if-logo.png" alt="If" width="40" height="40" style={{objectFit: 'contain', flexShrink: 0}}/><span className="brand-divider"/>Pito</div><div className="header-meta"><span>Synthetic data</span><span className={connection==='Connected'?'connected':'connection-warning'} role="status">{connection}</span></div></header>
  <main id="main">
  <div className="focus-layout"><section className="map-panel" aria-label="Reported places map"><NeighborhoodMap items={places} state={state} selected={selected} onSelect={setSelected} onSend={sendGritting} busy={busy} error={error}/></section>
  <aside className="focus-panel" aria-label="Selected hotspot"><div className="detail-header"><span className="eyebrow">SELECTED PLACE</span><Badge status={action.status}/></div><h2>{place.name}</h2><p className="muted">{place.category} · Approximate place</p>
