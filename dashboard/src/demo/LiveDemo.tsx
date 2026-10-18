@@ -4,7 +4,6 @@ import {counters, firedBetween} from './timeline.mjs';
 import {ClockContext, formatWhen} from './map';
 import SimulationView from './SimulationView';
 import HeatmapView from './HeatmapView';
-import SiteNav from '../components/SiteNav';
 import CustomerView from './CustomerView';
 import OperatorView from './OperatorView';
 import type {SimData} from './types';
@@ -82,23 +81,24 @@ export default function LiveDemo() {
   }
   function choose(id: ViewId) { setView(id); window.history.replaceState(null, '', `#${id}`); }
 
-  if (error) return <><SiteNav active="heatmap"/><main className="live-app"><p role="alert" className="live-error">{error}</p></main></>;
-  if (!d || !c) return <><SiteNav active="heatmap"/><main className="live-app"><p className="live-loading">Loading the simulated January…</p></main></>;
+  if (error) return <main className="live-app"><p role="alert" className="live-error">{error}</p></main>;
+  if (!d || !c) return <main className="live-app"><p className="live-loading">Loading the simulated January…</p></main>;
   const current = VIEWS.find(v => v.id === view)!;
 
-  return <><SiteNav active="heatmap"/><div className="live-app">
+  return <div className="live-app">
     <header className="live-header">
       <div className="live-brand"><span className="live-brand-word">If</span><span className="live-brand-divider"/>Pito<span className="live-title">Live simulation · January 2026</span></div>
-      <nav className="live-tabs" role="tablist" aria-label="Demo view">
-        {VIEWS.map(v => <button key={v.id} role="tab" aria-selected={v.id === view} className={v.id === view ? 'active' : ''} onClick={() => choose(v.id)}>
+      <nav className="live-tabs" aria-label="Pito views">
+        {VIEWS.map(v => <button key={v.id} aria-pressed={v.id === view} className={v.id === view ? 'active' : ''} onClick={() => choose(v.id)}>
           <v.icon size={16} aria-hidden="true"/><span className="tab-long">{v.label}</span><span className="tab-short">{v.short}</span></button>)}
+        <a href="./?view=dashboard"><LayoutDashboard size={16} aria-hidden="true"/><span>If dashboard</span></a>
       </nav>
       <span className="live-header-meta">Simulated pedestrians · real Turku weather</span>
     </header>
     <p className="live-intro">{current.intro}</p>
 
     <ClockContext.Provider value={clock}>
-      <main role="tabpanel" aria-label={current.label}>
+      <main aria-label={current.label}>
         {view === 'heatmap' && <HeatmapView d={d} t={t}/>}
         {view === 'simulation' && <SimulationView d={d} t={t} c={c} playing={playing}/>}
         {view === 'customer' && <CustomerView d={d} t={t}/>}
@@ -117,5 +117,5 @@ export default function LiveDemo() {
       <Timeline d={d} t={t} onScrub={next => { setPlaying(false); scrub(next); }}/>
     </footer>
     <p className="live-attribution">Timeline: shaded hours are a thaw around 0 °C, when pavements get most slippery; the line is air temperature ({d.meta.weatherSource}). Map: {d.meta.map.attribution}, retrieved {d.meta.map.retrieved}. All pedestrians, slips, falls, detections, alerts and gritting are simulated.</p>
-  </div></>;
+  </div>;
 }
