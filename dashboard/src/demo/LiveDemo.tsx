@@ -90,7 +90,7 @@ export default function LiveDemo() {
         {VIEWS.map(v => <button key={v.id} role="tab" aria-selected={v.id === view} className={v.id === view ? 'active' : ''} onClick={() => choose(v.id)}>
           <v.icon size={16} aria-hidden="true"/><span className="tab-long">{v.label}</span><span className="tab-short">{v.short}</span></button>)}
       </nav>
-      <span className="live-header-meta">Simulated pedestrians · real Turku weather</span>
+      <span className="live-header-meta">Simulated pedestrians · real Turku weather · <a href="demo/paper_en.pdf" target="_blank" rel="noopener">The maths (PDF)</a></span>
     </header>
     <p className="live-intro">{current.intro}</p>
 
@@ -112,6 +112,6 @@ export default function LiveDemo() {
       </div>
       <Timeline d={d} t={t} onScrub={next => { setPlaying(false); scrub(next); }}/>
     </footer>
-    <p className="live-attribution">Timeline: shaded hours are a thaw around 0 °C, when pavements get most slippery; the line is air temperature ({d.meta.weatherSource}). Map: {d.meta.map.attribution}, retrieved {d.meta.map.retrieved}. All pedestrians, slips, falls, detections, alerts and gritting are simulated.</p>
+    <p className="live-attribution">Timeline: shaded hours are a thaw around 0 °C, when pavements get most slippery; the line is air temperature ({d.meta.weatherSource}). Map: {d.meta.map.attribution}, retrieved {d.meta.map.retrieved}. All pedestrians, slips, falls, detections, alerts and gritting are simulated. Model and proofs: <a href="demo/paper_en.pdf" target="_blank" rel="noopener">paper (EN)</a> · <a href="demo/paperi_fi.pdf" target="_blank" rel="noopener">paperi (FI)</a>.</p>
   </div>;
 }

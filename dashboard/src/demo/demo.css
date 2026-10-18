@@ -61,6 +61,7 @@ h1, h2, p { margin: 0; }
 .live-ticks span { position: absolute; transform: translateX(-2px); white-space: nowrap; }
 .live-ticks span:last-child { transform: translateX(-60%); }
 .live-attribution { font-size: 11px; color: var(--muted); line-height: 1.4; }
+.live-attribution a, .live-header-meta a, .live-about a { color: var(--blue); }
 
 /* Simulation view panel */
 .live-panel { display: flex; flex-direction: column; gap: 16px; }
